@@ -87,7 +87,8 @@ text-align:justify;
 |Camille Auger|[Amir Bidhendi](https://www.researchgate.net/profile/Amir_Bidhendi/experience)|[Francisco Campos](https://www.researchgate.net/profile/Francisco_Campos23)|[Eszter Sas](https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca)|[Charles Rouissan-Léveillée](https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca)|
 |[Adrien Fremont](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/)|[Karuna Kapoor](https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en)|||Gaële Lajeunesse|
 | |[Meha Sharma](https://www.researchgate.net/profile/Meha_Sharma5)|||[Guilherme Silva-Martins](https://www.linkedin.com/in/guilherme-martins-1268202b/)|
-| ||||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
+| |[Julian Henao-Martinez](https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca)|||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
+
 
 </span>
 

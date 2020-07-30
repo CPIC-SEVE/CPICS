@@ -163,12 +163,8 @@ text-align:justify;
 <img style="display:block; padding:15px; width: 30%" src="images/logos/centre_seve.png">
 </center>
 
-<img style="display:inline; float:left; padding-left:15px; width: 30%" src="images/symposium 2019/sponsors/recsus.png">
+<img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.png">
 
-<img src="images/symposium 2019/sponsors/remdus.png"  style="display:inline;  float:left; padding-left:15px; width: 10%">
+<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/sarsted.jpeg">
 
-<img style="display:inline;  float:left; padding-left:15px; width: 30%" src="images/symposium 2019/sponsors/sarsted.jpeg">
-
-<img style="display:inline;  float:left; padding-left:15px; width: 30%" src="images/symposium 2019/sponsors/usherbrooke.png">
-
-<img style="display:inline;  float:left; padding-left:15px; width: 30%" src="images/symposium 2019/sponsors/vwr_2.png">
+<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.png">
