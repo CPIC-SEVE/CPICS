@@ -100,13 +100,13 @@ div.figure p + p {
 #
 
 <figure>
-  <img src="images/whatsup_conferences_fr.png" alt="Trulli" style="width:100%">
+  <img src="images/whats up 2020/whatsup_conferences_fr.png" alt="Trulli" style="width:100%">
   <figcaption>Discussions avec 2 chercheurs invités (international et Québec) !</figcaption>
 </figure>
 
 
 <figure>
-  <img src="images/whatsup_conferences_en.png" alt="Trulli" style="width:100%">
+  <img src="images/whats up 2020/whatsup_conferences_en.png" alt="Trulli" style="width:100%">
   <figcaption>Discussions with 2 guest researchers (international and Quebec) !</figcaption>
 </figure>
 

@@ -59,7 +59,7 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
 
 
 <div style="align:center">
-<img src="images/logoCPICS_dark.png" class="center" width="50%">
+<img src="images/logos/logoCPICS_dark.png" class="center" width="50%">
 
 <span> <p style="font-size: 2em; text-align:center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
 [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442)</p></span>

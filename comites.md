@@ -25,12 +25,12 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
 
 ### 2020-05-09
 
-![](images/comite_2020_new.jpg)
+![](images/comite photos/comite_2020_new.jpg)
 
 ### 2020-01-10
 
-![](images/comite_2020.jpg)
+![](images/comite photos/comite_2020.jpg)
 
 ##  2019
 
-![](images/comite_2019.jpg)
+![](images/comite photos/comite_2019.jpg)

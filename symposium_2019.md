@@ -127,6 +127,10 @@ text-align:justify;
 
 ## Sponsors / Partenaires
 
+<center>
+<img style="display:block; padding:15px; width: 30%" src="images/logos/centre_seve.png">
+</center>
+
 <img style="display:inline; float:left; padding-left:15px; width: 30%" src="images/symposium 2019/sponsors/recsus.png">
 
 <img src="images/symposium 2019/sponsors/remdus.png"  style="display:inline;  float:left; padding-left:15px; width: 10%">
