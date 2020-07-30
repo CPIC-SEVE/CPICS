@@ -1,11 +1,16 @@
 ---
-title: ""
+title: '<span style="display:none">CPICS | CSPIC</span>'
 name: "Home"
 output:
   html_document
 ---
+<head>
+
 <meta charset="utf-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
 
 <style type="text/css">
 

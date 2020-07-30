@@ -1,5 +1,5 @@
 ---
-title: "Upcoming / Bientôt"
+title: '<span style="display:none">Upcoming | Bientôt</span>'
 name: "Events"
 output:
   html_document

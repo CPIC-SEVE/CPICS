@@ -1,5 +1,5 @@
 ---
-title: "Symposium 2019"
+title: '<span style="display:none">Symposium 2019</span>'
 output: html_document
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Committees / Comités"
+title: '<span style="display:none">Committees | Comités</span>'
 name: "Committees"
 output:
   html_document

@@ -1,5 +1,5 @@
 ---
-title: "News / Nouvelles"
+title: '<span style="display:none">News | Nouvelles</span>'
 name: "News"
 output:
   html_document:
