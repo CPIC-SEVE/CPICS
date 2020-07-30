@@ -71,6 +71,8 @@ text-align:justify;
 
 ## 2020
 
+<div class="row">
+
 ### 2020-07-29
 
 <div class="column left">
@@ -96,6 +98,9 @@ text-align:justify;
 | |[Julian Henao-Martinez](https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca)|||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
 </span>
 
+</div>
+<div class="row">
+
 ### 2020-07-07
 
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/107088284_1444690489058560_3679102845073057435_o.png?_nc_cat=107&_nc_sid=730e14&_nc_ohc=BN8UKZEU_goAX_aVfgn&_nc_ht=scontent-yyz1-1.xx&oh=e32da54e09921d1a8217dabba9bd4611&oe=5F491C1E" class="center">
@@ -114,6 +119,8 @@ text-align:justify;
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
+</div>
+<div class="row">
 
 ### 2020-06-16
 
@@ -132,6 +139,9 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
+</div>
+<div class="row">
+
 ### 2020-05-09
 
 <div class="column left">
@@ -148,6 +158,8 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <p>**_Congratulation to you two!_**</p>
 
 </div>
+</div>
+<div class="row">
 
 ### 2020-03-02
 
@@ -157,6 +169,139 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <div class="column right">
 <p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the student category from the FRQNT illustration of DIALOGUE funding. Only four projects were selected for each research sector of the FRQ's</p>
 </div>
-
+</div>
 
 ## 2019
+
+<div class="row">
+
+### 2019-08-29
+
+<div class="column left">
+Quelques souvenirs du **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019**
+
+[Département de biologie - Université de Sherbrooke](https://www.facebook.com/biologie.USherbrooke/?__cft__[0]=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&__tn__=kK-R)
+
+Une soixantaine de participant(e)s et de conférencier(ière)s ont pu partager leurs connaissances, échanger et tisser des liens sur le thème de _« La biotechnologie au service de la sécurité alimentaire »_.
+
+Objectif atteint pour ce premier symposium organisé par les étudiants du CPICS !
+
+Merci encore une fois aux commanditaires de l’événement :
+</div>
+
+<div class="column right">
+
+**Some memories of the Centre SÈVE Annual International Symposium**
+
+[Department of Biology - University of Sherbrooke](https://www.facebook.com/biologie.USherbrooke/?__cft__[0]=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&__tn__=kK-R)
+
+About sixty participants and speakers were able to share their knowledge, discuss and forge links on the theme of _"Biotechnology for food security"_
+
+Objective achieved for this first symposium organized by the students of CPICS!
+
+Thank you once again to the event sponsors:
+
+</div>
+
+<span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
+
+- [Fonds d’appui à l’engagement étudiant (FAEE) de l’UdeS](https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/)
+
+- [Faculté des sciences](https://www.usherbrooke.ca/sciences/)
+
+- [Regroupement des étudiantes et des étudiants de maîtrise, de diplôme et de doctorat de l’UdeS (REMDUS)](http://www.remdus.qc.ca/fr/)
+
+- [Regroupement étudiant des chercheurs et chercheuses en sciences de l’UdeS (RECSUS)](https://www.recsus.org/)
+
+- [VWR](https://www.vwr.com/)
+
+- [Sarstedt](https://www.sarstedt.com/en/home/)
+
+</span>
+
+</div>
+<div class="row">
+
+### 2019-06-11
+
+<div class="column left">
+Les inscriptions, pour la première édition du **Symposium International du Centre SÈVE** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
+
+Les étudiants ont la possibilité de soumettre un résumé afin d’être sélectionnés pour une présentation orale. 
+
+Voici les informations à savoir: 
+
+- La date limite pour soumettre un résumé est le **lundi 22 juillet**.
+
+- Le résumé doit être d’un **maximum de 200 mots**.
+
+- Il devra être envoyé à l’adresse: _cpicseve@gmail.com_, en mettant en cc. _chantal.binda@usherbrooke.ca_ et _mina.zitouni@usherbrooke.ca_.
+
+- La durée prévue par présentation est de *10 minutes*, suivi de 5 minutes de questions.
+
+- Compte tenu de la portée internationale du symposium, l'anglais sera priorisé comme langue de présentation et de soumission des résumés. Cependant le français sera aussi accepté.
+
+- La décision prise par le Comité sera communiquée à chaque auteur au plus tard le lundi 2 août 2019.
+
+Pour vous inscrire, rendez-vous sur le site [web du Centre SÈVE](http://tiny.cc/ugt47y).
+
+Vous y trouverez aussi le planning de la journée et bien plus, alors ne tardez plus. 
+
+Nous avons hâte de vous y voir. 
+
+</div>
+
+<div class="column right">
+Registration for the first edition of the **Centre SÈVE Annual International Symposium** which will take place on **_August 23_**, is now open!
+
+Students have the option of submitting an abstract to be selected for an oral presentation.
+
+Here is the information to know:
+
+- The deadline for submitting an abstract is **Monday July 22**.
+
+- The abstract should be a **maximum of 200 words**.
+
+- It should be sent to the address: _cpicseve@gmail.com_, putting in cc. _chantal.binda@usherbrooke.ca_ and _mina.zitouni@usherbrooke.ca_.
+
+- The expected duration per presentation is **10 minutes*, followed by 5 minutes of questions.
+
+- Given the international scope of the symposium, English will be prioritized as the language of presentation and submission of abstracts. However French will also be accepted.
+
+- The decision taken by the committee will be communicated to each author no later than Monday, August 2, 2019.
+
+To register, go to the [Center SÈVE website](http://tiny.cc/ugt47y). You will also find the schedule for the day and more, so don't delay.
+
+We can't wait to see you there.
+</div>
+
+
+</div>
+
+<div class="row">
+
+### 2019-03-14
+
+
+<div class="column left">
+Après une longue période d’attente, j’ai enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
+
+Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science. 
+
+En attendant je vous laisse avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
+</div>
+
+<div class="column right">
+I finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
+
+Stay tuned for more information not only on the symposium, but also on research topics addressed within Québec and outside. 
+
+In the meantime, I am leaving you with this pretty picture of this year’s committee. 
+
+</div>
+
+<div class="row" style="display:block; margin-left: auto; margin-right: auto">
+
+<img src="images/comite photos/comite_2019.jpg">
+
+<div>
