@@ -80,7 +80,7 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
 <br>
 
   <div class="column left">
-  <a class="twitter-timeline" data-height="800" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-height="600" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
   <div class="column middle">
@@ -97,9 +97,6 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
   
   </div>
 </section>
-
-
-
 
 <section>
 <div class="row" style="padding-left:20%">
