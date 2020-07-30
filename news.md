@@ -91,6 +91,25 @@ text-align:justify;
 
 </span>
 
+### 2020-07-07
+
+<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/107088284_1444690489058560_3679102845073057435_o.png?_nc_cat=107&_nc_sid=730e14&_nc_ohc=BN8UKZEU_goAX_aVfgn&_nc_ht=scontent-yyz1-1.xx&oh=e32da54e09921d1a8217dabba9bd4611&oe=5F491C1E" class="center">
+
+
+<div class="row">
+<div class="column left">
+
+<p>**Fatima Awwad**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
+
+</div>
+
+<div class="column right">
+<p>**Fatima Awwad**, postdoc from _UQTR_, presented us today the potential of microalgae in the Centre SEVE's web conferences. Thank you to all participants.</p>
+</div>
+</div>
+Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
+
+
 ### 2020-06-16
 
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/103541648_1427129867481289_4692115527195935357_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=47_3OQBC7hEAX-TxokW&_nc_ht=scontent-yyz1-1.xx&oh=ad7d2e9b71c76d6dd829a6cdfa1bcadc&oe=5F46C182" class="center">
