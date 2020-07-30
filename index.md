@@ -121,17 +121,6 @@ cpicseve@gmail.com
 </div>
   
   <div class="column midleft">
-  Le **Centre SÈVE** est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le **Centre SÈVE** compte sur un support financier important du *FRQNT* par l'entremise du programme des Regroupements stratégiques. Le **Centre** bénéficie également d'un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d'autres partenaires.
-  
-  La vaste expertise scientifique du Centre SÈVE vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.
-  
-  Le **Centre SÈVE** cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du **Centre** et à la formation d'étudiants de 1er, 2e ou 3e cycle.
-  
-  Le **Centre SÈVE**, via des collaborations interinstitutionnelles et multidisciplinaires, dispose d’infrastructures technologiques performantes. Un des objectifs du **Centre SÈVE** est d'assurer à ses membres des services communs et l'accès au parc instrumental.
-  
-  </div>
-
-  <div class="column midright">
   
   The **Centre SÈVE** is the only inter-institutional research centre in Quebec to bring together researchers in non-forestry plant science. Founded in 2004, the **Centre SÈVE** relies on major funding from the *FRQNT* through its Strategic Clusters Program. The Centre also receives funding from its university partners, as well as the funding agencies support its research activities and other partners.
   
@@ -142,5 +131,18 @@ cpicseve@gmail.com
   <p>One objective of the **Centre SÈVE** is to provide its members with access to, and services from, a common infrastructures platform.</p>
   
   </div>
+  
+  <div class="column midright">
+  Le **Centre SÈVE** est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le **Centre SÈVE** compte sur un support financier important du *FRQNT* par l'entremise du programme des Regroupements stratégiques. Le **Centre** bénéficie également d'un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d'autres partenaires.
+  
+  La vaste expertise scientifique du Centre SÈVE vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.
+  
+  Le **Centre SÈVE** cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du **Centre** et à la formation d'étudiants de 1er, 2e ou 3e cycle.
+  
+  Le **Centre SÈVE**, via des collaborations interinstitutionnelles et multidisciplinaires, dispose d’infrastructures technologiques performantes. Un des objectifs du **Centre SÈVE** est d'assurer à ses membres des services communs et l'accès au parc instrumental.
+  
+  </div>
+
+  
   </div>
 </section>

@@ -75,10 +75,16 @@ text-align:justify;
 
 <div class="column left">
   <p> Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
+  Vous pouvez voir leurs affiches sur notre twitter (link en bas) .
 </div>  
 <div class="column right">
   <p> Congratulation to the Centre SEVE students that are presenting at the Worldwide Plant Biology Summit 2020. </p>
+  You can see their posters in our twitter (link bellow).
 </div>
+
+
+[<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE/status/1288912736412405763)  [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE/status/1288906455446364160)
+
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
@@ -88,8 +94,6 @@ text-align:justify;
 |[Adrien Fremont](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/)|[Karuna Kapoor](https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en)|||Gaële Lajeunesse|
 | |[Meha Sharma](https://www.researchgate.net/profile/Meha_Sharma5)|||[Guilherme Silva-Martins](https://www.linkedin.com/in/guilherme-martins-1268202b/)|
 | |[Julian Henao-Martinez](https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca)|||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
-
-
 </span>
 
 ### 2020-07-07
