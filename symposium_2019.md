@@ -107,7 +107,7 @@ text-align:justify;
 ## Photos
 
 <div class="column left">
-![From left to right: Dr. Peter Moffett (Centre SÈVE's president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Claire Letanneur (CSPIC's 2019 Vice-president), Dr. Alfredo Herrera Estrella (Keynote speaker), Dr. Leenna Tripathi (Keynote speaker), Guilherme Silva-Martins (CSPIC's 2019 President).<br> De la gauche à la droite: Dr. Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-président du CPICS 2019), Dr. Alfredo Herrera Estrella (Conférencier invite), Dr. Leenna Tripathi (Conférencier invitée), Guilherme Silva-Martins (Président du CPICS 2019)](images/symposium_2019_photos5.jpg)
+![From left to right: Dr. Peter Moffett (Centre SÈVE's president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Claire Letanneur (CSPIC's 2019 Vice-president), Dr. Alfredo Herrera Estrella (Keynote speaker), Dr. Leenna Tripathi (Keynote speaker), Guilherme Silva-Martins (CSPIC's 2019 President).<br> De la gauche à la droite: Dr. Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-présidente du CPICS 2019), Dr. Alfredo Herrera Estrella (Conférencier invite), Dr. Leena Tripathi (Conférencier invitée), Guilherme Silva-Martins (Président du CPICS 2019)](images/symposium_2019_photos5.jpg)
 
 ![In front: Ingrid Berenice Sanchez Carrillo (CSPIC's 2019 Networking Vice-president) presenting Dr. Leena Tripathi.<br> Devant: Ingrid Berenice Sanchez Carrillo (Vice-président de Réseautage du CPICS 2019) présentant Dr.Leena Tripathi.](images/symposium_2019_photos4.jpg)
 
@@ -117,11 +117,11 @@ text-align:justify;
 
 <div class="column right">
 
-![From left to right: Peter Moffett (Centre SÈVE's president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Claire Letanneur (CSPIC's 2019 Vice-president), Dominique Michaud (Keynote speaker), Jaswinder Singhi (Keynote speaker), Guilherme Silva-Martins (CSPIC's 2019 President).<br> De la gauche à la droite: Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-président du CPICS 2019), Dominique Michaud (Conférencier invite), Jaswinder Singhi (Conférencier invite), Guilherme Silva-Martins (Président du CPICS 2019)](images/symposium_2019_photos6.jpg)
+![From left to right: Peter Moffett (Centre SÈVE's president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Claire Letanneur (CSPIC's 2019 Vice-president), Dominique Michaud (Keynote speaker), Jaswinder Singhi (Keynote speaker), Guilherme Silva-Martins (CSPIC's 2019 President).<br> De la gauche à la droite: Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-présidente du CPICS 2019), Dominique Michaud (Conférencier invite), Jaswinder Singhi (Conférencier invite), Guilherme Silva-Martins (Président du CPICS 2019)](images/symposium_2019_photos6.jpg)
 
 ![](images/symposium_2019_photos.jpg)
 
-![From left to right: Claire Letanneur (CSPIC's 2019 Vice-president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Mathieu Glanowski (CSPIC's 2019 Communication Vice-president). <br>De gauche a droite: Claire Letanneur (Vice-président du CPICS 2019), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Mathieu Glanowski (Vice-président de Communication du CPICS 2019).](images/symposium_2019_photos2.jpg)
+![From left to right: Claire Letanneur (CSPIC's 2019 Vice-president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Mathieu Glanowski (CSPIC's 2019 Communication Vice-president). <br>De gauche a droite: Claire Letanneur (Vice-président du CPICS 2019), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Mathieu Glanowski (Vice-présidente de Communication du CPICS 2019).](images/symposium_2019_photos2.jpg)
 
 <div>
 
