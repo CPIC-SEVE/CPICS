@@ -81,32 +81,37 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 <form action="https://formspree.io/xpzybqoo" id="contactform" name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 
 <label >
-    Prénom / First Name: </label>  <input type="text" name="first_name" placeholder=""/>
+    Prénom / First Name:* </label>  <input type="text" name="First name" placeholder="" required/>
     
 <label >
-    Nom / Last Name: </label>  <input type="text" name="last_name" placeholder=""/>
+    Nom / Last Name:* </label>  <input type="text" name="Last name" placeholder="" required/>
     
 <label >
-    Affiliation: </label>  <input type="text" name="affiliation" placeholder=""/>
+    Affiliation:* </label>  <input type="text" name="Affiliation" placeholder="" required/>
   
-<label>Your e-mail: </label> <input type="email" name="_replyto" placeholder=""/>
+<label>Your e-mail:* </label> <input type="email" name="Email" placeholder="" required/>
 
 
 <input type="hidden" name="_subject" value="inscription" />
 
-<input type="radio" name="Bachelor" value="Baccalauréat / Bachelor" /> <label > Baccalauréat / Bachelor </label>  
+<label > Vous êtes / You are:* </label>  
 
-<input type="radio" name="Master's" value="Maîtrise / Master's" /> <label > Maîtrise / Master's </label>  
-
-<input type="radio" name="PhD" value="Doctorat / PhD" /> <label > Doctorat / PhD </label>  
-
-<input type="radio" name="Researcher" value="Chercheur / Researcher" /> <label > Chercheur / Researcher </label>  
-
-<input type="radio" name="Other" value="Autre / Other" /> <label > Autre / Other </label>  
-
+<select name="Occupation level" id="Occupation level" required>
+<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>  
+<option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
+<option value="Doctorat / PhD" /> Doctorat / PhD </option>  
+<option value="Chercheur / Researcher" /> Chercheur / Researcher </option>  
+<option value="Autre / Other" /> Autre / Other </option>  
+</select>
 
 <input type="hidden" name="_gotcha" />
-    
+
+<label class="container">En participant au zoom, je consens être l'enregistrement de la conférence et a la possibilité d'y apparaître. <br>
+By participating in the Zoom meeting, I consent to the recording of the conference and to the possibility of appearing in said recording.
+  <input type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+
 <div style="margin-left:auto; margin-right:auto">
 <input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" />
 </div>

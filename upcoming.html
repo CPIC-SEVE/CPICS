@@ -376,17 +376,19 @@ Discussions with 2 guest researchers (international and Quebec) !
 </div>
 <div rows="3">
 <form action="https://formspree.io/xpzybqoo" id="contactform" name="CPICS_whatsup_registration" method="POST" data-netlify="true">
-<p><label > Prénom / First Name: </label> <input type="text" name="first_name" placeholder=""/></p>
-<p><label > Nom / Last Name: </label> <input type="text" name="last_name" placeholder=""/></p>
-<p><label > Affiliation: </label> <input type="text" name="affiliation" placeholder=""/></p>
-<p><label>Your e-mail: </label> <input type="email" name="_replyto" placeholder=""/></p>
+<p><label > Prénom / First Name:* </label> <input type="text" name="First name" placeholder="" required/></p>
+<p><label > Nom / Last Name:* </label> <input type="text" name="Last name" placeholder="" required/></p>
+<p><label > Affiliation:* </label> <input type="text" name="Affiliation" placeholder="" required/></p>
+<p><label>Your e-mail:* </label> <input type="email" name="Email" placeholder="" required/></p>
 <p><input type="hidden" name="_subject" value="inscription" /></p>
-<p><input type="radio" name="Bachelor" value="Baccalauréat / Bachelor" /> <label > Baccalauréat / Bachelor </label></p>
-<p><input type="radio" name="Master's" value="Maîtrise / Master's" /> <label > Maîtrise / Master’s </label></p>
-<p><input type="radio" name="PhD" value="Doctorat / PhD" /> <label > Doctorat / PhD </label></p>
-<p><input type="radio" name="Researcher" value="Chercheur / Researcher" /> <label > Chercheur / Researcher </label></p>
-<p><input type="radio" name="Other" value="Autre / Other" /> <label > Autre / Other </label></p>
+<p><label > Vous êtes / You are:* </label></p>
+<p><select name="Occupation level" id="Occupation level" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option><br />
+<option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option><br />
+<option value="Chercheur / Researcher" /> Chercheur / Researcher </option><br />
+<option value="Autre / Other" /> Autre / Other </option><br />
+</select></p>
 <p><input type="hidden" name="_gotcha" /></p>
+<p><label class="container">En participant au zoom, je consens être l’enregistrement de la conférence et a la possibilité d’y apparaître. <br> By participating in the Zoom meeting, I consent to the recording of the conference and to the possibility of appearing in said recording. <input type="checkbox" checked="checked" required> <span class="checkmark"></span> </label></p>
 <div style="margin-left:auto; margin-right:auto">
 <p><input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" /></p>
 </div>
