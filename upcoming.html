@@ -333,6 +333,16 @@ div.figure p + p {
 
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+function showfield(Occupation_level){
+    if(Occupation_level == 'Autre / Other') {
+        document.getElementById('div1').innerHTML = '<input type="text" name="other" />';
+    }
+    else {
+        document.getElementById('div1').innerHTML='';
+    }   
+}
+</script>
 <div id="section" class="section level1">
 <h1></h1>
 </div>
@@ -366,11 +376,11 @@ Discussions with 2 guest researchers (international and Quebec) !
 <h2>Inscriptions</h2>
 <div class="row">
 <div class="column left">
-<p><strong>What’s up conferences</strong> 25 août 2020 à 13:30</p>
+<p><strong>What’s up conferences</strong> 25 août 2020 à 9h am.</p>
 <p>Avec les chercheure <strong>Dr. Leena Triphati</strong>, du Kenya.</p>
 </div>
 <div class="column right">
-<p><strong>What’s up conferences</strong> August 25<sup>th</sup> at 13:30</p>
+<p><strong>What’s up conferences</strong> August 25<sup>th</sup> at 9h am.</p>
 <p>With the researcher <strong>Dr. Leena Triphati</strong>, from Kenya.</p>
 </div>
 </div>
@@ -386,11 +396,18 @@ Discussions with 2 guest researchers (international and Quebec) !
 <p><input type="email" name="Email" placeholder="" required/> <br> <br></p>
 <p><input type="hidden" name="_subject" value="inscription" /></p>
 <p><label > Vous êtes / You are:* </label></p>
-<p><select name="Occupation level" id="Occupation level" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option><br />
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option><br />
 <option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option><br />
-<option value="Chercheur / Researcher" /> Chercheur / Researcher </option><br />
+<option value="Doctorat / PhD" /> Doctorat / PhD </option><br />
+<option value="Postdoc" /> Postdoc </option><br />
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option><br />
 <option value="Autre / Other" /> Autre / Other </option><br />
-</select> <br> <br> <input type="hidden" name="_gotcha" /></p>
+</select></p>
+<div id="div1">
+
+</div>
+<p><br> <br></p>
+<p><input type="hidden" name="_gotcha" /></p>
 <p><label class="container">En participant au zoom, je consens être l’enregistrement de la conférence et a la possibilité d’y apparaître. <br> By participating in the Zoom meeting, I consent to the recording of the conference and to the possibility of appearing in said recording. <input type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
 <div style="margin-left:auto; margin-right:auto">
 <p><input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" /></p>

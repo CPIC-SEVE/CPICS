@@ -109,7 +109,9 @@ With the researcher **Dr. Leena Triphati**, from Kenya.
 <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>  
 <option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
 <option value="Doctorat / PhD" /> Doctorat / PhD </option>  
-<option value="Chercheur / Researcher" /> Chercheur / Researcher </option>  
+<option value="Doctorat / PhD" /> Doctorat / PhD </option>  
+<option value="Postdoc" /> Postdoc </option>  
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>  
 <option value="Autre / Other" /> Autre / Other </option>  
 </select>
  <br> <br>
