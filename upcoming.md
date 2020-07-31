@@ -78,7 +78,7 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 </div> 
 
 <div rows=3>
-<form action="https://formspree.io/xpzybqoo" id="contactform" name="CPICS_whatsup_registration" method="POST" data-netlify="true">
+<form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 
 <label > Prénom / First Name:* </label>  
     
@@ -92,7 +92,7 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 
 <input type="text" name="Affiliation" placeholder="" required/>
   
-<label>Your e-mail:* </label> 
+<label>Email:* </label> 
 
 <input type="email" name="Email" placeholder="" required/>
 
