@@ -83,21 +83,25 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 <label > Prénom / First Name:* </label>  
     
 <input type="text" name="First name" placeholder="" required/>
+     <br> <br>
     
 <label > Nom / Last Name:* </label> 
 
 <input type="text" name="Last name" placeholder="" required/>
+     <br> <br>
     
 <label > Affiliation:* </label>  
 
 <input type="text" name="Affiliation" placeholder="" required/>
+   <br> <br>
   
 <label>Email:* </label> 
 
 <input type="email" name="Email" placeholder="" required/>
-
+ <br> <br>
 
 <input type="hidden" name="_subject" value="inscription" />
+
 
 <label > Vous êtes / You are:* </label>  
 
@@ -108,7 +112,7 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 <option value="Chercheur / Researcher" /> Chercheur / Researcher </option>  
 <option value="Autre / Other" /> Autre / Other </option>  
 </select>
-
+ <br> <br>
 <input type="hidden" name="_gotcha" />
 
 <label class="container">En participant au zoom, je consens être l'enregistrement de la conférence et a la possibilité d'y apparaître. <br>
@@ -116,6 +120,8 @@ By participating in the Zoom meeting, I consent to the recording of the conferen
   <input type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
+ <br>
+
 
 <div style="margin-left:auto; margin-right:auto">
 <input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" />
