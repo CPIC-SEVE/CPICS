@@ -63,14 +63,14 @@ div.figure p + p {
 <div class="column left">
 **What's up conferences** 25 août 2020 à 13:30
 
-Avec les chercheures **Dr. Leena Triphati**, du Kenya, et **Dr. Annie-Ève Gagnon**, du Centre SÈVE.
+Avec les chercheure **Dr. Leena Triphati**, du Kenya.
 
 </div>
 
 <div class="column right">
 **What's up conferences**  August 25<sup>th</sup> at 13:30
 
-With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Gagnon**, from Centre SÈVE.
+With the researcher **Dr. Leena Triphati**, from Kenya.
 
 
   
