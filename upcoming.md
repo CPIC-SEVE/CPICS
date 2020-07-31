@@ -80,16 +80,21 @@ With the researchers **Dr. Leena Triphati**, from Kenya, and **Dr. Annie-Ève Ga
 <div rows=3>
 <form action="https://formspree.io/xpzybqoo" id="contactform" name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 
-<label >
-    Prénom / First Name:* </label>  <input type="text" name="First name" placeholder="" required/>
+<label > Prénom / First Name:* </label>  
     
-<label >
-    Nom / Last Name:* </label>  <input type="text" name="Last name" placeholder="" required/>
+<input type="text" name="First name" placeholder="" required/>
     
-<label >
-    Affiliation:* </label>  <input type="text" name="Affiliation" placeholder="" required/>
+<label > Nom / Last Name:* </label> 
+
+<input type="text" name="Last name" placeholder="" required/>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/>
   
-<label>Your e-mail:* </label> <input type="email" name="Email" placeholder="" required/>
+<label>Your e-mail:* </label> 
+
+<input type="email" name="Email" placeholder="" required/>
 
 
 <input type="hidden" name="_subject" value="inscription" />

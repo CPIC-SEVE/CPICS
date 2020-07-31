@@ -1,3 +1,5 @@
+/*  Code done with examples from https://www.w3schools.com/ howto CSS forms*/
+
 input[type="text"], input[type="email"], input[type="first_name"], input[type="last_name"], input[type="affiliation"], input[type="submit"], button, textarea { 
   padding: 1em ; 
   border: 1px solid #e5e5e5; 
