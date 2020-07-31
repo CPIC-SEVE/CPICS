@@ -6,58 +6,8 @@ output: html_document
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style type="text/css">
-body {  background-color: rgba(50, 130, 102, 0.3);}
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-* {
-  box-sizing: border-box;
-}
+<link rel="stylesheet" href="./symposium_style.css">
 
-/* Create three unequal columns that floats next to each other */
-.column {
-  float: left;
-
-}
-
-.left, .right{
-  width: 50%;
-}
-
-.left {
-  padding-left: 25px;
-  padding-right: 10px;
-}
-.right {
-padding-right: 25px;
-padding-left: 10px;
-}
-p {
-text-align:justify;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
-@media (max-width: 600px) {
-  section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
-}
-</style>
 
 <div class="row">
 
@@ -160,11 +110,11 @@ text-align:justify;
 ## Sponsors / Partenaires
 
 <center>
-<img style="display:block; padding:15px; width: 30%" src="images/logos/centre_seve.png">
+<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png">
 </center>
 
 <img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.png">
 
-<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/sarsted.jpeg">
+<img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium 2019/sponsors/sarsted.png">
 
 <img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.png">

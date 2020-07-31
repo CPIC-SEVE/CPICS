@@ -9,73 +9,8 @@ output:
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<link rel="stylesheet" href="./column_text_style.css">
 </head>
-
-<style type="text/css">
-
-body {  background-color: rgba(50, 130, 102, 0.3);}
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-* {
-  box-sizing: border-box;
-}
-
-/* Create three unequal columns that floats next to each other */
-
-p {
-font-size: 1.25em;
-text-align: justify;
-}
-.column {
-  float: left;
-  padding: 30px;
-}
-
-.left{
-  width: 20%;
-}
-
-.middle, .right  {
-  width: 40%;
-}
-
-.central {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
- 
-.midleft, .midright {
- float: right;
- width: 40%
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
-@media (max-width: 600px) {
-  section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
-}
-</style>
-
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <section>
