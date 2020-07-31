@@ -74,7 +74,7 @@ function showfield(Occupation_level){
 <div class="column left">
 **What's up conferences** 25 août 2020 à 9h am.
 
-Avec les chercheure **Dr. Leena Triphati**, du Kenya.
+Avec les chercheuse **Dr. Leena Triphati**, du Kenya.
 
 </div>
 
