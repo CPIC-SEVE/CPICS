@@ -92,6 +92,7 @@ function showfield(Occupation_level){
 
 ## Professors / Professeurs
 
+<div class="row">
 <div class="column left">
   <img src="" style="width:84%; border-bottom:5px">
 <br><br>
@@ -104,70 +105,65 @@ function showfield(Occupation_level){
   <img src="" style="padding: 0px; width:84%">
 </div>
 
+</div>
 
 ## Inscriptions {.tabset .tabset-fade .tabset-pills}
 
 ### 25 août 2020 / August 25<sup>th</sup> 2020
 
-<div rows=3>
-<div class="column center">
+<div rows=3 class="row" style="width: 100%; padding-left: 10%">
+
+
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 
 <label > Prénom / First Name:* </label>  
-    
+
 <input type="text" name="First name" placeholder="" required/>
      <br> <br>
-    
+	 
 <label > Nom / Last Name:* </label> 
 
-<input type="text" name="Last name" placeholder="" required/>
-     <br> <br>
+<input type="text" name="Last name" placeholder="" required/><br> <br>
     
 <label > Affiliation:* </label>  
 
-<input type="text" name="Affiliation" placeholder="" required/>
-   <br> <br>
-  
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
 <label>Email:* </label> 
 
-<input type="email" name="Email" placeholder="" required/>
- <br> <br>
+<input type="email" name="Email" placeholder="" required/><br> <br>
 
 <input type="hidden" name="_subject" value="inscription" />
 
-
-<label > Vous êtes / You are:* </label>  
+<label> Vous êtes / You are:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>  
+<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
 <option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
-<option value="Doctorat / PhD" /> Doctorat / PhD </option>  
-<option value="Postdoc" /> Postdoc </option>  
-<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>  
-<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>  
-<option value="Autre / Other" /> Autre / Other </option>  
+<option value="Doctorat / PhD" /> Doctorat / PhD </option>
+<option value="Postdoc" /> Postdoc </option>
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>
+<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>
+<option value="Autre / Other" /> Autre / Other </option>
 </select>
 
 
 <div id="div1"></div>
  <br> <br>
  
- 
 <input type="hidden" name="_gotcha" />
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais. <br>
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br>
 By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
   <input type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
  <br>
 
-
-<div style="margin-left:auto; margin-right:auto">
-<input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" />
+<div class="column right" style="padding-right: 70%; float: right">
+<input type="submit" value="Soumettre / Submit"/>
 </div>
+
 </form>
-
-</div>
 </div>
 

@@ -401,6 +401,7 @@ and
 <h1 class="tabset tabset-fade tabset-pills"></h1>
 <div id="professors-professeurs" class="section level2">
 <h2>Professors / Professeurs</h2>
+<div class="row">
 <div class="column left">
 <p><img src="" style="width:84%; border-bottom:5px"> <br><br> <img src="" style="width:84%"></p>
 </div>
@@ -408,41 +409,34 @@ and
 <p><img src="" style="padding: 0px; width:84%; border-bottom:5px"> <br><br> <img src="" style="padding: 0px; width:84%"></p>
 </div>
 </div>
+</div>
 <div id="inscriptions" class="section level2 tabset tabset-fade tabset-pills">
 <h2 class="tabset tabset-fade tabset-pills">Inscriptions</h2>
 <div id="août-2020-august-25th-2020" class="section level3">
 <h3>25 août 2020 / August 25<sup>th</sup> 2020</h3>
-<div rows="3">
-<div class="column center">
+<div class="row" rows="3" style="width: 100%; padding-left: 10%">
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 <p><label > Prénom / First Name:* </label></p>
 <p><input type="text" name="First name" placeholder="" required/> <br> <br></p>
 <p><label > Nom / Last Name:* </label></p>
-<p><input type="text" name="Last name" placeholder="" required/> <br> <br></p>
+<p><input type="text" name="Last name" placeholder="" required/><br> <br></p>
 <p><label > Affiliation:* </label></p>
-<p><input type="text" name="Affiliation" placeholder="" required/> <br> <br></p>
+<p><input type="text" name="Affiliation" placeholder="" required/><br> <br></p>
 <p><label>Email:* </label></p>
-<p><input type="email" name="Email" placeholder="" required/> <br> <br></p>
+<p><input type="email" name="Email" placeholder="" required/><br> <br></p>
 <p><input type="hidden" name="_subject" value="inscription" /></p>
-<p><label > Vous êtes / You are:* </label></p>
-<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option><br />
-<option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option><br />
-<option value="Postdoc" /> Postdoc </option><br />
-<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option><br />
-<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option><br />
-<option value="Autre / Other" /> Autre / Other </option><br />
-</select></p>
+<p><label> Vous êtes / You are:* </label></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option> <option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option> <option value="Autre / Other" /> Autre / Other </option> </select></p>
 <div id="div1">
 
 </div>
 <p><br> <br></p>
 <p><input type="hidden" name="_gotcha" /></p>
-<p><label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais. <br> By participating in the Zoom meeting, I consent to be recorded during the conference if I appear. <input type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
-<div style="margin-left:auto; margin-right:auto">
-<p><input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" /></p>
+<p><label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br> By participating in the Zoom meeting, I consent to be recorded during the conference if I appear. <input type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
+<div class="column right" style="padding-right: 70%; float: right">
+<p><input type="submit" value="Soumettre / Submit"/></p>
 </div>
 </form>
-</div>
 </div>
 </div>
 </div>
