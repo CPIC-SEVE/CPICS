@@ -11,7 +11,7 @@
 
 
 
-<title>Upcoming | Bientôt</title>
+<title>Whats up? Conferences</title>
 
 <script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -308,7 +308,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">Upcoming | Bientôt</span></h1>
+<h1 class="title toc-ignore"><span style="display:none"><i>Whats up?</i> Conferences</span></h1>
 
 </div>
 
@@ -319,6 +319,11 @@ $(document).ready(function () {
 <p><link rel="stylesheet" href="./form.css"> <link rel="stylesheet" href="./column_text_style.css"></p>
 </head>
 <style>
+.main-container {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 figure {
   padding: 4px;
@@ -334,6 +339,10 @@ div.figure p + p {
   display: table-caption;
 }
 
+.central {
+float: right
+}
+
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <script type="text/javascript">
@@ -346,39 +355,96 @@ function showfield(Occupation_level){
     }   
 }
 </script>
-<div id="section" class="section level1">
-<h1></h1>
+<div class="row">
+<div class="column middle" style="text-align: center">
+<h2>
+<strong><em>What’s up?</em> conferences</strong>
+</h2>
+<h3>
+25 août 2020 à 9h am
+</h3>
+<h5>
+Avec les chercheures:
+</h5>
+<h5>
+<strong>Dr. Leena Triphati</strong> du Kenya
+</h5>
+<h5>
+et
+</h5>
+<h5>
+<strong>Dr. Isabelle Laforest-Lapointe</strong> du Centre SEVE.
+</h5>
 </div>
-<div id="section-1" class="section level1">
-<h1></h1>
+<div class="column right" style="text-align: center;">
+<h2>
+<strong><em>What’s up?</em> conferences</strong>
+</h2>
+<h3>
+August 25<sup>th</sup> 2020 at 9h am
+</h3>
+<h5>
+With the researchers:
+</h5>
+<h5>
+<strong>Dr. Leena Triphati</strong> from Kenya
+</h5>
+<h5>
+and
+</h5>
+<h5>
+<strong>Dr. Isabelle Laforest-Lapointe</strong> from Centre SEVE.
+</h5>
 </div>
-<div id="section-2" class="section level1">
-<h1></h1>
 </div>
-<div id="section-3" class="section level1">
-<h1></h1>
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1 class="tabset tabset-fade tabset-pills"></h1>
+<div id="professors-professeurs" class="section level2">
+<h2>Professors / Professeurs</h2>
+<div class="column left">
+<p><img src="" style="width:84%; border-bottom:5px"> <br><br> <img src="" style="width:84%"></p>
 </div>
-<div id="section-4" class="section level1">
-<h1></h1>
-<div class="column central">
-<figure>
-<img style="display: block; margin-left: auto; margin-right:auto" src="images/whats%20up%202020/whatsup_conferences_fr.png" alt="Trulli" width="70%">
-<figcaption style="font-size: 1.25em">
-Discussions avec 2 chercheurs invités (international et Québec) !
-</figcaption>
-<figcaption style="font-size: 1.25em">
-Pour savoir plus, click <a href="whats_up.html">ici</a>
-</figcaption>
-</figure>
-<figure>
-<img style="display: block; margin-left: auto; margin-right:auto" src="images/whats%20up%202020/whatsup_conferences_en.png" alt="Trulli" width="70%">
-<figcaption style="font-size: 1.25em">
-Discussions with 2 guest researchers (international and Quebec) !
-</figcaption>
-<figcaption style="font-size: 1.25em">
-To know more, click <a href="whats_up.html">here</a>
-</figcaption>
-</figure>
+<div class="column right">
+<p><img src="" style="padding: 0px; width:84%; border-bottom:5px"> <br><br> <img src="" style="padding: 0px; width:84%"></p>
+</div>
+</div>
+<div id="inscriptions" class="section level2 tabset tabset-fade tabset-pills">
+<h2 class="tabset tabset-fade tabset-pills">Inscriptions</h2>
+<div id="août-2020-august-25th-2020" class="section level3">
+<h3>25 août 2020 / August 25<sup>th</sup> 2020</h3>
+<div rows="3">
+<div class="column center">
+<form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
+<p><label > Prénom / First Name:* </label></p>
+<p><input type="text" name="First name" placeholder="" required/> <br> <br></p>
+<p><label > Nom / Last Name:* </label></p>
+<p><input type="text" name="Last name" placeholder="" required/> <br> <br></p>
+<p><label > Affiliation:* </label></p>
+<p><input type="text" name="Affiliation" placeholder="" required/> <br> <br></p>
+<p><label>Email:* </label></p>
+<p><input type="email" name="Email" placeholder="" required/> <br> <br></p>
+<p><input type="hidden" name="_subject" value="inscription" /></p>
+<p><label > Vous êtes / You are:* </label></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option><br />
+<option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option><br />
+<option value="Postdoc" /> Postdoc </option><br />
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option><br />
+<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option><br />
+<option value="Autre / Other" /> Autre / Other </option><br />
+</select></p>
+<div id="div1">
+
+</div>
+<p><br> <br></p>
+<p><input type="hidden" name="_gotcha" /></p>
+<p><label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais. <br> By participating in the Zoom meeting, I consent to be recorded during the conference if I appear. <input type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
+<div style="margin-left:auto; margin-right:auto">
+<p><input type="submit" value="Soumettre" style="display: block; margin-left:auto; margin-right:auto" /></p>
+</div>
+</form>
+</div>
+</div>
+</div>
 </div>
 </div>
 
