@@ -56,17 +56,17 @@ function showfield(Occupation_level){
 
 <div class="column middle" style="text-align: center">
 
-<h2>**_What's up?_ conferences** </h2>
+<h2>**_What's up?_ conférences** </h2>
 
 <h3>25 août 2020 à 9h am</h3>
 
 <h5>Avec les chercheures:</h5>
 
-<h5>**Dr. Leena Triphati** du Kenya</h5>
+<h5>**Dr. Leena Triphati** du IITA, Kenya</h5>
 
 <h5>et</h5>
 
-<h5>**Dr. Isabelle Laforest-Lapointe** du Centre SEVE.</h5>
+<h5>**Dr. Isabelle Laforest-Lapointe** de l'Université de Sherbrooke, Canada.</h5>
 
 </div>
 
@@ -79,33 +79,17 @@ function showfield(Occupation_level){
 
 <h5>With the researchers:</h5>
 
-<h5>**Dr. Leena Triphati** from Kenya</h5>
+<h5>**Dr. Leena Triphati** from IITA, Kenya</h5>
 
 <h5>and </h5>
 
-<h5>**Dr. Isabelle Laforest-Lapointe** from Centre SEVE.</h5>
+<h5>**Dr. Isabelle Laforest-Lapointe** from Université de Sherbrooke, Canada.</h5>
   
  </div> 
 </div> 
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-## Professors / Professeurs
-
-<div class="row">
-<div class="column left">
-  <img src="" style="width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="width:84%">
-</div>
-
-<div class="column right">
-  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="padding: 0px; width:84%">
-</div>
-
-</div>
 
 ## Inscriptions {.tabset .tabset-fade .tabset-pills}
 
@@ -167,3 +151,19 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 </form>
 </div>
 
+## Professors / Professeurs
+
+<div class="row">
+<div class="column left">
+  <img src="" style="width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="width:84%">
+</div>
+
+<div class="column right">
+  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="padding: 0px; width:84%">
+</div>
+
+</div>

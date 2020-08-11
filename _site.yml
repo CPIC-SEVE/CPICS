@@ -9,8 +9,8 @@ navbar:
           href: upcoming.html
         - text: "What's up? Conferences"
           href: whats_up.html
-        - text: "2019"
-          href: symposium_2019.html
+        - text: "Symposia"
+          href: symposia.html
     - text: "Committees / Comités"
       href: comites.html
     - text: "News / Nouvelles"
