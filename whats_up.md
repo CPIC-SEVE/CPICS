@@ -101,12 +101,112 @@ function showfield(Occupation_level){
 
 #  {.tabset .tabset-fade .tabset-pills}
 
+## Professors / Professeurs
+
+<div class="row">
+<div class="column left">
+  <img src="" style="width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="width:84%">
+</div>
+
+<div class="column right">
+  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="padding: 0px; width:84%">
+</div>
+
+</div>
 
 ## Inscriptions {.tabset .tabset-fade .tabset-pills}
+
+<div class="row">
+<div class="column left" style="text-align: justify">
+&nbsp;
+</div>
+
+<div class="column middle" style="text-align: justify">
+
+**Comment la science a vécu et s’est adaptée à la pandémie?** 
+
+Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde? 
+
+Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires? 
+</div>
+
+<div class="column right" style="text-align: justify">
+**How pandemic impacted science?** 
+
+Have canadian researchers faced the same challenge as other researchers around the world? 
+
+How Covid-19 modified research habits? 
+
+</div>
+</div>
+
 
 
 ### 25 août 2020 / August 25<sup>th</sup> 2020
 
+<div class="row">
+
+<div class="column left" style="text-align: center">
+&nbsp;
+</div>
+
+<div class="column middle" style="text-align: justify">
+
+Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion : 
+</div>
+
+<div class="column right" style="text-align: justify">
+The International Partnership Committee of the Centre SÈVE (CPICS) offer you to join to the reflexion with researchers: 
+</div>
+</div>
+
+<div class="column left" style="text-align: center">
+&nbsp;
+</div>
+
+<div class="row">
+
+<div class="column middle" style="display:block; margin-left: auto; margin-right: auto">
+<center> <img src="images/whats up 2020/Leena.png"></center>
+<center> **Dre Leena Tripathi**</center> 
+
+<center> International Institute of Tropical Agriculture, Kenya </center> 
+</div>
+
+<div class="column right" style="display:block; margin-left: auto; margin-right: auto">
+<center> <img src="images/whats up 2020/Isabelle.png"></center>
+<center> **Dre Isabelle Laforest-Lapointe**</center> 
+
+<center> Université de Sherbrooke, Canada</center> 
+</div>
+</div>
+
+<div class="row">
+<div class="column left" style="text-align: center">
+&nbsp;
+</div>
+<div class="column middle" style="text-align: center">
+
+Un lien sera envoyé aux participantes et aux participants par courriel 24 heures à l’avance pour se joindre sur la plateforme Zoom. Pour assister et poser vos propres questions à nos invités, il est nécessaire de s'inscrire ici.
+
+
+Nous nous réjouissons de vous y voir et nous vous souhaitons une belle journée ! 
+
+</div>
+
+<div class="column right" style="text-align: center">
+
+A link will be emailed to participants 24 hours before the event to join the Zoom meeting. To join and having the possibility to ask your own questions, please register here.
+
+
+We look forward to see you there! 
+
+</div>
+</div>
 
 <div rows=3 class="row" style="width: 100%; padding-left: 10%">
 
@@ -162,21 +262,4 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 </div>
 
 </form>
-</div>
-
-## Professors / Professeurs
-
-<div class="row">
-<div class="column left">
-  <img src="" style="width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="width:84%">
-</div>
-
-<div class="column right">
-  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="padding: 0px; width:84%">
-</div>
-
 </div>
