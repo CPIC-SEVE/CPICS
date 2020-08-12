@@ -33,9 +33,43 @@ figcaption {
 div.figure p + p {
   display: table-caption;
 }
+.column {
+  float: left;
+  padding: 30px;
+}
+
+.left{
+  width: 5%;
+  padding: 0px;
+}
+
+.middle, .right  {
+  width: 45%;
+}
 
 .central {
-float: right
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.midleft, .midright {
+  float: right;
+  width: 40%
+}
+
+/* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 </style>
@@ -53,47 +87,26 @@ function showfield(Occupation_level){
 </script>
 
 <div class="row">
+<div class="column left" style="text-align: center">
+&nbsp;
+</div>
 
-<div class="column middle" style="text-align: center">
+<div class="column center" style="text-align: center">
 
-<h2>**_What's up?_ conférences** </h2>
-
-<h3>25 août 2020 à 9h am</h3>
-
-<h5>Avec les chercheures:</h5>
-
-<h5>**Dr. Leena Triphati** du IITA, Kenya</h5>
-
-<!--h5>et</h5>
-
-<h5>**Dr. Isabelle Laforest-Lapointe** de l'Université de Sherbrooke, Canada.</h5>-->
-
-</div> 
-
-
-<div class="column right" style="text-align: center;">
-
-<h2>**_What's up?_ conferences**  </h2>
-
-<h3>August 25<sup>th</sup> 2020 at 9h am</h3>
-
-<h5>With the researchers:</h5>
-
-<h5>**Dr. Leena Triphati** from IITA, Kenya</h5>
-
-<!--<h5>and </h5>
-
-<h5>**Dr. Isabelle Laforest-Lapointe** from Université de Sherbrooke, Canada.</h5>-->
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.png">
   
  </div> 
 </div> 
+
 
 #  {.tabset .tabset-fade .tabset-pills}
 
 
 ## Inscriptions {.tabset .tabset-fade .tabset-pills}
 
+
 ### 25 août 2020 / August 25<sup>th</sup> 2020
+
 
 <div rows=3 class="row" style="width: 100%; padding-left: 10%">
 

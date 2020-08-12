@@ -21,6 +21,7 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
 
 .left{
   width: 20%;
+  padding: 0px;
 }
 
 .middle, .right  {

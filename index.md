@@ -16,24 +16,24 @@ output:
 <section>
 <div class="row">
 <div style="align:center">
-<img style="display: block; margin-left: auto; margin-right:auto" src="images/logos/logo_full.png" class="center" width="50%">
+<img style="display: block; margin-left: auto; margin-right:auto; padding-left: 15%" src="images/logos/logo_full.png" class="center" width="50%">
 
-<span> <p style="font-size: 2em; text-align:center"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
+<span> <p style="padding-left: 20%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
 [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442)</p></span>
 <center>
-<i class="fas fa-envelope" align="center" href="cpicseve@gmail.com" style="padding:2px; font-size:24px"></i>
-cpicseve@gmail.com
+ <i class="fas fa-envelope" align="center" style="padding-left: 20%; display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i> 
+ <p style="padding-left: 20%; display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">cpicseve@gmail.com </p>
 </center>
 </div>    
 
   <div class="column left">
-  <a class="twitter-timeline" data-height="800" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-height="1400" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
   <div class="column middle">
   <p style="font-size: 1.5em; text-align: justify;">*Français*</p>
   
-  Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE (CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2e et 3e cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel.
+  Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE (CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2<sup>e</sup> ou 3<sup>e</sup> cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel.
   
   Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.
   
@@ -49,12 +49,11 @@ cpicseve@gmail.com
   </div>
 
 <div class="central">
- <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="50%"></a>
-  <p style="font-size: 2em; text-align:center"> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/)
+ <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="padding-left: 10%; display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="60%"></a>
+  <p style="padding-left: 25%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; "> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/)
 [<i class="fab fa-facebook"></i>](https://www.facebook.com/centreseve)</p>
-  <i class="fas fa-envelope" align="center" style="display: block;  margin-left: auto;  margin-right: auto; padding:2px; font-size:24px"></i> <p style="display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">info@centreseve.org</p>
+  <i class="fas fa-envelope" align="center" style="padding-left: 25%; display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i> <p style="padding-left: 25%; display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">    info@centreseve.org</p>
 </div>
-  
   <div class="column midleft">
   
   The **Centre SÈVE** is the only inter-institutional research centre in Quebec to bring together researchers in non-forestry plant science. Founded in 2004, the **Centre SÈVE** relies on major funding from the *FRQNT* through its Strategic Clusters Program. The Centre also receives funding from its university partners, as well as the funding agencies support its research activities and other partners.
@@ -68,11 +67,11 @@ cpicseve@gmail.com
   </div>
   
   <div class="column midright">
-  Le **Centre SÈVE** est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le **Centre SÈVE** compte sur un support financier important du *FRQNT* par l'entremise du programme des Regroupements stratégiques. Le **Centre** bénéficie également d'un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d'autres partenaires.
+  Le **Centre SÈVE** est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le **Centre SÈVE** compte sur un support financier important du *FRQNT* par l'entremise du programme des Regroupements Stratégiques. Le **Centre** bénéficie également d'un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d'autres partenaires.
   
-  La vaste expertise scientifique du Centre SÈVE vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.
+  La vaste expertise scientifique du **Centre SÈVE** vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.
   
-  Le **Centre SÈVE** cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du **Centre** et à la formation d'étudiants de 1er, 2e ou 3e cycle.
+  Le **Centre SÈVE** cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du **Centre** et à la formation d'étudiants de 1<sup>er</sup>, 2<sup>e</sup> ou 3<sup>e</sup> cycle.
   
   Le **Centre SÈVE**, via des collaborations interinstitutionnelles et multidisciplinaires, dispose d’infrastructures technologiques performantes. Un des objectifs du **Centre SÈVE** est d'assurer à ses membres des services communs et l'accès au parc instrumental.
   
