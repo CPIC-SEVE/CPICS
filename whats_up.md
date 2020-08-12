@@ -160,7 +160,7 @@ Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à �
 </div>
 
 <div class="column right" style="text-align: justify">
-The International Partnership Committee of the Centre SÈVE (CPICS) offer you to join to the reflexion with researchers: 
+The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: 
 </div>
 </div>
 
