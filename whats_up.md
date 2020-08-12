@@ -101,7 +101,7 @@ function showfield(Occupation_level){
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-## Professors / Professeurs
+<!--## Professors / Professeurs
 
 <div class="row">
 <div class="column left">
@@ -116,7 +116,7 @@ function showfield(Occupation_level){
   <img src="" style="padding: 0px; width:84%">
 </div>
 
-</div>
+</div>-->
 
 ## Inscriptions {.tabset .tabset-fade .tabset-pills}
 
