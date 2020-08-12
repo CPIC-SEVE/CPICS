@@ -56,7 +56,7 @@ function showfield(Occupation_level){
 
 <figure>
   <a href="whats_up.html#inscriptions"><img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="Trulli" width="70%" ></a>
-  <figcaption style="font-size: 1.25em"><center>Discussions avec 2 chercheurs invités (international et Québec) ! / Discussions with 2 guest researchers (international and Quebec) !</center></figcaption>
+  <figcaption style="font-size: 1.25em"><center></center></figcaption>
   
 </figure>
 
