@@ -208,7 +208,7 @@ We look forward to see you there!
 </div>
 </div>
 
-<div rows=3 class="row" style="width: 100%; padding-left: 10%">
+<div rows=2 class="row" style="width: 100%; padding-left: 30%">
 
 
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
