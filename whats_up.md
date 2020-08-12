@@ -64,11 +64,11 @@ function showfield(Occupation_level){
 
 <h5>**Dr. Leena Triphati** du IITA, Kenya</h5>
 
-<h5>et</h5>
+<!--h5>et</h5>
 
-<h5>**Dr. Isabelle Laforest-Lapointe** de l'Université de Sherbrooke, Canada.</h5>
+<h5>**Dr. Isabelle Laforest-Lapointe** de l'Université de Sherbrooke, Canada.</h5>-->
 
-</div>
+</div> 
 
 
 <div class="column right" style="text-align: center;">
@@ -81,9 +81,9 @@ function showfield(Occupation_level){
 
 <h5>**Dr. Leena Triphati** from IITA, Kenya</h5>
 
-<h5>and </h5>
+<!--<h5>and </h5>
 
-<h5>**Dr. Isabelle Laforest-Lapointe** from Université de Sherbrooke, Canada.</h5>
+<h5>**Dr. Isabelle Laforest-Lapointe** from Université de Sherbrooke, Canada.</h5>-->
   
  </div> 
 </div> 
