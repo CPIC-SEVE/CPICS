@@ -78,7 +78,7 @@ div.figure p + p {
 <script type="text/javascript">
 function showfield(Occupation_level){
 	if(Occupation_level == 'Autre / Other') {
-		document.getElementById('div1').innerHTML = '<input type="text" name="other" />';
+		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
 	}
 	else {
 		document.getElementById('div1').innerHTML='';
@@ -208,7 +208,7 @@ We look forward to see you there!
 </div>
 </div>
 
-<div rows=2 class="row" style="width: 100%; padding-left: 30%">
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
@@ -228,7 +228,7 @@ We look forward to see you there!
 
 <label>Email:* </label> 
 
-<input type="email" name="Email" placeholder="" required/><br> <br>
+<input type="text" name="Email" placeholder="" required/><br> <br>
 
 <input type="hidden" name="_subject" value="inscription" />
 

@@ -1,9 +1,9 @@
 /*  Code done with examples from https://www.w3schools.com/ howto CSS forms*/
 
-input[type="text"], input[type="email"], input[type="first_name"], input[type="last_name"], input[type="affiliation"], input[type="submit"], button, textarea { 
-  padding: 1em ; 
+input[type="text"], input[type="submit"], button, textarea, select{ 
+  padding: 0.75em ; 
   border: 1px solid #e5e5e5; 
-  border-radius: 50px; 
+  border-radius: 30px; 
   margin: 0em; 
   font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", 
   "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
@@ -12,18 +12,18 @@ input[type="text"], input[type="email"], input[type="first_name"], input[type="l
 }
 
 label {
-  font-size: 1em;
+  font-size: 0.75em;
 }
 
-input[type="text"], input[type="email"], input[type="first_name"], input[type="last_name"], input[type="affiliation"] {
-  width: 73%;  resize: both; 
-  
+input[type="text"] {
+  width: 100%;  resize: both; 
 }
-textarea { width: 85%;  resize: both; }
 
-input[type="text"]:hover, input[type="email"]:hover, input[type="first_name"]:hover, input[type="last_name"]:hover, input[type="affiliation"]:hover, textarea:hover{border: solid rgba(50, 130, 102, 0.7);}
+textarea { width: 100%;  resize: both; }
 
-input[type="text"]:active, input[type="email"]:active, input[type="first_name"]:active, input[type="last_name"]:active, input[type="affiliation"]:active, textarea:active{border: solid #1ac6ff;}
+input[type="text"]:hover, textarea:hover, select:hover, input[name="Other affiliation"] {border: solid rgba(50, 130, 102, 0.7);}
+
+input[type="text"]:active, textarea:active, select:active {border: solid rgba(50, 130, 102, 1);}
 ph {display: inline;}
     
 input[type=submit]:hover{background-color: rgba(50, 130, 102, 0.7)}
@@ -112,5 +112,5 @@ ol {padding: 0; margin: 0;}
 
 textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="file"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.faux-file:focus{
   outline:none;
-  border:1px solid #007c89;
-  box-shadow:inset 0 0 0 1px #007c89}
+  border:1px solid rgba(50, 130, 102, 1);
+  box-shadow:inset 0 0 0 1px}

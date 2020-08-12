@@ -382,7 +382,7 @@ div.figure p + p {
 <script type="text/javascript">
 function showfield(Occupation_level){
     if(Occupation_level == 'Autre / Other') {
-        document.getElementById('div1').innerHTML = '<input type="text" name="other" />';
+        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
     }
     else {
         document.getElementById('div1').innerHTML='';
@@ -485,7 +485,7 @@ Université de Sherbrooke, Canada
 <p>We look forward to see you there!</p>
 </div>
 </div>
-<div class="row" rows="2" style="width: 100%; padding-left: 30%">
+<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 <p><label > Prénom / First Name:* </label></p>
 <p><input type="text" name="First name" placeholder="" required/> <br> <br></p>
@@ -494,7 +494,7 @@ Université de Sherbrooke, Canada
 <p><label > Affiliation:* </label></p>
 <p><input type="text" name="Affiliation" placeholder="" required/><br> <br></p>
 <p><label>Email:* </label></p>
-<p><input type="email" name="Email" placeholder="" required/><br> <br></p>
+<p><input type="text" name="Email" placeholder="" required/><br> <br></p>
 <p><input type="hidden" name="_subject" value="inscription" /></p>
 <p><label> Vous êtes / You are:* </label></p>
 <p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option> <option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option> <option value="Autre / Other" /> Autre / Other </option> </select></p>

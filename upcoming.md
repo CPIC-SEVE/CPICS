@@ -54,22 +54,19 @@ function showfield(Occupation_level){
 
 #
 
-<div class="column central">
 <figure>
-  <img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_conferences_fr.png" alt="Trulli" width="70%">
-  <figcaption style="font-size: 1.25em">Discussions avec 2 chercheurs invités (international et Québec) !</figcaption>
+  <a href="whats_up.html#inscriptions"><img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="Trulli" width="70%" ></a>
+  <figcaption style="font-size: 1.25em"><center>Discussions avec 2 chercheurs invités (international et Québec) ! / Discussions with 2 guest researchers (international and Quebec) !</center></figcaption>
   
-  <figcaption style="font-size: 1.25em">Pour savoir plus, click [ici](whats_up.html)</figcaption>
 </figure>
 
 
-<figure>
+<!--figure>
   <img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_conferences_en.png" alt="Trulli" width="70%">
   <figcaption style="font-size: 1.25em">Discussions with 2 guest researchers (international and Quebec) !</figcaption>
   
   <figcaption style="font-size: 1.25em">To know more, click [here](whats_up.html)</figcaption>
-</figure>
+</figure>-->
 
-</div>
 
 
