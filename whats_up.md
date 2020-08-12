@@ -171,14 +171,14 @@ The International Partnership Committee of the Centre SÈVE (CPICS) offer you to
 <div class="row">
 
 <div class="column middle" style="display:block; margin-left: auto; margin-right: auto">
-<center> <img src="images/whats up 2020/Leena.png"></center>
+<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png"></a></center>
 <center> **Dre Leena Tripathi**</center> 
 
 <center> International Institute of Tropical Agriculture, Kenya </center> 
 </div>
 
 <div class="column right" style="display:block; margin-left: auto; margin-right: auto">
-<center> <img src="images/whats up 2020/Isabelle.png"></center>
+<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png"></a></center>
 <center> **Dre Isabelle Laforest-Lapointe**</center> 
 
 <center> Université de Sherbrooke, Canada</center> 
