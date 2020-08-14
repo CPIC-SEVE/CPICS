@@ -16,7 +16,7 @@ output:
 <section>
 <div class="row">
 <div style="align:center">
-<img style="display: block; margin-left: auto; margin-right:auto; padding-left: 15%" src="images/logos/logo_full.png" class="center" width="50%">
+<img style="display: block; margin-left: auto; margin-right:auto; padding-left: 15%" src="images/logos/logo_full.png" alt="CPICS logo" class="center" width="50%">
 
 <span> <p style="padding-left: 20%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
 [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442)</p></span>
@@ -49,7 +49,7 @@ output:
   </div>
 
 <div class="central">
- <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="padding-left: 10%; display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="60%"></a>
+ <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="padding-left: 10%; display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="60%" alt="Centre SEVE logo"></a>
   <p style="padding-left: 25%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; "> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/)
 [<i class="fab fa-facebook"></i>](https://www.facebook.com/centreseve)</p>
   <i class="fas fa-envelope" align="center" style="padding-left: 25%; display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i> <p style="padding-left: 25%; display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">    info@centreseve.org</p>

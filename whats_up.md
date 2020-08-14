@@ -93,7 +93,7 @@ function showfield(Occupation_level){
 
 <div class="column center" style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.png">
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada">
   
  </div> 
 </div> 
@@ -171,14 +171,14 @@ The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join
 <div class="row">
 
 <div class="column middle" style="display:block; margin-left: auto; margin-right: auto">
-<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png"></a></center>
+<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
 <center> **Dre Leena Tripathi**</center> 
 
 <center> International Institute of Tropical Agriculture, Kenya </center> 
 </div>
 
 <div class="column right" style="display:block; margin-left: auto; margin-right: auto">
-<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png"></a></center>
+<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
 <center> **Dre Isabelle Laforest-Lapointe**</center> 
 
 <center> Université de Sherbrooke, Canada</center> 

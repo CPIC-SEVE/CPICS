@@ -55,7 +55,7 @@ function showfield(Occupation_level){
 #
 
 <figure>
-  <a href="whats_up.html#inscriptions"><img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="Trulli" width="70%" ></a>
+  <a href="whats_up.html#inscriptions"><img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="70%" ></a>
   <figcaption style="font-size: 1.25em"><center></center></figcaption>
   
 </figure>
