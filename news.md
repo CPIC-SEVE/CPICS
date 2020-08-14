@@ -165,6 +165,31 @@ text-align:justify;
 
 <div class="row">
 
+### 2020-08-14
+
+<div class="column left">
+You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the August 25<sup>th</sup> ? 
+
+Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  
+</div>  
+<div class="column right">
+Vous souhaitez en savoir plus sur notre invitée [Leena_Tripathi](https://twitter.com/Leena_Tripathi) pour le 25 août?
+
+Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
+</div>
+
+<span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="707" height="536.8958" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+</figure>
+<!-- blank line -->
+<br><br>
+<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click)  [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click)  [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
+
+</span>
+
 ### 2020-07-29
 
 <div class="column left">
