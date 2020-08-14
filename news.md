@@ -168,12 +168,12 @@ text-align:justify;
 ### 2020-08-14
 
 <div class="column left">
-You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the August 25<sup>th</sup> ? 
+You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
 
 Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  
 </div>  
 <div class="column right">
-Vous souhaitez en savoir plus sur notre invitée [Leena_Tripathi](https://twitter.com/Leena_Tripathi) pour le 25 août?
+Vous souhaitez en savoir plus sur notre invitée [Leena_Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
 
 Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
 </div>
@@ -189,6 +189,7 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 <span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click)  [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click)  [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
 
 </span>
+<br><br>
 
 ### 2020-07-29
 
@@ -217,6 +218,7 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 
 </div>
 <div class="row">
+<br><br>
 
 ### 2020-07-07
 
@@ -238,6 +240,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 </div>
 <div class="row">
+<br><br>
 
 ### 2020-06-16
 
@@ -258,6 +261,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 </div>
 <div class="row">
+<br><br>
 
 ### 2020-05-09
 
@@ -277,6 +281,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 </div>
 </div>
 <div class="row">
+<br><br>
 
 ### 2020-03-02
 
@@ -287,6 +292,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the student category from the FRQNT illustration of DIALOGUE funding. Only four projects were selected for each research sector of the FRQ's</p>
 </div>
 </div>
+<br><br>
 
 ## 2019
 
@@ -338,6 +344,7 @@ Thank you once again to the event sponsors:
 
 </div>
 <div class="row">
+<br><br>
 
 ### 2019-06-11
 
@@ -396,6 +403,7 @@ We can't wait to see you there.
 </div>
 
 <div class="row">
+<br><br>
 
 ### 2019-03-14
 
