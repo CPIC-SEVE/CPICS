@@ -42,10 +42,31 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 </figure>
 <!-- blank line -->
 <br><br>
-<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click)  [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click)  [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
+<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click) <br> [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) <br>[#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click)<br> [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
 
 </span>
 <br><br>
+</div>
+<div class="row">
+
+### 2020-08-10
+
+<img src="http://centreseve.recherche.usherbrooke.ca/sites/default/files/styles/large/public/field/image/1.png?itok=u6O8hIQI)" class="center" width="60%">
+
+
+<div class="column left">
+Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre! 
+</div>
+
+<div class="column right">
+Centre SÈVE has announced a new series of Web Conferences that starts September 15^th^!
+</div>
+<br><br>
+</div>
+<b><p style="font-size:1.5em; text-align:center; padding-left:0px"> [Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </p></b>
+<br><br>
+
+<div class="row">
 
 ### 2020-07-29
 
