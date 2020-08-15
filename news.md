@@ -51,7 +51,7 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 
 ### 2020-08-10
 
-<img src="http://centreseve.recherche.usherbrooke.ca/sites/default/files/styles/large/public/field/image/1.png?itok=u6O8hIQI)" class="center" width="60%">
+<img src="images/news/conferences_web_cs.png" class="center" width="60%">
 
 
 <div class="column left">
