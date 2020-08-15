@@ -302,8 +302,6 @@ In the meantime, I am leaving you with this pretty picture of this year’s comm
 
 </div>
 
-<div class="row" style="display:block; margin-left: auto; margin-right: auto">
 
-<img src="images/comite photos/comite_2019.jpg">
+<a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
 
-<div>
