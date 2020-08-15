@@ -189,6 +189,8 @@ We would like to thank Rose-Marie Bell, master's student in Plant Biology at the
 _French only_
 </span>
 <br><br>
+</div>
+<div class="row">
 
 ### 2019-08-29
 
@@ -236,6 +238,8 @@ Thank you once again to the event sponsors:
 
 </div>
 <br><br>
+</div>
+<div class="row">
 
 ### 2019-06-11
 
@@ -291,6 +295,8 @@ We can't wait to see you there.
 </div>
 
 <br><br>
+</div>
+<div class="row">
 
 ### 2019-03-14
 
@@ -311,6 +317,8 @@ Stay tuned for more information not only on the symposium, but also on research 
 In the meantime, I am leaving you with this pretty picture of this year’s committee. 
 
 
+</div>
+</div>
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
 
