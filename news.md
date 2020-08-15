@@ -175,6 +175,21 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 <div class="row">
 
+### 2019-09-30
+
+<div class="column left">
+Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l'Université Laval, pour avoir partagé son experience au **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019** dans le journal étudiant [**_L'Agral_**](https://journalagral.wordpress.com/).
+</div>
+<div class="column right">
+We would like to thank Rose-Marie Bell, master's student in Plant Biology at the Université Laval, for sharing her experience at the **Centre SÈVE Annual International Symposium** in the student newspaper [**_L'Agral_**](https://journalagral.wordpress.com/).
+</div>
+
+<span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
+[**_OGM, tabou démystifié : topo sur le symposium international annuel du centre SÈVE_**](https://journalagral.wordpress.com/2019/09/29/ogm-tabou-demystifie-topo-sur-le-symposium-international-annuel-du-centre-seve/)<br>
+_French only_
+</span>
+<br><br>
+
 ### 2019-08-29
 
 <div class="column left">
@@ -220,7 +235,6 @@ Thank you once again to the event sponsors:
 </span>
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2019-06-11
@@ -276,10 +290,6 @@ To register, go to the [Center SÈVE website](http://tiny.cc/ugt47y). You will a
 We can't wait to see you there.
 </div>
 
-
-</div>
-
-<div class="row">
 <br><br>
 
 ### 2019-03-14
@@ -300,7 +310,6 @@ Stay tuned for more information not only on the symposium, but also on research 
 
 In the meantime, I am leaving you with this pretty picture of this year’s committee. 
 
-</div>
 
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
