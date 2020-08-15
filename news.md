@@ -71,6 +71,30 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </div>
 <br><br>
 </div>
+<table class="center">
+<colgroup>
+<col width="10%" />
+<col width="17%" />
+<col width="73%" />
+</colgroup>
+<tbody>
+<tr>
+<td> September 15^th^</td><td>[François Belzile](http://www.ibis.ulaval.ca/en/research/francois-belzile/)</td><td>Aventures dans l’univers des SNP : un premier bilan de SoyaGen, un projet de grande envergure en génomique du soya</td>
+</tr>
+<tr>
+<td>September 22^nd^</td><td>[Charles Roussin-Léveillée]</td><td>The Apoplastic Battleground in Plant-Pathogen Interactions</td>
+</tr><tr>
+<td>September 29^th^</td><td>[Vicky Lévesque](https://www.linkedin.com/in/vickylevesque/)</td><td>L’amendement en biochar: Une approche durable pour améliorer la santé du sol et la croissance de la plante en horticulture</td>
+</tr><tr>
+<td> October 13^th^</td><td>[Hamid Akbarzadeh](https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi)</td><td>Sustainable Bio-inspired Metamaterials</td>
+</tr><tr>
+<td> October 20^th^</td><td>[Valerio Hoyos-Villegas](https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas)</td><td>The McGill Field Phenomics Platform: Increasing Resolution for Complex Trait Improvement</td>
+</tr><tr>
+<td> October 27^th^</td><td>[Tagnon Missihoun](https://www.researchgate.net/profile/Tagnon_Missihoun)</td><td></td>
+</tr>
+</tbody>
+</table>
+<br>
 <b><p style="font-size:1.5em; text-align:center; padding-left:0px"> [Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </p></b>
 <br><br>
 
@@ -93,15 +117,36 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
+<table>
+<colgroup>
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><b>IRBV</b></th><th><b>McGill University</b></th><th><b>Université de Laval</b></th><th><b>Université de Montréal</b></th><th><b>Université de Sherbrooke</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camille Auger</td><td>[Amir Bidhendi]</td><td>[Francisco Campos]</td><td>[Eszter Sas]</td><td>[Charles Roussin-Léveillée]</td>
+</tr>
+<tr class="even">
+<td>[Adrien Fremont]</td><td>[Karuna Kapoor]</td><td></td><td></td><td>Gaële Lajeunesse</td>
+</tr>
+<tr class="odd">
+<td></td><td>[Meha Sharma]</td><td></td><td></td><td>[Guilherme Silva-Martins]</td>
+</tr>
+<tr class="even">
+<td></td><td>[Julian Henao-Martinez]</td><td></td><td></td><td>[Iauhenia Isayenka]</td>
+</tr>
+</tbody>
+</table>
 
-|**IRBV**|**McGill University**|**Université de Laval**|**Université de Montréal**|**Université de Sherbrooke**|
-|:-|:-|:-|:-|:-|
-|Camille Auger|[Amir Bidhendi](https://www.researchgate.net/profile/Amir_Bidhendi/experience)|[Francisco Campos](https://www.researchgate.net/profile/Francisco_Campos23)|[Eszter Sas](https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca)|[Charles Rouissan-Léveillée](https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca)|
-|[Adrien Fremont](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/)|[Karuna Kapoor](https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en)|||Gaële Lajeunesse|
-| |[Meha Sharma](https://www.researchgate.net/profile/Meha_Sharma5)|||[Guilherme Silva-Martins](https://www.linkedin.com/in/guilherme-martins-1268202b/)|
-| |[Julian Henao-Martinez](https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca)|||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
 </span>
-
 </div>
 <br><br>
 
@@ -332,3 +377,13 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
 
+[Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
+[Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
+[Francisco Campos]: https://www.researchgate.net/profile/Francisco_Campos23/
+[Eszter Sas]: https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/
+[Adrien Fremont]: https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/
+[Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
+[Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Guilherme Silva-Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
+[Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
+[Iauhenia Isayenka]: https://www.researchgate.net/profile/Iauhenia_Isayenka/
