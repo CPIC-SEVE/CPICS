@@ -10,7 +10,13 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="./two_columns.css">
-
+<style>
+.main-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
@@ -19,9 +25,10 @@ output:
 
 ## 2020
 
-<div class="row">
 
 ### 2020-08-14
+
+<div class="row">
 
 <div class="column left">
 You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
@@ -47,9 +54,10 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 </span>
 <br><br>
 </div>
-<div class="row">
 
 ### 2020-08-10
+
+<div class="row">
 
 <img src="images/news/conferences_web_cs.png" class="center" width="60%">
 
@@ -66,9 +74,10 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 <b><p style="font-size:1.5em; text-align:center; padding-left:0px"> [Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </p></b>
 <br><br>
 
-<div class="row">
 
 ### 2020-07-29
+
+<div class="row">
 
 <div class="column left">
   <p> Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
@@ -94,10 +103,11 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </span>
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-07-07
+
+<div class="row">
 
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/107088284_1444690489058560_3679102845073057435_o.png?_nc_cat=107&_nc_sid=730e14&_nc_ohc=BN8UKZEU_goAX_aVfgn&_nc_ht=scontent-yyz1-1.xx&oh=e32da54e09921d1a8217dabba9bd4611&oe=5F491C1E" class="center">
 
@@ -116,11 +126,11 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-06-16
 
+<div class="row">
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/103541648_1427129867481289_4692115527195935357_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=47_3OQBC7hEAX-TxokW&_nc_ht=scontent-yyz1-1.xx&oh=ad7d2e9b71c76d6dd829a6cdfa1bcadc&oe=5F46C182" class="center">
 
 <div class="row">
@@ -137,11 +147,11 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-05-09
 
+<div class="row">
 <div class="column left">
 <p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui dû se retirer du comité.</p>
 
@@ -157,11 +167,11 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 </div>
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-03-02
 
+<div class="row">
 <div class="column left">
 <p>Félicitations à **Claire Letanneur**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
@@ -173,10 +183,10 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 ## 2019
 
-<div class="row">
 
 ### 2019-09-30
 
+<div class="row">
 <div class="column left">
 Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l'Université Laval, pour avoir partagé son experience au **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019** dans le journal étudiant [**_L'Agral_**](https://journalagral.wordpress.com/).
 </div>
@@ -190,10 +200,10 @@ _French only_
 </span>
 <br><br>
 </div>
-<div class="row">
 
 ### 2019-08-29
 
+<div class="row">
 <div class="column left">
 Quelques souvenirs du **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019**
 
@@ -236,13 +246,12 @@ Thank you once again to the event sponsors:
 
 </span>
 
-</div>
 <br><br>
 </div>
-<div class="row">
 
 ### 2019-06-11
 
+<div class="row">
 <div class="column left">
 Les inscriptions, pour la première édition du **Symposium International du Centre SÈVE** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
 
@@ -296,25 +305,26 @@ We can't wait to see you there.
 
 <br><br>
 </div>
-<div class="row">
+<br><br>
 
 ### 2019-03-14
 
+<div class="row">
 
 <div class="column left">
-Après une longue période d’attente, j’ai enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
+Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
 
 Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science. 
 
-En attendant je vous laisse avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
+En attendant nous vous laissons avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
 </div>
 
 <div class="column right">
-I finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
+We finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
 
 Stay tuned for more information not only on the symposium, but also on research topics addressed within Québec and outside. 
 
-In the meantime, I am leaving you with this pretty picture of this year’s committee. 
+In the meantime, We are leaving you with this pretty picture of this year’s committee. 
 
 
 </div>
