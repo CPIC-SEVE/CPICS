@@ -79,18 +79,18 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </colgroup>
 <tbody>
 <tr>
-<td> September 15^th^</td><td>[François Belzile](http://www.ibis.ulaval.ca/en/research/francois-belzile/)</td><td>Aventures dans l’univers des SNP : un premier bilan de SoyaGen, un projet de grande envergure en génomique du soya</td>
+<td> September 15^th^</td><td>[François Belzile]</td><td>Aventures dans l’univers des SNP : un premier bilan de SoyaGen, un projet de grande envergure en génomique du soya</td>
 </tr>
 <tr>
 <td>September 22^nd^</td><td>[Charles Roussin-Léveillée]</td><td>The Apoplastic Battleground in Plant-Pathogen Interactions</td>
 </tr><tr>
-<td>September 29^th^</td><td>[Vicky Lévesque](https://www.linkedin.com/in/vickylevesque/)</td><td>L’amendement en biochar: Une approche durable pour améliorer la santé du sol et la croissance de la plante en horticulture</td>
+<td>September 29^th^</td><td>[Vicky Lévesque]</td><td>L’amendement en biochar: Une approche durable pour améliorer la santé du sol et la croissance de la plante en horticulture</td>
 </tr><tr>
-<td> October 13^th^</td><td>[Hamid Akbarzadeh](https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi)</td><td>Sustainable Bio-inspired Metamaterials</td>
+<td> October 13^th^</td><td>[Hamid Akbarzadeh]</td><td>Sustainable Bio-inspired Metamaterials</td>
 </tr><tr>
-<td> October 20^th^</td><td>[Valerio Hoyos-Villegas](https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas)</td><td>The McGill Field Phenomics Platform: Increasing Resolution for Complex Trait Improvement</td>
+<td> October 20^th^</td><td>[Valerio Hoyos-Villegas]</td><td>The McGill Field Phenomics Platform: Increasing Resolution for Complex Trait Improvement</td>
 </tr><tr>
-<td> October 27^th^</td><td>[Tagnon Missihoun](https://www.researchgate.net/profile/Tagnon_Missihoun)</td><td></td>
+<td> October 27^th^</td><td>[Tagnon Missihoun]</td><td></td>
 </tr>
 </tbody>
 </table>
@@ -387,3 +387,8 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Guilherme Silva-Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
 [Iauhenia Isayenka]: https://www.researchgate.net/profile/Iauhenia_Isayenka/
+[François Belzile]: http://www.ibis.ulaval.ca/en/research/francois-belzile/
+[Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
+[Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
+[Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
+[Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_Missihoun
