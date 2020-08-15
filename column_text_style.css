@@ -47,11 +47,6 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
     clear: both;
   }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
   @media (max-width: 600px) {
     section {
