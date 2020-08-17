@@ -24,14 +24,14 @@ output:
 ### 2020-08-17
 
 <div class="column left">
-You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
-
-Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  
-</div>  
-<div class="column right">
 Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?
 
 Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!
+</div>  
+<div class="column right">
+You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
+
+Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  
 </div>
 <br><br>
 <span class="center"> <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="https://pbs.twimg.com/card_img/1294644176571654144/aNlFJCfF?format=jpg&name=small" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a><br>
@@ -44,15 +44,15 @@ Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-
 
 ### 2020-08-14
 
-<div class="column left">
-You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
-
-Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  
-</div>  
 <div class="column right">
 Vous souhaitez en savoir plus sur notre invitée [Leena_Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
 
 Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
+</div>  
+<div class="column left">
+You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
+
+Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  
 </div>
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
@@ -63,7 +63,7 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 </figure>
 <!-- blank line -->
 <br><br>
-<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click) <br> [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) <br>[#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click)<br> [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
+<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
 
 </span>
 <br><br>
@@ -84,12 +84,37 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </div>
 <br><br>
 </div>
+<table class="center">
+<colgroup>
+<col width="10%" />
+<col width="17%" />
+<col width="73%" />
+</colgroup>
+<tbody>
+<tr>
+<td> September 15^th^</td><td>[François Belzile]</td><td>Aventures dans l’univers des SNP : un premier bilan de SoyaGen, un projet de grande envergure en génomique du soya</td>
+</tr>
+<tr>
+<td>September 22^nd^</td><td>[Charles Roussin-Léveillée]</td><td>The Apoplastic Battleground in Plant-Pathogen Interactions</td>
+</tr><tr>
+<td>September 29^th^</td><td>[Vicky Lévesque]</td><td>L’amendement en biochar: Une approche durable pour améliorer la santé du sol et la croissance de la plante en horticulture</td>
+</tr><tr>
+<td> October 13^th^</td><td>[Hamid Akbarzadeh]</td><td>Sustainable Bio-inspired Metamaterials</td>
+</tr><tr>
+<td> October 20^th^</td><td>[Valerio Hoyos-Villegas]</td><td>The McGill Field Phenomics Platform: Increasing Resolution for Complex Trait Improvement</td>
+</tr><tr>
+<td> October 27^th^</td><td>[Tagnon Missihoun]</td><td></td>
+</tr>
+</tbody>
+</table>
+<br>
 <b><p style="font-size:1.5em; text-align:center; padding-left:0px"> [Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </p></b>
 <br><br>
 
-<div class="row">
 
 ### 2020-07-29
+
+<div class="row">
 
 <div class="column left">
   <p> Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
@@ -105,20 +130,42 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
+<table>
+<colgroup>
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><b>IRBV</b></th><th><b>McGill University</b></th><th><b>Université de Laval</b></th><th><b>Université de Montréal</b></th><th><b>Université de Sherbrooke</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camille Auger</td><td>[Amir Bidhendi]</td><td>[Francisco Campos]</td><td>[Eszter Sas]</td><td>[Charles Roussin-Léveillée]</td>
+</tr>
+<tr class="even">
+<td>[Adrien Fremont]</td><td>[Karuna Kapoor]</td><td></td><td></td><td>Gaële Lajeunesse</td>
+</tr>
+<tr class="odd">
+<td></td><td>[Meha Sharma]</td><td></td><td></td><td>[Guilherme Silva-Martins]</td>
+</tr>
+<tr class="even">
+<td></td><td>[Julian Henao-Martinez]</td><td></td><td></td><td>[Iauhenia Isayenka]</td>
+</tr>
+</tbody>
+</table>
 
-|**IRBV**|**McGill University**|**Université de Laval**|**Université de Montréal**|**Université de Sherbrooke**|
-|:-|:-|:-|:-|:-|
-|Camille Auger|[Amir Bidhendi](https://www.researchgate.net/profile/Amir_Bidhendi/experience)|[Francisco Campos](https://www.researchgate.net/profile/Francisco_Campos23)|[Eszter Sas](https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca)|[Charles Rouissan-Léveillée](https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca)|
-|[Adrien Fremont](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/)|[Karuna Kapoor](https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en)|||Gaële Lajeunesse|
-| |[Meha Sharma](https://www.researchgate.net/profile/Meha_Sharma5)|||[Guilherme Silva-Martins](https://www.linkedin.com/in/guilherme-martins-1268202b/)|
-| |[Julian Henao-Martinez](https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca)|||[Iauhenia Isayenka](https://www.researchgate.net/profile/Iauhenia_Isayenka)|
 </span>
-
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-07-07
+
+<div class="row">
 
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/107088284_1444690489058560_3679102845073057435_o.png?_nc_cat=107&_nc_sid=730e14&_nc_ohc=BN8UKZEU_goAX_aVfgn&_nc_ht=scontent-yyz1-1.xx&oh=e32da54e09921d1a8217dabba9bd4611&oe=5F491C1E" class="center">
 
@@ -137,11 +184,11 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-06-16
 
+<div class="row">
 <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/103541648_1427129867481289_4692115527195935357_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=47_3OQBC7hEAX-TxokW&_nc_ht=scontent-yyz1-1.xx&oh=ad7d2e9b71c76d6dd829a6cdfa1bcadc&oe=5F46C182" class="center">
 
 <div class="row">
@@ -158,11 +205,11 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-05-09
 
+<div class="row">
 <div class="column left">
 <p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui dû se retirer du comité.</p>
 
@@ -178,11 +225,11 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 </div>
 </div>
-<div class="row">
 <br><br>
 
 ### 2020-03-02
 
+<div class="row">
 <div class="column left">
 <p>Félicitations à **Claire Letanneur**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
@@ -194,10 +241,27 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 ## 2019
 
+
+### 2019-09-30
+
 <div class="row">
+<div class="column left">
+Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l'Université Laval, pour avoir partagé son experience au **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019** dans le journal étudiant [**_L'Agral_**](https://journalagral.wordpress.com/).
+</div>
+<div class="column right">
+We would like to thank Rose-Marie Bell, master's student in Plant Biology at the Université Laval, for sharing her experience at the **Centre SÈVE Annual International Symposium** in the student newspaper [**_L'Agral_**](https://journalagral.wordpress.com/).
+</div>
+
+<span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
+[**_OGM, tabou démystifié : topo sur le symposium international annuel du centre SÈVE_**](https://journalagral.wordpress.com/2019/09/29/ogm-tabou-demystifie-topo-sur-le-symposium-international-annuel-du-centre-seve/)<br>
+_French only_
+</span>
+<br><br>
+</div>
 
 ### 2019-08-29
 
+<div class="row">
 <div class="column left">
 Quelques souvenirs du **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019**
 
@@ -240,12 +304,12 @@ Thank you once again to the event sponsors:
 
 </span>
 
-</div>
-<div class="row">
 <br><br>
+</div>
 
 ### 2019-06-11
 
+<div class="row">
 <div class="column left">
 Les inscriptions, pour la première édition du **Symposium International du Centre SÈVE** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
 
@@ -297,32 +361,47 @@ To register, go to the [Center SÈVE website](http://tiny.cc/ugt47y). You will a
 We can't wait to see you there.
 </div>
 
-
+<br><br>
 </div>
-
-<div class="row">
 <br><br>
 
 ### 2019-03-14
 
+<div class="row">
 
 <div class="column left">
-Après une longue période d’attente, j’ai enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
+Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
 
 Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science. 
 
-En attendant je vous laisse avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
+En attendant nous vous laissons avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
 </div>
 
 <div class="column right">
-I finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
+We finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
 
 Stay tuned for more information not only on the symposium, but also on research topics addressed within Québec and outside. 
 
-In the meantime, I am leaving you with this pretty picture of this year’s committee. 
+In the meantime, We are leaving you with this pretty picture of this year’s committee. 
+
 
 </div>
-
+</div>
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
 
+[Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
+[Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
+[Francisco Campos]: https://www.researchgate.net/profile/Francisco_Campos23/
+[Eszter Sas]: https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/
+[Adrien Fremont]: https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/
+[Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
+[Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Guilherme Silva-Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
+[Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
+[Iauhenia Isayenka]: https://www.researchgate.net/profile/Iauhenia_Isayenka/
+[François Belzile]: http://www.ibis.ulaval.ca/en/research/francois-belzile/
+[Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
+[Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
+[Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
+[Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
