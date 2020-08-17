@@ -21,6 +21,27 @@ output:
 
 <div class="row">
 
+### 2020-08-17
+
+<div class="column left">
+You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
+
+Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  
+</div>  
+<div class="column right">
+Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?
+
+Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!
+</div>
+<br><br>
+<span class="center"> <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="https://pbs.twimg.com/card_img/1294644176571654144/aNlFJCfF?format=jpg&name=small" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a><br>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
+
+</span>
+<br><br>
+</div>
+<div class="row">
+
 ### 2020-08-14
 
 <div class="column left">
