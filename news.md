@@ -129,14 +129,14 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </div>
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
-<p style=" text-align:center;">[<i class="fab fa-twitter"></i> Karuna Kapoor, Meha Sharma, Lauhenia Isayenka and Camille Auger <i class="fab fa-twitter"></i>][1]</p><br>
+<p style=" text-align:center;">[<i class="fab fa-twitter"></i> Karuna Kapoor <i class="fab fa-twitter"></i>][1]</p><br>
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, and Julian Henao-Martinez <i class="fab fa-twitter"></i>][2]</p><br>
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins <i class="fab fa-twitter"></i>][3]</p>
 
 
-[3]: https://twitter.com/CPICSEVE/status/1288912736412405763 "Twitter post 1"
-[2]: https://twitter.com/CPICSEVE/status/1288906455446364160 "Twitter post 2"
-[1]: https://twitter.com/CPICSEVE/status/1289294256281022465 "Twitter post 3"
+[1]: https://twitter.com/CPICSEVE/status/1289294256281022465  "Tweet with Karuna Kapoor's poster"
+[2]: https://twitter.com/CPICSEVE/status/1288906455446364160 "Tweet with posters from Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, and Julian Henao-Martinez"
+[3]: https://twitter.com/CPICSEVE/status/1288912736412405763 "Tweet with posters from Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins"
 
 
 <table>
