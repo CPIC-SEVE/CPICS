@@ -252,7 +252,7 @@ We look forward to see you there!
 
 <label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br>
 By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
-  <input type="checkbox" checked="checked" required>
+  <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
  <br>
