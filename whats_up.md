@@ -78,7 +78,7 @@ div.figure p + p {
 <script type="text/javascript">
 function showfield(Occupation_level){
 	if(Occupation_level == 'Autre / Other') {
-		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
 	}
 	else {
 		document.getElementById('div1').innerHTML='';
@@ -234,7 +234,7 @@ We look forward to see you there!
 
 <label> Vous êtes / You are:* </label>
 
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<select name="Occupation level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
 <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
 <option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
 <option value="Doctorat / PhD" /> Doctorat / PhD </option>

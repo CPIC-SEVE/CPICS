@@ -13,7 +13,7 @@
 
 <title>Whats up? Conferences</title>
 
-<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -382,7 +382,7 @@ div.figure p + p {
 <script type="text/javascript">
 function showfield(Occupation_level){
     if(Occupation_level == 'Autre / Other') {
-        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
     }
     else {
         document.getElementById('div1').innerHTML='';
@@ -497,7 +497,7 @@ Université de Sherbrooke, Canada
 <p><input type="text" name="Email" placeholder="" required/><br> <br></p>
 <p><input type="hidden" name="_subject" value="inscription" /></p>
 <p><label> Vous êtes / You are:* </label></p>
-<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option> <option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option> <option value="Autre / Other" /> Autre / Other </option> </select></p>
+<p><select name="Occupation level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option> <option value="Maîtrise / Master's" /> Maîtrise / Master’s </option> <option value="Doctorat / PhD" /> Doctorat / PhD </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option> <option value="Autre / Other" /> Autre / Other </option> </select></p>
 <div id="div1">
 
 </div>
