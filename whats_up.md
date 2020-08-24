@@ -1,13 +1,11 @@
 ---
-title: '<span style="display:none"><i>Whats up?</i> Conferences</span>'
+title: '<span style="display:none" class="cpics"></span><span style="display:none"><i> Whats up?</i> Conferences</span>'
 output:
   html_document
 ---
-
 <head>
 
 <meta charset="utf-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./form.css">
 <link rel="stylesheet" href="./column_text_style.css">
@@ -118,7 +116,7 @@ function showfield(Occupation_level){
 
 </div>-->
 
-## Inscriptions {.tabset .tabset-fade .tabset-pills}
+## 25 août 2020<br>August 25<sup>th</sup> 2020 {.tabset .tabset-fade .tabset-pills}
 
 <div class="row">
 <div class="column left" style="text-align: justify">
@@ -132,6 +130,11 @@ function showfield(Occupation_level){
 Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde? 
 
 Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires? 
+
+<br>
+<div>
+Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion : 
+</div>
 </div>
 
 <div class="column right" style="text-align: justify">
@@ -141,49 +144,10 @@ Have canadian researchers faced the same challenge as other researchers around t
 
 How Covid-19 modified research habits? 
 
-</div>
-</div>
-
-
-
-### 25 août 2020 / August 25<sup>th</sup> 2020
-
-<div class="row">
-
-<div class="column left" style="text-align: center">
-&nbsp;
-</div>
-
-<div class="column middle" style="text-align: justify">
-
-Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion : 
-</div>
-
-<div class="column right" style="text-align: justify">
+<div >
+<br>
 The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: 
-</div>
-</div>
-
-<div class="column left" style="text-align: center">
-&nbsp;
-</div>
-
-<div class="row">
-
-<div class="column middle" style="display:block; margin-left: auto; margin-right: auto">
-<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
-<center> **Dre Leena Tripathi**</center> 
-
-<center> International Institute of Tropical Agriculture, Kenya </center> 
-</div>
-
-<div class="column right" style="display:block; margin-left: auto; margin-right: auto">
-<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
-<center> **Dre Isabelle Laforest-Lapointe**</center> 
-
-<center> Université de Sherbrooke, Canada</center> 
-</div>
-</div>
+</div></div></div>
 
 <div class="row">
 <div class="column left" style="text-align: center">
@@ -191,22 +155,53 @@ The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join
 </div>
 <div class="column middle" style="text-align: center">
 
-Un lien sera envoyé aux participantes et aux participants par courriel 24 heures à l’avance pour se joindre sur la plateforme Zoom. Pour assister et poser vos propres questions à nos invités, il est nécessaire de s'inscrire ici.
+<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
+<center> **Dre Leena Tripathi**</center> 
 
+<center> International Institute of Tropical Agriculture, Kenya </center> 
+<br>
+
+Un lien sera envoyé aux participantes et aux participants par courriel 24 heures à l’avance pour se joindre sur la plateforme Zoom. Pour assister et poser vos propres questions à nos invités, il est nécessaire de s'inscrire ici.
+<br><br>
 
 Nous nous réjouissons de vous y voir et nous vous souhaitons une belle journée ! 
-
 </div>
 
 <div class="column right" style="text-align: center">
 
-A link will be emailed to participants 24 hours before the event to join the Zoom meeting. To join and having the possibility to ask your own questions, please register here.
+<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
+<center> **Dre Isabelle Laforest-Lapointe**</center> 
 
+<center> Université de Sherbrooke, Canada</center> 
+<br>
+
+A link will be emailed to participants 24 hours before the event to join the Zoom meeting. To join and having the possibility to ask your own questions, please register here.
+<br><br><br>
 
 We look forward to see you there! 
 
 </div>
 </div>
+
+
+
+
+<div class="row">
+<div class="column left" style="text-align: center">
+&nbsp;
+</div>
+<div class="column middle" style="text-align: center">
+
+
+</div>
+
+<div class="column right" style="text-align: center">
+
+
+</div>
+</div>
+
+### Inscriptions
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -260,6 +255,87 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <div class="column right" style="padding-right: 70%; float: right">
 <input type="submit" value="Soumettre / Submit"/>
 </div>
+
+</form>
+</div>
+
+
+## Enquête post-conférence<br>Post-conference survey
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
+
+<fieldset>
+<legend> Qui etes vous? / Who are you? </legend>
+<label > Nom / Name:* </label> 
+
+<input type="text" name="Name" placeholder="Prénom Nom / First_name Last_name" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="Université / University" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> Vous êtes / You are:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
+<option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
+<option value="Doctorat / PhD" /> Doctorat / PhD </option>
+<option value="Postdoc" /> Postdoc </option>
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>
+<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>
+<option value="Autre / Other" /> Autre / Other </option>
+</select>
+
+
+<div id="div1"></div>
+ <br> <br>
+</fieldset>
+ 
+<input type="hidden" name="_gotcha" />
+
+<fieldset>
+<legend> Sur la Conférence </legend>
+<label> Vous avez vu la conférence en / You watched the conference on:* </label>
+
+<input type="radio" id="facebook" value="facebook" required>
+<label for="facebook" style="width:15%"> Facebook Live </label>
+<input type="radio" id="zoom" value="zoom" required>
+<label for="zoom" style="width:15%"> Zoom </label>
+<input type="radio" id="record" value="record" required>
+<label for="record" style="width:25%"> Enregistrement / Recording </label><br>
+
+ <br>
+
+<label> Avez vous aimez le format / Did you like the format:* </label>
+
+<input type="radio" id="yes" value="Yes" required>
+<label for="yes" style="width:15%"> Oui / Yes </label>
+<input type="radio" id="No" value="No" required>
+<label for="No" style="width:15%"> Non / No </label>
+<input type="radio" id="other" value="other" required>
+<label for="other" style="width:35%"> Pourrait être amélioré / Could be better </label><br>
+
+<label > Suggestions: </label> 
+
+<input type="text" name="Last name" placeholder="" /><br> <br>
+
+<label > Quel sujet aimeriez-vous voir discuté? / What subject would you like to see discussed?</label> 
+
+<input type="text" name="Last name" placeholder="" /><br> <br>
+
+<div class="column right" style="padding-right: 60%; float: right">
+<input type="submit" value="Soumettre / Submit"/>
+</div>
+</fieldset>
 
 </form>
 </div>
