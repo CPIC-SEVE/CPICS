@@ -234,7 +234,7 @@ We look forward to see you there!
 
 <label> Vous êtes / You are:* </label>
 
-<select name="Occupation level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
 <option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
 <option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
 <option value="Doctorat / PhD" /> Doctorat / PhD </option>
