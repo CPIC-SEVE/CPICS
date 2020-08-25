@@ -214,7 +214,7 @@ We look forward to see you there!
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
-<form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
+<form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
 
 <label > Prénom / First Name:* </label>  
 
