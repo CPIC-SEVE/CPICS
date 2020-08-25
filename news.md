@@ -46,7 +46,7 @@ Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-
 <br><br>
 
 <div class="row">
-<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="https://pbs.twimg.com/card_img/1294644176571654144/aNlFJCfF?format=jpg&name=small" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
+<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
 </div>
