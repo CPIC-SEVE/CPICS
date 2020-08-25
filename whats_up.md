@@ -167,10 +167,6 @@ The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join
 <center> International Institute of Tropical Agriculture, Kenya </center> 
 <br>
 
-Un lien sera envoyé aux participantes et aux participants par courriel 24 heures à l’avance pour se joindre sur la plateforme Zoom. Pour assister et poser vos propres questions à nos invités, il est nécessaire de s'inscrire ici.
-<br><br>
-
-Nous nous réjouissons de vous y voir et nous vous souhaitons une belle journée ! 
 </div>
 
 <div class="column right" style="text-align: center">
@@ -180,11 +176,6 @@ Nous nous réjouissons de vous y voir et nous vous souhaitons une belle journée
 
 <center> Université de Sherbrooke, Canada</center> 
 <br>
-
-A link will be emailed to participants 24 hours before the event to join the Zoom meeting. To join and having the possibility to ask your own questions, please register here.
-<br><br><br>
-
-We look forward to see you there! 
 
 </div>
 </div>
@@ -196,12 +187,13 @@ We look forward to see you there!
 <div class="column left" style="text-align: center">
 &nbsp;
 </div>
-<div class="column middle" style="text-align: center">
+<div class="column central" style="text-align: center">
 
-
-</div>
-
-<div class="column right" style="text-align: center">
+<!-- blank line -->
+<figure class="video_container" style="padding-left: 10%">
+<iframe width="707" height="536.8958" src="https://www.youtube.com/watch?v=HUvLSvhd4y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+</figure>
+<!-- blank line -->
 
 
 </div>

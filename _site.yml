@@ -3,18 +3,16 @@ output_dir: "."
 navbar:
   title: "CPICS | CSIPC"  
   left:
-    - text: "Events / Evenements"
-      menu:
-        - text: "Upcoming / Bientôt"
-          href: upcoming.html
-        - text: "What's up? Conferences"
-          href: whats_up.html
-        - text: "Symposia"
-          href: symposia.html
-    - text: "Committees / Comités"
-      href: comites.html
+    - text: "Upcoming / Bientôt"
+      href: upcoming.html
+    - text: "What's up? Conferences"
+      href: whats_up.html
+    - text: "Symposia"
+      href: symposia.html
     - text: "News / Nouvelles"
       href: news.html
+    - text: "Committees / Comités"
+      href: comites.html
   right:
 output:
   html_document
