@@ -315,7 +315,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <label> Vous avez vu la conférence via / You watched the conference on:* </label>
 
 <select name="Platform" id="Platform" required>
-<option value="Facebook Live " /> Facebook Live </option>
+<option value="Facebook Live" /> Facebook Live </option>
 <option value="Zoom" /> Zoom </option>
 <option value="Enregistrement / Recording" /> Enregistrement / Recording </option>
 </select> <br>
@@ -324,8 +324,8 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <select name="Like_format" id="Like_format" required>
 <option value="Yes / Oui" />Oui / Yes</option>
-<option value="Non / No" /> Non / No </option>
-<option value="Pourrait être amélioré / Could be better" /> Pourrait être amélioré / Could be better </option>
+<option value="Non / No" />Non / No</option>
+<option value="Pourrait être amélioré / Could be better" />Pourrait être amélioré / Could be better</option>
 </select> <br>
 
 <label > Suggestions: </label> 
