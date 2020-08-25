@@ -207,6 +207,7 @@ We look forward to see you there!
 </div>
 </div>
 
+<!--
 ### Inscriptions
 
 
@@ -265,7 +266,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 </form>
 </div>
-
+-->
 
 ## Enquête post-conférence<br>Post-conference survey
 
