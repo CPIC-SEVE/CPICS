@@ -289,7 +289,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <input type="text" name="Email" placeholder="" required/><br> <br>
 
-<input type="hidden" name="_subject" value="inscription" />
+<input type="hidden" name="_subject" value="survey_25aug" />
 
 <label> Vous êtes / You are:* </label>
 
