@@ -273,7 +273,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
-<form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
+<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 
 <fieldset>
 <legend> Qui êtes vous? / Who are you? </legend>
