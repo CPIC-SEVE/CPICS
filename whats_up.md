@@ -314,22 +314,22 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <legend> Sur la Conférence </legend>
 <label> Vous avez vu la conférence via / You watched the conference on:* </label>
 
-<input type="radio" id="facebook" value="facebook" required>
+<input type="radio" id="facebook" value="facebook" value="Via_facebook" required>
 <label for="facebook" style="width:15%"> Facebook Live </label>
-<input type="radio" id="zoom" value="zoom" required>
+<input type="radio" id="zoom" value="zoom" value="Via_zoom"required>
 <label for="zoom" style="width:15%"> Zoom </label>
-<input type="radio" id="record" value="record" required>
+<input type="radio" id="record" value="record"  value="Via_recording" required>
 <label for="record" style="width:25%"> Enregistrement / Recording </label><br>
 
  <br>
 
 <label> Avez-vous aimé le format? / Did you like the format?* </label>
 
-<input type="radio" id="yes" value="Yes" required>
+<input type="radio" id="yes" value="Yes" name="Like_format_yes" required>
 <label for="yes" style="width:15%"> Oui / Yes </label>
-<input type="radio" id="No" value="No" required>
+<input type="radio" id="No" value="No" name="Like_format_no" required>
 <label for="No" style="width:15%"> Non / No </label>
-<input type="radio" id="other" value="other" required>
+<input type="radio" id="other" value="other" name="Like_format_other" required>
 <label for="other" style="width:35%"> Pourrait être amélioré / Could be better </label><br>
 
 <label > Suggestions: </label> 
