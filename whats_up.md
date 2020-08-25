@@ -274,7 +274,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="true">
 
 <fieldset>
-<legend> Qui etes vous? / Who are you? </legend>
+<legend> Qui êtes vous? / Who are you? </legend>
 <label > Nom / Name:* </label> 
 
 <input type="text" name="Name" placeholder="Prénom Nom / First_name Last_name" required/><br> <br>
@@ -310,7 +310,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <fieldset>
 <legend> Sur la Conférence </legend>
-<label> Vous avez vu la conférence en / You watched the conference on:* </label>
+<label> Vous avez vu la conférence via / You watched the conference on:* </label>
 
 <input type="radio" id="facebook" value="facebook" required>
 <label for="facebook" style="width:15%"> Facebook Live </label>
@@ -321,7 +321,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
  <br>
 
-<label> Avez vous aimez le format / Did you like the format:* </label>
+<label> Avez-vous aimé le format? / Did you like the format?* </label>
 
 <input type="radio" id="yes" value="Yes" required>
 <label for="yes" style="width:15%"> Oui / Yes </label>
@@ -332,11 +332,11 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <label > Suggestions: </label> 
 
-<input type="text" name="Last name" placeholder="" /><br> <br>
+<input type="text" name="suggestions" placeholder="" /><br> <br>
 
 <label > Quel sujet aimeriez-vous voir discuté? / What subject would you like to see discussed?</label> 
 
-<input type="text" name="Last name" placeholder="" /><br> <br>
+<input type="text" name="new_subjects" placeholder="" /><br> <br>
 
 <div class="column right" style="padding-right: 60%; float: right">
 <input type="submit" value="Soumettre / Submit"/>
