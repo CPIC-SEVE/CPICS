@@ -5,6 +5,12 @@ output:
   html_document
 ---
 <head>
+<style>
+a {
+color: #ffffff
+}
+</style>
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -20,8 +26,8 @@ output:
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <section>
-<div class="row">
-<div style="align:center; background-image: url('images/background_wheat.jpg'); background-repeat: no-repeat; background-size: cover;">
+<div class="row" style="background-image: url('images/background_leaves.jpg'); background-repeat: no-repeat; background-size: cover; height: 1500px; background-position: center; ">
+<div style="align:center">
 <img style="display: block; margin-left: auto; margin-right:auto; padding-left: 15%" src="images/logos/logo_full.png" alt="CPICS logo" class="center" width="50%">
 
 <span> <p style="padding-left: 20%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
@@ -32,11 +38,11 @@ output:
 </center>
 </div>    
 
-  <div class="column left">
+  <div class="column left" style="background-color: #000000">
   <a class="twitter-timeline" data-height="1400" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
-  <div class="column middle">
+  <div class="column middle" style="background-color: #ffffff">
   <p style="font-size: 1.5em; text-align: justify;">*Français*</p>
   
   Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE (CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2<sup>e</sup> ou 3<sup>e</sup> cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel.
@@ -45,12 +51,13 @@ output:
   
   </div>
 
-  <div class="column right">
+  <div class="column right" style="background-color: #ffffff">
   <p style="font-size: 1.5em; text-align: justify;">*English*</p>
   
   Created in 2018, **_Center SÈVE International Partnership Committee (CSIPC)_** is a graduate student committee member of **_Center SÈVE_**. Conducted by ten students from Quebec Universities, **_CSIPC_** increase collaborations between Quebec and international researchers in plant biology field. **_CSIPC_** stimulate Quebec research networking by a better broadcast of knowledge from its community through plant productivity or ecosystem sustainability, all together with a proactive behavior facing the actual global changing.
   
   **_CSIPC_** is an opportunity for involved student to contribute to their scientific community and manage the organization of events that benefit the whole scientific community of Plant biologists from Quebec.
+  <br><br><br><br><br><br>
   
   </div>
 

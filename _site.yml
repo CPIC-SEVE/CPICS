@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "CPICS | CSIPC"  
   left:
-    - text: "Upcoming / Bientôt"
-      href: upcoming.html
+    - text: "About us"
+      href: index.html
     - text: "What's up? Conferences"
       href: whats_up.html
     - text: "Symposia"
