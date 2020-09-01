@@ -21,7 +21,7 @@ output:
 
 <section>
 <div class="row">
-<div style="align:center">
+<div style="align:center; background-image: url('images/background_wheat.jpg'); background-repeat: no-repeat; background-size: cover;">
 <img style="display: block; margin-left: auto; margin-right:auto; padding-left: 15%" src="images/logos/logo_full.png" alt="CPICS logo" class="center" width="50%">
 
 <span> <p style="padding-left: 20%; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/)
