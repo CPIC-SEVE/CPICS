@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title> Whats up? Conferences</title>
+
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CPICS | CSIPC</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="about_us.html">À propos</a>
+</li>
+<li>
+  <a href="whats_up.html">What's up? Conferences</a>
+</li>
+<li>
+  <a href="symposia.html">Symposia</a>
+</li>
+<li>
+  <a href="news.html">Nouvelles</a>
+</li>
+<li>
+  <a href="comites.html">Comités</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="../en/index.html">EN</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><span style="display:none"><i> Whats up?</i> Conferences</span></h1>
+
+</div>
+
+
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<p><link rel="stylesheet" href="./form.css"> <link rel="stylesheet" href="./column_text_style.css"></p>
+</head>
+<style>
+.main-container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+div.figure p + p {
+  display: table-caption;
+}
+.column {
+  float: left;
+  padding: 30px;
+}
+
+.left{
+  width: 5%;
+  padding: 0px;
+}
+
+.middle, .right  {
+  width: 45%;
+}
+
+.central {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.midleft, .midright {
+  float: right;
+  width: 40%
+}
+
+/* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+function showfield(Occupation_level){
+    if(Occupation_level == 'Autre / Other') {
+        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+    }
+    else {
+        document.getElementById('div1').innerHTML='';
+    }   
+}
+</script>
+<div class="row">
+<div style="text-align: center">
+<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></p>
+</div>
+</div>
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1 class="tabset tabset-fade tabset-pills"></h1>
+<!--## Professors / Professeurs
+
+<div class="row">
+<div class="column left">
+  <img src="" style="width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="width:84%">
+</div>
+
+<div class="column right">
+  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
+<br><br>
+  <img src="" style="padding: 0px; width:84%">
+</div>
+
+</div>-->
+<div id="août-2020" class="section level2 tabset tabset-fade tabset-pills">
+<h2 class="tabset tabset-fade tabset-pills">25 août 2020</h2>
+<div class="row" style="text-align: justify">
+<p><strong>Comment la science a vécu et s’est adaptée à la pandémie?</strong></p>
+<p>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</p>
+<p>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</p>
+<div>
+<br> Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :
+</div>
+<div class="col-md-6" style="text-align: center">
+<center>
+<a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a>
+</center>
+<center>
+<strong>Dre Leena Tripathi</strong>
+</center>
+<center>
+International Institute of Tropical Agriculture, Kenya
+</center>
+<p><br></p>
+</div>
+<div class="col-md-6" style="text-align: center">
+<center>
+<a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats%20up%202020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a>
+</center>
+<center>
+<strong>Dre Isabelle Laforest-Lapointe</strong>
+</center>
+<center>
+Université de Sherbrooke, Canada
+</center>
+<p><br></p>
+</div>
+</div>
+<div class="col-md-12" style="text-align: center">
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="953" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;">
+</iframe>
+</figure>
+<!-- blank line -->
+</div>
+<!--
+### Inscriptions
+
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
+
+<label > Prénom / First Name:* </label>  
+
+<input type="text" name="First name" placeholder="" required/>
+     <br> <br>
+     
+<label > Nom / Last Name:* </label> 
+
+<input type="text" name="Last name" placeholder="" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> Vous êtes / You are:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
+<option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
+<option value="Doctorat / PhD" /> Doctorat / PhD </option>
+<option value="Postdoc" /> Postdoc </option>
+<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>
+<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>
+<option value="Autre / Other" /> Autre / Other </option>
+</select>
+
+
+<div id="div1"></div>
+ <br> <br>
+ 
+<input type="hidden" name="_gotcha" />
+
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br>
+By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+<input type="submit" value="Soumettre / Submit"/>
+</div>
+
+</form>
+</div>
+-->
+</div>
+<div id="enquête-post-conférence" class="section level2">
+<h2>Enquête post-conférence</h2>
+<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
+<fieldset>
+<p><legend> Qui êtes vous? </legend> <label >Nom:* </label></p>
+<p><input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br></p>
+<p><label > Affiliation:* </label></p>
+<p><input type="text" name="Affiliation" placeholder="Université" required/><br> <br></p>
+<p><label>Email:* </label></p>
+<p><input type="text" name="Email" placeholder="" required/><br> <br></p>
+<p><input type="hidden" name="_subject" value="survey_25aug" /></p>
+<p><label> Vous êtes / You are:* </label></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat </option> <option value="Maîtrise / Master's" /> Maîtrise </option> <option value="Doctorat / PhD" /> Doctorat </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) </option> <option value="Autre / Other" /> Autre </option> </select></p>
+<div id="div1">
+
+</div>
+<br> <br>
+</fieldset>
+<p><input type="hidden" name="_gotcha" /></p>
+<fieldset>
+<p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label></p>
+<p><select name="Platform" id="Platform" required> <option value="Facebook Live" /> Facebook Live </option> <option value="Zoom" /> Zoom </option> <option value="Enregistrement / Recording" /> Enregistrement </option> </select> <br></p>
+<p><label> Avez-vous aimé le format? * </label></p>
+<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" />Oui</option> <option value="Non / No" />Non</option> <option value="Pourrait être amélioré / Could be better" />Pourrait être amélioré</option> </select> <br></p>
+<p><label > Suggestions: </label></p>
+<p><input type="text" name="suggestions" placeholder="" /><br> <br></p>
+<p><label >Quel sujet aimeriez-vous voir discuté?</label></p>
+<p><input type="text" name="new_subjects" placeholder="" /><br> <br></p>
+<div class="column right" style="padding-right: 60%; float: right">
+<p><input type="submit" value="Soumettre"/></p>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

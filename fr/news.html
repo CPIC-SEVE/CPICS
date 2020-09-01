@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Nouvelles</title>
+
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CPICS | CSIPC</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="about_us.html">À propos</a>
+</li>
+<li>
+  <a href="whats_up.html">What's up? Conferences</a>
+</li>
+<li>
+  <a href="symposia.html">Symposia</a>
+</li>
+<li>
+  <a href="news.html">Nouvelles</a>
+</li>
+<li>
+  <a href="comites.html">Comités</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="../en/index.html">EN</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><span style="display:none">Nouvelles</span></h1>
+
+</div>
+
+
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<p><link rel="stylesheet" href="./column_text_style.css"></p>
+<style>
+.main-container { width: 1000px}
+
+</style>
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+</head>
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1 class="tabset tabset-fade tabset-pills"></h1>
+<div id="section-1" class="section level2">
+<h2>2020</h2>
+<div id="section-2" class="section level3">
+<h3>2020-08-17</h3>
+<div>
+<p>Vous souhaitez en savoir plus sur notre invitée <a href="https://twitter.com/Isabel_Laforest">Isabelle Laforest-Lapointe</a>, de l’<a href="https://twitter.com/USherbrooke">USherbrooke</a> pour le <a href="whats_up.html#inscriptions">25 août</a>?</p>
+<p>Lisez cet <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/">article</a> sur son travail !!</p>
+<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a> <br>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">
+<a href="https://twitter.com/hashtag/whatsupconferences?src=hashtag_click">#whatsupconferences</a> <a href="https://twitter.com/hashtag/plantscience?src=hashtag_click">#plantscience</a> <a href="https://twitter.com/hashtag/SEVE?src=hashtag_click">#SEVE</a> <a href="https://twitter.com/hashtag/CPICS?src=hashtag_click">#CPICS</a>
+</p>
+</div>
+</div>
+<div id="section-3" class="section level3">
+<h3>2020-08-14</h3>
+<div>
+<p>Vous souhaitez en savoir plus sur notre invitée <a href="https://twitter.com/Leena_Tripathi">Leena_Tripathi</a> pour le <a href="whats_up.html#inscriptions">25 août</a>?</p>
+<p>Regardez cette vidéo de <a href="https://twitter.com/IITA_CGIAR">IITA_CGIAR</a> sur son travail !! <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;"></p>
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="707" height="536.8958" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;">
+</iframe>
+</figure>
+<!-- blank line -->
+<br><br> <span>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">
+<a href="https://twitter.com/hashtag/whatsupconferences?src=hashtag_click">#whatsupconferences</a> <a href="https://twitter.com/hashtag/plantscience?src=hashtag_click">#plantscience</a> <a href="https://twitter.com/hashtag/SEVE?src=hashtag_click">#SEVE</a> <a href="https://twitter.com/hashtag/CPICS?src=hashtag_click">#CPICS</a>
+</p>
+<p></span></p>
+<p></span> <br><br></p>
+</div>
+</div>
+<div id="section-4" class="section level3">
+<h3>2020-08-10</h3>
+<p><img src="images/news/conferences_web_cs.png" class="center" width="60%"></p>
+<div>
+<p>Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!</p>
+</div>
+<br><br>
+<table class="center">
+<colgroup>
+<col width="10%" />
+<col width="17%" />
+<col width="73%" />
+</colgroup>
+<tbody>
+<tr>
+<td>
+15 Septembre
+</td>
+<td>
+<a href="http://www.ibis.ulaval.ca/en/research/francois-belzile/">François Belzile</a>
+</td>
+<td>
+Aventures dans l’univers des SNP : un premier bilan de SoyaGen, un projet de grande envergure en génomique du soya
+</td>
+</tr>
+<tr>
+<td>
+22 Septembre
+</td>
+<td>
+<a href="https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/">Charles Roussin-Léveillée</a>
+</td>
+<td>
+The Apoplastic Battleground in Plant-Pathogen Interactions
+</td>
+</tr>
+<tr>
+<td>
+29 Septembre
+</td>
+<td>
+<a href="https://www.linkedin.com/in/vickylevesque/">Vicky Lévesque</a>
+</td>
+<td>
+L’amendement en biochar: Une approche durable pour améliorer la santé du sol et la croissance de la plante en horticulture
+</td>
+</tr>
+<tr>
+<td>
+13 Octobre
+</td>
+<td>
+<a href="https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/">Hamid Akbarzadeh</a>
+</td>
+<td>
+Sustainable Bio-inspired Metamaterials
+</td>
+</tr>
+<tr>
+<td>
+20 Octobre
+</td>
+<td>
+<a href="https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/">Valerio Hoyos-Villegas</a>
+</td>
+<td>
+The McGill Field Phenomics Platform: Increasing Resolution for Complex Trait Improvement
+</td>
+</tr>
+<tr>
+<td>
+27 Octobre
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Tagnon_M">Tagnon Missihoun</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+<br> <b>
+<p style="font-size:1.5em; text-align:center; padding-left:0px">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223">Inscriptions</a>
+</p>
+<p></b> <br><br></p>
+</div>
+<div id="section-5" class="section level3">
+<h3>2020-07-29</h3>
+<div>
+<p>
+Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.
+</p>
+<p>Vous pouvez voir leurs affiches sur notre twitter (link en bas).</p>
+</div>
+<span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
+<p style=" text-align:center;">
+<a href="https://twitter.com/CPICSEVE/status/1289294256281022465" title="Tweet with Karuna Kapoor&#39;s poster"><i class="fab fa-twitter"></i> Karuna Kapoor <i class="fab fa-twitter"></i></a>
+</p>
+<br>
+<p style=" text-align:center;">
+<a href="https://twitter.com/CPICSEVE/status/1288906455446364160" title="Tweet with posters from Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, and Julian Henao-Martinez"><i class="fab fa-twitter"></i> Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, and Julian Henao-Martinez <i class="fab fa-twitter"></i></a>
+</p>
+<br>
+<p style=" text-align:center;">
+<a href="https://twitter.com/CPICSEVE/status/1288912736412405763" title="Tweet with posters from Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins"><i class="fab fa-twitter"></i> Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins <i class="fab fa-twitter"></i></a>
+</p>
+<table>
+<colgroup>
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>
+<b>IRBV</b>
+</th>
+<th>
+<b>McGill University</b>
+</th>
+<th>
+<b>Université de Laval</b>
+</th>
+<th>
+<b>Université de Montréal</b>
+</th>
+<th>
+<b>Université de Sherbrooke</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Camille Auger
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Amir_Bidhendi/experience/">Amir Bidhendi</a>
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Francisco_Campos23/">Francisco Campos</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/">Eszter Sas</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/">Charles Roussin-Léveillée</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/">Adrien Fremont</a>
+</td>
+<td>
+<a href="https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&amp;hl=en/">Karuna Kapoor</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+Gaële Lajeunesse
+</td>
+</tr>
+<tr class="odd">
+<td>
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Meha_Sharma5/">Meha Sharma</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/guilherme-martins-1268202b/">Guilherme Silva-Martins</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/">Julian Henao-Martinez</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Iauhenia_Isayenka/">Iauhenia Isayenka</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p></span> <br><br></p>
+</div>
+<div id="section-6" class="section level3">
+<h3>2020-07-07</h3>
+<p><img src="images/news/fatima_cs.png" class="center"></p>
+<div>
+<p>
+<strong>Fatima Awwad</strong>, postdoc de l’<em>UQTR</em>, nous a presenté aujourd’hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!
+</p>
+</div>
+<p>Source: <a href="https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/">Centre SEVE</a></p>
+</div>
+<div id="section-7" class="section level3">
+<h3>2020-06-16</h3>
+<p><img src="images/news/karen_cs.png" class="center"></p>
+<div>
+<p>
+Une autre captivante conférence Web du Centre SÈVE aujourd’hui, avec <strong>Karen Cristine Gonçalves Dos Santos</strong> de l’<em>UQTR</em>. Merci à tous les participants!
+</p>
+</div>
+<p>Source: <a href="https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/">Centre SEVE</a></p>
+<p><br><br></p>
+</div>
+<div id="section-8" class="section level3">
+<h3>2020-05-09</h3>
+<div>
+<p>
+Bienvenue à <strong>Maribel Diaz</strong> et <strong>Vincent Charron-Lamoureux</strong> à l’administration du CPICS à titre de secrétaire en remplacement de <strong>Alexia Bertholon</strong>, qui dû se retirer du comité.
+</p>
+<p>
+<strong><em>Félicitation à vous deux !</em></strong>
+</p>
+</div>
+<p><br><br></p>
+</div>
+<div id="section-9" class="section level3">
+<h3>2020-03-02</h3>
+<div>
+<p>
+Félicitations à <strong>Claire Letanneur</strong>, doctorante à l’<em>UQTR</em>, pour l’octroi d’une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.
+</p>
+</div>
+<p><br><br></p>
+</div>
+</div>
+<div id="section-10" class="section level2">
+<h2>2019</h2>
+<div id="section-11" class="section level3">
+<h3>2019-09-30</h3>
+<div>
+<p>Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l’Université Laval, pour avoir partagé son experience au <strong>SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019</strong> dans le journal étudiant <a href="https://journalagral.wordpress.com/"><strong><em>L’Agral</em></strong></a>.</p>
+</div>
+<p><span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;"> <a href="https://journalagral.wordpress.com/2019/09/29/ogm-tabou-demystifie-topo-sur-le-symposium-international-annuel-du-centre-seve/"><strong><em>OGM, tabou démystifié : topo sur le symposium international annuel du centre SÈVE</em></strong></a><br> </span> <br><br></p>
+</div>
+<div id="section-12" class="section level3">
+<h3>2019-08-29</h3>
+<div>
+<p>Quelques souvenirs du <strong>SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019</strong></p>
+<p><a href="https://www.facebook.com/biologie.USherbrooke/?__cft__%5B0%5D=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&amp;__tn__=kK-R">Département de biologie - Université de Sherbrooke</a></p>
+<p>Une soixantaine de participant(e)s et de conférencier(ière)s ont pu partager leurs connaissances, échanger et tisser des liens sur le thème de <em>« La biotechnologie au service de la sécurité alimentaire »</em>.</p>
+<p>Objectif atteint pour ce premier symposium organisé par les étudiants du CPICS !</p>
+<p>Merci encore une fois aux commanditaires de l’événement :</p>
+</div>
+<p><span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;"></p>
+<ul>
+<li><p><a href="https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/">Fonds d’appui à l’engagement étudiant (FAEE) de l’UdeS</a></p></li>
+<li><p><a href="https://www.usherbrooke.ca/sciences/">Faculté des sciences</a></p></li>
+<li><p><a href="http://www.remdus.qc.ca/fr/">Regroupement des étudiantes et des étudiants de maîtrise, de diplôme et de doctorat de l’UdeS (REMDUS)</a></p></li>
+<li><p><a href="https://www.recsus.org/">Regroupement étudiant des chercheurs et chercheuses en sciences de l’UdeS (RECSUS)</a></p></li>
+<li><p><a href="https://www.vwr.com/">VWR</a></p></li>
+<li><p><a href="https://www.sarstedt.com/en/home/">Sarstedt</a></p></li>
+</ul>
+<p></span></p>
+<br><br>
+</div>
+</div>
+<div id="section-13" class="section level3">
+<h3>2019-06-11</h3>
+<div>
+<p>Les inscriptions, pour la première édition du <strong>Symposium International du Centre SÈVE</strong> qui aura lieu le <strong><em>23 août prochain</em></strong>, sont maintenant ouvertes!</p>
+<p>Les étudiants ont la possibilité de soumettre un résumé afin d’être sélectionnés pour une présentation orale.</p>
+<p>Voici les informations à savoir:</p>
+<ul>
+<li><p>La date limite pour soumettre un résumé est le <strong>lundi 22 juillet</strong>.</p></li>
+<li><p>Le résumé doit être d’un <strong>maximum de 200 mots</strong>.</p></li>
+<li><p>Il devra être envoyé à l’adresse: <em><a href="mailto:cpicseve@gmail.com" class="email">cpicseve@gmail.com</a></em>, en mettant en cc. <em><a href="mailto:chantal.binda@usherbrooke.ca" class="email">chantal.binda@usherbrooke.ca</a></em> et <em><a href="mailto:mina.zitouni@usherbrooke.ca" class="email">mina.zitouni@usherbrooke.ca</a></em>.</p></li>
+<li><p>La durée prévue par présentation est de <em>10 minutes</em>, suivi de 5 minutes de questions.</p></li>
+<li><p>Compte tenu de la portée internationale du symposium, l’anglais sera priorisé comme langue de présentation et de soumission des résumés. Cependant le français sera aussi accepté.</p></li>
+<li><p>La décision prise par le Comité sera communiquée à chaque auteur au plus tard le lundi 2 août 2019.</p></li>
+</ul>
+<p>Pour vous inscrire, rendez-vous sur le site <a href="http://tiny.cc/ugt47y">web du Centre SÈVE</a>.</p>
+<p>Vous y trouverez aussi le planning de la journée et bien plus, alors ne tardez plus.</p>
+<p>Nous avons hâte de vous y voir.</p>
+</div>
+<p><br><br></p>
+</div>
+<div id="section-14" class="section level3">
+<h3>2019-03-14</h3>
+<div>
+<p>Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le <strong>Comité de Partenariat du Centre SÈVE (CPICS)</strong>. Comme vous le savez nous aspirons à l’établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier <strong>Symposium International du Centre SÈVE</strong> qui portera cette année sur <strong>« La biotechnologie au service de la sécurité alimentaire »</strong>.</p>
+<p>Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science.</p>
+<p>En attendant nous vous laissons avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.</p>
+</div>
+<p><a href="comites.html"><img src="images/comite%20photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a></p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
