@@ -9,9 +9,15 @@ output:
 a {
 color: #ffffff
 }
+.avatar {
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 .main-container {width: 1200px;}
 body {
-background-image: url('images/background_leaves.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center;
+background-image: url('images/maksym-ivashchenko.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center;
 }
 </style>
 
@@ -45,12 +51,16 @@ background-image: url('images/background_leaves.jpg'); background-repeat: no-rep
   <a class="twitter-timeline" data-height="600" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
-  <div class="col-md-8" style="background-color: #ffffff ; padding: 2em">
-
-  Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE (CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2<sup>e</sup> ou 3<sup>e</sup> cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel.
-  
-  Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.
-  
+  <div class="col-md-3">
+<img src="images/logos/logo.png" alt="President 2020 - Claire Letanneur" class="avatar">
   </div>
+<div class="col-md-5" style="background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;">
+
+  </div>
+
+  <br><br><br>
+  <div class="col-md-8" style="padding: 10em 0em 2em 0em;">
+
+<img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_conferences_en.png" alt="Banner for whats up conferences" class="center">
 
   </div>

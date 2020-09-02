@@ -13,7 +13,6 @@
 
 <title>À propos</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -307,39 +306,36 @@ $(document).ready(function () {
 
 
 <head>
-<style>
-a {
-color: #ffffff
-}
-.main-container { width: 1000px}
-
-body {
-background-image: url('images/background_leaves.jpg'); background-repeat: no-repeat; background-size: cover; height: 1500px; background-position: center;
-}
-</style>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./column_text_style.css"> <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./column_text_style.css">
+<style>
+a {color: #ffffff}
+
+.main-container { width: 100%}
+body {
+background-image: url('images/maksym-ivashchenko.jpg'); background-size: cover; height: 1300px; background-position: center;
+}
+</style>
 </head>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <div class="row">
-<p><img style="display: block; margin-left: auto; margin-right:auto;" src="images/logos/logo_full.png" alt="CPICS logo" class="center" width="50%"></p>
+<p><img style="display: block; margin-left: auto; margin-right:auto;" src="images/logos/logo_full.png" alt="CPICS logo" class="center" width="30%"></p>
 <span>
-<p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto">
+<p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto">
 <a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
 </p>
 </span>
 <center>
-<i class="fas fa-envelope" align="center" style="display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i>
-<p style="display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">
+<i id="envelope" class="fas fa-envelope" align="center" style="color: #ffffff; display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i>
+<p style=" display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">
 <a href="mailto:cpicseve@gmail.com" class="email">cpicseve@gmail.com</a>
 </p>
 </center>
 </div>
-<div style="background-color: #ffffff; padding: 2em">
+<div class="row" style="background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 10em 2em 10em;">
 <p>Fondé en 2018, le <strong><em>Comité de partenariat international du Centre SÈVE (CPICS)</em></strong> est un comité étudiant composé d’étudiant(e)s de 2<sup>e</sup> ou 3<sup>e</sup> cycle affilié(e)s au <strong><em>Centre SÈVE</em></strong>. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le <strong><em>CPICS</em></strong> stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel.</p>
 <p>Le <strong><em>CPICS</em></strong> donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.</p>
 </div>
@@ -348,16 +344,13 @@ background-image: url('images/background_leaves.jpg'); background-repeat: no-rep
 <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; ">
 <a href="https://twitter.com/centre_seve"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/centre-seve/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/centreseve"><i class="fab fa-facebook"></i></a>
 </p>
-<i class="fas fa-envelope" align="center" style="display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i>
+<i  id="envelope" class="fas fa-envelope" align="center" style="color: #ffffff; display: block;  margin-left: auto;  margin-right: auto; font-size:24px"></i>
 <p style="display: block; margin-left: auto; margin-right: auto; font-size: 2em; text-align:center">
 <a href="mailto:info@centreseve.org" class="email">info@centreseve.org</a>
 </p>
 </div>
-<div style="background-color: #ffffff; padding: 2em">
-<p>Le <strong>Centre SÈVE</strong> est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le <strong>Centre SÈVE</strong> compte sur un support financier important du <em>FRQNT</em> par l’entremise du programme des Regroupements Stratégiques. Le <strong>Centre</strong> bénéficie également d’un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d’autres partenaires.</p>
-<p>La vaste expertise scientifique du <strong>Centre SÈVE</strong> vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.</p>
-<p>Le <strong>Centre SÈVE</strong> cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du <strong>Centre</strong> et à la formation d’étudiants de 1<sup>er</sup>, 2<sup>e</sup> ou 3<sup>e</sup> cycle.</p>
-<p>Le <strong>Centre SÈVE</strong>, via des collaborations interinstitutionnelles et multidisciplinaires, dispose d’infrastructures technologiques performantes. Un des objectifs du <strong>Centre SÈVE</strong> est d’assurer à ses membres des services communs et l’accès au parc instrumental.</p>
+<div class="row" style="background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 10em 2em 10em;">
+<p>Le <strong>Centre SÈVE</strong> est le seul centre de recherche interinstitutionnel au Québec à regrouper des chercheurs en sciences du végétal à vocation non forestière. Créé en 2004, le <strong>Centre SÈVE</strong> compte sur un support financier important du <em>FRQNT</em> par l’entremise du programme des Regroupements Stratégiques. Le <strong>Centre</strong> bénéficie également d’un financement en provenance des établissements universitaires partenaires, des organismes subventionnaires supportant ses activités de recherche et d’autres partenaires. La vaste expertise scientifique du <strong>Centre SÈVE</strong> vous est présentée dans la section sur les activités de recherche multidisciplinaires du Centre.<br> Le <strong>Centre SÈVE</strong> cultive de nombreuses collaborations avec des partenaires qui collaborent à la recherche scientifique, à la diffusion des connaissances, au rayonnement national et international du <strong>Centre</strong> et à la formation d’étudiants de 1<sup>er</sup>, 2<sup>e</sup> ou 3<sup>e</sup> cycle. Le <strong>Centre SÈVE</strong>, via des collaborations interinstitutionnelles et multidisciplinaires, dispose d’infrastructures technologiques performantes. Un des objectifs du <strong>Centre SÈVE</strong> est d’assurer à ses membres des services communs et l’accès au parc instrumental.</p>
 </div>
 
 
