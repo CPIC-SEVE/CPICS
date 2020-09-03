@@ -6,7 +6,7 @@
 }
 body {  background-color: rgba(50, 130, 102, 0.3);}
 .main-container {
-  max-width: 1800px;
+  max-width: 1920px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -52,16 +52,7 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
     display: table;
     clear: both;
   }
-
-/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
-  @media (max-width: 600px) {
-    section {
-      -webkit-flex-direction: column;
-      flex-direction: column;
-    }
-  }
   
-
 nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 .nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover{
   color: #fff;
@@ -75,7 +66,10 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
   float:left;margin-bottom:-1px
 }
 .nav-tabs>li>a{
-  margin-right:2px;line-height:1.42857143;border:1px solid transparent;border-radius:4px 4px 0 0
+  margin-right:2px;
+  line-height:1.42857143;
+  border:1px solid transparent;
+  border-radius:4px 4px 0 0
 }
 .nav-tabs>li>a:hover{
   border-color:#eee #eee #ddd
@@ -83,42 +77,13 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 }
 .nav-tabs.nav-justified{
   width:100%;border-bottom:0
-  
-}.nav-tabs.nav-justified>li{float:none}
+}
+.nav-tabs.nav-justified>li{float:none}
 .nav-tabs.nav-justified>li>a{margin-bottom:5px;text-align:center}
 .nav-tabs.nav-justified>.dropdown .dropdown-menu{
   top:auto;left:auto}
   
-@media (min-width:768px){
-    .nav-tabs.nav-justified>li{
-      display:table-cell;width:1%
-    }
-    .nav-tabs.nav-justified>li>a{
-      margin-bottom:0
-      
-    }
-  
-}
-.nav-tabs.nav-justified>li>a{
-  margin-right:0;border-radius:4px
-  
-}
-.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover{
-  border:1px solid #ddd
-  
-}
-@media (min-width:768px){
-  .nav-tabs.nav-justified>li>a{
-    border-bottom:1px solid #ddd;border-radius:4px 4px 0 0
-    
-  }
-  .nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover{
-    border-bottom-color:#fff
-    
-  }
-  
-}
-.nav-pills>li{float:left}
+  .nav-pills>li{float:left}
 .nav-pills>li>a{border-radius:4px}
 .nav-pills>li+li{margin-left:2px}
 .nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover{
@@ -130,11 +95,7 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 .nav-justified>li{float:none}
 .nav-justified>li>a{margin-bottom:5px;text-align:center}.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}
 
-@media (min-width:768px){
-  .nav-justified>li{display:table-cell;width:1%}
-  .nav-justified>li>a{margin-bottom:0}
-  
-}
+
   .nav-tabs-justified{border-bottom:0}
   .nav-tabs-justified>li>a{margin-right:0;border-radius:4px}
   .nav-tabs-justified>.active>a,.nav-tabs-justified>.active>a:focus,.nav-tabs-justified>.active>a:hover{
@@ -142,15 +103,35 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
     
   }
 
-@media (min-width:768px){
-  .nav-tabs-justified>li>a{
-    border-bottom:1px solid #ddd;border-radius:4px 4px 0 0
-    
-  }
-  .nav-tabs-justified>.active>a,.nav-tabs-justified>.active>a:focus,.nav-tabs-justified>.active>a:hover{border-bottom-color:#fff}
-  
-}
+
 .tab-content>.tab-pane{display:none}
 .tab-content>.active{display:block}
 .nav-tabs .dropdown-menu{
   margin-top:-1px;border-top-left-radius:0;border-top-right-radius:0}
+  
+  
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+  @media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
+  
+
+  
+@media (min-width:768px){
+    .nav-tabs.nav-justified>li{
+      display:table-cell;width:1%
+    }
+    .nav-tabs.nav-justified>li>a{
+      margin-bottom:0;
+       border-bottom:1px solid #ddd;
+       border-radius:4px 4px 0 0
+    }
+  .nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover{
+    border-bottom-color:#fff
+    
+  }  
+}
+
