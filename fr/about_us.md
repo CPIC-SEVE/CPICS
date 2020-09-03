@@ -23,7 +23,9 @@ a {color: #ffffff}
 
 body {
 background-image: url('images/background/maksym-ivashchenko.jpg'); 
-background-size: cover; height: 1300px; background-position: center;
+background-size: cover; 
+height: 1500px; 
+background-position: center;
 }
 
 div.text {
@@ -53,7 +55,8 @@ padding: 2em 10em 2em 10em;
   Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.
   
   </div>
-  
+ <div class="row" style="height: 10em"> &nbsp; </div>
+ 
   <div >
  <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="40%" alt="Centre SEVE logo"></a>
   <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; "> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/centreseve) <a href = "mailto:cinfo@centreseve.org"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>   </p>

@@ -23,7 +23,9 @@ a {color: #ffffff}
 
 body {
 background-image: url('images/background/maksym-ivashchenko.jpg'); 
-background-size: cover; height: 1300px; background-position: center;
+background-size: cover; 
+height: 1500px; 
+background-position: center;
 }
 
 div.text {
@@ -51,6 +53,7 @@ padding: 2em 10em 2em 10em;
   Created in 2018, **_Center SÈVE International Partnership Committee (CSIPC)_** is a graduate student committee member of **_Center SÈVE_**. Conducted by ten students from Quebec Universities, **_CSIPC_** increase collaborations between Quebec and international researchers in plant biology field. **_CSIPC_** stimulate Quebec research networking by a better broadcast of knowledge from its community through plant productivity or ecosystem sustainability, all together with a proactive behavior facing the actual global changing.<br>**_CSIPC_** is an opportunity for involved student to contribute to their scientific community and manage the organization of events that benefit the whole scientific community of Plant biologists from Quebec.
 
   </div>
+<div class="row" style="height: 10em"> &nbsp; </div>
   
   <div >
  <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="40%" alt="Centre SEVE logo"></a>

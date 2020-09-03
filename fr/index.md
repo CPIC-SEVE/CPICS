@@ -27,6 +27,7 @@ color: #ffffff
 border-width: 5px;
 border-style: solid;
 border-color: rgba(255, 255, 255, 0.5);
+width: 50%;
 }
 
 body {
