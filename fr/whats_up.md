@@ -1,8 +1,10 @@
 ---
 title: '<span style="display:none"><i> Whats up?</i> Conferences</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
 ---
+
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -14,10 +16,11 @@ output:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./form.css">
-<link rel="stylesheet" href="./column_text_style.css">
 
 </head>
 <style>
+body {  background-color: rgba(50, 130, 102, 0.3);}
+ 
 .main-container {
   max-width: 1000px;
   margin-left: auto;
@@ -37,44 +40,8 @@ figcaption {
 div.figure p + p {
   display: table-caption;
 }
-.column {
-  float: left;
-  padding: 30px;
-}
 
-.left{
-  width: 5%;
-  padding: 0px;
-}
-
-.middle, .right  {
-  width: 45%;
-}
-
-.central {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.midleft, .midright {
-  float: right;
-  width: 40%
-}
-
-/* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+table td, table th, table tr{border: none !important; border-collapse: collapse;}
 
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
@@ -120,18 +87,16 @@ function showfield(Occupation_level){
 
 ## 25 août 2020 {.tabset .tabset-fade .tabset-pills}
 
-<div class="row" style="text-align: justify">
 
-**Comment la science a vécu et s’est adaptée à la pandémie?** 
+|**Comment la science a vécu et s’est adaptée à la pandémie?**|
+|:-:|
+|Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?|
+|Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires? |
+||
+|Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :|
 
-Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde? 
 
-Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires? 
-
-<div>
-<br>
-Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion : </div>
-
+<div class="row">
 
 <div class="col-md-6" style="text-align: center">
 
@@ -155,15 +120,12 @@ Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à �
 </div>
 
 
-<div class="col-md-12" style="text-align: center">
-
 <!-- blank line -->
-<figure class="video_container">
+<center><figure class="video_container" style="display: block;margin-left: auto;  margin-right: auto;">
 <iframe width="953" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
-</figure>
+</figure></center>
 <!-- blank line -->
 
-</div>
 
 <!--
 ### Inscriptions
@@ -224,18 +186,18 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 </form>
 </div>
--->
 
+-->
 ## Enquête post-conférence
 
-<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<div class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 
 <fieldset>
 <legend> Qui êtes vous? </legend>
-<label >Nom:* </label> 
+<label > Nom:* </label> 
 
 <input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
     
@@ -249,16 +211,16 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <input type="hidden" name="_subject" value="survey_25aug" />
 
-<label> Vous êtes / You are:* </label>
+<label> Vous êtes* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
 <option value="Baccalauréat / Bachelor" /> Baccalauréat </option>
-<option value="Maîtrise / Master's" /> Maîtrise </option>
-<option value="Doctorat / PhD" /> Doctorat </option>
+<option value="Maîtrise / Master's" /> Maîtrise</option>
+<option value="Doctorat / PhD" /> Doctorat</option>
 <option value="Postdoc" /> Postdoc </option>
 <option value="Technicien(ne) / Technician" /> Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" />  Chercheur(e)  </option>
-<option value="Autre / Other" /> Autre </option>
+<option value="Chercheur(e) / Researcher" /> Chercheur(e) </option>
+<option value="Autre / Other" /> Autre</option>
 </select>
 
 
@@ -278,7 +240,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <option value="Enregistrement / Recording" /> Enregistrement </option>
 </select> <br>
 
-<label> Avez-vous aimé le format? * </label>
+<label> Avez-vous aimé le format?* </label>
 
 <select name="Like_format" id="Like_format" required>
 <option value="Yes / Oui" />Oui</option>
@@ -290,7 +252,7 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <input type="text" name="suggestions" placeholder="" /><br> <br>
 
-<label >Quel sujet aimeriez-vous voir discuté?</label> 
+<label > Quel sujet aimeriez-vous voir discuté?</label> 
 
 <input type="text" name="new_subjects" placeholder="" /><br> <br>
 
@@ -301,3 +263,4 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 </form>
 </div>
+

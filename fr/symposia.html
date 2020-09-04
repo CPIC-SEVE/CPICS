@@ -9,6 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Karen Cristine Goncalves dos Santos" />
 
 
 <title>Symposia</title>
@@ -301,6 +302,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore"><span style="display:none">Symposia</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
 
 </div>
 
@@ -340,7 +342,7 @@ Le <em>Symposium annuel international du Centre SÈVE</em> est un rassemblement 
 <table style=" display: block;  margin-left: auto;  margin-right: auto;">
 <tr>
 <td>
-<img src="images/symposium 2019/banners/symposium_2019_leena_fr.png" style="width: 50em;border-bottom:5px">
+<img src="images/symposium%202019/banners/symposium_2019_leena_fr.jpg" style="width: 50em;border-bottom:5px">
 </td>
 <td>
 <img src="images/symposium%202019/banners/symposium_2019_herrerra_fr.jpg" style="width: 50em;">
@@ -377,42 +379,15 @@ Le <em>Symposium annuel international du Centre SÈVE</em> est un rassemblement 
 <div id="partenaires" class="section level3">
 <h3>Partenaires</h3>
 <center>
-<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png">
+<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png" onclick="myFunction('http://centreseve.recherche.usherbrooke.ca/fr')">
 </center>
-<p><img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium%202019/sponsors/image.png"></p>
-<p><img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium%202019/sponsors/sarsted.png"></p>
-<p><img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium%202019/sponsors/vwr_2.png"></p>
-<script type="text/javascript">
-$(document).ready(function() {
-  var $tocItems = $(".tocify-subheader li.tocify-item"); // selector for all TOC items
-  var $tabs     = $("a[role=\"tab\"]");                  // selector for all tabs
-  var $panels   = $("div[role=\"tabpanel\"]");           // selector for all tabpanels
-
-  $tocItems.hide();  // hide all TOC items
-
-  // get the tab name for each section header (e.g. mammals)
-  // and assign it to its corresponding toc item
-  $panels.find("div[data-unique]").each(function() {
-    var key = $(this).attr("data-unique");
-    var tab = $(this).closest("div[role=\"tabpanel\"]").attr("id");
-    $tocItems.filter("[data-unique=\"" + key + "\"]").attr("tab", tab)
-  })
-  // now each toc item knows to which tab panel it is pointing
-
-  // show the toc items that point to sections on the first panel
-  $tocItems.filter(function() {
-    return($(this).attr("tab") === $tabs.first().text());
-  }).toggle();
-
-  // assign an onclick event to the tabs..
-  $tabs.on("click", function() {
-    $tocItems.hide();  // ... hide all TOC items
-    var key = $(this).text(); // ... get the name of the tab clicked
-    $tocItems.filter(function() {  // ... filter for the toc items pointing to that tab
-      return($(this).attr("tab") === key);
-    }).toggle();  // ... and show them
-  });  
-});
+<p><img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium%202019/sponsors/image.png" onclick="myFunction('https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/')"></p>
+<p><img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium%202019/sponsors/sarsted.png" onclick="myFunction('https://www.sarstedt.com/fr/accueil/')"></p>
+<p><img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium%202019/sponsors/vwr_2.png" onclick="myFunction('https://ca.vwr.com/store/')"></p>
+<script>
+function myFunction(x) {
+  location.replace(x)
+}
 </script>
 </div>
 </div>

@@ -9,6 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Karen Cristine Goncalves dos Santos" />
 
 
 <title> Whats up? Conferences</title>
@@ -301,6 +302,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore"><span style="display:none"><i> Whats up?</i> Conferences</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
 
 </div>
 
@@ -311,9 +313,11 @@ $(document).ready(function () {
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<p><link rel="stylesheet" href="./form.css"> <link rel="stylesheet" href="./column_text_style.css"></p>
+<p><link rel="stylesheet" href="./form.css"></p>
 </head>
 <style>
+body {  background-color: rgba(50, 130, 102, 0.3);}
+ 
 .main-container {
   max-width: 1000px;
   margin-left: auto;
@@ -333,44 +337,8 @@ figcaption {
 div.figure p + p {
   display: table-caption;
 }
-.column {
-  float: left;
-  padding: 30px;
-}
 
-.left{
-  width: 5%;
-  padding: 0px;
-}
-
-.middle, .right  {
-  width: 45%;
-}
-
-.central {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.midleft, .midright {
-  float: right;
-  width: 40%
-}
-
-/* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+table td, table th, table tr{border: none !important; border-collapse: collapse;}
 
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
@@ -409,13 +377,31 @@ function showfield(Occupation_level){
 </div>-->
 <div id="août-2020" class="section level2 tabset tabset-fade tabset-pills">
 <h2>25 août 2020</h2>
-<div class="row" style="text-align: justify">
-<p><strong>Comment la science a vécu et s’est adaptée à la pandémie?</strong></p>
-<p>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</p>
-<p>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</p>
-<div>
-<br> Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :
-</div>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center"><strong>Comment la science a vécu et s’est adaptée à la pandémie?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</td>
+</tr>
+<tr class="even">
+<td align="center">Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</td>
+</tr>
+<tr class="odd">
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
 <div class="col-md-6" style="text-align: center">
 <center>
 <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a>
@@ -441,14 +427,14 @@ Université de Sherbrooke, Canada
 <p><br></p>
 </div>
 </div>
-<div class="col-md-12" style="text-align: center">
 <!-- blank line -->
-<figure class="video_container">
+<center>
+<figure class="video_container" style="display: block;margin-left: auto;  margin-right: auto;">
 <iframe width="953" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;">
 </iframe>
 </figure>
+</center>
 <!-- blank line -->
-</div>
 <!--
 ### Inscriptions
 
@@ -508,22 +494,23 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 </form>
 </div>
+
 -->
 </div>
 <div id="enquête-post-conférence" class="section level2">
 <h2>Enquête post-conférence</h2>
-<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<div class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 <fieldset>
-<p><legend> Qui êtes vous? </legend> <label >Nom:* </label></p>
+<p><legend> Qui êtes vous? </legend> <label > Nom:* </label></p>
 <p><input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br></p>
 <p><label > Affiliation:* </label></p>
 <p><input type="text" name="Affiliation" placeholder="Université" required/><br> <br></p>
 <p><label>Email:* </label></p>
 <p><input type="text" name="Email" placeholder="" required/><br> <br></p>
 <p><input type="hidden" name="_subject" value="survey_25aug" /></p>
-<p><label> Vous êtes / You are:* </label></p>
-<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat </option> <option value="Maîtrise / Master's" /> Maîtrise </option> <option value="Doctorat / PhD" /> Doctorat </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) </option> <option value="Autre / Other" /> Autre </option> </select></p>
+<p><label> Vous êtes* </label></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Baccalauréat </option> <option value="Maîtrise / Master's" /> Maîtrise</option> <option value="Doctorat / PhD" /> Doctorat</option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technicien(ne) </option> <option value="Chercheur(e) / Researcher" /> Chercheur(e) </option> <option value="Autre / Other" /> Autre</option> </select></p>
 <div id="div1">
 
 </div>
@@ -533,11 +520,11 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <fieldset>
 <p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label></p>
 <p><select name="Platform" id="Platform" required> <option value="Facebook Live" /> Facebook Live </option> <option value="Zoom" /> Zoom </option> <option value="Enregistrement / Recording" /> Enregistrement </option> </select> <br></p>
-<p><label> Avez-vous aimé le format? * </label></p>
+<p><label> Avez-vous aimé le format?* </label></p>
 <p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" />Oui</option> <option value="Non / No" />Non</option> <option value="Pourrait être amélioré / Could be better" />Pourrait être amélioré</option> </select> <br></p>
 <p><label > Suggestions: </label></p>
 <p><input type="text" name="suggestions" placeholder="" /><br> <br></p>
-<p><label >Quel sujet aimeriez-vous voir discuté?</label></p>
+<p><label > Quel sujet aimeriez-vous voir discuté?</label></p>
 <p><input type="text" name="new_subjects" placeholder="" /><br> <br></p>
 <div class="column right" style="padding-right: 60%; float: right">
 <p><input type="submit" value="Soumettre"/></p>

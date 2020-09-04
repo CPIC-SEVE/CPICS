@@ -1,5 +1,6 @@
 ---
 title: '<span style="display:none">Symposia</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
 ---
@@ -42,25 +43,26 @@ output:
 </div>
 
 
-### Program 
+###  Program 
 
 <div class="row">
-
+<center><a href="../fr/symposia.html#Program"><span style="font-size:2em">**Program<br>(french only)**</span></a>
 </div>
 
 ### Professors
 
 <div class="row">
-<table style=" display: block;  margin-left: auto;  margin-right: auto;">
+<center><table style=" display: block;  margin-left: auto;  margin-right: auto;">
 <tr>
 <td>
-  <img src="images/symposium 2019/banners/symposium_2019_leena_en.png" style="width: 50em;border-bottom:5px">
+  <img src="images/symposium 2019/banners/symposium_2019_leena_en.png" style="width: 40em;border-bottom:5px">
 </td>
 <td>
-  <img src="images/symposium 2019/banners/symposium_2019_herrerra_en.jpg" style="width: 50em;">
+  <img src="images/symposium 2019/banners/symposium_2019_herrerra_en.jpg" style="width: 40em;">
 </td>
 </tr>
 <table>
+</center>
 </div>
 
 ### Photos
@@ -86,44 +88,18 @@ output:
 ### Sponsors
 
 <center>
-<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png">
+<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png" onclick="myFunction('http://centreseve.recherche.usherbrooke.ca/en')">
 </center>
 
-<img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.png">
+<img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.png" onclick="myFunction('https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/')">
 
-<img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium 2019/sponsors/sarsted.png">
+<img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium 2019/sponsors/sarsted.png" onclick="myFunction('https://www.sarstedt.com/en/accueil/')">
 
-<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.png">
+<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.png" onclick="myFunction('https://ca.vwr.com/store/')">
 
-<script type="text/javascript">
-$(document).ready(function() {
-  var $tocItems = $(".tocify-subheader li.tocify-item"); // selector for all TOC items
-  var $tabs     = $("a[role=\"tab\"]");                  // selector for all tabs
-  var $panels   = $("div[role=\"tabpanel\"]");           // selector for all tabpanels
 
-  $tocItems.hide();  // hide all TOC items
-
-  // get the tab name for each section header (e.g. mammals)
-  // and assign it to its corresponding toc item
-  $panels.find("div[data-unique]").each(function() {
-    var key = $(this).attr("data-unique");
-    var tab = $(this).closest("div[role=\"tabpanel\"]").attr("id");
-    $tocItems.filter("[data-unique=\"" + key + "\"]").attr("tab", tab)
-  })
-  // now each toc item knows to which tab panel it is pointing
-
-  // show the toc items that point to sections on the first panel
-  $tocItems.filter(function() {
-    return($(this).attr("tab") === $tabs.first().text());
-  }).toggle();
-
-  // assign an onclick event to the tabs..
-  $tabs.on("click", function() {
-    $tocItems.hide();  // ... hide all TOC items
-    var key = $(this).text(); // ... get the name of the tab clicked
-    $tocItems.filter(function() {  // ... filter for the toc items pointing to that tab
-      return($(this).attr("tab") === key);
-    }).toggle();  // ... and show them
-  });  
-});
+<script>
+function myFunction(x) {
+  location.replace(x)
+}
 </script>

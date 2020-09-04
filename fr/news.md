@@ -1,5 +1,7 @@
+
 ---
 title: '<span style="display:none">Nouvelles</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Nouvelles"
 output:
   html_document:
@@ -50,9 +52,9 @@ Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-
 ### 2020-08-14
 
 <div >
-Vous souhaitez en savoir plus sur notre invitée [Leena_Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
+Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
 
-Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
+Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->
@@ -69,12 +71,12 @@ Regardez cette vidéo de [IITA_CGIAR](https://twitter.com/IITA_CGIAR) sur son tr
 
 ### 2020-08-10
 
+<center>
+**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!** <br>
 <img src="images/news/conferences_web_cs.png" class="center" width="60%">
+</center>
 
 
-<div>
-Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre! 
-</div>
 <br><br>
 <table class="center">
 <colgroup>
@@ -166,6 +168,7 @@ Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 1
 <p>**Fatima Awwad**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
+<br><br>
 
 
 ### 2020-06-16
@@ -249,7 +252,6 @@ Merci encore une fois aux commanditaires de l’événement :
 </span>
 
 <br><br>
-</div>
 
 ### 2019-06-11
 

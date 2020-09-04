@@ -1,5 +1,6 @@
 ---
 title: '<span style="display:none"><i> Whats up?</i> Conferences</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
 ---
@@ -37,45 +38,6 @@ figcaption {
 div.figure p + p {
   display: table-caption;
 }
-.column {
-  float: left;
-  padding: 30px;
-}
-
-.left{
-  width: 5%;
-  padding: 0px;
-}
-
-.middle, .right  {
-  width: 45%;
-}
-
-.central {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.midleft, .midright {
-  float: right;
-  width: 40%
-}
-
-/* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
@@ -101,7 +63,7 @@ function showfield(Occupation_level){
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-<!--## Professors / Professeurs
+<!--## Professors 
 
 <div class="row">
 <div class="column left">
@@ -122,22 +84,21 @@ function showfield(Occupation_level){
 
 <div class="row" style="text-align: justify">
 
-**How pandemic impacted science?** 
+<center>**How pandemic impacted science?** </center>
 
-Have canadian researchers faced the same challenge as other researchers around the world? 
+<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
 
-How Covid-19 modified research habits? 
+<center>How Covid-19 modified research habits? </center>
 
-<div>
 <br>
-The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: 
-</div>
+<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
+<br>
 
 
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
-<center> **Dre Leena Tripathi**</center> 
+<center> **Dr Leena Tripathi**</center> 
 
 <center> International Institute of Tropical Agriculture, Kenya </center> 
 <br>
@@ -147,7 +108,7 @@ The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
-<center> **Dre Isabelle Laforest-Lapointe**</center> 
+<center> **Dr Isabelle Laforest-Lapointe**</center> 
 
 <center> Université de Sherbrooke, Canada</center> 
 <br>

@@ -102,16 +102,6 @@ input[type=submit]:hover{background-color: rgba(50, 130, 102, 0.7)}
   transform: rotate(45deg);
 }
 
-table {
-  border-bottom: 1px solid black;
-  border-top: 1px solid black;
-}
-
-th {border-bottom: 1px solid black;}
-
-tr {
-  border-collapse: collapse; 
-  border: none !important;}
 
 ol {padding: 0; margin: 0;}
 

@@ -1,5 +1,6 @@
 ---
 title: '<span style="display:none">News</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "News"
 output:
   html_document:
@@ -38,9 +39,10 @@ output:
 
 
 <div >
-You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
+<center>You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? </center>
 
-Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  
+<center>Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  </center>
+<br>
 
 <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
@@ -50,10 +52,10 @@ Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-
 ### 2020-08-14
 
 <div >
-You want to know more about our guest [Leena_Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? 
+<center> You want to know more about our guest [Leena Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? </center>
 
-Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  
-
+<center>Watch this video of [IITA CGIAR](https://twitter.com/IITA_CGIAR) about her work !!  </center>
+<br>
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->
@@ -70,12 +72,9 @@ Watch this video of [IITA_CGIAR](https://twitter.com/IITA_CGIAR) about her work 
 
 ### 2020-08-10
 
-<img src="images/news/conferences_web_cs.png" class="center" width="60%">
+<center>**Centre SÈVE has announced a new series of Web Conferences that starts September 15^th^!**</center>
+<center><img src="images/news/conferences_web_cs.png" class="center" width="60%"></center>
 
-
-<div>
-Centre SÈVE has announced a new series of Web Conferences that starts September 15^th^!
-</div>
 <br><br>
 <table class="center">
 <colgroup>
@@ -167,6 +166,7 @@ Centre SÈVE has announced a new series of Web Conferences that starts September
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
+<br><br>
 
 ### 2020-06-16
 
@@ -252,7 +252,7 @@ Thank you once again to the event sponsors:
 </span>
 
 <br><br>
-</div>
+
 
 ### 2019-06-11
 
@@ -269,7 +269,7 @@ Here is the information to know:
 
 - It should be sent to the address: _cpicseve@gmail.com_, putting in cc. _chantal.binda@usherbrooke.ca_ and _mina.zitouni@usherbrooke.ca_.
 
-- The expected duration per presentation is **10 minutes*, followed by 5 minutes of questions.
+- The expected duration per presentation is **10 minutes**, followed by 5 minutes of questions.
 
 - Given the international scope of the symposium, English will be prioritized as the language of presentation and submission of abstracts. However French will also be accepted.
 
