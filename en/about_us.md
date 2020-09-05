@@ -57,7 +57,7 @@ padding: 2em 10em 2em 10em;
   
   <div >
  <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="40%" alt="Centre SEVE logo"></a>
-  <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; "> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/centreseve) <a href = "mailto:cinfo@centreseve.org"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>   </p>
+  <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto; "> [<i class="fab fa-twitter"></i>](https://twitter.com/centre_seve) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/centre-seve/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/centreseve) <a href = "mailto:info@centreseve.org"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>   </p>
 </div>
 
   <div class="row text">

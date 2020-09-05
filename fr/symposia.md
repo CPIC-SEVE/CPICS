@@ -54,10 +54,10 @@ output:
 <table style=" display: block;  margin-left: auto;  margin-right: auto;">
 <tr>
 <td>
-  <img src="images/symposium 2019/banners/symposium_2019_leena_fr.jpg" style="width: 50em;border-bottom:5px">
+  <img src="images/symposium 2019/banners/symposium_2019_leena_fr.png" style="width: 50em;border-bottom:5px">
 </td>
 <td>
-  <img src="images/symposium 2019/banners/symposium_2019_herrerra_fr.jpg" style="width: 50em;">
+  <img src="images/symposium 2019/banners/symposium_2019_herrerra_fr.png" style="width: 50em;">
 </td>
 </tr>
 <table>
