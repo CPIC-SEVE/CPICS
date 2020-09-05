@@ -71,7 +71,7 @@ background-position: center;
   <div class="col-md-1"> &nbsp; </div>
   <div class="col-md-6" style="padding: 10em 0em 2em 0em;">
 
-<img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_conferences_fr.png" alt="Banner for whats up conferences" class="center">
+<img style="display: block; margin-left: auto; margin-right:auto" src="images/whats up 2020/whatsup_conferences_en.png" alt="Banner for whats up conferences" class="center">
 
   </div>
   
