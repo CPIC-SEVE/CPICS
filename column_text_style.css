@@ -1,50 +1,20 @@
-.cpics {
-  background: url('images/logos/logo.png');
-    height: 20px;
-    width: 20px;
-    display: block;
-}
 body {  background-color: rgba(50, 130, 102, 0.3);}
 .main-container {
   max-width: 1920px;
   margin-left: auto;
   margin-right: auto;
 }
+
 * {
   box-sizing: border-box;
 }
 
 /* Create three unequal columns that floats next to each other */
   
-  p {
+p {
     font-size: 1.25em;
     text-align: justify;
   }
-.column {
-  float: left;
-  padding: 30px;
-}
-
-.left{
-  width: 20%;
-  padding: 0px;
-}
-
-.middle, .right  {
-  width: 40%;
-}
-
-.central {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.midleft, .midright {
-  float: right;
-  width: 40%
-}
 
 /* Clear floats after the columns */
   .row:after {
@@ -91,6 +61,7 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 }
 .nav-stacked>li{float:none}
 .nav-stacked>li+li{margin-top:2px;margin-left:0}
+
 .nav-justified{width:100%}
 .nav-justified>li{float:none}
 .nav-justified>li>a{margin-bottom:5px;text-align:center}.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}
