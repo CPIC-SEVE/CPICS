@@ -1,10 +1,4 @@
 /*  Code done with examples from https://www.w3schools.com/ howto CSS forms*/
-.cpics {
-  background: url('images/logos/logo.png');
-    height: 20px;
-    width: 20px;
-    display: block;
-}
 input[type="text"], input[type="submit"], button, textarea, select{ 
   padding: 0.75em ; 
   border: 1px solid #e5e5e5; 

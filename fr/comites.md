@@ -6,80 +6,99 @@ output:
   html_document
 ---
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-<link rel="manifest" href="../site.webmanifest">
-<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="../collumn_text_style.css">
+<link rel="stylesheet" href="./column_text_style.css">
 
-
-</head>
 <style>
-table {
+body {max-width: 100%}
+
+.row { padding: 0; margin: auto}
+
+.col-lg-6 > img { width: 500px; max-width: 100%}
+
+.col-lg-6 > table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  max-width: 100%;
+  overflow-x:auto;
+  overflow: scroll; 
+  max-width: 100%;
+  height: auto;
+  width: 500px;
 }
 
 td, th {
   border: 1px solid rgba(50, 130, 102);
   text-align: left;
-  padding: 8px;
+  height: auto;
+  width: auto;
 }
-tr:first-child {
+thead {
   background-color: #dddddd;
-}
-.main-container {width: 1200px;}
-</style>
+  overflow: scroll;
+  height: auto;
+  width: auto;
 
+}
+
+</style>
+</head>
+
+<div class="container-fluid">
 
 # &nbsp; {.tabset .tabset-fade .tabset-pills} 
 
 ## 2020
 
 ### 2020-05-09
-<div class="row">
-<div class="col-md-7">
+
+<div class="row mx-0 no-gutters">
+<div class="col-lg-6 px-0">
 ![](images/comite photos/comite_2020_new.jpg) 
 </div>
-<div class="col-md-5">
-
+<div class="col-lg-6  px-0 table-responsive">
 
 <table>
+<thead>
 <tr>
-<td><b>Fonction</b></td><td><b>Nom</b></td><td><b>Université</b></td>
+<td scope="col">Fonction</td><td scope="col">Nom</td><td scope="col">Université</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td scope="row">Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
+<td scope="row">Vice-Présidence</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>Vice-Présidence</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
-</tr>
-<tr>
-<td rowspan="2">Vice-Présidence aux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Julie Yergeau]</td><td>Université de Sherbrooke, Université Laval</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<td rowspan="3"> Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="2">Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="3">Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="2">Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Aracely Maribel Diaz Garza]</td>
@@ -87,6 +106,7 @@ tr:first-child {
 <tr>
 <td>[Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -103,40 +123,44 @@ tr:first-child {
 <div class="col-md-5">
 
 <table>
+<thead>
 <tr>
-<td><b>Fonction </b></td><td><b>Nom</b></td><td><b>Université</b></td>
+<td scope="col">Fonction</td><td scope="col">Nom</td><td scope="col">Université</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td  scope="row">Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row">Vice-Présidence</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>Vice-Présidence</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
-</tr>
-<tr>
-<td rowspan="2">Vice-Présidence aux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Julie Yergeau]</td><td>Université de Sherbrooke, Université Laval</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<td rowspan="2"> Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2"> Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Alexia Bertholon]</td>
 <td>McGill University</td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -151,40 +175,44 @@ tr:first-child {
 <div class="col-md-5">
 
 <table>
+<thead>
 <tr>
-<td><b>Fonction </b></td><td><b>Nom</b></td><td><b>Université</b></td>
+<td scope="col">Fonction</td><td scope="col">Nom</td><td scope="col">Université</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td  scope="row">Présidence</td><td>[Guilherme Silva Martins]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<td>Présidence</td><td>[Guilherme Silva Martins]</td><td>Université de Sherbrooke</td>
+<td  scope="row">Vice-Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>Vice-Présidence</td><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
-</tr>
-<tr>
-<td rowspan="2">Vice-Présidence aux Communications</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Communications</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Matthieu Glanowski]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2">Vice-Présidence aux Réseautage</td><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Safa Labidi]</td><td>Université de Sherbrooke</td>
+<td  scope="row" rowspan="2">Vice-Présidence à la Trésorerie</td><td>[Safa Labidi]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
 <td>Amadou Sibide</td><td>Agriculture et Agrolimentaire Canada</td>
 </tr>
 <tr>
-<td rowspan="2"> Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td>Université du Québec à Trois-Rivières</td>
+<td  scope="row" rowspan="2"> Secrétaires</td><td>[Karen Cristine Goncalves dos Santos]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Alexia Bertholon]</td>
 <td>McGill University</td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>

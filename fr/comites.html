@@ -268,7 +268,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">CPICS | CSIPC</a>
+      <a class="navbar-brand" href="index.html">CPICS</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -308,55 +308,76 @@ $(document).ready(function () {
 
 
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png"> <link rel="manifest" href="../site.webmanifest"> <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<p><link rel="stylesheet" href="../collumn_text_style.css"></p>
-</head>
+<p><link rel="stylesheet" href="./column_text_style.css"></p>
 <style>
-table {
+body {max-width: 100%}
+
+.row { padding: 0; margin: auto}
+
+.col-lg-6 > img { width: 500px; max-width: 100%}
+
+.col-lg-6 > table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  max-width: 100%;
+  overflow-x:auto;
+  overflow: scroll; 
+  max-width: 100%;
+  height: auto;
+  width: 500px;
 }
 
 td, th {
   border: 1px solid rgba(50, 130, 102);
   text-align: left;
-  padding: 8px;
+  height: auto;
+  width: auto;
 }
-tr:first-child {
+thead {
   background-color: #dddddd;
+  overflow: scroll;
+  height: auto;
+  width: auto;
+
 }
-.main-container {width: 1200px;}
+
 </style>
+</head>
+<div class="container-fluid">
+
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1> </h1>
 <div id="section-1" class="section level2">
 <h2>2020</h2>
 <div id="section-2" class="section level3">
 <h3>2020-05-09</h3>
-<div class="row">
-<div class="col-md-7">
+<div class="row mx-0 no-gutters">
+<div class="col-lg-6 px-0">
 <p><img src="images/comite%20photos/comite_2020_new.jpg" /></p>
 </div>
-<div class="col-md-5">
+<div class="col-lg-6 px-0 table-responsive">
 <table>
+<thead>
 <tr>
-<td>
-<b>Fonction</b>
+<td scope="col">
+Fonction
 </td>
-<td>
-<b>Nom</b>
+<td scope="col">
+Nom
 </td>
-<td>
-<b>Université</b>
+<td scope="col">
+Université
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<td scope="row">
 Présidence
 </td>
 <td>
@@ -367,7 +388,7 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td>
+<td scope="row">
 Vice-Présidence
 </td>
 <td>
@@ -378,7 +399,7 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Communications
 </td>
 <td>
@@ -397,7 +418,7 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
 </td>
 <td>
@@ -416,7 +437,7 @@ Université de Sherbrooke, Université Laval
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
 </td>
 <td>
@@ -435,7 +456,7 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td scope="row" rowspan="3">
 Secrétaires
 </td>
 <td>
@@ -458,6 +479,7 @@ Université du Québec à Trois-Rivières
 Université de Sherbrooke
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -471,19 +493,22 @@ Université de Sherbrooke
 </div>
 <div class="col-md-5">
 <table>
+<thead>
 <tr>
-<td>
-<b>Fonction </b>
+<td scope="col">
+Fonction
 </td>
-<td>
-<b>Nom</b>
+<td scope="col">
+Nom
 </td>
-<td>
-<b>Université</b>
+<td scope="col">
+Université
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<td scope="row">
 Présidence
 </td>
 <td>
@@ -494,7 +519,7 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td>
+<td scope="row">
 Vice-Présidence
 </td>
 <td>
@@ -505,7 +530,7 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Communications
 </td>
 <td>
@@ -524,7 +549,7 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
 </td>
 <td>
@@ -543,7 +568,7 @@ Université de Sherbrooke, Université Laval
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
 </td>
 <td>
@@ -562,7 +587,7 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Secrétaires
 </td>
 <td>
@@ -580,6 +605,7 @@ Université du Québec à Trois-Rivières
 McGill University
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -593,19 +619,22 @@ McGill University
 </div>
 <div class="col-md-5">
 <table>
+<thead>
 <tr>
-<td>
-<b>Fonction </b>
+<td scope="col">
+Fonction
 </td>
-<td>
-<b>Nom</b>
+<td scope="col">
+Nom
 </td>
-<td>
-<b>Université</b>
+<td scope="col">
+Université
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<td scope="row">
 Présidence
 </td>
 <td>
@@ -616,7 +645,7 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td>
+<td scope="row">
 Vice-Présidence
 </td>
 <td>
@@ -627,7 +656,7 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Communications
 </td>
 <td>
@@ -646,7 +675,7 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
 </td>
 <td>
@@ -665,7 +694,7 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
 </td>
 <td>
@@ -684,7 +713,7 @@ Agriculture et Agrolimentaire Canada
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td scope="row" rowspan="2">
 Secrétaires
 </td>
 <td>
@@ -702,6 +731,7 @@ Université du Québec à Trois-Rivières
 McGill University
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>

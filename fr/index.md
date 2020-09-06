@@ -31,9 +31,11 @@ border-style: solid;
 border-color: rgba(255, 255, 255, 0.5);
 max-width: 10vw;
 }
-
+.main-container{max-height: 1080px}
 body {
 width: 80%;
+background-size: cover;
+background-repeat: no-repeat;
 margin-left: auto; margin-right: auto;
 background-image: url('images/background/kristina-paukshtite.jpg'); 
 }
@@ -67,7 +69,7 @@ background-image: url('images/background/kristina-paukshtite.jpg');
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
-<img style="display: block;" src="images/whats up 2020/whatsup_conferences_fr.png" alt="Banner for whats up conferences" class="center"></div> 
+<img style="display: block;" src="images/whats up 2020/whatsup_conferences_en.png" alt="Banner for whats up conferences" class="center"></div> 
   
   </div>    
   </div>    
@@ -81,4 +83,3 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 </div>  
 
 </div>    
-
