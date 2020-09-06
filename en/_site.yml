@@ -1,7 +1,7 @@
 name: "Comité de partenariat international du Centre SÈVE"
 output_dir: "."
 navbar:
-  title: "CPICS | CSIPC"  
+  title: "CSIPC"  
   left:
     - text: "About us"
       href: about_us.html

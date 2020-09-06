@@ -268,7 +268,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">CPICS | CSIPC</a>
+      <a class="navbar-brand" href="index.html">CSIPC</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -313,52 +313,73 @@ $(document).ready(function () {
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<p><link rel="stylesheet" href="../collumn_text_style.css"></p>
-</head>
+<p><link rel="stylesheet" href="./column_text_style.css"></p>
 <style>
-.main-container {width: 1200px;}
-table {
+body {max-width: 100%}
+
+.row { padding: 0; margin: auto}
+
+.col-lg-6 > img { width: 500px; max-width: 100%}
+
+.col-lg-6 > table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  max-width: 100%;
+  overflow-x:auto;
+  overflow: scroll; 
+  max-width: 100%;
+  height: auto;
+  width: 500px;
 }
 
 td, th {
   border: 1px solid rgba(50, 130, 102);
   text-align: left;
-  padding: 8px;
+  height: auto;
+  width: auto;
 }
-tr:first-child {
+thead {
   background-color: #dddddd;
+  overflow: scroll;
+  height: auto;
+  width: auto;
+
 }
+
 </style>
+</head>
+<div class="container-fluid">
+
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1> </h1>
 <div id="section-1" class="section level2">
 <h2>2020</h2>
 <div id="section-2" class="section level3">
 <h3>2020-05-09</h3>
-<div class="row">
-<div class="col-md-7">
+<div class="row mx-0 no-gutters">
+<div class="col-lg-6 px-0">
 <p><img src="images/comite%20photos/comite_2020_new.jpg" /></p>
 </div>
-<div class="col-md-5">
+<div class="col-lg-6 px-0 table-responsive">
 <table>
+<thead>
 <tr>
-<td>
-<b>Role</b>
+<td scope="col">
+Role
 </td>
-<td>
-<b>Name</b>
+<td scope="col">
+Name
 </td>
-<td>
-<b>University</b>
+<td scope="col">
+University
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<th scope="row">
 Presidence
-</td>
+</th>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
 </td>
@@ -367,9 +388,9 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td>
+<th scope="row">
 Vice-Presidence
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
 </td>
@@ -378,9 +399,9 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Communications
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer Paillassa</a>
 </td>
@@ -397,9 +418,9 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Networking
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -416,9 +437,9 @@ Université de Sherbrooke, Université Laval
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Treasury
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge Nouemssi</a>
 </td>
@@ -435,9 +456,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<th scope="row" rowspan="3">
 Secretary
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -458,6 +479,7 @@ Université du Québec à Trois-Rivières
 Université de Sherbrooke
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -465,49 +487,53 @@ Université de Sherbrooke
 </div>
 <div id="section-3" class="section level3">
 <h3>2020-01-10</h3>
-<div class="row">
-<div class="col-md-7">
+<div class="row mx-0 no-gutters">
+<div class="col-lg-6 px-0">
 <p><img src="images/comite%20photos/comite_2020.jpg" /></p>
 </div>
-<div class="col-md-5">
+<div class="col-lg-6 px-0 table-responsive">
+
 <table>
+<thead>
 <tr>
 <td>
-<b>Role </b>
+Role
 </td>
 <td>
-<b>Name</b>
+Name
 </td>
 <td>
-<b>University</b>
+University
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<th scope="row">
 Presidence
 </td>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
-</td>
+</th>
 <td>
 Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td>
+<th scope="row">
 Vice-Presidence
 </td>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
-</td>
+</th>
 <td>
 Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Communications
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer Paillassa</a>
 </td>
@@ -524,9 +550,9 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Networking
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -543,9 +569,9 @@ Université de Sherbrooke, Université Laval
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Treasury
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge Nouemssi</a>
 </td>
@@ -562,9 +588,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Secretary
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -580,6 +606,7 @@ Université du Québec à Trois-Rivières
 McGill University
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -587,27 +614,30 @@ McGill University
 </div>
 <div id="section-4" class="section level2">
 <h2>2019</h2>
-<div class="row">
-<div class="col-md-7">
+<div class="row mx-0 no-gutters">
+<div class="col-lg-6 px-0">
 <p><img src="images/comite%20photos/comite_2019.jpg" /></p>
 </div>
-<div class="col-md-5">
+<div class="col-lg-6 px-0 table-responsive">
 <table>
+<thead>
 <tr>
 <td>
-<b>Role </b>
+Role
 </td>
 <td>
-<b>Name</b>
+Name
 </td>
 <td>
-<b>University / Université</b>
+University
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td>
+<th scope="row" rowspan="1">
 Presidence
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/guilherme-martins-1268202b/">Guilherme Silva Martins</a>
 </td>
@@ -616,9 +646,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td>
+<th scope="row" rowspan="1">
 Vice-Presidence
-</td>
+</th>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
 </td>
@@ -627,9 +657,9 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Communications
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
 </td>
@@ -646,9 +676,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Networking
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -665,9 +695,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Presidence of Treasury
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/safa-labidi-41749b73/">Safa Labidi</a>
 </td>
@@ -684,9 +714,9 @@ Agriculture et Agrolimentaire Canada
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<th scope="row" rowspan="2">
 Secretary
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -702,7 +732,9 @@ Université du Québec à Trois-Rivières
 McGill University
 </td>
 </tr>
+</tbody>
 </table>
+</div>
 </div>
 </div>
 </div>

@@ -31,9 +31,11 @@ border-style: solid;
 border-color: rgba(255, 255, 255, 0.5);
 max-width: 10vw;
 }
-
+.main-container{max-height: 1080px}
 body {
 width: 80%;
+background-size: cover;
+background-repeat: no-repeat;
 margin-left: auto; margin-right: auto;
 background-image: url('images/background/kristina-paukshtite.jpg'); 
 }

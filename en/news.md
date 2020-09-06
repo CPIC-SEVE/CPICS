@@ -22,8 +22,9 @@ output:
 <link rel="stylesheet" href="./column_text_style.css">
 
 <style>
-.main-container { width: 1000px}
+.main-container { max-width: 1000px}
 
+iframe { max-width: 85vw; height: 46.25vw}
 </style>
 
 

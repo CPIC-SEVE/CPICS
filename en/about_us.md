@@ -1,6 +1,5 @@
 ---
 title: '<span style="display:none">About us</span>'
-name: "Home"
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
@@ -12,7 +11,7 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
 <link rel="manifest" href="../site.webmanifest">
 <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
-<link rel="stylesheet" href="../column_text_style.css">
+<link rel="stylesheet" href="./column_text_style.css">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
@@ -26,14 +25,16 @@ background-image: url('images/background/maksym-ivashchenko.jpg');
 background-size: cover; 
 height: 1500px; 
 background-position: center;
+background-repeat: repeat-y
 }
 
 div.text {
 font-size: 1.25em;
 background-color: rgba(255, 255, 255, 0.7); 
 background-size: cover; 
-padding: 2em 10em 2em 10em;
+padding: 2%;
 }
+
 </style>
 
 </head>
