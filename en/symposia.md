@@ -72,18 +72,49 @@ output:
 
 ![In front: Ingrid Berenice Sanchez Carrillo (CSPIC's 2019 Networking Vice-president) presenting Dr. Leena Tripathi.](images/symposium 2019/photos/symposium_2019_photos4.jpg)
 
-![](images/symposium 2019/photos/symposium_2019_photos3.jpg)
 </div>
 
 <div class="col-md-6">
 
 ![From left to right: Peter Moffett (Centre SÈVE's president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Claire Letanneur (CSPIC's 2019 Vice-president), Dominique Michaud (Keynote speaker), Jaswinder Singhi (Keynote speaker), Guilherme Silva-Martins (CSPIC's 2019 President).](images/symposium 2019/photos/symposium_2019_photos6.jpg)
 
-![](images/symposium 2019/photos/symposium_2019_photos.jpg)
 
 ![From left to right: Claire Letanneur (CSPIC's 2019 Vice-president), Romaric Armel Mouafo Tchinda (CSPIC's 2019 Networking Vice-president), Mathieu Glanowski (CSPIC's 2019 Communication Vice-president).](images/symposium 2019/photos/symposium_2019_photos2.jpg)
 
 </div>
+<div class="col-md-4">
+
+![](images/symposium 2019/photos/symposium_2019_photos.jpg)
+
+![](images/symposium 2019/photos/symposium_2019_photos.jpg)
+
+![](images/symposium 2019/photos/photo_1.jpg)
+
+![](images/symposium 2019/photos/photo_2.jpg)
+
+![](images/symposium 2019/photos/photo_3.jpg)
+![](images/symposium 2019/photos/photo_4.jpg)
+</div>
+<div class="col-md-4">
+
+![](images/symposium 2019/photos/photo_5.jpg)
+
+![](images/symposium 2019/photos/photo_5.jpg)
+
+![](images/symposium 2019/photos/photo_6.jpg)
+![](images/symposium 2019/photos/photo_7.jpg)
+![](images/symposium 2019/photos/photo_8.jpg)
+
+</div>
+<div class="col-md-4">
+![](images/symposium 2019/photos/photo_9.jpg)
+
+![](images/symposium 2019/photos/photo_10.jpg)
+![](images/symposium 2019/photos/photo_11.jpg)
+![](images/symposium 2019/photos/photo_12.jpg)
+![](images/symposium 2019/photos/photo_13.jpg)
+</div>
+
 
 ### Sponsors
 

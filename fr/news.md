@@ -8,14 +8,12 @@ output:
     toc: false
 ---
 
-
-
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
@@ -40,9 +38,9 @@ output:
 
 
 <div >
-Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?
+<center>Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?</center>
 
-Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!
+<center>Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!</center>
 
 <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
@@ -52,9 +50,9 @@ Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-
 ### 2020-08-14
 
 <div >
-Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
+<center>Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</center>
 
-Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!
+<center>Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!</center>
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->

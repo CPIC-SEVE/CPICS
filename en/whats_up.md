@@ -38,6 +38,8 @@ figcaption {
 div.figure p + p {
   display: table-caption;
 }
+
+iframe {max-width: 100%; max-height: 100%;}
 </style>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
@@ -121,7 +123,7 @@ function showfield(Occupation_level){
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="953" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+<iframe width="816" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
 

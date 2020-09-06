@@ -6,38 +6,19 @@ output:
   html_document
 ---
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./two_columns.css">
+<link rel="stylesheet" href="../collumn_text_style.css">
 
 
 </head>
-<style>
-.main-container {width: 1200px;}
-
-</style>
-
-
-
-
-# &nbsp; {.tabset .tabset-fade .tabset-pills} 
-
-## 2020
-
-### 2020-05-09
-<div class="row">
-<div class="col-md-7">
-![](images/comite photos/comite_2020_new.jpg) 
-</div>
-<div class="col-md-5">
-
 <style>
 table {
   font-family: arial, sans-serif;
@@ -53,7 +34,22 @@ td, th {
 tr:first-child {
   background-color: #dddddd;
 }
+.main-container {width: 1200px;}
 </style>
+
+
+# &nbsp; {.tabset .tabset-fade .tabset-pills} 
+
+## 2020
+
+### 2020-05-09
+<div class="row">
+<div class="col-md-7">
+![](images/comite photos/comite_2020_new.jpg) 
+</div>
+<div class="col-md-5">
+
+
 <table>
 <tr>
 <td><b>Fonction</b></td><td><b>Nom</b></td><td><b>Université</b></td>
@@ -65,7 +61,7 @@ tr:first-child {
 <td>Vice-Présidence</td><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td rowspan="2">Vice-Présidenceaux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
+<td rowspan="2">Vice-Présidence aux Communications</td><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>

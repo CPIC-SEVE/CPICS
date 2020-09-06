@@ -15,13 +15,26 @@ output:
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./two_columns.css">
+<link rel="stylesheet" href="../collumn_text_style.css">
 
 
 </head>
 <style>
 .main-container {width: 1200px;}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
+td, th {
+  border: 1px solid rgba(50, 130, 102);
+  text-align: left;
+  padding: 8px;
+}
+tr:first-child {
+  background-color: #dddddd;
+}
 </style>
 
 
@@ -38,22 +51,6 @@ output:
 </div>
 <div class="col-md-5">
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid rgba(50, 130, 102);
-  text-align: left;
-  padding: 8px;
-}
-tr:first-child {
-  background-color: #dddddd;
-}
-</style>
 <table>
 <tr>
 <td><b>Role</b></td><td><b>Name</b></td><td><b>University</b></td>
