@@ -34,6 +34,18 @@ iframe { max-width: 85vw; height: 46.25vw}
 
 ## 2020
 
+### 2020-09-22
+
+Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de l'Université de Sherbrooke. Merci à tous les participants!
+
+<div class="col-lg-6">
+<img src="images/news/charles_cs_1.png" alt="Charles presentation">
+</div>
+<div class="col-lg-6">
+<img src="images/news/charles_cs_2.png" alt="Charles presentation">
+</div>
+
+Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
 
 ### 2020-08-17
 
