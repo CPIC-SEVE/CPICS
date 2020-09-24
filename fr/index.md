@@ -65,7 +65,11 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 </center>
 </div>
 
-<div class="col-md-8 px-0" style="background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> Text</div>    
+<div class="col-md-8 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
+<center>La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</center>
+
+<center>Bienvenue sur notre page, n'hésitez pas à nous contacter!</center>
+</div>    
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
