@@ -70,6 +70,8 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 
 <center>Welcome to our webpage, don't hesitate to contact us.</center>
 
+<center><span style="font-size: 0.75em">Claire Letanneur - CPICS President (2020)</span></center>
+
 </div>    
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
