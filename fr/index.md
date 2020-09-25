@@ -68,10 +68,10 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 </div>
 
 <div class="col-md-8 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
-<center>"La science n'a de beauté, de qualité ou de valeur que quand elle est partagée."</center>
+<center><img src="images/logos/quote_mark.svg" alt="quotes" style="display: inline; width:10%;"><span style="font-size: 1.5em">La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</span></center>
+<br>
 
 <center>Bienvenue sur notre page, n'hésitez pas à nous contacter!</center>
-
 
 <center><span style="font-size: 0.75em">Claire Letanneur - Présidente du CPICS (2020)</span></center>
 </div>    

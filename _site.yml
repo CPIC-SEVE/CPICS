@@ -1,0 +1,20 @@
+name: "Comité de partenariat international du Centre SÈVE"
+output_dir: "./fr"
+navbar:
+  title: "CPICS"  
+  left:
+    - text: "À propos"
+      href: ./fr/about_us.html
+    - text: "What's up? Conferences"
+      href: ./fr/whats_up.html
+    - text: "Symposia"
+      href: ./fr/symposia.html
+    - text: "Nouvelles"
+      href: ./fr/news.html
+    - text: "Comités"
+      href: ./fr/comites.html
+  right:
+    - text: "EN"
+      href: ./en/index.html
+output:
+  html_document
