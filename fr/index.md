@@ -29,9 +29,9 @@ border-radius: 50%;
 border-width: 5px;
 border-style: solid;
 border-color: rgba(255, 255, 255, 0.5);
-max-width: 10vw;
+max-width: 15vw;
 }
-.main-container{max-height: 1080px}
+.main-container{max-height: 1080px; max-width: 1920px;}
 body {
 width: 80%;
 background-size: cover;
@@ -59,21 +59,13 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 <div class="col-md-9">
 <div class="row mx-0 no-gutters">
 
-<div class="col-md-4 px-0" >
-<center>
-<figure>
-<img src="images/comite photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
-</figure>
-</center>
-</div>
 
-<div class="col-md-8 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
-<center><img src="images/logos/quote_mark.svg" alt="quotes" style="display: inline; width:10%;"><span style="font-size: 1.5em">La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</span></center>
-<br>
+<div class="col-md-12 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
+<img src="images/logos/quote_mark.svg" alt="quotes" style="max-width: 15vw; margin-top: -12.5%; margin-left:-1.5%; width:30%; position: fixed; ">
 
+<img src="images/comite photos/President-2020_Claire.png" style="margin-left: -10%; margin-top: -5%; position: fixed; " alt="President 2020 - Claire Letanneur" class="avatar">
+<center><div style="font-size: 1.5em; padding: 0% 13% 0% 20%">La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</div></center>
 <center>Bienvenue sur notre page, n'hésitez pas à nous contacter!</center>
-
-<center><span style="font-size: 0.75em">Claire Letanneur - Présidente du CPICS (2020)</span></center>
 </div>    
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 

@@ -29,9 +29,9 @@ border-radius: 50%;
 border-width: 5px;
 border-style: solid;
 border-color: rgba(255, 255, 255, 0.5);
-max-width: 10vw;
+max-width: 15vw;
 }
-.main-container{max-height: 1080px}
+.main-container{max-height: 1080px; max-width: 1920px;}
 body {
 width: 80%;
 background-size: cover;
@@ -59,14 +59,11 @@ background-image: url('images/background/kristina-paukshtite.jpg');
 <div class="col-md-9">
 <div class="row mx-0 no-gutters">
 
-<div class="col-md-4 px-0" >
-<center>
-<img src="images/comite photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
-</center>
-</div>
+<div class="col-md-12 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
+<img src="images/logos/quote_mark.svg" alt="quotes" style="max-width: 15vw; margin-top: -12.5%; margin-left:-1.5%; width:30%; position: fixed; ">
 
-<div class="col-md-8 px-0" style="font-size: 1.25em; background-color: rgba(255, 255, 255, 0.7); background-size: cover; padding: 2em 0em 2em 0em;"> 
-<center><img src="images/logos/quote_mark.svg" alt="quotes" style="display: inline; width:10%;"><span style="font-size: 1.5em">Science has no beauty, no quality, no value, unless shared. </span></center>
+<img src="images/comite photos/President-2020_Claire.png" style="margin-left: -10%; margin-top: -5%; position: fixed; " alt="President 2020 - Claire Letanneur" class="avatar">
+<center><div style="font-size: 1.5em; padding: 0% 13% 0% 20%">Science has no beauty, no quality, no value, unless shared. </span></center>
 <br>
 <center>Welcome to our webpage, don't hesitate to contact us.</center>
 

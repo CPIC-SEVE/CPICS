@@ -1,5 +1,5 @@
 name: "Comité de partenariat international du Centre SÈVE"
-output_dir: "./fr"
+output_dir: "."
 navbar:
   title: "CPICS"  
   left:
