@@ -36,7 +36,6 @@ iframe { max-width: 85vw; height: 46.25vw}
 
 ### 2020-09-22
 
-Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de l'Université de Sherbrooke. Merci à tous les participants!
 
 <div class="col-lg-6">
 <img src="images/news/charles_cs_1.png" alt="Charles presentation">
@@ -45,32 +44,31 @@ Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de
 <img src="images/news/charles_cs_2.png" alt="Charles presentation">
 </div>
 
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de l'Université de Sherbrooke. Merci à tous les participants!</p>
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
 
 ### 2020-08-17
 
 
-<div >
-<center>Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?</center>
 
-<center>Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!</center>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?</p>
+
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!</p>
 
 <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
-</div>
 
 ### 2020-08-14
 
-<div >
-<center>Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</center>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</p>
 
-<center>Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!</center>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!</p>
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="707" height="536.8958" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+<iframe width="1000" height="300" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
 <br><br>
@@ -78,14 +76,11 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 </span>
 <br><br>
-</div>
 
 ### 2020-08-10
 
-<center>
-**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!** <br>
-<img src="images/news/conferences_web_cs.png" class="center" width="60%">
-</center>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!** </p><br>
+<img src="images/news/conferences_web_cs.png" class="center" width="60%" style="display: block;margin-left: auto;  margin-right: auto;">
 
 
 <br><br>
@@ -119,11 +114,9 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 ### 2020-07-29
 
-<div>
- <p> Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
-  Vous pouvez voir leurs affiches sur notre twitter (link en bas).
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous pouvez voir leurs affiches sur notre twitter (link en bas).</p>
   
-</div>
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Karuna Kapoor <i class="fab fa-twitter"></i>][1]</p><br>
