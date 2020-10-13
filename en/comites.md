@@ -18,6 +18,7 @@ output:
 <link rel="stylesheet" href="./column_text_style.css">
 
 <style>
+.main-container {max-width: 1200px}
 body {max-width: 100%}
 
 .row { padding: 0; margin: auto}
@@ -76,13 +77,13 @@ thead {
 </thead>
 <tbody>
 <tr>
-<th scope="row">Presidence</th><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row">Presidence</th><td>[Claire Letanneur]</td><td rowspan="3">Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<th scope="row">Vice-Presidence</th><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row">Vice-Presidence</th><td>[Teura Barff]</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
@@ -134,13 +135,13 @@ thead {
 </thead>
 <tbody>
 <tr>
-<th scope="row">Presidence</td><td>[Claire Letanneur]</th><td>Université du Québec à Trois-Rivières</td>
+<th scope="row">Presidence</td><td>[Claire Letanneur]</th><td rowspan="3">Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<th scope="row">Vice-Presidence</td><td>[Teura Barff]</th><td>Université du Québec à Trois-Rivières</td>
+<th scope="row">Vice-Presidence</td><td>[Teura Barff]</th>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
@@ -189,10 +190,10 @@ thead {
 <th scope="row" rowspan="1">Presidence</th><td>[Guilherme Silva Martins]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<th scope="row" rowspan="1">Vice-Presidence</th><td>[Claire Letanneur]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row" rowspan="1">Vice-Presidence</th><td>[Claire Letanneur]</td><td rowspan="2">Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Teura Barff]</td><td>Université du Québec à Trois-Rivières</td>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Teura Barff]</td>
 </tr>
 <tr>
 <td>[Matthieu Glanowski]</td><td>Université de Sherbrooke</td>
@@ -201,10 +202,10 @@ thead {
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
+<td>[Romaric Armel Mouafo Tchinda]</td><td rowspan="2">Université de Sherbrooke</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Presidence of Treasury</th><td>[Safa Labidi]</td><td>Université de Sherbrooke</td>
+<th scope="row" rowspan="2">Vice-Presidence of Treasury</th><td>[Safa Labidi]</td>
 </tr>
 <tr>
 <td>Amadou Sibide</td><td>Agriculture et Agrolimentaire Canada</td>

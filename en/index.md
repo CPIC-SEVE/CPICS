@@ -122,7 +122,7 @@ data-height: 300px
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
-<img style="display: block;position: static" src="./images/whats up 2020/whatsup_conferences_en.png" alt="Banner for whats up conferences" class="center">
+<img src="./images/whats up 2020/whatsup_conferences_en.png" alt="Banner for whats up conferences" class="center" style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);">
 </div> 
   
   </div>    

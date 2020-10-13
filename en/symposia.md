@@ -18,6 +18,9 @@ output:
 
 <link rel="stylesheet" href="./column_text_style.css">
 <link rel="stylesheet" href="./symposium_style.css">
+<style>
+.main-container {max-width: 1200px}
+</style>
 
 </head>
 
