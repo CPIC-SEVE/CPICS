@@ -7,8 +7,6 @@ output:
     toc: false
 ---
 
-
-
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -20,16 +18,44 @@ output:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./column_text_style.css">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <style>
-.main-container { max-width: 1000px}
-
 iframe { max-width: 85vw; height: 46.25vw}
 </style>
 
 
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 </head>
+
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+
+<br><br><br><br><br>
+<div class="col-md-3" style="float:right">
+
+<div class="row">
+<span> <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr">
+<img src="images/logos/centre_seve.png" alt="Centre SEVE logo">
+</a>
+<a href="http://www.frqnt.gouv.qc.ca/en/accueil">
+<img  src="images/logos/FRQNT_blanc(transparent).png">
+</a>
+</div>
+
+<a class="twitter-timeline" data-height=800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+<div class="col-md-9" style="padding: 2%">
+
+<div class="row text">
 
 # {.tabset .tabset-fade .tabset-pills}
 
@@ -225,8 +251,6 @@ _French only_
 
 ### 2019-08-29
 
-
-
 <div>
 
 **Some memories of the Centre SÈVE Annual International Symposium**
@@ -302,6 +326,15 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 </div>
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 
 [Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
 [Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
