@@ -1,5 +1,9 @@
 a {color: #ffffff}
 
+/*.main-divs {
+  display: flex;
+}*/
+
 a:hover{
 color: #a4eb34
 }

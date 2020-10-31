@@ -1,10 +1,11 @@
 ---
-title: '<span style="display:none">Committees | Comités</span>'
+title: '<span style="display:none">Committees</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Committees"
 output:
   html_document
 ---
+
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -18,22 +19,16 @@ output:
 <link rel="stylesheet" href="./column_text_style.css">
 
 <style>
-.main-container {max-width: 1200px}
-body {max-width: 100%}
-
-.row { padding: 0; margin: auto}
-
-.col-lg-6 > img { width: 500px; max-width: 100%}
-
-.col-lg-6 > table {
+table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 100%;
   overflow-x:auto;
   overflow: scroll; 
   max-width: 100%;
   height: auto;
-  width: 500px;
 }
 
 td, th {
@@ -51,21 +46,77 @@ thead {
 }
 
 </style>
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+
 </head>
 
-<div class="container-fluid">
+<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+
+<div class="row">
+
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<br><br>
+<br><br>
+<div class="col-md-3" style="float:right">
+
+<div class="row" style="margin: 1%">
+
+<span style="font-size: 2em; text-align:center; display: block; margin-left: auto; margin-right:auto"> 
+[<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) 
+[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) 
+[<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) 
+<a href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> 
+</span>
+
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+
+<a class="twitter-timeline" data-height=1800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+</div>
+
+<div class="col-md-9">
+<div class="row text" style="margin: 2%">
 
 # &nbsp; {.tabset .tabset-fade .tabset-pills} 
 
-## 2020
+## Description of the roles
 
-### 2020-05-09
+### **President**
 
-<div class="row mx-0 no-gutters">
-<div class="col-lg-6 px-0">
+The president directs the deliberations, maintains order and decorum, receives the proposals and submits them to the assembly. He/She also ensures that the CSIPC schedule runs smoothly and helps each of the other sectors if necessary. This person represents the committee during each of the activities in which CSIPC participates. The president calls the vote and proclaims the result, signs the official documents and confirms the minutes of the previous sessions approved by the assembly. In the event of parity in the last ballot, it is usually given the casting vote in order to resolve a situation which would otherwise appear insoluble. In the event of an appeal from one of its decisions, it is entitled to be heard first on the reasons for its decision.
+
+ 
+### **Vice-President**
+
+The Vice-President, together with the President, ensures that the CSIPC calendar runs smoothly and helps each of the other sectors if necessary. He/She fulfills the functions of the president in the meetings in the event of his absence or other impediment; it is he/she who is generally called to preside over the meetings of the assembly when it sits in a committee of the whole.
+
+ 
+### **Secretary**
+
+The secretary writes up, in the two official languages of CSIPC, and signs the minutes of the general, regular, special and Executive Council meetings which he/she then submits for the approval of the assembly while the chairman of the meeting or they are adopted confirms his signature indicating the date of this confirmation. He/She must prepare the agenda that will be accepted by the presidency and made available to members before the meeting. He/She will communicate to the members the reports of the committees, the proposals and other official documents in his care. The secretary will also be responsible for the management of these documents.
+
+### **Vice-President for Communications**
+
+He/She will be in charge of creating and managing social media platforms, setting up and managing the association's official means of communication (mailbox). In the case of organizing an event, it will help to maximize the visibility of the event for all members of the Center SÈVE as well as for any public targeted by the Committee.
+
+
+### **Vice-President of Networking**
+
+He/She will be in charge of creating, managing and updating the database. In these steps, he/she must contact the researchers, former members and students currently members of the SÈVE Center to obtain information as well as authorizations to use this information.
+
+ 
+### **Treasurer**
+
+He/She will be in charge of managing the budget allocated to CSIPC and of presenting a financial report when it is necessary to withdraw funds and dispose of them. If necessary, he/she will be responsible for finding and contacting potential partners to obtain additional funds during the CSIPC activity. He/She must work closely with the vice-president of communications, the president and the vice-president.
+
+
+
+## Current
+
 ![](images/comite photos/comite_2020_new.jpg) 
-</div>
-<div class="col-lg-6  px-0 table-responsive">
+
+<br>
 
 <table>
 <thead>
@@ -92,7 +143,7 @@ thead {
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td>[Julie Yergeau]</td><td>Université de Sherbrooke, Université Laval</td>
+<td>[Julie Yergeau]</td><td>Université de Sherbrooke<br>Université Laval</td>
 </tr>
 <tr>
 <th scope="row" rowspan="2">Vice-Presidence of Treasury</th><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
@@ -111,19 +162,19 @@ thead {
 </tr>
 </tbody>
 </table>
-</div>
-</div>
 
 
-<br><br>
+## Past {.tabset .tabset-pill}
 
-### 2020-01-10
+### 2020
 
-<div class="row mx-0 no-gutters">
-<div class="col-lg-6  px-0">
+#### 2020-01-10
+
 ![](images/comite photos/comite_2020.jpg) 
-</div>
-<div class="col-lg-6 px-0 table-responsive">
+
+<br>
+
+<div class="table-responsive">
 
 <table>
 <thead>
@@ -168,16 +219,14 @@ thead {
 </tbody>
 </table>
 </div>
-</div>
 
-##  2019
+###  2019
 
-<div class="row mx-0 no-gutters">
-<div class="col-lg-6  px-0">
 ![](images/comite photos/comite_2019.jpg)
 
-</div>
-<div class="col-lg-6  px-0 table-responsive">
+<br>
+
+<div class="table-responsive">
 
 <table>
 <thead>
@@ -220,8 +269,13 @@ thead {
 </tbody>
 </table>
 </div>
+
+</div>
 </div>
 
+</div>
+
+</div>
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
@@ -237,5 +291,3 @@ thead {
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
-
-</div>

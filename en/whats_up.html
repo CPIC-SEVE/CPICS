@@ -14,6 +14,7 @@
 
 <title> Whats up? Conferences</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -313,15 +314,46 @@ $(document).ready(function () {
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<p><link rel="stylesheet" href="./form.css"> <link rel="stylesheet" href="./column_text_style.css"></p>
-</head>
+<link rel="stylesheet" href="./form.css"> <link rel="stylesheet" href="./column_text_style.css">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+function showfield(Occupation_level){
+    if(Occupation_level == 'Autre / Other') {
+        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+    }
+    else {
+        document.getElementById('div1').innerHTML='';
+    }   
+}
+</script>
 <style>
-.main-container {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+a {color: #ffffff}
+.main-container{max-width: 1492px}
+
+body {
+background-image: url('images/background/maksym-ivashchenko.jpg'); 
+background-size: cover; 
+height: 1500px; 
+background-position: center;
+background-repeat: repeat-y
 }
 
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+
+.cpics-logo {
+display: block; 
+margin-left: auto; 
+margin-right:auto;" 
+background-image: url('images/logos/Logo-CPICS_White_1.png')
+width: 30%
+}
 figure {
   padding: 4px;
   margin: auto;
@@ -338,24 +370,22 @@ div.figure p + p {
 
 iframe {max-width: 100%; max-height: 100%;}
 </style>
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<script type="text/javascript">
-function showfield(Occupation_level){
-    if(Occupation_level == 'Autre / Other') {
-        document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
-    }
-    else {
-        document.getElementById('div1').innerHTML='';
-    }   
-}
-</script>
+</head>
+<div class="container-fluid">
+<div class="row">
+<div class="cpics-logo">
+<img class="logo" src='images/logos/Logo-CPICS_White_1.png'>
+</div>
+<br><br>
+<div class="col-md-9">
+<div class="row text" style="margin: 1%">
 <div class="row">
 <div style="text-align: center">
-<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></p>
+<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%></p>
 </div>
 </div>
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
-<h1></h1>
+<h1 class="tabset tabset-fade tabset-pills"></h1>
 <!--## Professors 
 
 <div class="row">
@@ -373,7 +403,7 @@ function showfield(Occupation_level){
 
 </div>-->
 <div id="august-25th-2020" class="section level2 tabset tabset-fade tabset-pills">
-<h2>August 25<sup>th</sup> 2020</h2>
+<h2 class="tabset tabset-fade tabset-pills">August 25<sup>th</sup> 2020</h2>
 <div class="row" style="text-align: justify">
 <center>
 <strong>How pandemic impacted science?</strong>
@@ -496,18 +526,18 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <p><input type="text" name="Email" placeholder="" required/><br> <br></p>
 <p><input type="hidden" name="_subject" value="survey_25aug" /></p>
 <p><label> You are:* </label></p>
-<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" /> Bachelor </option> <option value="Maîtrise / Master's" /> Master’s </option> <option value="Doctorat / PhD" /> PhD </option> <option value="Postdoc" /> Postdoc </option> <option value="Technicien(ne) / Technician" /> Technician </option> <option value="Chercheur(e) / Researcher" /> Researcher </option> <option value="Autre / Other" /> Other </option> </select></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Bachelor </option> <option value="Maîtrise / Master's" > Master’s </option> <option value="Doctorat / PhD" > PhD </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien(ne) / Technician" > Technician </option> <option value="Chercheur(e) / Researcher" > Researcher </option> <option value="Autre / Other" > Other </option> </select></p>
 <div id="div1">
 
 </div>
-<br> <br>
+<p><br> <br></p>
 </fieldset>
 <p><input type="hidden" name="_gotcha" /></p>
 <fieldset>
-<p><legend> About the Conférence </legend> <label> You watched the conference on:* </label></p>
-<p><select name="Platform" id="Platform" required> <option value="Facebook Live" /> Facebook Live </option> <option value="Zoom" /> Zoom </option> <option value="Enregistrement / Recording" /> Recording </option> </select> <br></p>
+<p><legend> About the Conference </legend> <label> You watched the conference on:* </label></p>
+<p><select name="Platform" id="Platform" required> <option value="Facebook Live" > Facebook Live </option> <option value="Zoom" > Zoom </option> <option value="Enregistrement / Recording" > Recording </option> </select> <br></p>
 <p><label> Did you like the format?* </label></p>
-<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" />Yes</option> <option value="Non / No" />No</option> <option value="Pourrait être amélioré / Could be better" />Could be better</option> </select> <br></p>
+<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" >Yes</option> <option value="Non / No" >No</option> <option value="Pourrait être amélioré / Could be better" >Could be better</option> </select> <br></p>
 <p><label > Suggestions: </label></p>
 <p><input type="text" name="suggestions" placeholder="" /><br> <br></p>
 <p><label >What subject would you like to see discussed?</label></p>
@@ -517,6 +547,24 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 </div>
 </fieldset>
 </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="row">
+<span>
+<p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto">
+<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+</p>
+</span>
+<div class="row" style="margin: 1%">
+<p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a></p>
+</div>
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
 </div>
 </div>

@@ -4,6 +4,7 @@ author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
 ---
+
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -16,15 +17,47 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./form.css">
 <link rel="stylesheet" href="./column_text_style.css">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
-</head>
+<script type="text/javascript">
+function showfield(Occupation_level){
+	if(Occupation_level == 'Autre / Other') {
+		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+	}
+	else {
+		document.getElementById('div1').innerHTML='';
+	}	
+}
+</script>
+
 <style>
-.main-container {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+a {color: #ffffff}
+.main-container{max-width: 1492px}
+
+body {
+background-image: url('images/background/maksym-ivashchenko.jpg'); 
+background-size: cover; 
+height: 1500px; 
+background-position: center;
+background-repeat: repeat-y
 }
 
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+
+.cpics-logo {
+display: block; 
+margin-left: auto; 
+margin-right:auto;" 
+background-image: url('images/logos/Logo-CPICS_White_1.png')
+width: 30%
+}
 figure {
   padding: 4px;
   margin: auto;
@@ -41,23 +74,22 @@ div.figure p + p {
 
 iframe {max-width: 100%; max-height: 100%;}
 </style>
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
-<script type="text/javascript">
-function showfield(Occupation_level){
-	if(Occupation_level == 'Autre / Other') {
-		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
-	}
-	else {
-		document.getElementById('div1').innerHTML='';
-	}	
-}
-</script>
+</head>
+
+<div class="container-fluid">
+
+<div class="row">
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<br><br>
+<div class="col-md-9">
+<div class="row text" style="margin: 1%">
+
 
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada">
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
   
  </div> 
 </div> 
@@ -216,38 +248,38 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <label> You are:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" /> Bachelor </option>
-<option value="Maîtrise / Master's" /> Master's </option>
-<option value="Doctorat / PhD" /> PhD </option>
-<option value="Postdoc" /> Postdoc </option>
-<option value="Technicien(ne) / Technician" /> Technician </option>
-<option value="Chercheur(e) / Researcher" /> Researcher </option>
-<option value="Autre / Other" /> Other </option>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other" > Other </option>
 </select>
-
 
 <div id="div1"></div>
  <br> <br>
+
 </fieldset>
  
 <input type="hidden" name="_gotcha" />
 
 <fieldset>
-<legend> About the Conférence </legend>
+<legend> About the Conference </legend>
 <label> You watched the conference on:* </label>
 
 <select name="Platform" id="Platform" required>
-<option value="Facebook Live" /> Facebook Live </option>
-<option value="Zoom" /> Zoom </option>
-<option value="Enregistrement / Recording" /> Recording </option>
+<option value="Facebook Live" > Facebook Live </option>
+<option value="Zoom" > Zoom </option>
+<option value="Enregistrement / Recording" > Recording </option>
 </select> <br>
 
 <label> Did you like the format?* </label>
 
 <select name="Like_format" id="Like_format" required>
-<option value="Yes / Oui" />Yes</option>
-<option value="Non / No" />No</option>
-<option value="Pourrait être amélioré / Could be better" />Could be better</option>
+<option value="Yes / Oui" >Yes</option>
+<option value="Non / No" >No</option>
+<option value="Pourrait être amélioré / Could be better" >Could be better</option>
 </select> <br>
 
 <label > Suggestions: </label> 
@@ -264,4 +296,24 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 </fieldset>
 
 </form>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+
+<div class="row">
+<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+
+</div>
+
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
