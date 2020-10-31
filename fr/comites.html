@@ -14,6 +14,7 @@
 
 <title>Comités</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -309,28 +310,22 @@ $(document).ready(function () {
 
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+<meta Nom="msapplication-TileColor" content="#da532c">
+<meta Nom="theme-color" content="#ffffff">
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta Nom="viewport" content="width=device-width, initial-scale=1">
 <p><link rel="stylesheet" href="./column_text_style.css"></p>
 <style>
-.main-container {max-width: 1200px}
-body {max-width: 100%}
-
-.row { padding: 0; margin: auto}
-
-.col-lg-6 > img { width: 500px; max-width: 100%}
-
-.col-lg-6 > table {
+table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 100%;
   overflow-x:auto;
   overflow: scroll; 
   max-width: 100%;
   height: auto;
-  width: 500px;
 }
 
 td, th {
@@ -348,20 +343,54 @@ thead {
 }
 
 </style>
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 </head>
-<div class="container-fluid">
+<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+
+<div class="row">
+
+<div class="cpics-logo">
+<img class="logo" src='images/logos/Logo-CPICS_White_1.png'>
+</div>
+<br><br> <br><br>
+<div class="col-md-3" style="float:right">
+<div class="row" style="margin: 1%">
+<p><span style="font-size: 2em; text-align:center; display: block; margin-left: auto; margin-right:auto"> <a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </span></p>
+<p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a></p>
+<a class="twitter-timeline" data-height=1800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+<div class="col-md-9">
+<div class="row text" style="margin: 2%">
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
-<h1> </h1>
-<div id="section-1" class="section level2">
-<h2>2020</h2>
-<div id="section-2" class="section level3">
-<h3>2020-05-09</h3>
-<div class="row mx-0 no-gutters">
-<div class="col-lg-6 px-0">
-<p><img src="images/comite%20photos/comite_2020_new.jpg" /></p>
+<h1 class="tabset tabset-fade tabset-pills"> </h1>
+<div id="description-of-the-fonctions" class="section level2">
+<h2>Description of the Fonctions</h2>
+<div id="présidence" class="section level3">
+<h3><strong>Présidence</strong></h3>
 </div>
-<div class="col-lg-6 px-0 table-responsive">
+<div id="vice-présidence" class="section level3">
+<h3><strong>Vice-Présidence</strong></h3>
+</div>
+<div id="secrétaires" class="section level3">
+<h3><strong>Secrétaires</strong></h3>
+</div>
+<div id="vice-présidence-aux-communications" class="section level3">
+<h3><strong>Vice-Présidence aux Communications</strong></h3>
+</div>
+<div id="vice-présidence-aux-réseautage" class="section level3">
+<h3><strong>Vice-Présidence aux Réseautage</strong></h3>
+</div>
+<div id="vice-présidence-à-la-trésorerie" class="section level3">
+<h3><strong>Vice-Présidence à la Trésorerie</strong></h3>
+</div>
+</div>
+<div id="current" class="section level2">
+<h2>Current</h2>
+<p><img src="images/comite%20photos/comite_2020_new.jpg" /></p>
+<p><br></p>
 <table>
 <thead>
 <tr>
@@ -378,9 +407,9 @@ Université
 </thead>
 <tbody>
 <tr>
-<td scope="row">
+<th scope="row">
 Présidence
-</td>
+</th>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
 </td>
@@ -389,17 +418,17 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td scope="row">
+<th scope="row">
 Vice-Présidence
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
-Vice-Présidence aux Communications
-</td>
+<th scope="row" rowspan="2">
+Vice-Présidence of Communications
+</th>
 <td>
 <a href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer Paillassa</a>
 </td>
@@ -413,9 +442,9 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -428,13 +457,13 @@ Université du Québec à Trois-Rivières
 <a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie Yergeau</a>
 </td>
 <td>
-Université de Sherbrooke, Université Laval
+Université de Sherbrooke<br>Université Laval
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge Nouemssi</a>
 </td>
@@ -451,9 +480,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="3">
+<th scope="row" rowspan="3">
 Secrétaires
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -477,54 +506,54 @@ Université de Sherbrooke
 </tbody>
 </table>
 </div>
-</div>
-<p><br><br></p>
-</div>
-<div id="section-3" class="section level3">
-<h3>2020-01-10</h3>
-<div class="row">
-<div class="col-md-7">
+<div id="past" class="section level2 tabset tabset-pill">
+<h2 class="tabset tabset-pill">Past</h2>
+<div id="section-1" class="section level3">
+<h3>2020</h3>
+<div id="section-2" class="section level4">
+<h4>2020-01-10</h4>
 <p><img src="images/comite%20photos/comite_2020.jpg" /></p>
-</div>
-<div class="col-md-5">
+<p><br></p>
+<div class="table-responsive">
+
 <table>
 <thead>
 <tr>
-<td scope="col">
+<td>
 Fonction
 </td>
-<td scope="col">
+<td>
 Nom
 </td>
-<td scope="col">
+<td>
 Université
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td scope="row">
+<th scope="row">
 Présidence
 </td>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
-</td>
+</th>
 <td rowspan="3">
 Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td scope="row">
+<th scope="row">
 Vice-Présidence
 </td>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
-</td>
+</th>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
-Vice-Présidence aux Communications
-</td>
+<th scope="row" rowspan="2">
+Vice-Présidence of Communications
+</th>
 <td>
 <a href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer Paillassa</a>
 </td>
@@ -538,9 +567,9 @@ Université de Montréal
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -557,9 +586,9 @@ Université de Sherbrooke, Université Laval
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge Nouemssi</a>
 </td>
@@ -576,9 +605,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Secrétaires
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -599,33 +628,30 @@ McGill University
 </div>
 </div>
 </div>
-</div>
-<div id="section-4" class="section level2">
-<h2>2019</h2>
-<div class="row">
-<div class="col-md-7">
+<div id="section-3" class="section level3">
+<h3>2019</h3>
 <p><img src="images/comite%20photos/comite_2019.jpg" /></p>
-</div>
-<div class="col-md-5">
+<p><br></p>
+<div class="table-responsive">
 <table>
 <thead>
 <tr>
-<td scope="col">
+<td>
 Fonction
 </td>
-<td scope="col">
+<td>
 Nom
 </td>
-<td scope="col">
+<td>
 Université
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td scope="row">
+<th scope="row" rowspan="1">
 Présidence
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/guilherme-martins-1268202b/">Guilherme Silva Martins</a>
 </td>
@@ -634,9 +660,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td scope="row">
+<th scope="row" rowspan="1">
 Vice-Présidence
-</td>
+</th>
 <td>
 <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>
 </td>
@@ -645,9 +671,9 @@ Université du Québec à Trois-Rivières
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
-Vice-Présidence aux Communications
-</td>
+<th scope="row" rowspan="2">
+Vice-Présidence of Communications
+</th>
 <td>
 <a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura Barff</a>
 </td>
@@ -661,9 +687,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence aux Réseautage
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a>
 </td>
@@ -680,9 +706,9 @@ Université de Sherbrooke
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Vice-Présidence à la Trésorerie
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/safa-labidi-41749b73/">Safa Labidi</a>
 </td>
@@ -696,9 +722,9 @@ Agriculture et Agrolimentaire Canada
 </td>
 </tr>
 <tr>
-<td scope="row" rowspan="2">
+<th scope="row" rowspan="2">
 Secrétaires
-</td>
+</th>
 <td>
 <a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a>
 </td>
@@ -716,6 +742,10 @@ McGill University
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>

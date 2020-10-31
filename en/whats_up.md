@@ -170,7 +170,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
 
-<label > Prénom / First Name:* </label>  
+<label > First Name:* </label>  
 
 <input type="text" name="First name" placeholder="" required/>
      <br> <br>
@@ -189,16 +189,16 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <input type="hidden" name="_subject" value="inscription" />
 
-<label> Vous êtes / You are:* </label>
+<label> You are:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
-<option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
-<option value="Doctorat / PhD" /> Doctorat / PhD </option>
+<option value="Baccalauréat / Bachelor"> Bachelor </option>
+<option value="Maîtrise / Master's"> Master's </option>
+<option value="Doctorat / PhD"> PhD </option>
 <option value="Postdoc" /> Postdoc </option>
-<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>
-<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>
-<option value="Autre / Other" /> Autre / Other </option>
+<option value="Technicien(ne) / Technician"> Technician </option>
+<option value="Chercheur(e) / Researcher"> Researcher </option>
+<option value="Autre / Other"> Other </option>
 </select>
 
 
@@ -207,8 +207,7 @@ iframe {max-width: 100%; max-height: 100%;}
  
 <input type="hidden" name="_gotcha" />
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br>
-By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
+<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>

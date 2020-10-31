@@ -6,29 +6,58 @@ output:
 ---
 
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-<link rel="manifest" href="../site.webmanifest">
-<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./column_text_style.css">
 <link rel="stylesheet" href="./form.css">
+<link rel="stylesheet" href="./column_text_style.css">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
-</head>
+<script type="text/javascript">
+function showfield(Occupation_level){
+	if(Occupation_level == 'Autre / Other') {
+		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
+	}
+	else {
+		document.getElementById('div1').innerHTML='';
+	}	
+}
+</script>
+
 <style>
-body {  background-color: rgba(50, 130, 102, 0.3);}
- iframe {max-width: 100%; max-height: 100%;}
+a {color: #ffffff}
+.main-container{max-width: 1492px}
 
-.main-container {
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+body {
+background-image: url('images/background/maksym-ivashchenko.jpg'); 
+background-size: cover; 
+height: 1500px; 
+background-position: center;
+background-repeat: repeat-y
 }
 
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+
+.cpics-logo {
+display: block; 
+margin-left: auto; 
+margin-right:auto;" 
+background-image: url('images/logos/Logo-CPICS_White_1.png')
+width: 30%
+}
 figure {
   padding: 4px;
   margin: auto;
@@ -43,26 +72,24 @@ div.figure p + p {
   display: table-caption;
 }
 
-table td, table th, table tr{border: none !important; border-collapse: collapse;}
-
+iframe {max-width: 100%; max-height: 100%;}
 </style>
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
-<script type="text/javascript">
-function showfield(Occupation_level){
-	if(Occupation_level == 'Autre / Other') {
-		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
-	}
-	else {
-		document.getElementById('div1').innerHTML='';
-	}	
-}
-</script>
+</head>
+
+<div class="container-fluid">
+
+<div class="row">
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<br><br>
+<div class="col-md-9">
+<div class="row text" style="margin: 1%">
+
 
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada">
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
   
  </div> 
 </div> 
@@ -70,7 +97,7 @@ function showfield(Occupation_level){
 
 #  {.tabset .tabset-fade .tabset-pills}
 
-<!--## Professors / Professeurs
+<!--## Professors 
 
 <div class="row">
 <div class="column left">
@@ -87,18 +114,20 @@ function showfield(Occupation_level){
 
 </div>-->
 
-## 25 août 2020 {.tabset .tabset-fade .tabset-pills}
+## August 25<sup>th</sup> 2020 {.tabset .tabset-fade .tabset-pills}
 
+<div class="row" style="text-align: justify">
 
-|**Comment la science a vécu et s’est adaptée à la pandémie?**|
-|:-:|
-|Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?|
-|Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires? |
-||
-|Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :|
+<center>**Comment la science a vécu et s’est adaptée à la pandémie?**</center>
 
+<center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
 
-<div class="row">
+<center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
+
+<br>
+<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</center>
+<br>
+
 
 <div class="col-md-6" style="text-align: center">
 
@@ -122,12 +151,15 @@ function showfield(Occupation_level){
 </div>
 
 
+<div class="col-md-12" style="text-align: center">
+
 <!-- blank line -->
-<center><figure class="video_container" style="display: block;margin-left: auto;  margin-right: auto;">
-<iframe width="953" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
-</figure></center>
+<figure class="video_container">
+<iframe width="816" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+</figure>
 <!-- blank line -->
 
+</div>
 
 <!--
 ### Inscriptions
@@ -138,16 +170,16 @@ function showfield(Occupation_level){
 
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
 
-<label > Prénom / First Name:* </label>  
+<label> Prénom* </label>  
 
-<input type="text" name="First name" placeholder="" required/>
+<input type="text" name="Prénom" placeholder="" required/>
      <br> <br>
 	 
-<label > Nom / Last Name:* </label> 
+<label> Nom* </label> 
 
-<input type="text" name="Last name" placeholder="" required/><br> <br>
+<input type="text" name="Nom" placeholder="" required/><br> <br>
     
-<label > Affiliation:* </label>  
+<label> Affiliation:* </label>  
 
 <input type="text" name="Affiliation" placeholder="" required/><br> <br>
 
@@ -157,16 +189,16 @@ function showfield(Occupation_level){
 
 <input type="hidden" name="_subject" value="inscription" />
 
-<label> Vous êtes / You are:* </label>
+<label> Vous êtes* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" /> Baccalauréat / Bachelor </option>
-<option value="Maîtrise / Master's" /> Maîtrise / Master's </option>
-<option value="Doctorat / PhD" /> Doctorat / PhD </option>
-<option value="Postdoc" /> Postdoc </option>
-<option value="Technicien(ne) / Technician" /> Technicien(ne) / Technician </option>
-<option value="Chercheur(e) / Researcher" /> Chercheur(e) / Researcher </option>
-<option value="Autre / Other" /> Autre / Other </option>
+<option value="Baccalauréat / Bachelor"> Baccalauréat</option>
+<option value="Maîtrise / Master's"> Maîtrise</option>
+<option value="Doctorat / PhD"> Doctorat</option>
+<option value="Postdoc"> Postdoc </option>
+<option value="Technicien(ne) / Technician"> Technicien(ne)</option>
+<option value="Chercheur(e) / Researcher"> Chercheur(e)</option>
+<option value="Autre / Other"> Autre</option>
 </select>
 
 
@@ -175,31 +207,30 @@ function showfield(Occupation_level){
  
 <input type="hidden" name="_gotcha" />
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.<br>
-By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
  <br>
 
 <div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre / Submit"/>
+<input type="submit" value="Soumettre"/>
 </div>
 
 </form>
 </div>
-
 -->
-## Enquête post-conférence
 
-<div class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+## Post-conference survey
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 
 <fieldset>
 <legend> Qui êtes vous? </legend>
-<label > Nom:* </label> 
+<label>Nom:* </label> 
 
 <input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
     
@@ -213,21 +244,21 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 <input type="hidden" name="_subject" value="survey_25aug" />
 
-<label> Vous êtes* </label>
+<label> Vous êtes:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" /> Baccalauréat </option>
-<option value="Maîtrise / Master's" /> Maîtrise</option>
-<option value="Doctorat / PhD" /> Doctorat</option>
-<option value="Postdoc" /> Postdoc </option>
-<option value="Technicien(ne) / Technician" /> Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" /> Chercheur(e) </option>
-<option value="Autre / Other" /> Autre</option>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other" > Autre </option>
 </select>
-
 
 <div id="div1"></div>
  <br> <br>
+
 </fieldset>
  
 <input type="hidden" name="_gotcha" />
@@ -237,24 +268,24 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 <label> Vous avez vu la conférence via:* </label>
 
 <select name="Platform" id="Platform" required>
-<option value="Facebook Live" /> Facebook Live </option>
-<option value="Zoom" /> Zoom </option>
-<option value="Enregistrement / Recording" /> Enregistrement </option>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
 </select> <br>
 
 <label> Avez-vous aimé le format?* </label>
 
 <select name="Like_format" id="Like_format" required>
-<option value="Yes / Oui" />Oui</option>
-<option value="Non / No" />Non</option>
-<option value="Pourrait être amélioré / Could be better" />Pourrait être amélioré</option>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
 </select> <br>
 
 <label > Suggestions: </label> 
 
 <input type="text" name="suggestions" placeholder="" /><br> <br>
 
-<label > Quel sujet aimeriez-vous voir discuté?</label> 
+<label >Quel sujet aimeriez-vous voir discuté?</label> 
 
 <input type="text" name="new_subjects" placeholder="" /><br> <br>
 
@@ -265,4 +296,23 @@ By participating in the Zoom meeting, I consent to be recorded during the confer
 
 </form>
 </div>
+</div>
+</div>
+<div class="col-md-3">
 
+<div class="row">
+<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+
+</div>
+
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

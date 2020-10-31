@@ -1,8 +1,7 @@
-
 ---
-title: '<span style="display:none">Nouvelles</span>'
+title: '<span style="display:none">News</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-name: "Nouvelles"
+name: "News"
 output:
   html_document:
     toc: false
@@ -19,16 +18,44 @@ output:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./column_text_style.css">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <style>
-.main-container { max-width: 1000px}
-
 iframe { max-width: 85vw; height: 46.25vw}
 </style>
 
 
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 </head>
+
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+
+<br><br><br><br><br>
+<div class="col-md-3" style="float:right">
+
+<div class="row">
+<span> <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr">
+<img src="images/logos/centre_seve.png" alt="Centre SEVE logo">
+</a>
+<a href="http://www.frqnt.gouv.qc.ca/en/accueil">
+<img  src="images/logos/FRQNT_blanc(transparent).png">
+</a>
+</div>
+
+<a class="twitter-timeline" data-height=800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+<div class="col-md-9" style="padding: 2%">
+
+<div class="row text">
 
 # {.tabset .tabset-fade .tabset-pills}
 
@@ -43,19 +70,18 @@ iframe { max-width: 85vw; height: 46.25vw}
 <div class="col-lg-6">
 <img src="images/news/charles_cs_2.png" alt="Charles presentation">
 </div>
-
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de l'Université de Sherbrooke. Merci à tous les participants!</p>
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
 
+
 ### 2020-08-17
 
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)? </p>
 
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !! </p>
+<br>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?</p>
-
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !!</p>
-
-<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
+<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo des feuilles" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
 
@@ -63,12 +89,13 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</p>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!</p>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!  </p>
+<br>
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="1000" height="300" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+<iframe width="1000" height="536.8958" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
 <br><br>
@@ -79,9 +106,8 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 ### 2020-08-10
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!** </p><br>
-<img src="images/news/conferences_web_cs.png" class="center" width="60%" style="display: block;margin-left: auto;  margin-right: auto;">
-
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!**</p>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"><img src="images/news/conferences_web_cs.png" class="center" width="60%"></p>
 
 <br><br>
 <table class="center">
@@ -116,7 +142,6 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous pouvez voir leurs affiches sur notre twitter (link en bas).</p>
-  
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Karuna Kapoor <i class="fab fa-twitter"></i>][1]</p><br>
@@ -124,9 +149,9 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins <i class="fab fa-twitter"></i>][3]</p>
 
 
-[1]: https://twitter.com/CPICSEVE/status/1289294256281022465  "Tweet with Karuna Kapoor's poster"
-[2]: https://twitter.com/CPICSEVE/status/1288906455446364160 "Tweet with posters from Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, and Julian Henao-Martinez"
-[3]: https://twitter.com/CPICSEVE/status/1288912736412405763 "Tweet with posters from Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas and Guilherme Silva-Martins"
+[1]: https://twitter.com/CPICSEVE/status/1289294256281022465  "Tweet avec l'affiche de Karuna Kapoor"
+[2]: https://twitter.com/CPICSEVE/status/1288906455446364160 "Tweet avec les affiches d'Amir Bidhendi, Francisco Campos, Gaële Lajeunesse, et Julian Henao-Martinez"
+[3]: https://twitter.com/CPICSEVE/status/1288912736412405763 "Tweet avec les affiches d'Adrien Fremont, Charles Roussin-Léveillée, Eszter Sas et Guilherme Silva-Martins"
 
 
 <table>
@@ -172,8 +197,8 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <p>**Fatima Awwad**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
-<br><br>
 
+<br><br>
 
 ### 2020-06-16
 
@@ -196,6 +221,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui dû se retirer du comité.</p>
 
 <p>**_Félicitation à vous deux !_**</p>
+
 </div>
 <br><br>
 
@@ -224,8 +250,6 @@ Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale
 
 ### 2019-08-29
 
-
-
 <div>
 
 Quelques souvenirs du **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019**
@@ -253,9 +277,11 @@ Merci encore une fois aux commanditaires de l’événement :
 
 - [Sarstedt](https://www.sarstedt.com/en/home/)
 
+
 </span>
 
 <br><br>
+
 
 ### 2019-06-11
 
@@ -283,7 +309,6 @@ Pour vous inscrire, rendez-vous sur le site [web du Centre SÈVE](http://tiny.cc
 Vous y trouverez aussi le planning de la journée et bien plus, alors ne tardez plus. 
 
 Nous avons hâte de vous y voir. 
-
 </div>
 
 <br><br>
@@ -300,6 +325,15 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 </div>
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 
 [Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
 [Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/

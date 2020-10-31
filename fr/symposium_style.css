@@ -1,6 +1,9 @@
-body {  background-color: rgba(50, 130, 102, 0.3);}
+body { 
+  max-width: 1300px;
+  background-color: rgba(50, 130, 102, 0.3);
+}
 .main-container {
-  max-width: 1800px;
+  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -8,3 +11,26 @@ body {  background-color: rgba(50, 130, 102, 0.3);}
   box-sizing: border-box;
 }
 
+.col-lg-6 > div {
+  max-width: 555px
+}
+
+.col-lg-6 > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto
+}
+
+.col-lg-4 > div {
+  max-width: 230px
+}
+
+.col-lg-4 > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto
+}
