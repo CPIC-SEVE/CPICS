@@ -86,6 +86,13 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row text" style="margin: 1%">
 
 
+
+
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1></h1>
+<div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
+<h2>August 25^th^ 2020</h2>
+
 <div class="row">
 <div style="text-align: center">
 
@@ -94,27 +101,8 @@ iframe {max-width: 100%; max-height: 100%;}
  </div> 
 </div> 
 
-
-#  {.tabset .tabset-fade .tabset-pills}
-
-<!--## Professors 
-
-<div class="row">
-<div class="column left">
-  <img src="" style="width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="width:84%">
-</div>
-
-<div class="column right">
-  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="padding: 0px; width:84%">
-</div>
-
-</div>-->
-
-## August 25<sup>th</sup> 2020 {.tabset .tabset-fade .tabset-pills}
+<div id="section-2" class="section level3">
+<h3>The conference</h3>
 
 <div class="row" style="text-align: justify">
 
@@ -160,9 +148,11 @@ iframe {max-width: 100%; max-height: 100%;}
 <!-- blank line -->
 
 </div>
+</div>
 
 <!--
-### Inscriptions
+<div id="section-4" class="section level3">
+<h3>Inscriptions</h3>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -219,9 +209,11 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </form>
 </div>
+</div>
 -->
 
-## Post-conference survey
+<div id="section-3" class="section level3">
+<h3>Post-conference survey</h3>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -298,6 +290,10 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 </div>
+</div>
+</div>
+</div>
+
 <div class="col-md-3">
 
 <div class="row">

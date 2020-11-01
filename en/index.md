@@ -24,11 +24,9 @@ a.twitter-timeline {
   margin-right: auto; 
 }
 
-.main-container{max-width: 1492px;}
-
 .resize {
   border-style: solid;
-  border-width: 0px 10vw;
+  border-width: 0px 5vw;
   border-color: rgba(255, 255, 255, 0)
 }
 
@@ -57,7 +55,6 @@ a.twitter-timeline {
 
 .resize1 {
   padding: 5% 13% 5% 23%; 
-  text-align: center;
 }
 
 @media screen and (max-width: 991px) {
@@ -80,11 +77,6 @@ a.twitter-timeline {
     border-width: 0px 5vw;
     border-color: rgba(255, 255, 255, 0)
   }
-  
-  .twitter-timeline {
-    margin-left: auto;
-    margin-right: auto; 
-  }
 } 
 </style>
 
@@ -93,11 +85,11 @@ a.twitter-timeline {
 
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
-
-<div class="row mx-0 no-gutters main-divs">
-
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
 <br><br>
+<br><br>
+
+<div class="row mx-0 no-gutters">
 
 
 <div class="col-md-9 resize">
@@ -105,11 +97,10 @@ a.twitter-timeline {
 
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
 <img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">
-
 <img src="./images/comite photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
-<div style="font-size: 1.5em; font-weight: bold"><center>Science has no beauty, no quality, no value, unless shared. </div></center>
-<br>
+<div style="font-size: 1.5em; font-weight: bold"><center>Science has no beauty, no quality, no value, unless shared. </center>
+</div><br>
 <div style="font-size: 1em;"><center>Welcome to our webpage, don't hesitate to contact us.</center></div>
 
 <div style="font-size: 0.75em"><center>Claire Letanneur - CPICS President (2020)</center></div>
@@ -126,7 +117,7 @@ a.twitter-timeline {
   </div>    
   </div>    
 
-<div class="col-md-3 main-divs">
+<div class="col-md-3">
 
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>

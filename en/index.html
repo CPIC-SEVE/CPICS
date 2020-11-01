@@ -14,7 +14,6 @@
 
 <title>CSIPC</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -24,6 +23,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -322,11 +332,9 @@ a.twitter-timeline {
   margin-right: auto; 
 }
 
-.main-container{max-width: 1492px;}
-
 .resize {
   border-style: solid;
-  border-width: 0px 10vw;
+  border-width: 0px 5vw;
   border-color: rgba(255, 255, 255, 0)
 }
 
@@ -355,7 +363,6 @@ a.twitter-timeline {
 
 .resize1 {
   padding: 5% 13% 5% 23%; 
-  text-align: center;
 }
 
 @media screen and (max-width: 991px) {
@@ -378,33 +385,26 @@ a.twitter-timeline {
     border-width: 0px 5vw;
     border-color: rgba(255, 255, 255, 0)
   }
-  
-  .twitter-timeline {
-    margin-left: auto;
-    margin-right: auto; 
-  }
 } 
 </style>
 </head>
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
-
-<div class="row mx-0 no-gutters main-divs">
 <div class="cpics-logo">
 <img class="logo" src='images/logos/Logo-CPICS_White_1.png'>
 </div>
-<p><br><br></p>
+<p><br><br> <br><br></p>
+<div class="row mx-0 no-gutters">
 <div class="col-md-9 resize">
 <div class="row mx-0 no-gutters">
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative">
-<p><img class="quote" src="images/logos/quote_mark.svg" alt="quotes"></p>
-<img src="images/comite%20photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
+<img class="quote" src="images/logos/quote_mark.svg" alt="quotes"> <img src="images/comite%20photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
 <div style="font-size: 1.5em; font-weight: bold">
 <center>
 Science has no beauty, no quality, no value, unless shared.
-</div>
 </center>
+</div>
 <br>
 <div style="font-size: 1em;">
 <center>
@@ -426,7 +426,7 @@ Claire Letanneur - CPICS President (2020)
 </div>
 </div>
 </div>
-<div class="col-md-3 main-divs">
+<div class="col-md-3">
 <div class="row">
 <span>
 <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto">
@@ -452,7 +452,7 @@ Claire Letanneur - CPICS President (2020)
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

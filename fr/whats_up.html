@@ -14,7 +14,6 @@
 
 <title> Whats up? Conferences</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -24,6 +23,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -379,31 +389,22 @@ iframe {max-width: 100%; max-height: 100%;}
 <br><br>
 <div class="col-md-9">
 <div class="row text" style="margin: 1%">
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1>
+</h1>
+<div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
+<h2>
+25 août 2020
+</h2>
 <div class="row">
 <div style="text-align: center">
-<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%></p>
+<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.png" title="What&#39;s up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" /></p>
 </div>
 </div>
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
-<h1 class="tabset tabset-fade tabset-pills"></h1>
-<!--## Professors 
-
-<div class="row">
-<div class="column left">
-  <img src="" style="width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="width:84%">
-</div>
-
-<div class="column right">
-  <img src="" style="padding: 0px; width:84%; border-bottom:5px">
-<br><br>
-  <img src="" style="padding: 0px; width:84%">
-</div>
-
-</div>-->
-<div id="august-25th-2020" class="section level2 tabset tabset-fade tabset-pills">
-<h2 class="tabset tabset-fade tabset-pills">August 25<sup>th</sup> 2020</h2>
+<div id="section-2" class="section level3">
+<h3>
+La conférence
+</h3>
 <div class="row" style="text-align: justify">
 <center>
 <strong>Comment la science a vécu et s’est adaptée à la pandémie?</strong>
@@ -452,9 +453,11 @@ Université de Sherbrooke, Canada
 </figure>
 <!-- blank line -->
 </div>
+</div>
 <!--
 ### Inscriptions
-
+<div id="section-4" class="section level3">
+<h3>Inscriptions</h3>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -510,10 +513,12 @@ Université de Sherbrooke, Canada
 
 </form>
 </div>
--->
 </div>
-<div id="post-conference-survey" class="section level2">
-<h2>Post-conference survey</h2>
+-->
+<div id="section-3" class="section level3">
+<h3>
+Enquête post-conférence
+</h3>
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 <fieldset>
@@ -551,6 +556,7 @@ Université de Sherbrooke, Canada
 </div>
 </div>
 </div>
+</div>
 <div class="col-md-3">
 <div class="row">
 <span>
@@ -577,7 +583,7 @@ Université de Sherbrooke, Canada
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

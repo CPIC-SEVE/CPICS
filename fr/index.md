@@ -25,11 +25,9 @@ a.twitter-timeline {
   margin-right: auto; 
 }
 
-.main-container{max-width: 1492px;}
-
 .resize {
   border-style: solid;
-  border-width: 0px 10vw;
+  border-width: 0px 5vw;
   border-color: rgba(255, 255, 255, 0)
 }
 
@@ -58,7 +56,6 @@ a.twitter-timeline {
 
 .resize1 {
   padding: 5% 13% 5% 23%; 
-  text-align: center;
 }
 
 @media screen and (max-width: 991px) {
@@ -81,11 +78,6 @@ a.twitter-timeline {
     border-width: 0px 5vw;
     border-color: rgba(255, 255, 255, 0)
   }
-  
-  .twitter-timeline {
-    margin-left: auto;
-    margin-right: auto; 
-  }
 } 
 </style>
 
@@ -94,11 +86,11 @@ a.twitter-timeline {
 
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
-
-<div class="row mx-0 no-gutters main-divs">
-
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
 <br><br>
+<br><br>
+
+<div class="row mx-0 no-gutters">
 
 
 <div class="col-md-9 resize">
@@ -106,8 +98,7 @@ a.twitter-timeline {
 
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
 <img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">
-
-<img src="./images/comite photos/President-2020_Claire.png" alt="Présidente 2020 - Claire Letanneur" class="avatar">
+<img src="./images/comite photos/President-2020_Claire.png" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
 <div style="font-size: 1.5em; font-weight: bold"><center>La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</div></center>
 <br>
