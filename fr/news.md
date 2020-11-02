@@ -218,7 +218,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div>
-<p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui dû se retirer du comité.</p>
+<p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui a dû se retirer du comité.</p>
 
 <p>**_Félicitation à vous deux !_**</p>
 

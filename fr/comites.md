@@ -1,7 +1,7 @@
 ---
-title: '<span style="display:none">Comités</span>'
+title: '<span style="display:none">Comité</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-Nom: "Comités"
+Nom: "Comité"
 output:
   html_document
 ---
@@ -80,7 +80,7 @@ thead {
 
 # &nbsp; {.tabset .tabset-fade .tabset-pills} 
 
-## Description of the Fonctions
+## Description des Fonctions
 
 ### **Présidence**
 
@@ -88,11 +88,13 @@ Le/a président(e) dirige les délibérations, maintient l'ordre et le décorum,
  
 ### **Vice-Présidence**
 
-Le/a vice-président(e), avec le/a président(e), veille au bon déroulement du calendrier du CPICS et aide chacun des autres secteurs en cas de nécessité. Il/Elle remplit les fonctions du/de la président(e) dans les assemblées en cas d'absence ou autre empêchement de celui-ci; c'est lui qui est généralement appelé à présider les réunions de l'assemblée lorsqu'il/elle siège en comité plénier.
+Le/a vice-président(e), avec le/a président(e), veille au bon déroulement du calendrier du CPICS et aide chacun des autres secteurs en cas de nécessité. Il/Elle remplit les fonctions du/de la président(e) dans les assemblées en cas d'absence ou autre empêchement de celui-ci/celle-ci; c'est lui qui est généralement appelé à présider les réunions de l'assemblée lorsqu'il/elle siège en comité plénier.
 
 ### **Secrétaires**
 
-Le/a secrétaire rédige, dans les deux langues officielles du CPICS, et signe les procès-verbaux des assemblées générales, régulières, spéciales et du Conseil exécutif qu'il/elle soumet ensuite à l'approbation de l'assemblée alors que le/a président(e) de la séance où ils sont adoptés les confirme de sa signature en indiquant la date de cette confirmation. Il/elle doit préparer l'ordre du jour qui sera accepté par la présidence et disponibiliser aux membres avant l’assemblée. Il/elle communiquera aux membres les rapports des comités, les propositions et autres documents officiels dont il/elle a la garde. Le/a secrétaire sera responsable aussi pour la gestion de ces documents.
+Le/a secrétaire rédige, dans les deux langues officielles du CPICS, et signe les procès-verbaux des assemblées générales, régulières, spéciales et du Conseil exécutif. Ces procès-verbaux sont soumises ensuite à l'approbation de l'assemblée. Le/a président(e) de la séance où ils sont adoptés les confirme avec signature en indiquant la date de cette confirmation. 
+
+Le/a secrétaire doit aussi préparer l'ordre du jour qui sera accepté par la présidence et disponibilisé aux membres avant l’assemblée. Il/elle communiquera aux membres les rapports des comités, les propositions et autres documents officiels dont il/elle a la garde. Le/a secrétaire sera responsable aussi pour la gestion de ces documents.
 
 ### **Vice-Présidence aux Communications**
 
@@ -106,7 +108,7 @@ Il/elle sera en charge de la création, de la gestion et de la mise à jour de l
 
 Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter un rapport des finances lorsqu'il y a lieu de prélever des fonds et d'en disposer. En cas de nécessité, il/elle sera responsable de rechercher et contacter des partenaires potentiels pour obtenir des fonds supplémentaires lors d’activité du CPICS. Il/elle doit collaborer étroitement avec le/a vice-président(e) aux communications, le président et le/a vice-président(e).
 
-## Current
+## Actuel
 
 ![](images/comite photos/comite_2020_new.jpg) 
 
@@ -128,7 +130,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 <th scope="row">Vice-Présidence</th><td>[Teura Barff]</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Présidence of Communications</th><td>[Jennifer Paillassa]</td>
+<th scope="row" rowspan="2">Vice-Présidence aux Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
@@ -158,7 +160,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 </table>
 
 
-## Past {.tabset .tabset-pill}
+## Passé {.tabset .tabset-pill}
 
 ### 2020
 
@@ -186,7 +188,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 <th scope="row">Vice-Présidence</td><td>[Teura Barff]</th>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Présidence of Communications</th><td>[Jennifer Paillassa]</td>
+<th scope="row" rowspan="2">Vice-Présidence aux Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
 <td>[Marianne Bessette]</td><td>Université de Montréal</td>
@@ -236,7 +238,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 <th scope="row" rowspan="1">Vice-Présidence</th><td>[Claire Letanneur]</td><td rowspan="2">Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-Présidence of Communications</th><td>[Teura Barff]</td>
+<th scope="row" rowspan="2">Vice-Présidence aux Communications</th><td>[Teura Barff]</td>
 </tr>
 <tr>
 <td>[Matthieu Glanowski]</td><td>Université de Sherbrooke</td>

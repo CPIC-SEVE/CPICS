@@ -11,7 +11,7 @@ navbar:
       href: symposia.html
     - text: "News"
       href: news.html
-    - text: "Committees"
+    - text: "Committee"
       href: comites.html
   right:
     - text: "FR"

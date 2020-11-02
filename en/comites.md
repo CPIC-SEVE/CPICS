@@ -1,7 +1,7 @@
 ---
-title: '<span style="display:none">Committees</span>'
+title: '<span style="display:none">Committee</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-name: "Committees"
+name: "Committee"
 output:
   html_document
 ---
