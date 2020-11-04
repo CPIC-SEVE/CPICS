@@ -222,7 +222,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ###  2019
 
-![](images/comite photos/comite_2019.jpg)
+![](images/comite photos/comite_2019.png)
 
 <br>
 

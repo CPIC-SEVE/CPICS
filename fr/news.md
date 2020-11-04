@@ -324,7 +324,7 @@ Restez à l’affût pour plus d’informations sur le symposium, mais aussi pou
 En attendant nous vous laissons avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
 </div>
 
-<a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
+<a href="comites.html"><img src="images/comite photos/comite_2019.png" style="width: 75%; display:block; margin-left: auto; margin-right: auto"></a>
 
 </div>
 

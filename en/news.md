@@ -325,7 +325,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 
 </div>
 
-<a href="comites.html"><img src="images/comite photos/comite_2019.jpg" style="display:block; margin-left: auto; margin-right: auto"></a>
+<a href="comites.html"><img src="images/comite photos/comite_2019.png" style="width: 75%; display:block; margin-left: auto; margin-right: auto"></a>
 
 </div>
 

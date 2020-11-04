@@ -1,7 +1,7 @@
 ---
 title: '<span style="display:none">Comité</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-Nom: "Comité"
+name: "Comité"
 output:
   html_document
 ---
@@ -12,12 +12,11 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta Nom="msapplication-TileColor" content="#da532c">
-<meta Nom="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
-<meta Nom="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./column_text_style.css">
-
 <style>
 table {
   font-family: arial, sans-serif;
@@ -218,7 +217,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 
 ###  2019
 
-![](images/comite photos/comite_2019.jpg)
+![](images/comite photos/comite_2019.png)
 
 <br>
 
