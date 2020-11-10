@@ -109,6 +109,11 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
   border:1px solid #ddd
 }
 
+/* Styles for section anchors */
+a.anchor-section {margin-left: 10px; visibility: hidden; color: inherit;}
+a.anchor-section::before {content: '#';}
+.hasAnchor:hover a.anchor-section {visibility: hidden;}
+ul > li > .anchor-section {display: none;}
 
 .tab-content>.tab-pane{display:none}
 .tab-content>.active{display:block}

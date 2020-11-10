@@ -17,14 +17,43 @@ output:
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./column_text_style.css">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="./column_text_style.css">
 
 <style>
-iframe { max-width: 85vw; height: 46.25vw}
+iframe { 
+  width: 100%; 
+  height: 40vw; 
+  margin-left: auto; 
+  margin-right: auto; 
+  display: block
+  }
+  
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
 </style>
 
+<script>
+window.onscroll = function() {myFunction()};
 
+var sidebar = document.getElementById("sidebar");
+var sticky = twitter_bar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    sidebar.classList.add("sticky")
+  } else {
+    sidebar.classList.remove("sticky");
+  }
+}
+</script>
 </head>
 
 <div class="container-fluid">
@@ -36,7 +65,7 @@ iframe { max-width: 85vw; height: 46.25vw}
 <br><br><br><br><br>
 <div class="col-md-3" style="float:right">
 
-<div class="row">
+<div class="row" >
 <span> <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr">
@@ -47,7 +76,9 @@ iframe { max-width: 85vw; height: 46.25vw}
 </a>
 </div>
 
+<div id="sidebar">
 <a class="twitter-timeline" data-height=800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 </div>
 
@@ -61,6 +92,75 @@ iframe { max-width: 85vw; height: 46.25vw}
 
 ## 2020
 
+### 2020-11-10
+
+Prochain webinar Synbio Canada, organisé par une de nos membres, [Fatima Awwad].
+
+[Inscriptions](https://www.synbiocanada.org/webinar?fbclid=IwAR0UzO2pRipx5sGNU_XaTmMth2y2Ie36ga0YuB1FaoL6MGCdlH2WdkbLL0k)
+
+<center>
+![](./images/news/synbio_1.jpg)
+![](./images/news/synbio_2.jpg)
+</center>
+
+<br><br>
+
+### 2020-11-06
+
+Felicitations à [Karen Cristine Goncalves], notre secrétaire, pour son preprint sur des effecteurs candidates des champignons. 
+
+Bon travail!
+
+Preprint: [Differential alteration of plant functions by homologous fungal candidate effectors](https://www.biorxiv.org/content/10.1101/2020.10.30.363010v1)
+
+<br><br>
+
+### 2020-11-05 
+
+Félicitations à [Fadoua Dhaouadi], [Fatima Awwad] et [Andrew Diamond] pour la publication de cette review scientifique sur les Diatomées.
+
+Premier papier pour Fadoua Dhaouadi, ça se fête!
+
+Papier: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</i> as a model for producing high-added value molecules](https://doi.org/10.4236/ajps.2020.1110118)
+
+<br><br>
+
+### 2020-10-27
+
+Aujourd'hui, [Romaric](https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/) a pratiqué sa présentation pour [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), où il représentera l'Université de Sherbrooke.
+
+Suivez la [finale](https://www.facebook.com/events/662935087680358/?__cft__[0]=AZXNWtUJCyabQaszn7XJsgAxsRqUxaDbIQDJgpYKHlppwZhK9ObJmIhVBBh8JEnGpfa1fqzZZDRt1vBboYo7xpZxCB7OuQUAeMohCwbNwSpP1D6W-Qb-eHGUd3RXaiYHPt1GhsTbOt20HDDoREZBi7sP&__tn__=-UK-R) le 19 novembre.
+
+
+![](./images/news/romaric_mt180.png)
+
+<br><br>
+
+### 2020-10-24
+
+Soumis par ses étudiants, les laboratoires des [Pr. Desgagné-Penix](https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/) et [Pr. Germain](https://www.researchgate.net/profile/Hugo_Germain) ont obtenu le [Prix d'excellence](https://cbie.ca/fr/laureat-e-s-prix-excellence-2020/) du [Bureau Canadien de l'Éducation Internationale](https://cbie.ca/fr/) pour les [politiques d'équité, de diversité et d'inclusion](https://www.youtube.com/watch?v=QPqd4jLihyU&t=3s&ab_channel=uqtr) menées au quotidien.
+
+
+Félicitations!
+<!-- blank line -->
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/QPqd4jLihyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+<br><br>
+
+### 2020-10-02
+
+Nous sommes heureux de vous inviter au Concours d'affiches scientifiques étudiantes 2020 du Centre SÈVE. Cet événement virtuel aura lieu les 25 et 26 novembre 2020.
+Le [portail d’inscription](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/registration/) pour les participants et pour soumettre une communication par affiche est maintenant en ligne. Vous y trouverez aussi toutes les [informations sur l’événement](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/pages).
+
+Au plaisir de vous y voir en grand nombre !
+
+![](./images/news/cs_concours_affiche2020.png)
+
+<br><br>
+
 ### 2020-09-22
 
 
@@ -70,9 +170,10 @@ iframe { max-width: 85vw; height: 46.25vw}
 <div class="col-lg-6">
 <img src="images/news/charles_cs_2.png" alt="Charles presentation">
 </div>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web du Centre SÈVE aujourd'hui, avec Charles Roussin-Léveillée de l'Université de Sherbrooke. Merci à tous les participants!</p>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web du Centre SÈVE aujourd'hui, avec [Charles Roussin-Léveillée] de l'Université de Sherbrooke. Merci à tous les participants!</p>
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
 
+<br><br>
 
 ### 2020-08-17
 
@@ -85,6 +186,8 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
 
+<br><br>
+
 ### 2020-08-14
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</p>
@@ -95,13 +198,14 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="1000" height="536.8958" src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+<iframe src="https://www.youtube.com/embed/QBdYOA0dvRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
 <br><br>
 <span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
 
 </span>
+
 <br><br>
 
 ### 2020-08-10
@@ -194,7 +298,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 
 <div>
-<p>**Fatima Awwad**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
+<p>**[Fatima Awwad]**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
@@ -350,3 +454,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
+[Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
+[Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
+[Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/

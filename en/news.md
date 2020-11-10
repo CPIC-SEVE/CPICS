@@ -21,9 +21,15 @@ output:
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <style>
-iframe { max-width: 85vw; height: 46.25vw}
+iframe { 
+  width: 100%; 
+  height: 40vw; 
+  margin-left: auto; 
+  margin-right: auto; 
+  display: block
+  }
+  
 </style>
-
 
 </head>
 
@@ -60,6 +66,76 @@ iframe { max-width: 85vw; height: 46.25vw}
 # {.tabset .tabset-fade .tabset-pills}
 
 ## 2020
+
+### 2020-11-10
+
+Next Synbio Canada webinar, organized by one of our members, [Fatima Awwad].
+
+[Inscriptions](https://www.synbiocanada.org/webinar?fbclid=IwAR0UzO2pRipx5sGNU_XaTmMth2y2Ie36ga0YuB1FaoL6MGCdlH2WdkbLL0k)
+
+<center>
+![](./images/news/synbio_1.jpg)
+![](./images/news/synbio_2.jpg)
+</center>
+
+<br><br>
+
+### 2020-11-06
+
+Congratulations to [Karen Cristine Goncalves], our secretary, for her preprint about fungal candidate effectors. 
+
+Great work!
+
+Preprint: [Differential alteration of plant functions by homologous fungal candidate effectors](https://www.biorxiv.org/content/10.1101/2020.10.30.363010v1)
+
+<br><br>
+
+### 2020-11-05 
+
+Congratulations to [Fadoua Dhaouadi], [Fatima Awwad] and [Andrew Diamond] for the publication of a scientific review about diatoms.
+
+This is Fadoua Dhaouadi's first paper, something to celebrate!
+
+Review: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</i> as a model for producing high-added value molecules](https://doi.org/10.4236/ajps.2020.1110118)
+
+<br><br>
+
+### 2020-10-27
+
+Today, [Romaric](https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/) practiced his presentation for [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), where he will represent Université de Sherbrooke.
+
+Watch the [finals](https://www.facebook.com/events/662935087680358/?__cft__[0]=AZXNWtUJCyabQaszn7XJsgAxsRqUxaDbIQDJgpYKHlppwZhK9ObJmIhVBBh8JEnGpfa1fqzZZDRt1vBboYo7xpZxCB7OuQUAeMohCwbNwSpP1D6W-Qb-eHGUd3RXaiYHPt1GhsTbOt20HDDoREZBi7sP&__tn__=-UK-R) November 19^th^.
+
+
+![](./images/news/romaric_mt180.png)
+
+<br><br>
+
+### 2020-10-24
+
+Submitted by their students, the laboratories of [Pr. Desgagné-Penix](https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/) et [Pr. Germain](https://www.researchgate.net/profile/Hugo_Germain) won the [Canadian Bureau for International Education](https://cbie.cen/) [Equity, Diversity and Inclusion (EDI) Award](https://cbie.ca/2020-excellence-award-winners/).
+
+
+Congratulations!
+<!-- blank line -->
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/QPqd4jLihyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+<br><br>
+
+### 2020-10-02
+
+We are happy to announce and invite you to Centre SÈVE's Student Poster Competition 2020. This virtual event will take place on November 25^th^ and 26^th^ 2020.
+
+The [registration page](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/registration/) for participants and for submission of posters is now online. There you will find also all the [information about the event](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/pages).
+
+We look forward to seeing you there!
+
+![](./images/news/cs_concours_affiche2020.png)
+
+<br><br>
 
 ### 2020-09-22
 
@@ -351,3 +427,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
+[Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
+[Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
+[Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/

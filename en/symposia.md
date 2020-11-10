@@ -96,7 +96,7 @@ function showSlides(n) {
 <img src="images/symposium 2019/banners/symposium_2019_leena_en.png" style="width: 40em;border-bottom:5px">
 </td>
 <td>
-<img src="images/symposium 2019/banners/symposium_2019_herrerra_en.pn" style="width: 40em;">
+<img src="images/symposium 2019/banners/symposium_2019_herrerra_en.png" style="width: 40em;">
 </td>
 </tr>
 </table>

@@ -80,6 +80,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="container-fluid">
 
 <div class="row">
+
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
 <br><br>
 <div class="col-md-9">
@@ -290,6 +291,132 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 </div>
+
+<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
+<h2>December 2020</h2>
+
+<div class="row">
+<div style="text-align: center">
+
+  
+ </div> 
+</div> 
+
+<div id="section-5" class="section level3">
+<h3>The conference</h3>
+
+<div class="row" style="text-align: justify">
+
+<center> </center>
+
+<center></center>
+
+<center></center>
+
+<br>
+<center></center>
+<br>
+
+
+<div class="col-md-6" style="text-align: center">
+
+<center></center>
+<center></center> 
+
+<center></center> 
+<br>
+
+</div>
+
+<div class="col-md-6" style="text-align: center">
+
+<center></center>
+<center></center> 
+
+<center></center> 
+<br>
+
+</div>
+</div>
+
+
+<div class="col-md-12" style="text-align: center">
+
+<!-- blank line -->
+<figure class="video_container">
+</figure>
+<!-- blank line -->
+
+</div>
+</div>
+
+<div id="section-6" class="section level3">
+<h3>Inscriptions</h3>
+
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration_dec2020" method="POST" data-netlify="false">
+
+<label > First Name:* </label>  
+
+<input type="text" name="First name" placeholder="" required/>
+     <br> <br>
+	 
+<label > Nom / Last Name:* </label> 
+
+<input type="text" name="Last name" placeholder="" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> You are:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor"> Bachelor </option>
+<option value="Maîtrise / Master's"> Master's </option>
+<option value="Doctorat / PhD"> PhD </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician"> Technician </option>
+<option value="Chercheur(e) / Researcher"> Researcher </option>
+<option value="Autre / Other"> Other </option>
+</select>
+
+<div id="div1"></div>
+ 
+<label> For statistical purposes, do you feel more comfortable with a meeting in: </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)">
+<option value="Anglais / English"> English </option>
+<option value="Francais / French"> French </option>
+<option value="Les deux / Both"> Both </option>
+</select>
+
+<input type="hidden" name="_gotcha" />
+ <br> <br>
+
+<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+<input type="submit" value="Soumettre / Submit"/>
+</div>
+
+</form>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -309,6 +436,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
-</div>
 
+</div>
 </div>
