@@ -19,18 +19,6 @@ output:
 <link rel="stylesheet" href="./column_text_style.css">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <meta charset="utf-8">
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-
-<script type="text/javascript">
-function showfield(Occupation_level){
-	if(Occupation_level == 'Autre / Other') {
-		document.getElementById('div1').innerHTML = '<input type="text" name="Other affiliation" id="Other affiliation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;" />';
-	}
-	else {
-		document.getElementById('div1').innerHTML='';
-	}	
-}
-</script>
 
 <style>
 a {color: #ffffff}
@@ -182,19 +170,25 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <label> You are:* </label>
 
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<select name="Occupation_level" id="Occupation level" required>
 <option value="Baccalauréat / Bachelor"> Bachelor </option>
 <option value="Maîtrise / Master's"> Master's </option>
 <option value="Doctorat / PhD"> PhD </option>
 <option value="Postdoc" /> Postdoc </option>
 <option value="Technicien(ne) / Technician"> Technician </option>
 <option value="Chercheur(e) / Researcher"> Researcher </option>
-<option value="Autre / Other"> Other </option>
+<option value="Autre / Other"> Other</option>
 </select>
 
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
 
-<div id="div1"></div>
- <br> <br>
+<label> If "Other", please specify: </label> 
+
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+
+<br> <br>
  
 <input type="hidden" name="_gotcha" />
 
@@ -246,11 +240,12 @@ iframe {max-width: 100%; max-height: 100%;}
 <option value="Postdoc" > Postdoc </option>
 <option value="Technicien(ne) / Technician" > Technician </option>
 <option value="Chercheur(e) / Researcher" > Researcher </option>
-<option value="Autre / Other" > Other </option>
+<option value="Autre / Other"> Other</option>
 </select>
 
-<div id="div1"></div>
- <br> <br>
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
 
 </fieldset>
  
@@ -292,6 +287,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 
+<!---
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
 <h2>December 2020</h2>
 
@@ -343,9 +339,11 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-12" style="text-align: center">
 
 <!-- blank line -->
+<!---
 <figure class="video_container">
 </figure>
 <!-- blank line -->
+<!---
 
 </div>
 </div>
@@ -364,7 +362,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <input type="text" name="First name" placeholder="" required/>
      <br> <br>
 	 
-<label > Nom / Last Name:* </label> 
+<label > Last Name:* </label> 
 
 <input type="text" name="Last name" placeholder="" required/><br> <br>
     
@@ -381,20 +379,22 @@ iframe {max-width: 100%; max-height: 100%;}
 <label> You are:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor"> Bachelor </option>
-<option value="Maîtrise / Master's"> Master's </option>
-<option value="Doctorat / PhD"> PhD </option>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
 <option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician"> Technician </option>
-<option value="Chercheur(e) / Researcher"> Researcher </option>
-<option value="Autre / Other"> Other </option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other"> Other</option>
 </select>
 
-<div id="div1"></div>
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
  
-<label> For statistical purposes, do you feel more comfortable with a meeting in: </label>
+<label> For statistical purposes, do you feel prefer meetings in: </label>
 
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)">
+<select name="Prefered_language" id="Prefered language">
 <option value="Anglais / English"> English </option>
 <option value="Francais / French"> French </option>
 <option value="Les deux / Both"> Both </option>
@@ -410,13 +410,14 @@ iframe {max-width: 100%; max-height: 100%;}
  <br>
 
 <div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre / Submit"/>
+<input type="submit" value="Submit"/>
 </div>
 
 </form>
 </div>
 </div>
 </div>
+-->
 </div>
 </div>
 </div>
