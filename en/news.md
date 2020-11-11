@@ -53,7 +53,7 @@ iframe {
 </a>
 </div>
 
-<a class="twitter-timeline" data-height=800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height=2100px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
@@ -94,7 +94,7 @@ Preprint: [Differential alteration of plant functions by homologous fungal candi
 
 Congratulations to [Fadoua Dhaouadi], [Fatima Awwad] and [Andrew Diamond] for the publication of a scientific review about diatoms.
 
-This is Fadoua Dhaouadi's first paper, something to celebrate!
+We specially congratulate Fadoua Dhaouadi's for her first paper!
 
 Review: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</i> as a model for producing high-added value molecules](https://doi.org/10.4236/ajps.2020.1110118)
 
