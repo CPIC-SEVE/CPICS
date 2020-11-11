@@ -94,7 +94,7 @@ Preprint: [Differential alteration of plant functions by homologous fungal candi
 
 Congratulations to [Fadoua Dhaouadi], [Fatima Awwad] and [Andrew Diamond] for the publication of a scientific review about diatoms.
 
-We specially congratulate Fadoua Dhaouadi's for her first paper!
+We specially congratulate Fadoua Dhaouadi for her first paper!
 
 Review: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</i> as a model for producing high-added value molecules](https://doi.org/10.4236/ajps.2020.1110118)
 
