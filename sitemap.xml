@@ -2,49 +2,49 @@
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
 <loc>https://cpics.netlify.app/</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>1.00</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/index.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/index.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/index.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/index.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/fr/about_us.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/about_us.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/about_us.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/about_us.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/fr/whats_up.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/whats_up.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/whats_up.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/whats_up.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/fr/symposia.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/symposia.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/symposia.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/symposia.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/fr/news.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/news.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/news.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/news.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://cpics.netlify.app/fr/comites.html</loc>
-<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/comites.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/fr/comites.html"/>
 <xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/comites.html"/>
 <lastmod>2020-11-25T20:29:54+00:00</lastmod>
 <priority>0.80</priority>
