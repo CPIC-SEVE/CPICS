@@ -93,20 +93,21 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify">
 
-<center>**Comment la science a vécu et s’est adaptée à la pandémie?**</center>
+<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.</center>
 
-<center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
+<center>Mais... Comment vont les scientifiques du monde d'aujourd'hui?</center>
 
-<center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
+<center>Les chercheurs Canadiens ont-il abordés différemment ces problématiques des autres chercheurs à travers le monde?</center>
 
-<br>
-<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</center>
+<center>La pandémie a t-elle enrichi leurs points vues scientifique?</center>
+
+<center>La seconde édition de la What's Up Conférence rencontre deux chercheurs pour discuter de leurs recherches, de leurs enjeux et de leurs points de vue pour la suite<center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
+<center> <img src="images/whats up 2020/Eddy_dec.png" alt=""></a></center>
 <center> **Dr. Eddy L. Ngonkeu**</center> 
 
 <center> Université de Yaoundé </center> 
@@ -116,7 +117,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
+<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>
 <center> **Dr. Tanya Arseneault**</center> 
 
 <center>Agriculture et Agroalimentaire Canada</center> 
