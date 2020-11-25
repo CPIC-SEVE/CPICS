@@ -86,6 +86,12 @@ thead {
 
 The president directs the deliberations, maintains order and decorum, receives the proposals and submits them to the assembly. He/She also ensures that the CSIPC schedule runs smoothly and helps each of the other sectors if necessary. This person represents the committee during each of the activities in which CSIPC participates. The president calls the vote and proclaims the result, signs the official documents and confirms the minutes of the previous sessions approved by the assembly. In the event of parity in the last ballot, it is usually given the casting vote in order to resolve a situation which would otherwise appear insoluble. In the event of an appeal from one of its decisions, it is entitled to be heard first on the reasons for its decision.
 
+> <b><i>I wanted to do more for the scientific community. I met great people, developed organizational skills and learn more about academic processes related to research. Working with this great team, brings me so much!</b>
+<br>
+> Claire Letanneur, President 2020</i>
+
+<br>
+
  
 ### **Vice-President**
 
