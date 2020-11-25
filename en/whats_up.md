@@ -410,7 +410,7 @@ iframe {max-width: 100%; max-height: 100%;}
  <br>
 
 <div class="column right" style="padding-right: 70%; float: right">
-<center>input type="submit" value="Submit"/></center>
+<center><input type="submit" value="Submit"/></center>
 </div>
 
 </form>
