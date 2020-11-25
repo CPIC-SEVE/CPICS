@@ -287,13 +287,14 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 
-<!---
+
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>December 2020</h2>
+<h2>December 8<sup>th</sup>, 2020</h2>
 
 <div class="row">
 <div style="text-align: center">
 
+<img src="images/whats up 2020/whatsup_Dec_conferences_en.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
   
  </div> 
 </div> 
@@ -303,36 +304,35 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify">
 
-<center> </center>
+<center>**How pandemic impacted science?** </center>
 
-<center></center>
+<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
 
-<center></center>
+<center>How Covid-19 modified research habits? </center>
 
 <br>
-<center></center>
+<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<center></center>
-<center></center> 
+<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
+<center> **Dr. Eddy L. Ngonkeu**</center> 
 
-<center></center> 
+<center> Université de Yaoundé </center> 
 <br>
 
 </div>
 
 <div class="col-md-6" style="text-align: center">
 
-<center></center>
-<center></center> 
+<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
+<center> **Dr. Tanya Arseneault**</center> 
 
-<center></center> 
+<center>Agriculture and Agri-Food Canada</center> 
 <br>
 
-</div>
 </div>
 
 
@@ -343,8 +343,8 @@ iframe {max-width: 100%; max-height: 100%;}
 <figure class="video_container">
 </figure>
 <!-- blank line -->
-<!---
 
+</div>
 </div>
 </div>
 
@@ -410,14 +410,13 @@ iframe {max-width: 100%; max-height: 100%;}
  <br>
 
 <div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Submit"/>
+<center>input type="submit" value="Submit"/></center>
 </div>
 
 </form>
 </div>
 </div>
 </div>
--->
 </div>
 </div>
 </div>
