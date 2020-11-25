@@ -76,6 +76,137 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
+
+<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
+<h2>8 Decembre 2020</h2>
+
+<div class="row">
+<div style="text-align: center">
+<img src="images/whats up 2020/whatsup_Dec_conferences_fr.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%>
+
+  
+ </div> 
+</div> 
+
+<div id="section-5" class="section level3">
+<h3>The conference</h3>
+
+<div class="row" style="text-align: justify">
+
+<center>**Comment la science a vécu et s’est adaptée à la pandémie?**</center>
+
+<center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
+
+<center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
+
+<br>
+<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</center>
+<br>
+
+
+<div class="col-md-6" style="text-align: center">
+
+<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
+<center> **Dr. Eddy L. Ngonkeu**</center> 
+
+<center> Université de Yaoundé </center> 
+<br>
+
+</div>
+
+<div class="col-md-6" style="text-align: center">
+
+<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
+<center> **Dr. Tanya Arseneault**</center> 
+
+<center>Agriculture et Agroalimentaire Canada</center> 
+<br>
+
+</div>
+</div>
+
+
+<div class="col-md-12" style="text-align: center">
+
+<!-- blank line -->
+<figure class="video_container">
+</figure>
+<!-- blank line -->
+
+</div>
+</div>
+
+<div id="section-6" class="section level3">
+<h3>Inscriptions</h3>
+
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration_dec2020" method="POST" data-netlify="false">
+
+<label > Prénom :* </label>  
+
+<input type="text" name="First name" placeholder="" required/>
+     <br> <br>
+	 
+<label > Nom :* </label> 
+
+<input type="text" name="Last name" placeholder="" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> Vous êtes:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other"> Autre</option>
+</select>
+
+<label> Autre: </label>
+
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+ <br> <br>
+ 
+<label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
+
+<select name="Prefered_language" id="Prefered language">
+<option value="Anglais / English"> Anglais </option>
+<option value="Francais / French"> Francais </option>
+<option value="Les deux / Both"> Les deux </option>
+</select>
+
+<input type="hidden" name="_gotcha" />
+ <br> <br>
+
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+<input type="submit" value="Soumettre"/>
+</div>
+
+</form>
+</div>
+</div>
+</div>
+
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
 <h2>25 août 2020</h2>
 
@@ -279,135 +410,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
-<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>8 Decembre 2020</h2>
 
-<div class="row">
-<div style="text-align: center">
-<img src="images/whats up 2020/whatsup_Dec_conferences_fr.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%>
-
-  
- </div> 
-</div> 
-
-<div id="section-5" class="section level3">
-<h3>The conference</h3>
-
-<div class="row" style="text-align: justify">
-
-<center>**Comment la science a vécu et s’est adaptée à la pandémie?**</center>
-
-<center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
-
-<center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
-
-<br>
-<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</center>
-<br>
-
-
-<div class="col-md-6" style="text-align: center">
-
-<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
-<center> **Dr. Eddy L. Ngonkeu**</center> 
-
-<center> Université de Yaoundé </center> 
-<br>
-
-</div>
-
-<div class="col-md-6" style="text-align: center">
-
-<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
-<center> **Dr. Tanya Arseneault**</center> 
-
-<center>Agriculture et Agroalimentaire Canada</center> 
-<br>
-
-</div>
-</div>
-
-
-<div class="col-md-12" style="text-align: center">
-
-<!-- blank line -->
-<figure class="video_container">
-</figure>
-<!-- blank line -->
-
-</div>
-</div>
-
-<div id="section-6" class="section level3">
-<h3>Inscriptions</h3>
-
-
-<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
-
-
-<form name="CPICS_whatsup_registration_dec2020" method="POST" data-netlify="false">
-
-<label > Prénom :* </label>  
-
-<input type="text" name="First name" placeholder="" required/>
-     <br> <br>
-	 
-<label > Nom :* </label> 
-
-<input type="text" name="Last name" placeholder="" required/><br> <br>
-    
-<label > Affiliation:* </label>  
-
-<input type="text" name="Affiliation" placeholder="" required/><br> <br>
-
-<label>Email:* </label> 
-
-<input type="text" name="Email" placeholder="" required/><br> <br>
-
-<input type="hidden" name="_subject" value="inscription" />
-
-<label> Vous êtes:* </label>
-
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
-<option value="Maîtrise / Master's" > Maîtrise </option>
-<option value="Doctorat / PhD" > Doctorat </option>
-<option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
-<option value="Autre / Other"> Autre</option>
-</select>
-
-<label> Autre: </label>
-
-<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
- <br> <br>
- 
-<label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
-
-<select name="Prefered_language" id="Prefered language">
-<option value="Anglais / English"> Anglais </option>
-<option value="Francais / French"> Francais </option>
-<option value="Les deux / Both"> Les deux </option>
-</select>
-
-<input type="hidden" name="_gotcha" />
- <br> <br>
-
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.
-  <input name="agree_recording" type="checkbox" checked="checked" required>
-  <span class="checkmark"></span>
-</label>
- <br>
-
-<div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre"/>
-</div>
-
-</form>
-</div>
-</div>
-</div>
 
 </div>
 </div>

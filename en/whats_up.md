@@ -79,6 +79,139 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
+
+<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
+<h2>December 8<sup>th</sup>, 2020</h2>
+
+<div class="row">
+<div style="text-align: center">
+
+<img src="images/whats up 2020/whatsup_Dec_conferences_en.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
+  
+ </div> 
+</div> 
+
+<div id="section-5" class="section level3">
+<h3>The conference</h3>
+
+<div class="row" style="text-align: justify">
+
+<center>**How pandemic impacted science?** </center>
+
+<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
+
+<center>How Covid-19 modified research habits? </center>
+
+<br>
+<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
+<br>
+
+
+<div class="col-md-6" style="text-align: center">
+
+<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
+<center> **Dr. Eddy L. Ngonkeu**</center> 
+
+<center> Université de Yaoundé </center> 
+<br>
+
+</div>
+
+<div class="col-md-6" style="text-align: center">
+
+<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
+<center> **Dr. Tanya Arseneault**</center> 
+
+<center>Agriculture and Agri-Food Canada</center> 
+<br>
+
+</div>
+
+
+<div class="col-md-12" style="text-align: center">
+
+<!-- blank line -->
+<!---
+<figure class="video_container">
+</figure>
+<!-- blank line -->
+
+</div>
+</div>
+</div>
+
+<div id="section-6" class="section level3">
+<h3>Inscriptions</h3>
+
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration_dec2020" method="POST" data-netlify="false">
+
+<label > First Name:* </label>  
+
+<input type="text" name="First name" placeholder="" required/>
+     <br> <br>
+	 
+<label > Last Name:* </label> 
+
+<input type="text" name="Last name" placeholder="" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> You are:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other"> Other</option>
+</select>
+
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
+ 
+<label> For statistical purposes, do you feel prefer meetings in: </label>
+
+<select name="Prefered_language" id="Prefered language">
+<option value="Anglais / English"> English </option>
+<option value="Francais / French"> French </option>
+<option value="Les deux / Both"> Both </option>
+</select>
+
+<input type="hidden" name="_gotcha" />
+ <br> <br>
+
+<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+
+<center><input type="submit" value="Submit"/></center>
+
+</div>
+
+</form>
+</div>
+</div>
+</div>
+
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
 <h2>August 25^th^ 2020</h2>
 
@@ -288,135 +421,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 
-<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>December 8<sup>th</sup>, 2020</h2>
 
-<div class="row">
-<div style="text-align: center">
-
-<img src="images/whats up 2020/whatsup_Dec_conferences_en.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
-  
- </div> 
-</div> 
-
-<div id="section-5" class="section level3">
-<h3>The conference</h3>
-
-<div class="row" style="text-align: justify">
-
-<center>**How pandemic impacted science?** </center>
-
-<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
-
-<center>How Covid-19 modified research habits? </center>
-
-<br>
-<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
-<br>
-
-
-<div class="col-md-6" style="text-align: center">
-
-<!--<center> <a href=""><img src="images/whats up 2020/" alt=""></a></center>-->
-<center> **Dr. Eddy L. Ngonkeu**</center> 
-
-<center> Université de Yaoundé </center> 
-<br>
-
-</div>
-
-<div class="col-md-6" style="text-align: center">
-
-<!--<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.jpg" alt=""></a></center>-->
-<center> **Dr. Tanya Arseneault**</center> 
-
-<center>Agriculture and Agri-Food Canada</center> 
-<br>
-
-</div>
-
-
-<div class="col-md-12" style="text-align: center">
-
-<!-- blank line -->
-<!---
-<figure class="video_container">
-</figure>
-<!-- blank line -->
-
-</div>
-</div>
-</div>
-
-<div id="section-6" class="section level3">
-<h3>Inscriptions</h3>
-
-
-<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
-
-
-<form name="CPICS_whatsup_registration_dec2020" method="POST" data-netlify="false">
-
-<label > First Name:* </label>  
-
-<input type="text" name="First name" placeholder="" required/>
-     <br> <br>
-	 
-<label > Last Name:* </label> 
-
-<input type="text" name="Last name" placeholder="" required/><br> <br>
-    
-<label > Affiliation:* </label>  
-
-<input type="text" name="Affiliation" placeholder="" required/><br> <br>
-
-<label>Email:* </label> 
-
-<input type="text" name="Email" placeholder="" required/><br> <br>
-
-<input type="hidden" name="_subject" value="inscription" />
-
-<label> You are:* </label>
-
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" > Bachelor </option>
-<option value="Maîtrise / Master's" > Master's </option>
-<option value="Doctorat / PhD" > PhD </option>
-<option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician" > Technician </option>
-<option value="Chercheur(e) / Researcher" > Researcher </option>
-<option value="Autre / Other"> Other</option>
-</select>
-
-<label> Other: </label>
-<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
-<br><br>
- 
-<label> For statistical purposes, do you feel prefer meetings in: </label>
-
-<select name="Prefered_language" id="Prefered language">
-<option value="Anglais / English"> English </option>
-<option value="Francais / French"> French </option>
-<option value="Les deux / Both"> Both </option>
-</select>
-
-<input type="hidden" name="_gotcha" />
- <br> <br>
-
-<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
-  <input name="agree_recording" type="checkbox" checked="checked" required>
-  <span class="checkmark"></span>
-</label>
- <br>
-
-<div class="column right" style="padding-right: 70%; float: right">
-<center><input type="submit" value="Submit"/></center>
-</div>
-
-</form>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
