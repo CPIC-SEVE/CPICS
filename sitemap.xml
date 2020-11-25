@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+
+<url>
+<loc>https://cpics.netlify.app/</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/"/>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/index.html</loc>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://cpics.netlify.app/index.html"/>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/index.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/index.html"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/fr/about_us.html</loc>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/about_us.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/about_us.html"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/fr/whats_up.html</loc>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/whats_up.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/whats_up.html"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/fr/symposia.html</loc>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/symposia.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/symposia.html"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/fr/news.html</loc>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/news.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/news.html"/>
+</url>
+
+<url>
+<loc>https://cpics.netlify.app/fr/comites.html</loc>
+<xhtml:link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/comites.html"/>
+<xhtml:link rel="alternate" hreflang="en-en" href="https://cpics.netlify.app/en/comites.html"/>
+</url>
+</urlset>
