@@ -1,0 +1,14 @@
+https://cpics.netlify.app/
+https://cpics.netlify.app/index.html
+https://cpics.netlify.app/fr/index.html
+https://cpics.netlify.app/en/index.html
+https://cpics.netlify.app/fr/about_us.html
+https://cpics.netlify.app/en/about_us.html
+https://cpics.netlify.app/fr/whats_up.html
+https://cpics.netlify.app/en/whats_up.html
+https://cpics.netlify.app/fr/news.html
+https://cpics.netlify.app/en/news.html
+https://cpics.netlify.app/fr/symposia.html
+https://cpics.netlify.app/en/symposia.html
+https://cpics.netlify.app/fr/comites.html
+https://cpics.netlify.app/en/comites.html
