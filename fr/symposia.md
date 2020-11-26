@@ -60,7 +60,7 @@ function showSlides(n) {
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
 <br><br>
 
@@ -75,7 +75,7 @@ function showSlides(n) {
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
 <h2>**1^er^ Symposium annuel international du Centre SÈVE**</h2>
 
-<img src="images/symposium 2019/banners/symposium_2019_banner_fr.jpg" style="display: block;  margin-left: auto;  margin-right: auto; width: 70%">
+<img src="images/symposium 2019/banners/symposium_2019_banner_fr.webp" style="display: block;  margin-left: auto;  margin-right: auto; width: 70%">
 <img src="images/symposium 2019/photos/symposium_2019_photos_main.png" style="display: block;  margin-left: auto; margin-right: auto; width: 70%">
 
 <div id="section-2" class="section level3">
@@ -83,7 +83,7 @@ function showSlides(n) {
 
 
 <div class="row mx-0 no-gutters"><center>
-![](images/symposium 2019/banners/symposium_2019_agenda_fr.jpg){width=50%}</center>
+![](images/symposium 2019/banners/symposium_2019_agenda_fr.webp){width=50%}</center>
 </div>
 </div>
 <div id="section-3" class="section level3">
@@ -93,10 +93,10 @@ function showSlides(n) {
 <table style=" display: block;  margin-left: auto;  margin-right: auto;">
 <tr>
 <td>
-<img src="images/symposium 2019/banners/symposium_2019_leena_fr.png" style="width: 40em;border-bottom:5px">
+<img src="images/symposium 2019/banners/symposium_2019_leena_fr.webp" style="width: 40em;border-bottom:5px">
 </td>
 <td>
-<img src="images/symposium 2019/banners/symposium_2019_herrerra_fr.png" style="width: 40em;">
+<img src="images/symposium 2019/banners/symposium_2019_herrerra_fr.webp" style="width: 40em;">
 </td>
 </tr>
 </table>
@@ -110,21 +110,21 @@ function showSlides(n) {
 
 <div class="mySlides">
 <div class="numbertext">1 / 18</div>
-<img src="images/symposium 2019/photos/symposium_2019_photos5.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/symposium_2019_photos5.webp" style="display: block; margin-left: auto; margin-right: auto;">
 <p>De la gauche à la droite: Dr. Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-présidente du CPICS 2019), Dr. Alfredo Herrera Estrella (Conférencier invite), Dr. Leena Tripathi (Conférencier invitée), Guilherme Silva-Martins (Président du CPICS 2019).</p>
 
 </div>
 
 <div class="mySlides">
 <div class="numbertext">2 / 18</div>
-<img src="images/symposium 2019/photos/symposium_2019_photos4.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/symposium_2019_photos4.webp" style="display: block; margin-left: auto; margin-right: auto;">
 <p>Devant: Ingrid Berenice Sanchez Carrillo (Vice-présidente de Réseautage du CPICS 2019) présentant Dr. Leena Tripathi.</p>
 
 </div>
 
 <div class="mySlides">
 <div class="numbertext">3 / 18</div>
-<img src="images/symposium 2019/photos/symposium_2019_photos6.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/symposium_2019_photos6.webp" style="display: block; margin-left: auto; margin-right: auto;">
 <p>De la gauche à la droite: Peter Moffett (Président du Centre SÈVE), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Claire Letanneur (Vice-présidente du CPICS 2019), Dominique Michaud (Conférencier invite), Jaswinder Singhi (Conférencier invite), Guilherme Silva-Martins (Président du CPICS 2019)</p>
 
 
@@ -132,7 +132,7 @@ function showSlides(n) {
 
 <div class="mySlides">
 <div class="numbertext">4 / 18</div>
-<img src="images/symposium 2019/photos/symposium_2019_photos2.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/symposium_2019_photos2.webp" style="display: block; margin-left: auto; margin-right: auto;">
 <p>De gauche a droite: Claire Letanneur (Vice-présidente du CPICS 2019), Romaric Armel Mouafo Tchinda (Vice-président de Réseautage du CPICS 2019), Mathieu Glanowski (Vice-président de Communication du CPICS 2019).</p>
 
 
@@ -140,74 +140,74 @@ function showSlides(n) {
 
 <div class="mySlides">
 <div class="numbertext">5 / 18</div>
-<img src="images/symposium 2019/photos/symposium_2019_photos.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/symposium_2019_photos.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">6 / 18</div>
-<img src="images/symposium 2019/photos/photo_1.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_1.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">7 / 18</div>
-<img src="images/symposium 2019/photos/photo_2.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_2.webp" style="display: block; margin-left: auto; margin-right: auto;">
 
 </div>
 
 <div class="mySlides">
 <div class="numbertext">8 / 18</div>
-<img src="images/symposium 2019/photos/photo_3.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_3.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">9 / 18</div>
-<img src="images/symposium 2019/photos/photo_4.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_4.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">10 / 18</div>
-<img src="images/symposium 2019/photos/photo_5.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_5.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">11 / 18</div>
-<img src="images/symposium 2019/photos/photo_6.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_6.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">12 / 18</div>
-<img src="images/symposium 2019/photos/photo_7.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_7.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides" style=" margin-left: auto; margin-right: auto;">
 <div class="numbertext">13 / 18</div>
-<img src="images/symposium 2019/photos/photo_8.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_8.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">14 / 18</div>
-<img src="images/symposium 2019/photos/photo_9.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_9.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">15 / 18</div>
-<img src="images/symposium 2019/photos/photo_10.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_10.webp" style="display: block; margin-left: auto; margin-right: auto;">
 
 </div>
 
 <div class="mySlides">
 <div class="numbertext">16 / 18</div>
-<img src="images/symposium 2019/photos/photo_11.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_11.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">17 / 18</div>
-<img src="images/symposium 2019/photos/photo_12.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_12.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="mySlides">
 <div class="numbertext">18 / 18</div>
-<img src="images/symposium 2019/photos/photo_13.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="images/symposium 2019/photos/photo_13.webp" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <center><a class="prev" onclick="plusSlides(-1)" style="font-size: 2.5em">&#10094;</a>
@@ -216,75 +216,75 @@ function showSlides(n) {
 <div class="row-slides">
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos5.jpg" style="width:100%" onclick="currentSlide(1)">
+<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos5.webp" style="width:100%" onclick="currentSlide(1)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos4.jpg" style="width:100%" onclick="currentSlide(2)">
+<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos4.webp" style="width:100%" onclick="currentSlide(2)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos6.jpg" style="width:100%" onclick="currentSlide(3)">
+<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos6.webp" style="width:100%" onclick="currentSlide(3)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos2.jpg" style="width:100%" onclick="currentSlide(4)">
+<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos2.webp" style="width:100%" onclick="currentSlide(4)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos.jpg" style="width:100%" onclick="currentSlide(5)">
+<img class="demo cursor" src="images/symposium 2019/photos/symposium_2019_photos.webp" style="width:100%" onclick="currentSlide(5)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_1.jpg" style="width:100%" onclick="currentSlide(6)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_1.webp" style="width:100%" onclick="currentSlide(6)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_2.jpg" style="width:100%" onclick="currentSlide(7)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_2.webp" style="width:100%" onclick="currentSlide(7)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_3.jpg" style="width:100%" onclick="currentSlide(8)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_3.webp" style="width:100%" onclick="currentSlide(8)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_4.jpg" style="width:100%" onclick="currentSlide(9)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_4.webp" style="width:100%" onclick="currentSlide(9)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_5.jpg" style="width:100%" onclick="currentSlide(10)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_5.webp" style="width:100%" onclick="currentSlide(10)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_6.jpg" style="width:100%" onclick="currentSlide(11)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_6.webp" style="width:100%" onclick="currentSlide(11)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_7.jpg" style="width:100%" onclick="currentSlide(12)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_7.webp" style="width:100%" onclick="currentSlide(12)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_8.jpg" style="width:100%" onclick="currentSlide(13)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_8.webp" style="width:100%" onclick="currentSlide(13)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_9.jpg" style="width:100%" onclick="currentSlide(14)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_9.webp" style="width:100%" onclick="currentSlide(14)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_10.jpg" style="width:100%" onclick="currentSlide(15)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_10.webp" style="width:100%" onclick="currentSlide(15)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_11.jpg" style="width:100%" onclick="currentSlide(16)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_11.webp" style="width:100%" onclick="currentSlide(16)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_12.jpg" style="width:100%" onclick="currentSlide(17)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_12.webp" style="width:100%" onclick="currentSlide(17)">
 </div>
 
 <div class="column" style="width: 16.66%;">
-<img class="demo cursor" src="images/symposium 2019/photos/photo_13.jpg" style="width:100%" onclick="currentSlide(18)">
+<img class="demo cursor" src="images/symposium 2019/photos/photo_13.webp" style="width:100%" onclick="currentSlide(18)">
 </div>
 
 </div>
@@ -296,14 +296,14 @@ function showSlides(n) {
 <h3>Partenaires</h3>
 
 <center>
-<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.png" onclick="myFunction('http://centreseve.recherche.usherbrooke.ca/en')">
+<img style="display:block; padding:15px; width: 50%" src="images/logos/centre_seve.webp" onclick="myFunction('http://centreseve.recherche.usherbrooke.ca/en')">
 </center>
 
-<img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.png" onclick="myFunction('https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/')">
+<img style="display:inline; float:left; padding-left:15px; width: 60%" src="images/symposium 2019/sponsors/image.webp" onclick="myFunction('https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-dappui-a-lengagement-etudiant/')">
 
-<img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium 2019/sponsors/sarsted.png" onclick="myFunction('https://www.sarstedt.com/en/accueil/')">
+<img style="display:inline;  float:left; padding-left:15px; padding-bottom: 20px; width: 40%" src="images/symposium 2019/sponsors/sarsted.webp" onclick="myFunction('https://www.sarstedt.com/en/accueil/')">
 
-<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.png" onclick="myFunction('https://ca.vwr.com/store/')">
+<img style="display:inline;  float:left; padding-left:15px; width: 40%" src="images/symposium 2019/sponsors/vwr_2.webp" onclick="myFunction('https://ca.vwr.com/store/')">
 
 </div>
 </div>
@@ -317,7 +317,7 @@ function showSlides(n) {
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/fr/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/fr/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
 </div>
 

@@ -18,10 +18,10 @@ color: #a4eb34
 }
 
 body {
-background-image: url('images/background/maksym-ivashchenko.jpg'); 
+background-image: url('images/background/maksym-ivashchenko.webp'); 
 background-size: cover; 
-height: 1500px; 
 background-position: center;
+background-repeat: repeat-y;
 }
 
 div.text {
@@ -42,12 +42,6 @@ img.logo {
 display: block; 
 margin-left: auto; 
 margin-right: auto;
-}
-body {
-background-image: url('images/background/maksym-ivashchenko.jpg'); 
-background-size: cover; 
-height: 1500px; 
-background-position: center;
 }
 .main-container{
   max-width: 1492px;

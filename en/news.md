@@ -46,10 +46,10 @@ iframe {
 <span> <p style="font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr">
-<img src="images/logos/centre_seve.png" alt="Centre SEVE logo">
+<img src="images/logos/centre_seve.webp" alt="Centre SEVE logo">
 </a>
 <a href="http://www.frqnt.gouv.qc.ca/en/accueil">
-<img  src="images/logos/FRQNT_blanc(transparent).png">
+<img  src="images/logos/FRQNT_blanc(transparent).webp">
 </a>
 </div>
 
@@ -74,8 +74,8 @@ Next Synbio Canada webinar, organized by one of our members, [Fatima Awwad].
 [Inscriptions](https://www.synbiocanada.org/webinar?fbclid=IwAR0UzO2pRipx5sGNU_XaTmMth2y2Ie36ga0YuB1FaoL6MGCdlH2WdkbLL0k)
 
 <center>
-![](./images/news/synbio_1.jpg)
-![](./images/news/synbio_2.jpg)
+![](./images/news/synbio_1.webp)
+![](./images/news/synbio_2.webp)
 </center>
 
 <br><br>
@@ -107,7 +107,7 @@ Today, [Romaric](https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba2661
 Watch the [finals](https://www.facebook.com/events/662935087680358/?__cft__[0]=AZXNWtUJCyabQaszn7XJsgAxsRqUxaDbIQDJgpYKHlppwZhK9ObJmIhVBBh8JEnGpfa1fqzZZDRt1vBboYo7xpZxCB7OuQUAeMohCwbNwSpP1D6W-Qb-eHGUd3RXaiYHPt1GhsTbOt20HDDoREZBi7sP&__tn__=-UK-R) November 19^th^.
 
 
-![](./images/news/romaric_mt180.png)
+![](./images/news/romaric_mt180.webp)
 
 <br><br>
 
@@ -133,7 +133,7 @@ The [registration page](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0
 
 We look forward to seeing you there!
 
-![](./images/news/cs_concours_affiche2020.png)
+![](./images/news/cs_concours_affiche2020.webp)
 
 <br><br>
 
@@ -141,10 +141,10 @@ We look forward to seeing you there!
 
 
 <div class="col-lg-6">
-<img src="images/news/charles_cs_1.png" alt="Charles presentation">
+<img src="images/news/charles_cs_1.webp" alt="Charles presentation">
 </div>
 <div class="col-lg-6">
-<img src="images/news/charles_cs_2.png" alt="Charles presentation">
+<img src="images/news/charles_cs_2.webp" alt="Charles presentation">
 </div>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web from Centre SÈVE today, with Charles Roussin-Léveillée from the Université de Sherbrooke. Thank you to all participants!</p>
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
@@ -157,7 +157,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Read this [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) about her work!!  </p>
 <br>
 
-<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.jpg" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
+<a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.webp" alt="photo of leaves" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
 
@@ -183,7 +183,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 ### 2020-08-10
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Centre SÈVE has announced a new series of Web Conferences that starts September 15^th^!**</p>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"><img src="images/news/conferences_web_cs.png" class="center" width="60%"></p>
+<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"><img src="images/news/conferences_web_cs.webp" class="center" width="60%"></p>
 
 <br><br>
 <table class="center">
@@ -265,7 +265,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 ### 2020-07-07
 
 
-<img src="images/news/fatima_cs.png" class="center">
+<img src="images/news/fatima_cs.webp" class="center">
 
 
 
@@ -278,7 +278,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 ### 2020-06-16
 
-<img src="images/news/karen_cs.png" class="center">
+<img src="images/news/karen_cs.webp" class="center">
 
 
 
@@ -401,7 +401,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 
 </div>
 
-<a href="comites.html"><img src="images/comite photos/comite_2019.png" style="width: 75%; display:block; margin-left: auto; margin-right: auto"></a>
+<a href="comites.html"><img src="images/comite photos/comite_2019.webp" style="width: 75%; display:block; margin-left: auto; margin-right: auto"></a>
 
 </div>
 

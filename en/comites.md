@@ -120,7 +120,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ## Current
 
-![](images/comite photos/comite_2020_new.jpg) 
+![](images/comite photos/comite_2020_new.webp) 
 
 <br>
 
@@ -176,7 +176,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 #### 2020-01-10
 
-![](images/comite photos/comite_2020.jpg) 
+![](images/comite photos/comite_2020.webp) 
 
 <br>
 

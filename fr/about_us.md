@@ -24,7 +24,7 @@ output:
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 
 <div class="col-md-9">
 <br><br>
@@ -38,7 +38,7 @@ output:
 Fondé en 2018, le **_Comité de partenariat international du Centre SÈVE (CPICS)_** est un comité étudiant composé d’étudiant(e)s de 2^e^ ou 3^e^ cycle affilié(e)s au **_Centre SÈVE_**. Articulé par une dizaine d’étudiant(e)s provenant des universités québécoises, le **_CPICS_** stimule les collaborations entre les scientifiques de la province avec la communauté internationale dans le domaine de la biologie végétale. Il participe aussi au rayonnement international du réseau de recherche Québécois en favorisant une meilleure diffusion des savoirs, allant de l’optimisation de la productivité végétale à la durabilité des écosystèmes végétaux, le tout dans un soucis de proactivité dans le contexte de changement global actuel. Le **_CPICS_** donne l’occasion à des étudiant(e)s engagé(e)s de s’impliquer dans leur domaine de recherche scientifique et de s’y faire connaitre, mais aussi de gérer l’organisation d’évènements bénéficiant à l’ensemble de la communauté scientifique québécoise dans le domaine des sciences végétales.
 <br>
 
-<center><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="60%" alt="Centre SEVE logo"></a></center>
+<center><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.webp" width="60%" alt="Centre SEVE logo"></a></center>
 
 **_À l’origine, le Centre SÈVE_**
 
@@ -55,7 +55,7 @@ Le **Centre SÈVE** est le seul centre de recherche interinstitutionnel au Québ
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
 </div>
 

@@ -24,14 +24,6 @@ output:
 a {color: #ffffff}
 .main-container{max-width: 1492px}
 
-body {
-background-image: url('images/background/maksym-ivashchenko.jpg'); 
-background-size: cover; 
-height: 1500px; 
-background-position: center;
-background-repeat: repeat-y
-}
-
 div.text {
 font-size: 1.25em;
 background-color: rgba(255, 255, 255, 0.7); 
@@ -39,13 +31,6 @@ background-size: cover;
 padding: 2%;
 }
 
-.cpics-logo {
-display: block; 
-margin-left: auto; 
-margin-right:auto;" 
-background-image: url('images/logos/Logo-CPICS_White_1.png')
-width: 30%
-}
 figure {
   padding: 4px;
   margin: auto;
@@ -69,7 +54,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
 <div class="col-md-9">
 <div class="row text" style="margin: 1%">
@@ -86,7 +71,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_Dec_conferences_en.png" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
+<img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
   
  </div> 
 </div> 
@@ -102,7 +87,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href=""><img src="images/whats up 2020/Eddy_dec.png" alt=""></a></center>
+<center> <a href=""><img src="images/whats up 2020/Eddy_dec.webp" alt=""></a></center>
 <center> **Dr. Eddy L. Ngonkeu**<br> Université de Yaoundé </center> 
 <br>
 
@@ -110,7 +95,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.png" alt=""></a></center>
+<center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.webp" alt=""></a></center>
 <center> **Dr. Tanya Arseneault**<br>Agriculture and Agri-Food Canada</center> 
 <br>
 
@@ -207,7 +192,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.png" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
   
  </div> 
 </div> 
@@ -230,7 +215,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.png" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
+<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
 <center> **Dr Leena Tripathi**</center> 
 
 <center> International Institute of Tropical Agriculture, Kenya </center> 
@@ -240,7 +225,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.png" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
+<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
 <center> **Dr Isabelle Laforest-Lapointe**</center> 
 
 <center> Université de Sherbrooke, Canada</center> 
@@ -420,7 +405,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
 </div>
 

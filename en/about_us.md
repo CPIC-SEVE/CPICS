@@ -24,7 +24,7 @@ output:
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 
 <div class="col-md-9">
 <br><br>
@@ -38,7 +38,7 @@ Created in 2018, **_Center SÈVE International Partnership Committee (CSIPC)_** 
   
 
 <br>
-<center><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.png" width="60%" alt="Centre SEVE logo"></a></center>
+<center><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.webp" width="60%" alt="Centre SEVE logo"></a></center>
 
 **_Originally, the Centre SÈVE_**
 
@@ -55,7 +55,7 @@ The **Centre SÈVE** is the only inter-institutional research centre in Quebec t
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
 </div>
 
