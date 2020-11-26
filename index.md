@@ -1,4 +1,4 @@
----
+g---
 title: '<span style="display:none">CPICS</span>'
 name: "Home"
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
@@ -13,7 +13,7 @@ output:
 <link rel="manifest" href="./site.webmanifest">
 <link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
-
+<meta name="google-site-verification" content="gREzlXUqP4diYyzidFYmc2vW8-JykmYvyJM0nMDpjx4" />
 <link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/index.html">
 <link rel="alternate" hreflang="en-us" href="https://cpics.netlify.app/en/index.html">
 
