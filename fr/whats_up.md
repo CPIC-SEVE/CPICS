@@ -110,9 +110,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.png" alt=""></a></center>
-<center> **Dr. Tanya Arseneault**</center> 
-
-<center>Agriculture et Agroalimentaire Canada</center> 
+<center> **Dre. Tanya Arseneault**</center> <br>Agriculture et Agroalimentaire Canada</center> 
 <br>
 
 </div>
