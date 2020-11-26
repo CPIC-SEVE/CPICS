@@ -96,23 +96,14 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify">
 
-<center>At a time of internationalization of scientific knowledge, environmental upheaval and the COVID-19 pandemic, science and scientists have had to be inventive and resilient.</center>
-
-<center>But... How are scientists in the world today?</center>
-
-<center>Have Canadian researchers approached these issues differently than other researchers around the world?<br>Has the pandemic enriched their scientific perspectives?</center>
-
-<br>
-<center>The second edition of the What's Up Conference meets with two researchers to discuss their research, their issues and their views for the future.</center>
+<center>At a time of internationalization of scientific knowledge, environmental upheaval and the COVID-19 pandemic, science and scientists have had to be inventive and resilient.<br><br>But...<br> **How are scientists in the world today?**<br><br>Have Canadian researchers approached these issues differently than other researchers around the world?<br>Has the pandemic enriched their scientific perspectives?<br><br>The second edition of the What's Up Conference **meets with two fascinating researchers** to discuss their work, projects, their challenges and their reflections about the scientific world of tomorrow.</center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href=""><img src="images/whats up 2020/Eddy_dec.png" alt=""></a></center>
-<center> **Dr. Eddy L. Ngonkeu**</center> 
-
-<center> Université de Yaoundé </center> 
+<center> **Dr. Eddy L. Ngonkeu**<br> Université de Yaoundé </center> 
 <br>
 
 </div>
@@ -120,9 +111,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.png" alt=""></a></center>
-<center> **Dr. Tanya Arseneault**</center> 
-
-<center>Agriculture and Agri-Food Canada</center> 
+<center> **Dr. Tanya Arseneault**<br>Agriculture and Agri-Food Canada</center> 
 <br>
 
 </div>

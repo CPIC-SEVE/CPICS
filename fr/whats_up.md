@@ -93,15 +93,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify">
 
-<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.</center>
-
-<center>Mais... Comment vont les scientifiques du monde d'aujourd'hui?</center>
-
-<center>Les chercheurs Canadiens ont-il abordés différemment ces problématiques des autres chercheurs à travers le monde?</center>
-
-<center>La pandémie a t-elle enrichi leurs points vues scientifique?</center>
-
-<center>La seconde édition de la What's Up Conférence rencontre deux chercheurs pour discuter de leurs recherches, de leurs enjeux et de leurs points de vue pour la suite<center>
+<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais...<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Les chercheurs Canadiens ont-il abordés différemment ces problématiques des autres chercheurs à travers le monde?<br>La pandémie a t-elle fait évoluer leurs opinions scientifiques?<br><br>La seconde édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
 <br>
 
 
