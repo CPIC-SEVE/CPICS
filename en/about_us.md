@@ -13,6 +13,23 @@ output:
 <link rel="manifest" href="../site.webmanifest">
 <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 <link rel="stylesheet" href="./column_text_style.css">
+
+<link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/about_us.html">
+<!-- Primary Meta Tags -->
+<meta name="title" content="About us">
+<meta name="description" content="History of the CPICS">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cpics.netlify.app/en/about_us.html">
+<meta property="og:title" content="About us">
+<meta property="og:description" content="History of the CPICS">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://cpics.netlify.app/en/about_us.html">
+<meta property="twitter:title" content="About us">
+<meta property="twitter:description" content="History of the CPICS">
+
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
