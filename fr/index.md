@@ -12,6 +12,24 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
 <link rel="manifest" href="../site.webmanifest">
 <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="https://cpics.netlify.app/en/index.html">
+
+<!-- Primary Meta Tags -->
+<meta name="title" content="CPICS">
+<meta name="description" content="Center SÈVE International Partnership Committee">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cpics.netlify.app/en/index.html">
+<meta property="og:title" content="CPICS">
+<meta property="og:description" content="Center SÈVE International Partnership Committee">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://cpics.netlify.app/en/index.html">
+<meta property="twitter:title" content="CPICS">
+<meta property="twitter:description" content="Center SÈVE International Partnership Committee">
+
+
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">

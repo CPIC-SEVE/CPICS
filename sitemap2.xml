@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://cpics.netlify.app/</loc>
+	<lastmod>2020-11-26T17:27:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/index.html</loc>
+	<lastmod>2020-11-26T17:27:15+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/index.html</loc>
+	<lastmod>2020-11-26T17:27:21+01:00</lastmod>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/about_us.html</loc>
+	<lastmod>2020-11-26T17:27:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/whats_up.html</loc>
+	<lastmod>2020-11-26T17:27:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/symposia.html</loc>
+	<lastmod>2020-11-26T17:27:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/news.html</loc>
+	<lastmod>2020-11-26T17:27:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/fr/comites.html</loc>
+	<lastmod>2020-11-26T17:27:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/index.html</loc>
+	<lastmod>2020-11-26T17:27:20+01:00</lastmod>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/about_us.html</loc>
+	<lastmod>2020-11-26T17:27:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/whats_up.html</loc>
+	<lastmod>2020-11-26T17:27:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/symposia.html</loc>
+	<lastmod>2020-11-26T17:27:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/news.html</loc>
+	<lastmod>2020-11-26T17:27:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cpics.netlify.app/en/comites.html</loc>
+	<lastmod>2020-11-26T17:27:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

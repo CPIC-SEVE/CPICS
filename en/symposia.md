@@ -13,6 +13,25 @@ output:
 <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
 <link rel="stylesheet" href="./column_text_style.css">
 <link rel="stylesheet" href="./slideshow.css">
+<link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/symposia.html">
+
+
+<!-- Primary Meta Tags -->
+<title>Symposia</title>
+<meta name="title" content="Symposia">
+<meta name="description" content="Information about CPICS symposia">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cpics.netlify.app/en/symposia.html">
+<meta property="og:title" content="Symposia">
+<meta property="og:description" content="Information about CPICS symposia">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://cpics.netlify.app/en/symposia.html">
+<meta property="twitter:title" content="Symposia">
+<meta property="twitter:description" content="Information about CPICS symposia">
+
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">

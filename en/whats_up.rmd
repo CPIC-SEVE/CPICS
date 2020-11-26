@@ -1,5 +1,5 @@
 ---
-title: '<span style="display:none"><i> Whats up?</i> Conferences</span>'
+title: '<span style="display:none">Whats up?Conferences</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output:
   html_document
@@ -32,6 +32,7 @@ output:
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="./form.css">
 <link rel="stylesheet" href="./column_text_style.css">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>

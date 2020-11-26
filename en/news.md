@@ -13,6 +13,24 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="https://cpics.netlify.app/fr/news.html">
+
+<!-- Primary Meta Tags -->
+<title>News</title>
+<meta name="title" content="News">
+<meta name="description" content="News about CPICS members and events">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cpics.netlify.app/en/news.html">
+<meta property="og:title" content="News">
+<meta property="og:description" content="News about CPICS members and events">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://cpics.netlify.app/en/news.html">
+<meta property="twitter:title" content="News">
+<meta property="twitter:description" content="News about CPICS members and events">
+
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta charset="utf-8">
