@@ -2,6 +2,7 @@
 title: '<span style="display:none">Committee</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Committee"
+lang: "en-us"
 output:
   html_document
 ---

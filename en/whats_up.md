@@ -1,11 +1,11 @@
 ---
 title: '<span style="display:none"><i> Whats up?</i> Conferences</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+lang: "en-us"
 output:
   html_document
 ---
 
-<head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -17,6 +17,8 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./form.css">
 <link rel="stylesheet" href="./column_text_style.css">
+<link rel="alternate" hreflang="fr-fr" href="../fr/whats_up.html">
+
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <meta charset="utf-8">
 
@@ -48,7 +50,6 @@ div.figure p + p {
 iframe {max-width: 100%; max-height: 100%;}
 </style>
 
-</head>
 
 <div class="container-fluid">
 
@@ -72,6 +73,8 @@ iframe {max-width: 100%; max-height: 100%;}
 <div style="text-align: center">
 
 <img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
+
+
   
  </div> 
 </div> 

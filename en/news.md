@@ -2,6 +2,7 @@
 title: '<span style="display:none">News</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "News"
+lang: "en-us"
 output:
   html_document:
     toc: false
