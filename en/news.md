@@ -59,6 +59,14 @@ iframe {
 
 ## 2020
 
+### 2020-11-06
+
+Congratulations to [Aracely Maribel Diaz Garza], our secretary, for her paper about the [temporal Dynamics of Rhizobacteria in crops grown in a semi-arid ecosystem](https://doi.org/10.3389/fsufs.2020.602283).
+
+Bravo!
+
+<br><br>
+
 ### 2020-11-10
 
 Next Synbio Canada webinar, organized by one of our members, [Fatima Awwad].
@@ -94,7 +102,7 @@ Review: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</
 
 ### 2020-10-27
 
-Today, [Romaric](https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/) practiced his presentation for [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), where he will represent Université de Sherbrooke.
+Today, [Romaric Armel Mouafo Tchinda] practiced his presentation for [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), where he will represent Université de Sherbrooke.
 
 Watch the [finals](https://www.facebook.com/events/662935087680358/?__cft__[0]=AZXNWtUJCyabQaszn7XJsgAxsRqUxaDbIQDJgpYKHlppwZhK9ObJmIhVBBh8JEnGpfa1fqzZZDRt1vBboYo7xpZxCB7OuQUAeMohCwbNwSpP1D6W-Qb-eHGUd3RXaiYHPt1GhsTbOt20HDDoREZBi7sP&__tn__=-UK-R) November 19^th^.
 
@@ -262,7 +270,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 
 
 <div>
-<p>**Fatima Awwad**, postdoc from _UQTR_, presented us today the potential of microalgae in the Centre SEVE's web conferences. Thank you to all participants.</p>
+<p>**[Fatima Awwad]**, postdoc from _UQTR_, presented us today the potential of microalgae in the Centre SEVE's web conferences. Thank you to all participants.</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
 
@@ -275,7 +283,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div >
-<p> Another captivating Centre SEVE's web conference today with **Karen Cristine Gonçalves Dos Santos** from _UQTR_. Thank you to all participants.</p>
+<p> Another captivating Centre SEVE's web conference today with **[Karen Cristine Gonçalves]** from _UQTR_. Thank you to all participants.</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
@@ -286,7 +294,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div>
-<p>Welcome to **Maribel Diaz** and **Vincent Charron-Lamoureux** in CSPIC's administration as secretaries, replacing **Alexia Bertholon**, who unfortunatly had to leave the committee.</p>
+<p>Welcome to **[Aracely Maribel Diaz Garza]** and **[Vincent Charron-Lamoureux]** in CSPIC's administration as secretaries, replacing **[Alexia Bertholon]**, who unfortunatly had to leave the committee.</p>
 
 <p>**_Congratulation to you two!_**</p>
 
@@ -297,7 +305,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div>
-<p> Congratulations to **Claire Letanneur**, PhD student at _UQTR_, for the award of a grant at the first competition of the student category from the FRQNT illustration of DIALOGUE funding. Only four projects were selected for each research sector of the FRQ's</p>
+<p> Congratulations to **[Claire Letanneur]**, PhD student at _UQTR_, for the award of a grant at the first competition of the student category from the FRQNT illustration of DIALOGUE funding. Only four projects were selected for each research sector of the FRQ's</p>
 </div>
 <br><br>
 
@@ -308,7 +316,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div >
-We would like to thank Rose-Marie Bell, master's student in Plant Biology at the Université Laval, for sharing her experience at the **Centre SÈVE Annual International Symposium** in the student newspaper [**_L'Agral_**](https://journalagral.wordpress.com/).
+We would like to thank Rose-Marie Bell, master's student in Plant Biology at the Université Laval, for sharing her experience at the **[Centre SÈVE Annual International Symposium]** in the student newspaper [**_L'Agral_**](https://journalagral.wordpress.com/).
 </div>
 
 <span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
@@ -321,7 +329,7 @@ _French only_
 
 <div>
 
-**Some memories of the Centre SÈVE Annual International Symposium**
+**Some memories of the [Centre SÈVE Annual International Symposium]**
 
 [Department of Biology - University of Sherbrooke](https://www.facebook.com/biologie.USherbrooke/?__cft__[0]=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&__tn__=kK-R)
 
@@ -355,7 +363,7 @@ Thank you once again to the event sponsors:
 ### 2019-06-11
 
 <div>
-Registration for the first edition of the **Centre SÈVE Annual International Symposium** which will take place on **_August 23_**, is now open!
+Registration for the first edition of the **[Centre SÈVE Annual International Symposium]** which will take place on **_August 23_**, is now open!
 
 Students have the option of submitting an abstract to be selected for an oral presentation.
 
@@ -384,7 +392,7 @@ We can't wait to see you there.
 
 <div>
 
-We finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **Centre SÈVE Annual International Symposium**, which will address **"Biotechnology for Food Security"** this year.
+We finally have the pleasure to introduce the **Centre SÈVE International Partnership Committee**. As you might know, we aspire to create collaboration opportunities between Centre SÈVE researchers and research laboratories in the rest of the world. We are currently working on the first **[Centre SÈVE Annual International Symposium]**, which will address **"Biotechnology for Food Security"** this year.
 
 Stay tuned for more information not only on the symposium, but also on research topics addressed within Québec and outside. 
 
@@ -423,3 +431,18 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
 [Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
 [Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
+[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
+[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
+[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
+[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
+[Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
+[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
+[Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
+[Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
+[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Centre SÈVE Annual International Symposium]: (https://cpics.netlify.app/en/symposia.html)

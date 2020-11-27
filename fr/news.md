@@ -80,6 +80,14 @@ function myFunction() {
 
 ## 2020
 
+### 2020-11-06
+
+Felicitations à [Aracely Maribel Diaz Garza], notre secrétaire, pour son article sur la [dynamique temporelle des rhizobactéries dans les cultures cultivées dans un écosystème semi-aride](https://doi.org/10.3389/fsufs.2020.602283).
+
+Bravo!
+
+<br><br>
+
 ### 2020-11-10
 
 Prochain webinar Synbio Canada, organisé par une de nos membres, [Fatima Awwad].
@@ -115,7 +123,7 @@ Papier: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</
 
 ### 2020-10-27
 
-Aujourd'hui, [Romaric](https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/) a pratiqué sa présentation pour [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), où il représentera l'Université de Sherbrooke.
+Aujourd'hui, [Romaric Armel Mouafo Tchinda] a pratiqué sa présentation pour [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), où il représentera l'Université de Sherbrooke.
 
 Suivez la [finale](https://www.facebook.com/events/662935087680358/?__cft__[0]=AZXNWtUJCyabQaszn7XJsgAxsRqUxaDbIQDJgpYKHlppwZhK9ObJmIhVBBh8JEnGpfa1fqzZZDRt1vBboYo7xpZxCB7OuQUAeMohCwbNwSpP1D6W-Qb-eHGUd3RXaiYHPt1GhsTbOt20HDDoREZBi7sP&__tn__=-UK-R) le 19 novembre.
 
@@ -299,7 +307,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div >
-<p>Une autre captivante conférence Web du Centre SÈVE aujourd'hui, avec **Karen Cristine Gonçalves Dos Santos** de l'_UQTR_. Merci à tous les participants!</p>
+<p>Une autre captivante conférence Web du Centre SÈVE aujourd'hui, avec **[Karen Cristine Gonçalves]** de l'_UQTR_. Merci à tous les participants!</p>
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
@@ -310,7 +318,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div>
-<p>Bienvenue à **Maribel Diaz** et **Vincent Charron-Lamoureux** à l'administration du CPICS à titre de secrétaire en remplacement de **Alexia Bertholon**, qui a dû se retirer du comité.</p>
+<p>Bienvenue à **[Aracely Maribel Diaz Garza]** et **[Vincent Charron-Lamoureux]** à l'administration du CPICS à titre de secrétaire en remplacement de **[Alexia Bertholon]**, qui a dû se retirer du comité.</p>
 
 <p>**_Félicitation à vous deux !_**</p>
 
@@ -321,7 +329,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div>
-<p>Félicitations à **Claire Letanneur**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
+<p>Félicitations à **[Claire Letanneur]**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
 <br><br>
 
@@ -332,7 +340,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 
 <div >
-Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l'Université Laval, pour avoir partagé son experience au **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019** dans le journal étudiant [**_L'Agral_**](https://journalagral.wordpress.com/).
+Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale à l'Université Laval, pour avoir partagé son experience au **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019** dans le journal étudiant [**_L'Agral_**](https://journalagral.wordpress.com/).
 </div>
 
 <span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
@@ -344,7 +352,7 @@ Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale
 
 <div>
 
-Quelques souvenirs du **SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE 2019**
+Quelques souvenirs du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019**
 
 [Département de biologie - Université de Sherbrooke](https://www.facebook.com/biologie.USherbrooke/?__cft__[0]=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&__tn__=kK-R)
 
@@ -378,7 +386,7 @@ Merci encore une fois aux commanditaires de l’événement :
 ### 2019-06-11
 
 <div>
-Les inscriptions, pour la première édition du **Symposium International du Centre SÈVE** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
+Les inscriptions, pour la première édition du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
 
 Les étudiants ont la possibilité de soumettre un résumé afin d’être sélectionnés pour une présentation orale. 
 
@@ -409,7 +417,7 @@ Nous avons hâte de vous y voir.
 
 <div>
 
-Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du premier **Symposium International du Centre SÈVE** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
+Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
 
 Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science. 
 
@@ -446,3 +454,18 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
 [Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
 [Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
+[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
+[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
+[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
+[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
+[Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
+[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
+[Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
+[Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
+[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
