@@ -3,21 +3,13 @@ title: '<span style="display:none">Committee</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Committee"
 lang: "en-us"
-output:
-  html_document
+output: 
+  html_document:
+    include:
+      before_body: header.html
 ---
 
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./column_text_style.css">
 
 <style>
 table {
@@ -47,15 +39,13 @@ thead {
 }
 
 </style>
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-
 </head>
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
 <br><br>
 <div class="col-md-3" style="float:right">
@@ -69,7 +59,7 @@ thead {
 <a href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> 
 </span>
 
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.png" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).png" width="50%"></a>
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
 <a class="twitter-timeline" data-height=1800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -229,7 +219,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ###  2019
 
-![](images/comite photos/comite_2019.png)
+![](images/comite photos/comite_2019.webp)
 
 <br>
 
