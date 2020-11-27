@@ -58,7 +58,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width=100%>
+<img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width="100%">
 
 
   
@@ -181,7 +181,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row">
 <div style="text-align: center">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="100%">
   
  </div> 
 </div> 
