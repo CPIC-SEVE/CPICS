@@ -1,6 +1,7 @@
 ---
 title: '<span style="display:none">About us</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+lang: "en-us"
 output:
   html_document
 ---
