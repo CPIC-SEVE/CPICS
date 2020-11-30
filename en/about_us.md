@@ -1,25 +1,34 @@
 ---
 title: '<span style="display:none">About us</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-lang: "en-us"
 output: 
-  html_document:
-    include:
-      before_body: header.html
+  html_document
 ---
 
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/about_us.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
 
 <div class="row">
 
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
-
-<div class="col-md-9">
 <br><br>
 <br><br>
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
 
-<div class="text">
 
 **_CSIPC Creation_**
 
@@ -38,8 +47,6 @@ The **Centre SÈVE** is the only inter-institutional research centre in Quebec t
 
 
 <div class="col-md-3">
-<br><br>
-<br><br>
 
 <div class="row">
 <span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>

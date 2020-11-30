@@ -2,15 +2,23 @@
 title: '<span style="display:none">News</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "News"
-lang: "en-us"
 output: 
-  html_document:
-    include:
-      before_body: header.html
+  html_document
 ---
 
 <head>
-
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
 
 <style>
 iframe { 
@@ -29,7 +37,7 @@ iframe {
 
 <div class="row">
 
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.png'></div>
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 
 <br><br><br><br><br>
 <div class="col-md-3" style="float:right">
@@ -51,7 +59,7 @@ iframe {
 
 </div>
 
-<div class="col-md-9" style="padding: 2%">
+<div class="col-md-9" style="padding-right: 2%">
 
 <div class="row text">
 
@@ -59,7 +67,7 @@ iframe {
 
 ## 2020
 
-### 2020-11-06
+### **2020-11-06**
 
 Congratulations to [Aracely Maribel Diaz Garza], our secretary, for her paper about the [temporal Dynamics of Rhizobacteria in crops grown in a semi-arid ecosystem](https://doi.org/10.3389/fsufs.2020.602283).
 
@@ -67,7 +75,7 @@ Bravo!
 
 <br><br>
 
-### 2020-11-10
+### **2020-11-10**
 
 Next Synbio Canada webinar, organized by one of our members, [Fatima Awwad].
 
@@ -80,7 +88,7 @@ Next Synbio Canada webinar, organized by one of our members, [Fatima Awwad].
 
 <br><br>
 
-### 2020-11-06
+### **2020-11-06**
 
 Congratulations to [Karen Cristine Goncalves], our secretary, for her preprint about fungal candidate effectors. 
 
@@ -90,7 +98,7 @@ Preprint: [Differential alteration of plant functions by homologous fungal candi
 
 <br><br>
 
-### 2020-11-05 
+### **2020-11-05** 
 
 Congratulations to [Fadoua Dhaouadi], [Fatima Awwad] and [Andrew Diamond] for the publication of a scientific review about diatoms.
 
@@ -100,7 +108,7 @@ Review: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</
 
 <br><br>
 
-### 2020-10-27
+### **2020-10-27**
 
 Today, [Romaric Armel Mouafo Tchinda] practiced his presentation for [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), where he will represent Université de Sherbrooke.
 
@@ -111,7 +119,7 @@ Watch the [finals](https://www.facebook.com/events/662935087680358/?__cft__[0]=A
 
 <br><br>
 
-### 2020-10-24
+### **2020-10-24**
 
 Submitted by their students, the laboratories of [Pr. Desgagné-Penix](https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/) et [Pr. Germain](https://www.researchgate.net/profile/Hugo_Germain) won the [Canadian Bureau for International Education](https://cbie.cen/) [Equity, Diversity and Inclusion (EDI) Award](https://cbie.ca/2020-excellence-award-winners/).
 
@@ -125,7 +133,7 @@ Congratulations!
 
 <br><br>
 
-### 2020-10-02
+### **2020-10-02**
 
 We are happy to announce and invite you to Centre SÈVE's Student Poster Competition 2020. This virtual event will take place on November 25^th^ and 26^th^ 2020.
 
@@ -137,7 +145,7 @@ We look forward to seeing you there!
 
 <br><br>
 
-### 2020-09-22
+### **2020-09-22**
 
 
 <div class="col-lg-6">
@@ -150,7 +158,7 @@ We look forward to seeing you there!
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
 
 
-### 2020-08-17
+### **2020-08-17**
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">You want to know more about our guest [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), of [USherbrooke](https://twitter.com/USherbrooke) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? </p>
 
@@ -161,7 +169,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <br>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
 
-### 2020-08-14
+### **2020-08-14**
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">You want to know more about our guest [Leena Tripathi](https://twitter.com/Leena_Tripathi) for the [August 25<sup>th</sup>](whats_up.html#inscriptions) ? </p>
 
@@ -180,7 +188,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 </span>
 <br><br>
 
-### 2020-08-10
+### **2020-08-10**
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Centre SÈVE has announced a new series of Web Conferences that starts September 15^th^!**</p>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"><img src="images/news/conferences_web_cs.webp" class="center" width="60%"></p>
@@ -214,7 +222,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 <br><br>
 
 
-### 2020-07-29
+### **2020-07-29**
 
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Congratulation to the Centre SEVE students that are presenting at the Worldwide Plant Biology Summit 2020. </p>
 <p style="text-align:center;display: block; margin-left: auto; margin-right:auto">You can see their posters in our twitter (link bellow).</p>
@@ -262,7 +270,7 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 </span>
 <br><br>
 
-### 2020-07-07
+### **2020-07-07**
 
 
 <img src="images/news/fatima_cs.webp" class="center">
@@ -276,7 +284,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 <br><br>
 
-### 2020-06-16
+### **2020-06-16**
 
 <img src="images/news/karen_cs.webp" class="center">
 
@@ -290,7 +298,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 
 <br><br>
 
-### 2020-05-09
+### **2020-05-09**
 
 
 <div>
@@ -301,7 +309,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 </div>
 <br><br>
 
-### 2020-03-02
+### **2020-03-02**
 
 
 <div>
@@ -312,7 +320,7 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 ## 2019
 
 
-### 2019-09-30
+### **2019-09-30**
 
 
 <div >
@@ -325,7 +333,7 @@ _French only_
 </span>
 <br><br>
 
-### 2019-08-29
+### **2019-08-29**
 
 <div>
 
@@ -360,7 +368,7 @@ Thank you once again to the event sponsors:
 <br><br>
 
 
-### 2019-06-11
+### **2019-06-11**
 
 <div>
 Registration for the first edition of the **[Centre SÈVE Annual International Symposium]** which will take place on **_August 23_**, is now open!
@@ -388,7 +396,7 @@ We can't wait to see you there.
 
 <br><br>
 
-### 2019-03-14
+### **2019-03-14**
 
 <div>
 

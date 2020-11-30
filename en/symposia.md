@@ -1,13 +1,25 @@
 ---
 title: '<span style="display:none">Symposia</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-lang: "en-us"
 output: 
-  html_document:
-    include:
-      before_body: header.html
+  html_document
 ---
 
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="symposium_style.css">
+<link rel="stylesheet" href="slideshow.css">
 
 <script>
 
@@ -56,9 +68,8 @@ function showSlides(n) {
 <br><br>
 <br><br>
 
-<div class="col-md-9">
-
-<div class="row text" style="margin: 2%">
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
 
 <p style="display:block">The *Annual International Symposium of Center SÈVE* is a scientific meeting which reflects **_CSIPC_**’s philosophy. Its objective is to develop _Center SÈVE_'s international network and, at the same time, give a chance to student members to meet international researcher. This is an opportunity to increase _Center SÈVE_'s visibility at international scene but also to create new  collaborations between Canadians and international researchers. Student members take advantage of this privileged event to present their own research in front of their peers, enjoying the proximity favored by the event.</p>
   

@@ -8,6 +8,19 @@ output:
     include:
       before_body: header.html
 ---
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/comites.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+
 
 <style>
 table {
@@ -45,7 +58,7 @@ thead {
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
 <br><br>
-<div class="col-md-3" style="float:right">
+<div class="col-lg-3" style="float:right">
 
 <div class="row" style="margin: 1%">
 
@@ -135,6 +148,13 @@ jour de la base de données. Dans ces démarches, il/elle devra contacter
 les chercheurs, les anciens membres et les étudiants actuellement
 membres du Centre SÈVE pour obtenir les renseignements ainsi que les
 autorisations d'utilisation de ces informations.
+
+>***J'ai toujours pensé que le réseautage est un pilier fondamental quand on cherche à se développer personnellement et professionnellement.***
+>***Quand j'ai su que je pouvais avoir l'opportunité d'organiser et de mettre à jour les coordonnées des membres du Centre SEVE, ainsi que de me mettre en contact avec des experts internationaux dans le domaine de la biologie végétale, j'ai su que je voulais contribuer et faire partie du CPICS au poste de Vice-Présidence aux Réseautage.***
+>
+> *Ingrid Berenice Sánchez Carrillo, Vice-Présidente aux Réseautage (2019-2020)*
+<br>
+
 
 ### **Vice-Présidence à la Trésorerie**
 

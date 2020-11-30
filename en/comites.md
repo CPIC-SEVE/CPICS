@@ -2,13 +2,22 @@
 title: '<span style="display:none">Committee</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Committee"
-lang: "en-us"
 output: 
-  html_document:
-    include:
-      before_body: header.html
+  html_document
 ---
-
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/comites.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
 <head>
 
 <style>
@@ -50,7 +59,7 @@ thead {
 <br><br>
 <div class="col-md-3" style="float:right">
 
-<div class="row" style="margin: 1%">
+<div class="row">
 
 <span style="font-size: 2em; text-align:center; display: block; margin-left: auto; margin-right:auto"> 
 [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) 
@@ -66,8 +75,8 @@ thead {
 </div>
 </div>
 
-<div class="col-md-9">
-<div class="row text" style="margin: 2%">
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
 
 # &nbsp; {.tabset .tabset-fade .tabset-pills} 
 
@@ -102,6 +111,12 @@ He/She will be in charge of creating and managing social media platforms, settin
 
 He/She will be in charge of creating, managing and updating the database. In these steps, he/she must contact the researchers, former members and students currently members of the SÈVE Center to obtain information as well as authorizations to use this information.
 
+>***I have always believed that networking is a fundamental pillar when seeking to grow both personally and professionally. ***
+>***When I knew that I could have the opportunity to organize and keep up to date the contact information of the Centre SEVE members, as well as communicate with international experts in the area of plant biology, I knew that I wanted to contribute and be part of CSIPC in the position of VP of Networking.***
+>
+>Ingrid Berenice Sánchez Carrillo, Vice-President of Networking (2019-2020)
+
+<br>
  
 ### **Treasurer**
 

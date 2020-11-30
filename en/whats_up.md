@@ -1,12 +1,23 @@
 ---
 title: '<span style="display:none"><i> Whats up?</i> Conferences</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-lang: "en-us"
 output: 
-  html_document:
-    include:
-      before_body: header.html
+  html_document
 ---
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/whats_up.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="form.css">
 
 <style>
 a {color: #ffffff}
@@ -43,10 +54,8 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
-<div class="col-md-9">
-<div class="row text" style="margin: 1%">
-
-
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
 
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
