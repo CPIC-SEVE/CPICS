@@ -17,7 +17,7 @@ output:
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="fr/column_text_style.css">
 
 <style>
 
