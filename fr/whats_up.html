@@ -412,7 +412,7 @@ Université de Yaoundé
 <!-- blank line -->
 </div>
 </div>
-<div id="section-6" class="section level3">
+<div id="section-7" class="section level3">
 <h3>
 Inscriptions
 </h3>
@@ -438,6 +438,36 @@ Inscriptions
 <div class="column right" style="padding-right: 70%; float: right">
 <p><input type="submit" value="Soumettre"/></p>
 </div>
+</form>
+</div>
+</div>
+<div id="section-3" class="section level3">
+<h3>
+Enquête post-conférence
+</h3>
+<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
+<fieldset>
+<p><legend> Qui êtes vous? </legend> <label>Nom:* </label> <br> <input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br></p>
+<p><label > Affiliation:* </label> <br> <input type="text" name="Affiliation" placeholder="Université/Institution" required/><br> <br></p>
+<p><label>Email:* </label> <br> <input type="text" name="Email" placeholder="email@email.com" required/><br> <br></p>
+<p><input type="hidden" name="_subject" value="survey_25aug" /></p>
+<p><label> Vous êtes:* </label></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Baccalauréat </option> <option value="Maîtrise / Master's" > Maîtrise </option> <option value="Doctorat / PhD" > Doctorat </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien(ne) / Technician" > Technicien(ne) </option> <option value="Chercheur(e) / Researcher" > Chercheur(e) </option> <option value="Autre / Other"> Autre</option> </select></p>
+<p><label> Autre: </label><br> <input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/> <br> <br></p>
+</fieldset>
+<p><input type="hidden" name="_gotcha" /></p>
+<fieldset>
+<p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label></p>
+<p><select name="Platform" id="Platform" required> <option value="Facebook Live"> Facebook Live </option> <option value="Zoom"> Zoom </option> <option value="Enregistrement / Recording"> Enregistrement </option> </select> <br></p>
+<p><label> Avez-vous aimé le format?* </label></p>
+<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" >Oui</option> <option value="Non / No" >Non</option> <option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option> </select> <br></p>
+<p><label > Suggestions: </label> <br> <input type="text" name="suggestions" placeholder="" /><br> <br></p>
+<p><label >Quel sujet aimeriez-vous voir discuté?</label> <br> <input type="text" name="new_subjects" placeholder="" /><br> <br></p>
+<div class="column right" style="padding-right: 60%; float: right">
+<p><input type="submit" value="Soumettre"/></p>
+</div>
+</fieldset>
 </form>
 </div>
 </div>

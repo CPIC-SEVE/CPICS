@@ -181,6 +181,80 @@ iframe {max-width: 100%; max-height: 100%;}
 </form>
 </div>
 </div>
+
+<div id="section-7" class="section level3">
+<h3>Post-conference survey</h3>
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
+
+<fieldset>
+<legend> Who are you? </legend>
+<label >Name:* </label> <br>
+<input type="text" name="Name" placeholder="First_name Last_name" required/><br> <br>
+    
+<label > Affiliation:* </label>  <br>
+<input type="text" name="Affiliation" placeholder="University" required/><br> <br>
+
+<label>Email:* </label> <br>
+<input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
+
+<input type="hidden" name="_subject" value="survey_25aug" />
+
+<label> You are:* </label><br>
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other"> Other</option>
+</select>
+
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" placeholder="Research assistant" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
+
+</fieldset>
+ 
+<input type="hidden" name="_gotcha" />
+
+<fieldset>
+<legend> About the Conference </legend>
+<label> You watched the conference on:* </label>
+
+<select name="Platform" id="Platform" required>
+<option value="Facebook Live" > Facebook Live </option>
+<option value="Zoom" > Zoom </option>
+<option value="Enregistrement / Recording" > Recording </option>
+</select> <br>
+
+<label> Did you like the format?* </label>
+
+<select name="Like_format" id="Like_format" required>
+<option value="Yes / Oui" >Yes</option>
+<option value="Non / No" >No</option>
+<option value="Pourrait être amélioré / Could be better" >Could be better</option>
+</select> <br>
+
+<label > Suggestions: </label> <br>
+<input type="text" name="suggestions" placeholder="What you think we could do better" /><br> <br>
+
+<label >What subject would you like to see discussed?</label> <br>
+<input type="text" name="new_subjects" placeholder="Subject to discuss" /><br> <br>
+
+<div class="column right" style="padding-right: 60%; float: right">
+<input type="submit" value="Submit"/>
+</div>
+</fieldset>
+
+</form>
+</div>
+</div>
+
 </div>
 
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills">

@@ -110,7 +110,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 
-<div id="section-6" class="section level3">
+<div id="section-7" class="section level3">
 <h3>Inscriptions</h3>
 
 
@@ -179,6 +179,80 @@ iframe {max-width: 100%; max-height: 100%;}
 </form>
 </div>
 </div>
+
+<div id="section-3" class="section level3">
+<h3>Enquête post-conférence</h3>
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
+
+<fieldset>
+<legend> Qui êtes vous? </legend>
+<label>Nom:* </label> <br>
+<input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
+    
+<label > Affiliation:* </label>  <br>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br> <br>
+
+<label>Email:* </label> <br>
+<input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
+
+<input type="hidden" name="_subject" value="survey_25aug" />
+
+<label> Vous êtes:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other"> Autre</option>
+</select>
+
+<label> Autre: </label><br>
+<input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+ <br> <br>
+
+</fieldset>
+ 
+<input type="hidden" name="_gotcha" />
+
+<fieldset>
+<legend> Sur la Conférence </legend>
+<label> Vous avez vu la conférence via:* </label>
+
+<select name="Platform" id="Platform" required>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
+</select> <br>
+
+<label> Avez-vous aimé le format?* </label>
+
+<select name="Like_format" id="Like_format" required>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
+</select> <br>
+
+<label > Suggestions: </label> <br>
+<input type="text" name="suggestions" placeholder="" /><br> <br>
+
+<label >Quel sujet aimeriez-vous voir discuté?</label> <br>
+<input type="text" name="new_subjects" placeholder="" /><br> <br>
+
+<div class="column right" style="padding-right: 60%; float: right">
+<input type="submit" value="Soumettre"/>
+</div>
+</fieldset>
+
+</form>
+</div>
+</div>
+
 </div>
 
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
