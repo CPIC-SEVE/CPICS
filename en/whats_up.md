@@ -20,7 +20,6 @@ output:
 <link rel="stylesheet" href="form.css">
 
 <style>
-a {color: #ffffff}
 .main-container{max-width: 1492px}
 
 div.text {
