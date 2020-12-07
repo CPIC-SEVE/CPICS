@@ -110,7 +110,7 @@ a.twitter-timeline {
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
-<a href="https://cpics.netlify.app/en/whats_up.html"><img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_en.webp" alt="Banner for whats up conferences" class="center"></a>
+<img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_en.webp" alt="Banner for whats up conferences" class="center">
 </div> 
   
   </div>    

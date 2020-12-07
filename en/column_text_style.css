@@ -124,6 +124,12 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
       max-width: 0px;
       max-height: 0px;
     }
+    a {
+      color:#8fc53e;
+    }
+    a:hover{
+      color:#00853d;
+    }
   }
   
 @media (min-width:768px){

@@ -126,6 +126,12 @@ ul > li > .anchor-section {display: none;}
       max-width: 0px;
       max-height: 0px;
     }
+    a {
+      color:#8fc53e;
+    }
+    a:hover{
+      color:#00853d;
+    }
   }
   
 @media (min-width:768px){
