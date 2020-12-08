@@ -99,13 +99,15 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 
-<div class="col-md-12" style="text-align: center">
 
+<div class="col-md-12" style="text-align: center">
 <!-- blank line -->
-<!---
 <figure class="video_container">
+<iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F202712751397822%2F&show_text=false&width=560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
+
+</div>
 
 </div>
 </div>
