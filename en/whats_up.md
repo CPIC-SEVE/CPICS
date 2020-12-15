@@ -109,6 +109,19 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
+### Extra questions from the audience
+
+<div style="padding-right: 1em; text-align: justify">
+  - **Question:** Hello Dr. Arseneault, you talked about your work on the study of the interaction of microorganisms in soil. Have you ever observed positive interactions? If so, which ones?
+  - **Dr. Arseneault:** The project I presented was halfway to completion when the laboratory closures, due to the pandemic, took place. Given the large quantity of soil samples (several hundred per summer) we have not yet completed the sequencing but have isolated almost all the necessary DNA. Interaction analyses are still to come!
+   <br>   <br>
+  - **Question:** Professor Ngonkeu seems to have a very applied approach to his research as well as direct contact with farmers in his country. I imagine that Agriculture and Agri-Food Canada has a program to apply the results of your research to agricultural crops in Quebec. Do you know how this process is set up? How involved are Agriculture and Agri-Food Canada researchers in this process?
+  - **Dr. Arseneault:** We have an entire department with employees dedicated to knowledge and technology transfer who work with researchers developing marketable technologies. We also have an intellectual property office to manage the sharing of new knowledge and development and to ensure that it progresses in the best interests of Canadians. I invite you to visit the following site for more information: https://www.agr.gc.ca/fra/collaboration-scientifique-en-agriculture/transfert-et-licences-de-technologie-agriculture/?id=1196968351190. Researchers' contact with producers remains a privileged link to be on the lookout for their needs and issues and most researchers maintain ongoing contact with producers, club councils, and local provincial government colleagues. Their input is crucial to the development of projects at the local level but also to determining Agriculture and Agri-Food Canada's departmental priorities across the country.
+ <br>   <br>
+  - **Question:** I would like to know how if the method of crop cultivation called "precision agriculture" takes in account the climatic parameters? If so, how is it performed? And I will also like to know if this method could be apply on high scale production. Additionally the performances of plants in nutrients uptake varies in function of the cultivars...is this also taken into account?
+  - **Dr. Arseneault:** Precision agriculture is a vast field of research and is constantly adapting to new technologies and knowledge to better adapt agricultural practices (fertilization, water, pest control applications, etc) to a smaller scale and reduce as much as possible the "one size fits all" approach. It can take into account a large amount of information depending the available equipment and models developed, and yes it varies greatly depending on the crop being grown, the climactic zone and soil type. I encourage you to read the publications in the journal Precision Agriculture for more detailed information on what is currently being studied in this field of research: https://www.springer.com/journal/11119. There is also an [International Society of Precision Agriculture](https://www.ispag.org).
+</div> 
+
 </div>
 </div>
 
