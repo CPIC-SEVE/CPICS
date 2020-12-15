@@ -20,6 +20,15 @@ output:
 <link rel="stylesheet" href="form.css">
 
 <style>
+.main-container{max-width: 1492px}
+
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+
 figure {
   padding: 4px;
   margin: auto;
@@ -100,6 +109,9 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
+</div>
+</div>
+
 ### Extra questions from the audience
 
 <div style="padding-right: 1em; text-align: justify">
@@ -112,9 +124,6 @@ iframe {max-width: 100%; max-height: 100%;}
   - **Question:** I would like to know how if the method of crop cultivation called "precision agriculture" takes in account the climatic parameters? If so, how is it performed? And I will also like to know if this method could be apply on high scale production. Additionally the performances of plants in nutrients uptake varies in function of the cultivars...is this also taken into account?
   - **Dr. Arseneault:** Precision agriculture is a vast field of research and is constantly adapting to new technologies and knowledge to better adapt agricultural practices (fertilization, water, pest control applications, etc) to a smaller scale and reduce as much as possible the "one size fits all" approach. It can take into account a large amount of information depending the available equipment and models developed, and yes it varies greatly depending on the crop being grown, the climactic zone and soil type. I encourage you to read the publications in the journal Precision Agriculture for more detailed information on what is currently being studied in this field of research: https://www.springer.com/journal/11119. There is also an [International Society of Precision Agriculture](https://www.ispag.org).
 </div> 
-
-</div>
-</div>
 
 <!-- 
 <div id="section-6" class="section level3">

@@ -22,6 +22,7 @@ output:
 <link rel="stylesheet" href="form.css">
 
 <style>
+
 figure {
   padding: 4px;
   margin: auto;
@@ -73,7 +74,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <img src="images/whats up 2020/Eddy_dec.webp" alt=""></a></center>
+<center> <img src="images/whats up 2020/Eddy_dec.webp" alt=""></center>
 <center> **Dr. Eddy L. Ngonkeu**</center> 
 
 <center> Université de Yaoundé </center> 
@@ -84,11 +85,11 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://profils-profiles.science.gc.ca/en/profile/tanya-arseneault-phd"><img src="images/whats up 2020/Tanya_dec.webp" alt=""></a></center>
-<center> **Dre. Tanya Arseneault**</center> <br>Agriculture et Agroalimentaire Canada</center> 
+<center> **Dre. Tanya Arseneault** <br>Agriculture et Agroalimentaire Canada</center> 
 <br>
 
 </div>
-</div>
+
 
 
 
@@ -99,6 +100,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </figure>
 <!-- blank line -->
 
+</div>
+</div>
 </div>
 
 ### Questions supplémentaires du public
@@ -488,4 +491,6 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 </div>
+
+
 
