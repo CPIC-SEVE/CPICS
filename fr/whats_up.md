@@ -22,15 +22,6 @@ output:
 <link rel="stylesheet" href="form.css">
 
 <style>
-.main-container{max-width: 1492px}
-
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
-
 figure {
   padding: 4px;
   margin: auto;
