@@ -90,8 +90,6 @@ The president directs the deliberations, maintains order and decorum, receives t
 <br>
 > Claire Letanneur, President 2020</i>
 
-<br>
-
  
 ### **Vice-President**
 
@@ -106,17 +104,25 @@ The secretary writes up, in the two official languages of CSIPC, and signs the m
 
 He/She will be in charge of creating and managing social media platforms, setting up and managing the association's official means of communication (mailbox). In the case of organizing an event, it will help to maximize the visibility of the event for all members of the Center SÈVE as well as for any public targeted by the Committee.
 
+<b><i>
+
+> Following the CSIPC's symposium in August 2019, I thought it was great that students from many different backgrounds were bridging the gap between research in Quebec and elsewhere. It is very enriching to share our knowledge with other researchers internationally.
+> Promoting CSIPC's activities was a natural fit since the mission is inspiring. Moreover, it is a real pleasure to be part of this dynamic and dedicated team.</b>
+<br>
+>Marianne Bessette, VP Communication 2020</i>
+
 
 ### **Vice-President of Networking**
 
 He/She will be in charge of creating, managing and updating the database. In these steps, he/she must contact the researchers, former members and students currently members of the SÈVE Center to obtain information as well as authorizations to use this information.
 
->***I have always believed that networking is a fundamental pillar when seeking to grow both personally and professionally. ***
->***When I knew that I could have the opportunity to organize and keep up to date the contact information of the Centre SEVE members, as well as communicate with international experts in the area of plant biology, I knew that I wanted to contribute and be part of CSIPC in the position of VP of Networking.***
->
->Ingrid Berenice Sánchez Carrillo, Vice-President of Networking (2019-2020)
+<b><i>
 
+> I have always believed that networking is a fundamental pillar when seeking to grow both personally and professionally. 
+> When I knew that I could have the opportunity to organize and keep up to date the contact information of the Centre SEVE members, as well as communicate with international experts in the area of plant biology, I knew that I wanted to contribute and be part of CSIPC in the position of VP of Networking.</b>
 <br>
+> Ingrid Berenice Sánchez Carrillo, Vice-President of Networking 2019-2020</i>
+
  
 ### **Treasurer**
 

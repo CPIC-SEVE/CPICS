@@ -98,73 +98,47 @@ une situation qui semblerait autrement insoluble. Au cas d'appel d'une
 de ses décisions, il/elle a droit d'être entendu le premier sur les
 motifs de sa décision.
 
-> ***Au delà de mener ma propre recherche, je souhaitais en faire plus
-> pour mettre en valeur la science de notre communauté scientifique.
-> Cela m'a permit de rencontrer des personnes formidables, de développer
-> des compétences d'organisation et d'en apprendre plus sur les rouages
-> académiques reliés à la recherche. Être membre du CPICS m'a beaucoup
-> apporté!***
+> ***Au delà de mener ma propre recherche, je souhaitais en faire plus pour mettre en valeur la science de notre communauté scientifique. Cela m'a permit de rencontrer des personnes formidables, de développer es compétences d'organisation et d'en apprendre plus sur les rouages académiques reliés à la recherche. Être membre du CPICS m'a beaucoup apporté!***
 >
 > *Claire Letanneur, Présidente 2020*
 <br>
 
 ### **Vice-Présidence**
 
-Le/a vice-président(e), avec le/a président(e), veille au bon
-déroulement du calendrier du CPICS et aide chacun des autres secteurs en
-cas de nécessité. Il/Elle remplit les fonctions du/de la président(e)
-dans les assemblées en cas d'absence ou autre empêchement de
-celui-ci/celle-ci; c'est lui qui est généralement appelé à présider les
-réunions de l'assemblée lorsqu'il/elle siège en comité plénier.
+Le/a vice-président(e), avec le/a président(e), veille au bon déroulement du calendrier du CPICS et aide chacun des autres secteurs en cas de nécessité. Il/Elle remplit les fonctions du/de la président(e) dans les assemblées en cas d'absence ou autre empêchement de
+celui-ci/celle-ci; c'est lui qui est généralement appelé à présider les réunions de l'assemblée lorsqu'il/elle siège en comité plénier.
 
 ### **Secrétaires**
 
-Le/a secrétaire rédige, dans les deux langues officielles du CPICS, et
-signe les procès-verbaux des assemblées générales, régulières, spéciales
-et du Conseil exécutif. Ces procès-verbaux sont soumises ensuite à
-l'approbation de l'assemblée. Le/a président(e) de la séance où ils sont
-adoptés les confirme avec signature en indiquant la date de cette
+Le/a secrétaire rédige, dans les deux langues officielles du CPICS, et signe les procès-verbaux des assemblées générales, régulières, spéciales et du Conseil exécutif. Ces procès-verbaux sont soumises ensuite à l'approbation de l'assemblée. Le/a président(e) de la séance où ils sont adoptés les confirme avec signature en indiquant la date de cette
 confirmation.
 
-Le/a secrétaire doit aussi préparer l'ordre du jour qui sera accepté par
-la présidence et disponibilisé aux membres avant l'assemblée. Il/elle
-communiquera aux membres les rapports des comités, les propositions et
-autres documents officiels dont il/elle a la garde. Le/a secrétaire sera
-responsable aussi pour la gestion de ces documents.
+Le/a secrétaire doit aussi préparer l'ordre du jour qui sera accepté par la présidence et disponibilisé aux membres avant l'assemblée. Il/elle communiquera aux membres les rapports des comités, les propositions et autres documents officiels dont il/elle a la garde. Le/a secrétaire sera responsable aussi pour la gestion de ces documents.
 
 ### **Vice-Présidence aux Communications**
 
-Il/elle sera en charge de la création et de la gestion des plateformes
-des médias sociaux, de la mise en place et de la gestion du moyen de
-communication officiel de l'association (boîte courriel). Dans le cas
-d'organisation d'évènement, il/elle contribuera à maximiser la
-visibilité de l'événement pour l'ensemble des membres du Centre SÈVE
-ainsi que pour tout public visé par le Comité.
+Il/elle sera en charge de la création et de la gestion des plateformes des médias sociaux, de la mise en place et de la gestion du moyen de communication officiel de l'association (boîte courriel). Dans le cas d'organisation d'évènement, il/elle contribuera à maximiser la visibilité de l'événement pour l'ensemble des membres du Centre SÈVE ainsi que pour tout public visé par le Comité.
+
+>***Suite au symposium du CPICS en août 2019, j'ai trouvé formidable que des étudiants de plusieurs horizons fassent le pont entre les recherches du Québec et d'ailleurs. C'est très enrichissant de partager nos connaissances avec d'autres chercheurs à l'international. Faire la promotion des activités du CPICS était tout naturel puisque la mission est inspirante. De plus, c'est un réel plaisir de faire partie de cette équipe dynamique et dévouée !***
+>
+> *Marianne Bessette, Vice-Présidente aux Communications 2020*
+<br>
 
 ### **Vice-Présidence aux Réseautage**
 
-Il/elle sera en charge de la création, de la gestion et de la mise à
-jour de la base de données. Dans ces démarches, il/elle devra contacter
-les chercheurs, les anciens membres et les étudiants actuellement
-membres du Centre SÈVE pour obtenir les renseignements ainsi que les
-autorisations d'utilisation de ces informations.
+Il/elle sera en charge de la création, de la gestion et de la mise à jour de la base de données. Dans ces démarches, il/elle devra contacter les chercheurs, les anciens membres et les étudiants actuellement membres du Centre SÈVE pour obtenir les renseignements ainsi que les autorisations d'utilisation de ces informations.
 
 >***J'ai toujours pensé que le réseautage est un pilier fondamental quand on cherche à se développer personnellement et professionnellement.***
 >***Quand j'ai su que je pouvais avoir l'opportunité d'organiser et de mettre à jour les coordonnées des membres du Centre SEVE, ainsi que de me mettre en contact avec des experts internationaux dans le domaine de la biologie végétale, j'ai su que je voulais contribuer et faire partie du CPICS au poste de Vice-Présidence aux Réseautage.***
 >
-> *Ingrid Berenice Sánchez Carrillo, Vice-Présidente aux Réseautage (2019-2020)*
+> *Ingrid Berenice Sánchez Carrillo, Vice-Présidente aux Réseautage 2019-2020*
 <br>
 
 
 ### **Vice-Présidence à la Trésorerie**
 
-Il/elle sera en charge de la gestion du budget alloué au CPICS et de
-présenter un rapport des finances lorsqu'il y a lieu de prélever des
-fonds et d'en disposer. En cas de nécessité, il/elle sera responsable de
-rechercher et contacter des partenaires potentiels pour obtenir des
-fonds supplémentaires lors d'activité du CPICS. Il/elle doit collaborer
-étroitement avec le/a vice-président(e) aux communications, le président
-et le/a vice-président(e).
+Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter un rapport des finances lorsqu'il y a lieu de prélever des fonds et d'en disposer. En cas de nécessité, il/elle sera responsable de rechercher et contacter des partenaires potentiels pour obtenir des fonds supplémentaires lors d'activité du CPICS. Il/elle doit collaborer
+étroitement avec le/a vice-président(e) aux communications, le président et le/a vice-président(e).
 
 ## Actuel
 
