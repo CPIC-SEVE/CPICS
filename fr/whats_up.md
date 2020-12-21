@@ -27,7 +27,7 @@ figure {
   padding: 4px;
   margin: auto;
 }
-
+li {color:black}
 figcaption {
   font-style: italic;
   padding: 2px;
@@ -109,13 +109,49 @@ iframe {max-width: 100%; max-height: 100%;}
 <div style="padding-left: 1em; text-align: justify">
 
   - **Question:** Bonjour Dre Arseneault, vous avez parlé de vos travaux sur l'étude de l'interaction des microorganismes dans le sol. Avez-vous déjà observé des interactions positives? si oui lesquelles ?
-  - **Dre. Tanya Arseneault:** Le projet que j’ai présenté était complété à mi-chemin lorsque les fermetures de laboratoires, dû à la pandémie, ont eu lieues. Étant donné la grande quantité d’échantillons de sol (plusieurs centaines par été) nous n’avons pas encore complété le séquençage mais avons isolé presque tout l’ADN nécessaire. Les analyses d’interactions sont à venir!
+  - **Dre. Tanya Arseneault:** Le projet que j'ai présenté était complété à mi-chemin lorsque les fermetures de laboratoires, dû à la pandémie, ont eu lieues. Étant donné la grande quantité d'échantillons de sol (plusieurs centaines par été) nous n'avons pas encore complété le séquençage mais avons isolé presque tout l'ADN nécessaire. Les analyses d'interactions sont à venir!
 <br><br>
   - **Question:** Le professeur Ngonkeu semble avoir une approche très appliquée au niveau de ses recherches ainsi qu'un contact direct avec les agriculteurs de son pays. J'imagine que Agriculture et Agroalimentaire Canada possède un programme pour appliquer le résultat de vos recherches aux cultures agricoles du Québec. Savez-vous comment ce processus est mis en place ? À quel point les chercheurs d'Agriculture et Agroalimentaire Canada sont-ils impliqués dans ce processus ?
-  - **Dre. Tanya Arseneault:** Nous avons tout un département avec des employé(e)s dédié(e)s au transfert des connaissances et de la technologie qui travaillent avec les chercheurs qui développent des technologies pouvant être commercialisables. Nous avons également un bureau de la propriété intellectuelle pour gérer le partage de nouvelles connaissances et de développement et s’assurer que le tout progresse dans le meilleur intérêt des canadiens et canadiennes. Je vous invite à consulter le site suivant pour d'avantage d’information : https://www.agr.gc.ca/fra/collaboration-scientifique-en-agriculture/transfert-et-licences-de-technologie-agriculture/?id=1196968351190. Le contact des chercheurs avec les producteurs reste un lien privilégié pour être à l’affût de leurs besoins et problématiques et la plupart des chercheurs maintiennent un contact soutenu avec les producteurs, club conseils, et collègues du gouvernement provincial locaux. Leur apport est crucial pour le développement de projets à l’échelle locale mais aussi pour déterminer les priorités ministérielles d’Agriculture et Agroalimentaire Canada à l’échelle du pays
+  - **Dre. Tanya Arseneault:** Nous avons tout un département avec des employé(e)s dédié(e)s au transfert des connaissances et de la technologie qui travaillent avec les chercheurs qui développent des technologies pouvant être commercialisables. Nous avons également un bureau de la propriété intellectuelle pour gérer le partage de nouvelles connaissances et de développement et s'assurer que le tout progresse dans le meilleur intérêt des canadiens et canadiennes. Je vous invite à consulter le site suivant pour d'avantage d'information : https://www.agr.gc.ca/fra/collaboration-scientifique-en-agriculture/transfert-et-licences-de-technologie-agriculture/?id=1196968351190. Le contact des chercheurs avec les producteurs reste un lien privilégié pour être à l'affût de leurs besoins et problématiques et la plupart des chercheurs maintiennent un contact soutenu avec les producteurs, club conseils, et collègues du gouvernement provincial locaux. Leur apport est crucial pour le développement de projets à l'échelle locale mais aussi pour déterminer les priorités ministérielles d'Agriculture et Agroalimentaire Canada à l'échelle du pays
 <br><br>
   - **Question:** J'aimerais savoir si la méthode de culture appelée "agriculture de précision" tient compte des paramètres climatiques ? si oui, comment est-elle appliquée ? Et j'aimerais aussi savoir si cette méthode pourrait être appliquée à la production à grande échelle. En outre, les performances des plantes en matière d'absorption de nutriments varient en fonction des cultivars... cela est-il également pris en compte?
   - **Dre. Tanya Arseneault:** L'agriculture de précision est un vaste domaine de recherche et s'adapte constamment aux nouvelles technologies et connaissances pour mieux adapter les pratiques agricoles (fertilisation, eau, applications de lutte contre les parasites, etc.) à une plus petite échelle et réduire autant que possible l'approche "taille unique". Elle peut prendre en compte un grand nombre d'informations selon les équipements disponibles et les modèles développés, et oui elle varie beaucoup selon la culture cultivée, la zone climatique et le type de sol. Je vous encourage à lire les publications de la revue Precision Agriculture pour des informations plus détaillées sur ce qui est actuellement étudié dans ce domaine de recherche : https://www.springer.com/journal/11119. Il existe également une [société internationale d'agriculture de précision](https://www.ispag.org).
+<br><br>
+  - **Question:** J'aimerais savoir quels sont les cinq types de biofertilisants utilisés au Cameroun s'il vous plait? 
+  - **Dr. Eddy Ngonkeu:** Alors, nous avons développé des biofertilisants pour faire face aux différentes contraintes de production. Contraintes biotiques et abiotiques: biopestices, biofertilisants des sols acides, biofertilisants des sols non acides, biofertilisants des sols salins, biofertilisants des zones arides, biofertilisants des sols riches (volcaniques), biofertilisants des milieux aquatiques (exemple riz irrigué), etc.
+<br><br>
+  - **Question:** Aujourd'hui on se pose assez de questions sur les stratégies africaines de gestion du COVID-19. Vous avez présenté certains travaux sur la gestion du COVID. En quoi consiste ces stratégies? 
+  - **Dr. Eddy Ngonkeu:** 
+  
+    - Le combat contre la pandémie du coronavirus se fait sur plusieurs fronts au niveau de la recherché agricole: sur le plan alimentaire et aussi médicinale. La recherche agricole camerounaise a bénéficié du fond special de solidarité pour la lutte contre le coronavirus à l'effet de réaliser trois grandes activités dont:
+        - Utilisation des extraits de plantes médicinales traditionnelles pour le contrôle des parasites intestinaux des ruminants et des maladies/ravageurs des plantes et produits agricoles. Objectif: mettre à disposition de façon accessible des protéines de qualité en quantitité suffisante auprès des populations
+        - Production de semences de prébase de cultures vivrières prioritaires pour le renforcement de l'autosuffisance alimentaire et nutritionnelle;
+        - Renforcement de la production piscicole et de monogastrique améliorés.
+
+    - Le système immunitaire de l'homme sait se débarrasser du Virus à Corona contrairement au HIV. En travaillant autour du système immunitaire on développement des stratégies simples et efficaces de lutte à défaut de fabriquer le vaccin en Afrique. Il s'agit des stratégies dirigées vers la Production des aliments biofortifiés (Curcuma, Spiruline, Gingembre, aliments biologiques sans pesticides et résidus chimiques etc). Et la Pharmacopée traditionnelles pour des solutions endogènes.
+    - La distribution des plants d'*Artemisia* comme mesure endogène de riposte forte contre l'endémie la plus meurtrière en Afrique et surtout cette pandémie redoutable à coronavirus. En effet, un parallèle a été observé entre ce traitement de paludisme et le COVID 19. La plupart des pays Africains qui n'ont enregistré de décès deux mois après la crise sanitaire actuelle et qui font mentir l'hécatombe annoncée par l'OMS en Afrique ont une explication qui repose entre autre sur des traitements traditionnelles à base des plantes (Rwanda, Madagascar, Guinée équatoriale, Ouganda, Sierra Leone, Tchad, RCA et Tchad) parmi lesquels l'emploi de l'*Artemisia annua*. L'effectivité de tel traitement a permis au gouvernement camerounais de faire face à ce combat. Au jour d'aujourd'hui, au Cameroun, très peu de personne porte le masque. Tout le monde va à la messe ou participe à des rassemblements sportifs sans porter le masque.
+    - Ajouter à tout cela l'atout de l'Afrique :
+        - Bouclier démographique : Une population essentiellement jeune;
+        - Engagement des politiques qui a été très forte dans la plupart des pays;
+        - Un travail remarquable qui a été fait par le système de santé (traité les personnes infectées, les malades etc); 
+        - L'Afrique est dotée d'une forme d'expérience en matière de pandémie (Ebola, on vit avec le VIH depuis une 30 aine d'année, la tuberculose, et le paludisme).
+    
+    - Nous pouvons mettre cela à notre actif dans la capacité de résilience spectaculaire observée. Tout cela, on les doit à la façon dont nous avons géré les épidémies qui ont précédé. 
+<br><br>
+  - **Question:** N'est-il pas adéquat pour chaque type de sol donné ou écosystème de développer les biofortifiants ou biofertilisant avec des ressources endogènes ? Considérant la spécificité environnementale des organismes ou microorganismes et la cohabitation des espèces dans un environnement.
+  - **Dr. Eddy Ngonkeu:** Nous produisons des biofertilisants spécifiques à certains écosystèmes et des biofertilisants généralistes
+<br><br>
+  - **Question:** Les souches de champignons AMF utilisées au champ comme biostimulants sont-elles des souches indigènes à chaque terrain agricole ? N'y a t-il pas à long terme des problèmes écologiques qui pourraient découler de l'introduction d'espèces étrangères dans les agrosystèmes ? Quelle est la pérennité des résultats obtenus par une telle introduction dans les agrosystèmes ?
+  - **Dr. Eddy Ngonkeu:** Les souches de champignons utilisés pour produire des biofertilisants sont issues des sols du Cameroun provenant des 5 zones agro écologiques. A notre actif, plus de 1200 isolats sont conservés dans notre banque de ressources génétiques. Moins de 10% de ce potentiel sont exploités à ce jour. Il s’agit des souches à spécificité large, à spécificité écologique et des souches généralistes. Aucun problème d’ordre écologique n’a encore été signalé à ce jour. La forte compétitivité des souches introduites est le mécanisme simple de correction de la mauvaise productivité des sols. Ces souches introduites font partie d’un système qui s’auto entretien pour une production pérenne si en retour il n’y a pas eu application de fongicide ou de feu de brousse dans le milieu.
+<br><br>
+  - **Question:** J'aimerais savoir si la méthode de culture appelée "agriculture de précision" tient compte des paramètres climatiques ? si oui, comment est-elle appliquée ? Et j'aimerais aussi savoir si cette méthode pourrait être appliquée à la production à grande échelle. En outre, les performances des plantes en matière d'absorption de nutriments varient en fonction des cultivars... cela est-il également pris en compte ?
+  - **Dr. Eddy Ngonkeu:** Non, nous ne prenons pas en compte les paramètres climatiques. Le processus est le même dans nos cinq zones agroécologiques, la méthode est adaptée à la production à grande échelle. Oui. Pour la production de maïs par exemple, l'engrais recommandé est le NPK 201010 ou d'autres. Selon cette méthode, les caractéristiques chimiques et physiques du sol sont prises en compte pour équilibrer la quantité de chaque élément nutritif. Pour cela, un bulletin technique est disponible pour chaque spéculation.
+<br><br>
+  - **Question:** Pour garantir la sécurité alimentaire (suffisance et sécurité), une production de masse est nécessaire. Comment la recherche menée par votre unité de recherche est-elle liée aux autres défis agricoles que nous avons au Cameroun comme l'insuffisance d'irrigation. Quelles sont vos synergies entre les différentes unités nécessaires pour un développement agricole durable ?
+  - **Dr. Eddy Ngonkeu:** La valeur de la chaîne agricole est le point faible de notre unité de recherche. Nous ne maîtrisons que la production de semences et la production à petite échelle. 98% de nos petits agriculteurs ne disposaient pas de système d'irrigation, de transformation, de petite mécanisation, de séchage, de stockage ou de marquage. Si ces aspects ne sont pas disponibles, l'agriculture durable n'existe pas.
+<br><br>
+  - **Question:** J'ai un petit problème avec l'affirmation **"l'agroindustrie tue à pas de géant"**. Sans agroindustrie, comment conservez-vous vos différentes cultures alors?
+  - **Dr. Eddy Ngonkeu:** J’entends par agro-industrie: une agriculture industrielle, synonyme d’emploi massif d’intrants chimiques pour une production en quantité. Ce système de production a des conséquences sur le microbiome du sol. Nous avons très récemment détecté plus de 8 résidus chimiques dans les produits maraîchers, comme la tomate. Ces tomates sont bon marché (bien conservé, pas de pourriture etc.), ce qui affecte notre propre microbiome et en conséquence affecte notre santé. Vous savez, la vie fait le sol et le sol fait la vie. Mon expression triste est de ne plus dire bon appétit à table mais bonne chance dans ce contexte de production.
 
 </div>
 <!--
@@ -175,7 +211,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <input type="hidden" name="_gotcha" />
  <br> <br>
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j'apparais.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
@@ -281,14 +317,14 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify">
 
-<center>**Comment la science a vécu et s’est adaptée à la pandémie?**</center>
+<center>**Comment la science a vécu et s'est adaptée à la pandémie?**</center>
 
 <center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
 
 <center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
 
 <br>
-<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :</center>
+<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l'occasion :</center>
 <br>
 
 
@@ -372,7 +408,7 @@ iframe {max-width: 100%; max-height: 100%;}
  
 <input type="hidden" name="_gotcha" />
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j’apparais.
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j'apparais.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>

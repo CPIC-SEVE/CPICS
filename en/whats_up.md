@@ -28,7 +28,7 @@ background-color: rgba(255, 255, 255, 0.7);
 background-size: cover; 
 padding: 2%;
 }
-
+li {color: black}
 figure {
   padding: 4px;
   margin: auto;
@@ -123,6 +123,43 @@ iframe {max-width: 100%; max-height: 100%;}
  <br>   <br>
   - **Question:** I would like to know how if the method of crop cultivation called "precision agriculture" takes in account the climatic parameters? If so, how is it performed? And I will also like to know if this method could be apply on high scale production. Additionally the performances of plants in nutrients uptake varies in function of the cultivars...is this also taken into account?
   - **Dr. Arseneault:** Precision agriculture is a vast field of research and is constantly adapting to new technologies and knowledge to better adapt agricultural practices (fertilization, water, pest control applications, etc) to a smaller scale and reduce as much as possible the "one size fits all" approach. It can take into account a large amount of information depending the available equipment and models developed, and yes it varies greatly depending on the crop being grown, the climactic zone and soil type. I encourage you to read the publications in the journal Precision Agriculture for more detailed information on what is currently being studied in this field of research: https://www.springer.com/journal/11119. There is also an [International Society of Precision Agriculture](https://www.ispag.org).
+ <br>   <br>
+  - **Question:** I would like to know what are the five types of biofertilizers used in Cameroon please? 
+  - **Dr. Eddy Ngonkeu:** So we have developed biofertilizers to cope with different production constraints. Biotic and abiotic constraints: biopestices, biofertilizers in acidic soils, biofertilizers in non-acidic soils, biofertilizers in saline soils, biofertilizers in arid areas, biofertilizers in rich soils (volcanic), biofertilizers in aquatic environments (e.g. irrigated rice), etc.
+<br><br>
+  - **Question:** Today we ask ourselves enough questions about African strategies for managing COVID-19. You have presented some work on the management of COVID. What are these strategies? 
+  - **Dr. Eddy Ngonkeu:** 
+    
+    - The fight against the coronavirus pandemic is being fought on several fronts at the level of agricultural research: on the food level and also on the medicinal level. Cameroonian agricultural research has benefited from the special solidarity fund for the fight against the coronavirus in order to carry out three major activities including:
+        - Use of traditional medicinal plant extracts for the control of ruminant intestinal parasites and diseases/pests of plants and agricultural products. Objective: to make available in an accessible way proteins of quality in sufficient quantity to the populations.
+        - Production of pre-basic seeds of priority food crops for strengthening food and nutritional self-sufficiency;
+        - Enhanced fish and monogastric production.
+
+    - The human immune system is able to get rid of Corona Virus unlike HIV. By working around the immune system, simple and effective control strategies can be developed if the vaccine is not manufactured in Africa. These are strategies directed towards the production of biofortified foods (Turmeric, Spirulina, Ginger, organic foods without pesticides and chemical residues etc). And Traditional Pharmacopoeia for endogenous solutions.
+    - The distribution of *Artemisia* seedlings as an endogenous measure of strong response against the most deadly endemic in Africa and especially this dreaded coronavirus pandemic. Indeed, a parallel has been observed between this malaria treatment and COVID 19. Most of the African countries that only recorded deaths two months after the current health crisis and that are lying about the hecatomb announced by the WHO in Africa have an explanation based, among others, on traditional plant-based treatments (Rwanda, Madagascar, Equatorial Guinea, Chad, Central African Republic, Sierra Leone and Uganda) among which the use of *Artemisia annua*. The effectiveness of such treatment has enabled the Cameroonian government to face this fight. Today, in Cameroon, very few people wear the mask. Everybody goes to mass or participates in sports gatherings without wearing the mask.
+    - Add to all this the asset of Africa:
+        - Demographic Shield: An essentially young population;
+        - Political commitment which has been very strong in most countries;
+        - Remarkable work that has been done by the health system (treating infected people, sick people, etc.); 
+        - Africa has some experience with the pandemic (Ebola, we have been living with HIV for 30 years, tuberculosis, and malaria).
+    
+    - We can put this to our credit in the spectacular resilience observed. All of this is due to the way we have managed the epidemics that preceded it. 
+<br><br>
+
+  - **Question:** Isn't it adequate for each given soil type or ecosystem to develop biofortifiers or biofertilizers with endogenous resources? Considering the environmental specificity of organisms or microorganisms and the cohabitation of species in an environment.
+  - **Dr. Eddy Ngonkeu:** We produce biofertilizers specific to certain ecosystems and general biofertilizers.
+<br> <br>
+  - **Question:** Are the AMF fungus strains used in the field as biostimulants native to each agricultural field? Aren't there long-term ecological problems that could result from the introduction of foreign species into agrosystems? What is the sustainability of the results obtained by such an introduction in agrosystems?
+  - **Dr. Eddy Ngonkeu:** The strains of fungi used to produce biofertilizers come from Cameroonian soils from the 5 agro-ecological zones. To our credit, more than 1200 isolates are kept in our genetic resource bank. Less than 10% of this potential is exploited to date. These are strains with broad specificity, ecological specificity and generalist strains. No ecological problems have been reported to date. The high competitiveness of the strains introduced is the simple mechanism for correcting poor soil productivity. These introduced strains are part of a self-sustaining system for sustainable production if in return no fungicide or bush fire has been applied to the environment.
+<br><br>
+  - **Question:** I would like to know if the cultivation method called "precision farming" takes into account climatic parameters? If so, how is it applied? And I would also like to know if this method could be applied to large-scale production. In addition, the performance of plants in terms of nutrient absorption varies according to cultivars... is this also taken into account?
+  - **Dr. Eddy Ngonkeu:** No, we don't take climatic parameters into account. The process is the same in our five agro-ecological zones, the method is suitable for large-scale production. Yes. For maize production for example, the recommended fertilizer is NPK 201010 or others. According to this method, the chemical and physical characteristics of the soil are taken into account to balance the amount of each nutrient. For this, a technical bulletin is available for each speculation.
+<br><br>
+  - **Question:** To guarantee food security (sufficiency and safety), mass production is necessary. How does the research conducted by your research unit relate to other agricultural challenges we have in Cameroon such as insufficient irrigation. What are your synergies between the different units necessary for sustainable agricultural development?
+  - **Dr. Eddy Ngonkeu:** The value of the agricultural chain is the weak point of our research unit. We only control seed production and small-scale production. 98% of our small farmers did not have irrigation, processing, small-scale mechanization, drying, storage or marking systems. If these aspects are not available, sustainable agriculture does not exist.
+<br><br>
+  - **Question:** I have a small problem with the statement **"agro-industry is killing by leaps and bounds"**. Without agro-industry, how do you conserve your different crops then?
+  - **Dr. Eddy Ngonkeu:** By agro-industry I mean industrial agriculture, which means the massive use of chemical inputs for mass production. This production system has consequences for the soil microbiome. We have very recently detected more than 8 chemical residues in vegetable products, such as tomatoes. These tomatoes are good for selling (well preserved, no rot etc.), which affects our own microbiome and consequently affects our health. You know, life makes the soil and the soil makes life. My sad expression is to no longer say "bon appétit" at the table, but "good luck" in this production context.
 </div> 
 
 <!-- 
