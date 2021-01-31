@@ -81,7 +81,7 @@ Congratulations to Michelle Boivin (UQTR), a student at the Centre SÈVE for her
 
 <center>
 <img src="./images/news/michelle-pommes-terre_2020.webp" width=50%>
-<img src="./images/news/michelle_schema.webp" width=70%>
+<a href="https://neo.uqtr.ca/2021/01/26/un-elixir-de-jouvence-naturel-pour-les-patates/?fbclid=IwAR20dE7XqTMOcri8oFFGIEJPwXB4ZYWQzzWAaNBSYfqc-folknVrpcIquz4"><img src="./images/news/michelle_schema.webp" width=70%></a>
 </center>
 <br><br>
 

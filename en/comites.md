@@ -181,8 +181,11 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tbody>
 </table>
 
-## 2020
+## Past {.tabset .tabset-pill}
 
+### 2020 {.tabset .tabset-pill}
+
+#### 2020-05
 ![](images/comite photos/comite_2020_new.webp) 
 
 <br>
@@ -232,10 +235,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tbody>
 </table>
 
-
-## Past {.tabset .tabset-pill}
-
-### 2020
+<br><br>
 
 #### 2020-01-10
 
