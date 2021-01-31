@@ -94,11 +94,11 @@ Nous remercions [Claire Lettaneur], [Teura Barff] et [Marianne Bessette] pour le
 
 ### **2021-01-27**
 
-Félicitation à Michelle Boivin (UQTR), étudiante du centre SÈVE pour son intriguant projet de revalorisation de matière organique
+Félicitation à Michelle Boivin (UQTR), étudiante du centre SÈVE pour son intriguant projet de revalorisation de matière organique.
 
 <center>
 <img src="./images/news/michelle-pommes-terre_2020.webp" width=50%>
-<img src="./images/news/michelle_schema.webp" width=70%>
+<a href="https://neo.uqtr.ca/2021/01/26/un-elixir-de-jouvence-naturel-pour-les-patates/?fbclid=IwAR20dE7XqTMOcri8oFFGIEJPwXB4ZYWQzzWAaNBSYfqc-folknVrpcIquz4"><img src="./images/news/michelle_schema.webp" width=70%></a>
 </center>
 <br><br>
 
