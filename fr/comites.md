@@ -115,6 +115,11 @@ confirmation.
 
 Le/a secrétaire doit aussi préparer l'ordre du jour qui sera accepté par la présidence et disponibilisé aux membres avant l'assemblée. Il/elle communiquera aux membres les rapports des comités, les propositions et autres documents officiels dont il/elle a la garde. Le/a secrétaire sera responsable aussi pour la gestion de ces documents.
 
+> ***Le CPICS est extraordinaire et je suis fier d'avoir contribué à sa création. J'aime participer à l'organisation d'événements, mais je suis trop timide pour en prendre la direction. Le fait d'être secrétaire m'a donc permis de faire partie de ce comité en "arrière-plan", de donner mon avis, de prendre part aux décisions importantes et d'aider à l'organisation de nos conférences et de notre symposium. En tant que secrétaire, j'ai également dû me pousser à améliorer mes compétences en matière d'organisation et à accorder plus d'attention aux réunions. Enfin, j'ai également eu l'occasion d'être le mentor de deux personnes incroyables qui m'ont remplacé à ce poste.***
+>
+> *Karen Goncalves dos Santos, Secrétaire 2019-2020*
+<br>
+
 ### **Vice-Présidence aux Communications**
 
 Il/elle sera en charge de la création et de la gestion des plateformes des médias sociaux, de la mise en place et de la gestion du moyen de communication officiel de l'association (boîte courriel). Dans le cas d'organisation d'évènement, il/elle contribuera à maximiser la visibilité de l'événement pour l'ensemble des membres du Centre SÈVE ainsi que pour tout public visé par le Comité.
@@ -141,6 +146,60 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 étroitement avec le/a vice-président(e) aux communications, le président et le/a vice-président(e).
 
 ## Actuel
+
+<br>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<td scope="col">Role</td>
+<td scope="col">Name</td>
+<td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Présidence</th><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="5">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-Présidence</th><td>[Ingrid Berenice Sanchez Carrillo]</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence aux Communications</th><td>[Jennifer Paillassa]</td>
+</tr>
+<tr>
+<td>[Snehi Gazal]</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence aux Réseautage</th><td>[Valeria Parra]</td>
+</tr>
+<tr>
+<td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence à la Trésorerie</th><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Julie Yergeau]</td><td>Université de Sherbrooke<br>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2"> Secrétaires</th><td>[Aracely Maribel Diaz Garza]</td><td >Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+## Passé {.tabset .tabset-pill}
+
+### 2020 {.tabset .tabset-pill}
+
+#### 2020-05
 
 ![](images/comite%20photos/comite_2020_new.webp)
 
@@ -191,10 +250,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 </tbody>
 </table>
 </div>
-
-## Passé {.tabset .tabset-pill}
-
-### 2020
+<br><br>
 
 #### 2020-01-10
 

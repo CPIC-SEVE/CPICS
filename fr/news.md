@@ -82,6 +82,27 @@ function myFunction() {
 
 # {.tabset .tabset-fade .tabset-pills}
 
+## 2021
+
+### **2021-01-29**
+
+Bienvenue à nos deux nouvelles membres de la CIPCS, Snehi Gazal (VP Communications) and Valeria Parra (VP Réseautage)!
+
+Nous remercions [Claire Lettaneur], [Teura Barff] et [Marianne Bessette] pour leur travail. Elles ne feront plus partie du comité exécutif, mais elles seront toujours invitées à nos réunions et nos événements.
+
+<br><br>
+
+### **2021-01-27**
+
+Félicitation à Michelle Boivin (UQTR), étudiante du centre SÈVE pour son intriguant projet de revalorisation de matière organique
+
+<center>
+<img src="./images/news/michelle-pommes-terre_2020.webp" width=50%>
+<img src="./images/news/michelle_schema.webp" width=70%>
+</center>
+<br><br>
+
+
 ## 2020
 
 ### **2020-11-06**
