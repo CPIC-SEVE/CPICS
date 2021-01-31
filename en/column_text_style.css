@@ -26,7 +26,6 @@ color: #a4eb34
 
 body {
 background-image: url('images/background/maksym-ivashchenko.webp'); 
-background-size: cover; 
 background-position: center;
 background-repeat: repeat-y;
 }
@@ -50,6 +49,7 @@ display: block;
 margin-left: auto; 
 margin-right: auto;
 }
+
 .main-container{
   max-width: 1492px;
   margin-left: auto; 
