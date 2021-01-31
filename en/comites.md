@@ -100,6 +100,11 @@ The Vice-President, together with the President, ensures that the CSIPC calendar
 
 The secretary writes up, in the two official languages of CSIPC, and signs the minutes of the general, regular, special and Executive Council meetings which he/she then submits for the approval of the assembly while the chairman of the meeting or they are adopted confirms his signature indicating the date of this confirmation. He/She must prepare the agenda that will be accepted by the presidency and made available to members before the meeting. He/She will communicate to the members the reports of the committees, the proposals and other official documents in his care. The secretary will also be responsible for the management of these documents.
 
+> <b><i>The CPICS is  amazing and I am proud to have helped create it. I like to participate in the organization of events, but I am too shy to take the lead. So being the secretary allowed me to be a part of this committee in the "background", giving my opinion, being part of important decisions and helping in the organization of our conferences and our Symposium. As a secretary I also had to push myself to improve my organization skills and pay more attention to the meetings. Finally, I also got to mentor two incredible people that replaced me in the position.</b>
+<br>
+> Karen Goncalves dos Santos, Secretary 2019-2020</i>
+
+
 ### **Vice-President for Communications**
 
 He/She will be in charge of creating and managing social media platforms, setting up and managing the association's official means of communication (mailbox). In the case of organizing an event, it will help to maximize the visibility of the event for all members of the Center SÈVE as well as for any public targeted by the Committee.
@@ -131,6 +136,52 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 
 ## Current
+
+<br>
+
+<table>
+<thead>
+<tr>
+<td scope="col">Role</td>
+<td scope="col">Name</td>
+<td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Presidence</th><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="5">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-Presidence</th><td>[Ingrid Berenice Sanchez Carrillo]</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
+</tr>
+<tr>
+<td>[Snehi Gazal]</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Valeria Parra]</td>
+</tr>
+<tr>
+<td>[Romaric Armel Mouafo Tchinda]</td><td>Université de Sherbrooke</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Treasury</th><td>[Serge Nouemssi]</td><td>Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Julie Yergeau]</td><td>Université de Sherbrooke<br>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="3"> Secretary</th><td>[Aracely Maribel Diaz Garza]</td><td >Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
+</tr>
+</tbody>
+</table>
+
+## 2020
 
 ![](images/comite photos/comite_2020_new.webp) 
 
@@ -309,3 +360,5 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Valeria Parra]:
+[Snehi Gazal]: 
