@@ -65,6 +65,26 @@ iframe {
 
 # {.tabset .tabset-fade .tabset-pills}
 
+## 2021
+
+### **2021-01-29**
+
+Say hello to our two new members of the CSIPC: Snehi Gazal (VP Communication) and Valeria Parra (VP Networking)!
+
+We thank [Claire Letanneur], [Teura Barff] and [Marianne Bessette] for their work. They may no longer be part of the executive committee, but they will always be welcome to our meetings and events.
+
+<br><br>
+
+### **2021-01-27**
+
+Congratulations to Michelle Boivin (UQTR), a student at the Centre SÈVE for her intriguing project of revalorizing organic matter.
+
+<center>
+<img src="./images/news/michelle-pommes-terre_2020.webp" width=50%>
+<img src="./images/news/michelle_schema.webp" width=70%>
+</center>
+<br><br>
+
 ## 2020
 
 ### **2020-11-06**
