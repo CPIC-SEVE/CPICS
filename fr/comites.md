@@ -359,6 +359,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 </div>
 
 </div>
+
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
@@ -374,3 +375,5 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
+[Valeria Parra]: 

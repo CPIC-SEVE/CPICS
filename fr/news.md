@@ -86,7 +86,7 @@ function myFunction() {
 
 ### **2021-01-29**
 
-Bienvenue à nos deux nouvelles membres de la CIPCS, Snehi Gazal (VP Communications) and Valeria Parra (VP Réseautage)!
+Bienvenue à nos deux nouvelles membres de la CIPCS, [Snehi Gazal] (VP Communications) and [Valeria Parra] (VP Réseautage)!
 
 Nous remercions [Claire Lettaneur], [Teura Barff] et [Marianne Bessette] pour leur travail. Elles ne feront plus partie du comité exécutif, mais elles seront toujours invitées à nos réunions et nos événements.
 
@@ -499,3 +499,5 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
+[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
+[Valeria Parra]: 
