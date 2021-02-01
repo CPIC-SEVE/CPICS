@@ -360,5 +360,5 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
-[Valeria Parra]:
-[Snehi Gazal]: 
+[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
+[Valeria Parra]: 

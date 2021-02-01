@@ -69,7 +69,7 @@ iframe {
 
 ### **2021-01-29**
 
-Say hello to our two new members of the CSIPC: Snehi Gazal (VP Communication) and Valeria Parra (VP Networking)!
+Say hello to our two new members of the CSIPC: [Snehi Gazal] (VP Communication) and [Valeria Parra] (VP Networking)!
 
 We thank [Claire Letanneur], [Teura Barff] and [Marianne Bessette] for their work. They may no longer be part of the executive committee, but they will always be welcome to our meetings and events.
 
@@ -474,3 +474,5 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Centre SÈVE Annual International Symposium]: (https://cpics.netlify.app/en/symposia.html)
+[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
+[Valeria Parra]: 
