@@ -137,6 +137,8 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ## Current
 
+![](images/comite photos/comite_2021.webp) 
+
 <br>
 
 <table>

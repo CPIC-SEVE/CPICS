@@ -147,6 +147,8 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 
 ## Actuel
 
+![](images/comite%20photos/comite_2021.webp)
+
 <br>
 <div class="table-responsive">
 <table>
