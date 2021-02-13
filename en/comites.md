@@ -135,7 +135,64 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 
 
+
 ## Current
+
+![](images/comite photos/comite_2021.png)
+
+<p><br></p>
+<table><thead>
+<tr>
+<td scope="col">Role</td><td scope="col">Name</td><td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr><th scope="row">Presidence</th>
+<td><a href="https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/">Karen Cristine Goncalves dos Santos</a></td>
+<td rowspan="5">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-Presidence</th>
+<td><a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a></td>
+</tr>
+<tr><th scope="row" rowspan="2">Vice-Presidence of Communications</th>
+<td><a href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer Paillassa</a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi Gazal</a></td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Networking</th>
+<td><a href="">Valeria Parra</a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric Armel Mouafo Tchinda</a></td>
+<td>Université de Sherbrooke</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Treasury</th>
+<td><a href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge Nouemssi</a></td>
+<td>Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie Yergeau</a></td>
+<td>Université de Sherbrooke<br>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="3">Secretary</th>
+<td><a href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely Maribel Diaz Garza</a></td>
+<td>Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td><a href="https://www.researchgate.net/profile/Vincent_Charron-Lamoureux">Vincent Charron-Lamoureux</a></td>
+<td>Université de Sherbrooke</td>
+</tr>
+</tbody>
+</table>
+
+## Past {.tabset .tabset-pill}
+
+### 2020
 
 ![](images/comite photos/comite_2020_new.jpg) 
 
@@ -187,9 +244,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </table>
 
 
-## Past {.tabset .tabset-pill}
 
-### 2020
 
 #### 2020-01-10
 
