@@ -97,7 +97,9 @@ a.twitter-timeline {
 <div class="row mx-0 no-gutters">
 
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
-<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">
+<img src="./images/comite photos/Cpicsmap.webp" alt="Carte avec la nationalite de tous les membres actuels et passes du CPICS">
+<br>
+<!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
 <img src="./images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
 <div style="font-size: 1.5em; font-weight: bold"><center>La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</div></center>

@@ -95,7 +95,9 @@ a.twitter-timeline {
 <div class="row mx-0 no-gutters">
 
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
-<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">
+<img src="./images/comite photos/Cpicsmap.webp" alt="Map with the nationality of all current and past members of the CSIPC">
+<br>
+<!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
 <img src="./images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
 <div style="font-size: 1.5em; font-weight: bold"><center>Science has no beauty, no quality, no value, unless shared. </center>
