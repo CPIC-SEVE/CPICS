@@ -10,11 +10,14 @@ ul > li > .anchor-section {display: none;}
 
 div.text {
 font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
+background-color: rgba(255, 255, 255, 0.4); 
 background-size: cover; 
 padding: 2%;
 }
-a {color: #ffffff}
+a {
+  color: #ffffff;
+  font-weight: bold;
+}
 
 /*.main-divs {
   display: flex;
@@ -30,12 +33,6 @@ background-position: center;
 background-repeat: repeat-y;
 }
 
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
 
 .cpics-logo {
 display: block; 
