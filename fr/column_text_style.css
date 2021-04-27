@@ -57,7 +57,7 @@ margin-right: auto;
   box-sizing: border-box;
 }
 
-p {
+div p {
   font-size: 1em;
   text-align: justify;
   color: black;

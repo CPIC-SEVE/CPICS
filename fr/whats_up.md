@@ -52,6 +52,124 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
+<div  id="section-8" class="section level2 tabset tabset-fade tabset-pills">
+<h2>19 Mai 2021</h2>
+
+<div class="row">
+<div style="text-align: center">
+<img src="images/whats up 2021/whatsup_may_conferences_fr_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture et Agroalimentaire Canada" width=100%>
+
+  
+ </div> 
+</div> 
+
+<div id="section-9" class="section level3">
+<h3>La conférence</h3>
+
+<div class="row" style="text-align: justify; color: black">
+<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses dans le domaine de la biologie végétale sont-ils adaptés à la pandémie?
+<br><br>La troisième édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
+<center>Nous vous invitons à participer à cet événement en ligne, qui aura lieu le **19 mai 2021 à 10h** via la plateforme ZOOM.<br>Les inscriptions séront ouvert le 10 mai ici.</center>
+<br>
+
+
+<div class="col-md-6" style="text-align: center">
+
+<center> <a href="https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/"><img src="images/whats up 2021/Karen_Garrett.webp" alt=""></a></center>
+<center> **Dre. Karen Garrett**</center> 
+
+<center> University of Florida </center> 
+<br>
+
+</div>
+
+<div class="col-md-6" style="text-align: center">
+
+<center> <a href="https://profils-profiles.science.gc.ca/en/profile/mamadou-l-fall"><img src="images/whats up 2021/Mamadou_fall.webp" alt=""></a></center>
+<center> **Dr. Mamadou Lamine Fall** <br>Agriculture et Agroalimentaire Canada</center> 
+<br>
+
+</div>
+
+</div>
+</div>
+
+<div style="padding-left: 1em; text-align: justify">
+
+</div>
+<!--
+<div id="section-9" class="section level3">
+<h3>Inscriptions</h3>
+
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="CPICS_whatsup_registration_mai2021" method="POST" data-netlify="false">
+
+<label > Prénom :* </label>  
+
+<input type="text" name="First name" placeholder="" required/>
+     <br> <br>
+	 
+<label > Nom :* </label> 
+
+<input type="text" name="Last name" placeholder="" required/><br> <br>
+    
+<label > Affiliation:* </label>  
+
+<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+
+<label>Email:* </label> 
+
+<input type="text" name="Email" placeholder="" required/><br> <br>
+
+<input type="hidden" name="_subject" value="inscription" />
+
+<label> Vous êtes:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other"> Autre</option>
+</select>
+
+<label> Autre: </label>
+
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+ <br> <br>
+ 
+<label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
+
+<select name="Prefered_language" id="Prefered language">
+<option value="Anglais / English"> Anglais </option>
+<option value="Francais / French"> Francais </option>
+<option value="Les deux / Both"> Les deux </option>
+</select>
+
+<input type="hidden" name="_gotcha" />
+ <br> <br>
+
+<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j'apparais.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+<input type="submit" value="Soumettre"/>
+</div>
+
+</form>
+</div>
+</div>
+-->
+
+</div>
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
 <h2>8 Decembre 2020</h2>
 
@@ -64,9 +182,9 @@ iframe {max-width: 100%; max-height: 100%;}
 </div> 
 
 <div id="section-5" class="section level3">
-<h3>The conference</h3>
+<h3>La conférence</h3>
 
-<div class="row" style="text-align: justify">
+<div class="row" style="text-align: justify; color: black">
 
 <center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais...<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Les chercheurs Canadiens ont-il abordés différemment ces problématiques des autres chercheurs à travers le monde?<br>La pandémie a t-elle fait évoluer leurs opinions scientifiques?<br><br>La seconde édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
 <br>
@@ -315,7 +433,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section-2" class="section level3">
 <h3>La conférence</h3>
 
-<div class="row" style="text-align: justify">
+<div class="row" style="text-align: justify; color: black">
 
 <center>**Comment la science a vécu et s'est adaptée à la pandémie?**</center>
 
