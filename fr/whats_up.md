@@ -67,9 +67,9 @@ iframe {max-width: 100%; max-height: 100%;}
 <h3>La conférence</h3>
 
 <div class="row" style="text-align: justify; color: black">
-<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses dans le domaine de la biologie végétale sont-ils adaptés à la pandémie?
+<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses du domaine de la biologie végétale se sont-ils adaptés à la pandémie?
 <br><br>La troisième édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
-<center>Nous vous invitons à participer à cet événement en ligne, qui aura lieu le **19 mai 2021 à 10h** via la plateforme ZOOM.<br>Les inscriptions séront ouvert le 10 mai ici.</center>
+<center>Nous vous invitons à participer à cet événement en ligne, qui aura lieu le **19 mai 2021 à 10h** via la plateforme ZOOM.<br>Les inscriptions seront ouvertes le 10 mai ici.</center>
 <br>
 
 
@@ -97,7 +97,6 @@ iframe {max-width: 100%; max-height: 100%;}
 <div style="padding-left: 1em; text-align: justify">
 
 </div>
-<!--
 <div id="section-9" class="section level3">
 <h3>Inscriptions</h3>
 
@@ -167,7 +166,6 @@ iframe {max-width: 100%; max-height: 100%;}
 </form>
 </div>
 </div>
--->
 
 </div>
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
