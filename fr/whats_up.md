@@ -103,7 +103,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<!--
 <form name="CPICS_whatsup_registration_may2021" method="POST" data-netlify="false">
 
 <label > Prénom :* </label>  
@@ -166,7 +165,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </form>
 </div>
 </div>
--->
+
 </div>
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
 <h2>8 Decembre 2020</h2>
