@@ -22,12 +22,20 @@ output:
 <link rel="stylesheet" href="form.css">
 
 <style>
+.main-container{max-width: 1492px}
 
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+li {color: black}
 figure {
   padding: 4px;
   margin: auto;
 }
-li {color:black}
+
 figcaption {
   font-style: italic;
   padding: 2px;
@@ -44,15 +52,17 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="container-fluid">
 
 <div class="row">
+
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
-<div class="col-md-9">
-<div class="row text" style="margin: 1%">
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
+
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-<div  id="section-8" class="section level2 tabset tabset-fade tabset-pills">
+<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills">
 <h2>19 Mai 2021</h2>
 
 <div class="row">
@@ -97,7 +107,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div style="padding-left: 1em; text-align: justify">
 
 </div>
-<div id="section-9" class="section level3">
+<div id="section-6" class="section level3">
 <h3>Inscriptions</h3>
 
 
