@@ -72,6 +72,15 @@ color: black
 
 ## 2021
 
+### **2021-05-05**
+
+Felicitations à [Karen Cristine Goncalves], notre présidente, pour avoir soutenu sa thèse de doctorat et pour son article publié en MDPI Microorganisms:
+[Unrelated Fungal Rust Candidate Effectors Act on Overlapping Plant Functions](https://doi.org/10.3390/microorganisms9050996).
+
+Bravo!
+
+<br><br>
+
 ### **2021-04-06**{.tabset .tabset-fade .tabset-pills}
 
 Bien que l'année 2021 ne fasse que commencer, les chercheur(euse)s membres du Centre SÈVE ont été très occupé(e)s.

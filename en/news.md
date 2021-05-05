@@ -77,6 +77,15 @@ color: black
 
 ## 2021
 
+### **2021-05-05**
+
+Congratulations, [Karen Cristine Goncalves], our president, for her finishing her PhD and for publishing a paper in MPDI Microorganisms:
+[Unrelated Fungal Rust Candidate Effectors Act on Overlapping Plant Functions](https://doi.org/10.3390/microorganisms9050996).
+
+Bravo!
+
+<br><br>
+
 ### **2021-04-06** {.tabset .tabset-fade .tabset-pills}
 
 Although 2021 has only begun, researchers members of Centre SEVE have been busy.
