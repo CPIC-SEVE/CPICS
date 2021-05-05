@@ -105,8 +105,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 <div style="padding-left: 1em; text-align: justify">
-
 </div>
+<!--
 <div id="section-6" class="section level3">
 <h3>Inscriptions</h3>
 
@@ -177,6 +177,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 </div>
+-->
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
 <h2>8 Decembre 2020</h2>
 
