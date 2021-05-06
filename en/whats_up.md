@@ -79,7 +79,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row" style="text-align: justify; color: black">
 
 <center>At a time of internationalization of scientific knowledge, environmental upheaval and the COVID-19 pandemic, science and scientists have had to be inventive and resilient.<br><br>But, after one year:<br> **How are scientists in the world today?**<br><br>How did plant biology researchers adapt to the pandemy?<br><br>The third edition of the What's Up Conference **meets with two fascinating researchers** to discuss their work, projects, their challenges and their reflections about the scientific world of tomorrow.</center>
-<br><center>Registration will be open on May 10<sup>th</sup> here</center>
+<br><center>Register today!</center>
 <br>
 
 
