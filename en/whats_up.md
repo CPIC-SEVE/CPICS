@@ -107,7 +107,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 </div>
-<!--
 <div id="section-6" class="section level3">
 <h3>Inscriptions</h3>
 
@@ -178,7 +177,6 @@ iframe {max-width: 100%; max-height: 100%;}
 </form>
 </div>
 </div>
--->
 <!--
 <div id="section-7" class="section level3">
 <h3>Post-conference survey</h3>
