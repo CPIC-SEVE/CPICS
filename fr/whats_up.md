@@ -79,7 +79,6 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="row" style="text-align: justify; color: black">
 <center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses du domaine de la biologie végétale se sont-ils adaptés à la pandémie?
 <br><br>La troisième édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
-<center>Nous vous invitons à participer à cet événement en ligne, qui aura lieu le **19 mai 2021 à 10h** via la plateforme ZOOM.<br>Les inscriptions sont ouvertes!</center>
 <br>
 
 
@@ -99,6 +98,40 @@ iframe {max-width: 100%; max-height: 100%;}
 <center> **Dr. Mamadou Lamine Fall** <br>Agriculture et Agroalimentaire Canada</center> 
 <br>
 
+
+</div>
+
+<div class="col-md-12" style="text-align: center">
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F375707827207980%2F&show_text=false&width=560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
+</figure>
+<!-- blank line -->
+O. Carisse, M. L. Fall & C. Vincent. (2017). **Using a biovigilance approach for pest and disease management in Quebec vineyards**. *Canadian Journal of Plant Pathology*, 39:4, 393-404, DOI: [10.1080/07060661.2017.1366368](https://doi.org/10.1080/07060661.2017.1366368)
+
+C. E. Buddenhagen, J. F. Hernandez Nopsa, K. F. Andersen, J. Andrade-Piedra, G. A. Forbes, P. Kromann, S. Thomas-Sharma, P. Useche, and K. A. Garrett. **Epidemic Network Analysis for Mitigation of Invasive Pathogens in Seed Systems: Potato in Ecuador**.  *Phytopathology*, 107(10). DOI: [10.1094/PHYTO-03-17-0108-FI](https://doi.org/10.1094/PHYTO-03-17-0108-FI)
+
+Tool box for working with root, tuber and banana seed systems [tools4seedsystems.org/](https://tools4seedsystems.org/)
+
+R Poudel, A Jumpponen, D C Schlatter, T C Paulitz, B B McSpadden Gardener, L L Kinkel, K A Garrett. (2016). **Microbiome Networks: A Systems Framework for Identifying Candidate Microbial Assemblages for Disease Management**. *Phytopathology*, 106(10):1083-1096. doi: [10.1094/PHYTO-02-16-0058-FI](https://doi.org/10.1094/PHYTO-02-16-0058-FI).
+
+Ricardo I Alcalá-Briseño, Kena Casarrubias-Castillo, Diana López-Ley, Karen A Garrett, Laura Silva-Rosales. (2020). **Network Analysis of the Papaya Orchard Virome from Two Agroecological Regions of Chiapas, Mexico**. *mSystems*, 5(1): e00423-19. doi: 10.1128/mSystems.00423-19.
+
+K. A. Garrett. (2020). **Impact network analysis and the INA R package: Decision support for regional management interventions**. *bioRxiv*. DOI: [10.1101/2020.11.08.373621](https://doi.org/10.1101/2020.11.08.373621)
+
+M. Carvajal-Yepes, K. Cardwell, A. Nelson, K. A. Garrett, B. Giovani, D. G. O. Saunders, S. Kamoun, J. P. Legg, V. Verdier, J. Lessel, R. A. Neher, R. Day, P. Pardey, M. L. Gullino, A. R. Records, B. Bextine, J. E. Leach, S. Staiger, J. Tohme. (2019). **A global surveillance system for crop diseases**. *Science*, 364(6447): 1237-1239. DOI: 10.1126/science.aaw1572
+
+Yanru Xing, John F Hernandez Nopsa, Kelsey F Andersen, Jorge L Andrade-Piedra, Fenton D Beed, Guy Blomme, Mónica Carvajal-Yepes, Danny L Coyne, Wilmer J Cuellar, Gregory A Forbes, Jan F Kreuze, Jürgen Kroschel, P Lava Kumar, James P Legg, Monica Parker, Elmar Schulte-Geldermann, Kalpana Sharma, Karen A Garrett.  (2020). **Global Cropland Connectivity: A Risk Factor for Invasion and Saturation by Emerging Pathogens and Pests**. *Bioscience*, 70(9): 744-758. DOI: [10.1093/biosci/biaa067](https://doi.org/10.1093/biosci/biaa067)
+
+Garrett, K. A., Andersen, K. F., Asche, F., Bowden, R. L., Forbes, G. A., Kulakow, P. A., & Zhou, B. (2017). **Resistance genes in global crop breeding networks**. *Phytopathology*, 107(10): 1268-1278. https://doi.org/10.1094/PHYTO-03-17-0082-FI
+
+Garrett, K.A., Alcalá-Briseño, R.I., Andersen, K.F., Brawner, J., Choudhury, R.A., Delaquis, E., Fayette, J., Poudel, R., Purves, D., Rothschild, J. and Small, I.M., (2020). **Effective altruism as an ethical lens on research priorities**. *Phytopathology*, 110(4): 708-722. [10.1094/PHYTO-05-19-0168-RVW](https://doi.org/10.1094/PHYTO-05-19-0168-RVW)
+
+Armijo, G., Schlechter, R., Agurto, M., Muñoz, D., Nuñez, C., & Arce-Johnson, P. (2016). **Grapevine pathogenic microorganisms: understanding infection strategies and host response scenarios**. *Frontiers in plant science*, 7, 382. doi: [10.3389/fpls.2016.00382](https://doi.org/10.3389/fpls.2016.00382)
+
+Fall, Mamadou L., Dong Xu, Pierre Lemoyne, Issam E. Ben Moussa, Carole Beaulieu, and Odile Carisse. (2020). **A Diverse Virome of Leafroll-Infected Grapevine Unveiled by dsRNA Sequencing**. *Viruses*, 12(10): 1142. doi: [10.3390/v12101142](https://doi.org/10.3390/v12101142)
+
+Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage difficile à défaire: la biovigilance est nécessaire plus que jamais**. *Phytoprotection*, 99(1), pp.15-20. doi: [10.7202/1059305ar](https://doi.org/10.7202/1059305ar)
 </div>
 
 </div>
@@ -106,6 +139,82 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div style="padding-left: 1em; text-align: justify">
 </div>
+
+<div id="section-3" class="section level3">
+<h3>Enquête post-conférence</h3>
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="post_conference_survey_19mai" method="POST" data-netlify="true">
+
+<fieldset>
+<legend> Qui êtes vous? </legend>
+<label>Nom:* </label> <br>
+<input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
+    
+<label > Affiliation:* </label>  <br>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br> <br>
+
+<label>Email:* </label> <br>
+<input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
+
+<input type="hidden" name="_subject" value="survey_8dec" />
+
+<label> Vous êtes:* </label>
+
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other"> Autre</option>
+</select>
+
+<label> Autre: </label><br>
+<input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+ <br> <br>
+
+</fieldset>
+ 
+<input type="hidden" name="_gotcha" />
+
+<fieldset>
+<legend> Sur la Conférence </legend>
+<label> Vous avez vu la conférence via:* </label>
+
+<select name="Platform" id="Platform" required>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
+</select> <br>
+
+<label> Avez-vous aimé le format?* </label>
+
+<select name="Like_format" id="Like_format" required>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
+</select> <br>
+
+<label > Suggestions: </label> <br>
+<input type="text" name="suggestions" placeholder="" /><br> <br>
+
+<label >Quel sujet aimeriez-vous voir discuté?</label> <br>
+<input type="text" name="new_subjects" placeholder="" /><br> <br>
+
+<div class="column right" style="padding-right: 60%; float: right">
+<input type="submit" value="Soumettre"/>
+</div>
+</fieldset>
+
+</form>
+</div>
+</div>
+
+
+<!--
 <div id="section-6" class="section level3">
 <h3>Inscriptions</h3>
 
@@ -173,9 +282,11 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </form>
 </div>
+-->
 </div>
 
-</div>
+
+
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
 <h2>8 Decembre 2020</h2>
 
@@ -633,6 +744,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 </div>
+
 <div class="col-md-3">
 
 <div class="row">
