@@ -103,7 +103,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 </div>
 <div class="col-md-6">
 <img src="images/events/carriere_2021/genevieve_laperriere.webp" class="avatar">
-<center>[Geneviève Laperrière]()<br>Ulysse Biotech</center>
+<center>[Geneviève Laperrière](https://www.researchgate.net/profile/Genevieve-Laperriere)<br>Ulysse Biotech</center>
 
 </div>
 </div>
@@ -118,7 +118,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <br>
 <img src="images/events/carriere_2021/dorian_blondeau.webp" class="avatar">
 <br>
-<center>[Dorian Blondeau]()<br>Chimiste Superviseure R&D<br>Groupe Sani Marc</center>
+<center>[Dorian Blondeau](https://www.linkedin.com/in/dorian-blondeau-181a01113/?originalSubdomain=ca)<br>Chimiste Superviseure R&D<br>Groupe Sani Marc</center>
 </div>
 </div>
 
@@ -127,7 +127,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <br>
 <img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="avatar">
 <br>
-<center>[Jean-Philippe Légaré]()<br>Biologiste-entomologiste<br>Laboratoire d'expertise et de diagnostic en phytoprotection du MAPAQ</center>
+<center>[Jean-Philippe Légaré](https://www.linkedin.com/in/jean-phillippe-legare-29209368/?originalSubdomain=ca)<br>Biologiste-entomologiste<br>Laboratoire d'expertise et de diagnostic en phytoprotection du MAPAQ</center>
 
 </div>
 <div class="col-md-6">
