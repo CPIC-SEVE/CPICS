@@ -1,0 +1,168 @@
+---
+title: '<span style="display:none">Journée Carrière</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+output: 
+  html_document
+---
+
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="symposium_style.css">
+<link rel="stylesheet" href="slideshow.css">
+
+<script>
+
+function myFunction(x) {
+  location.replace(x)
+  }
+</script>
+
+<style>
+.avatar {
+  min-width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-width: 5px;
+  width: 10em;
+  display: block; 
+  border-bottom:5px
+}
+</style>
+
+<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+
+<div class="row">
+
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
+<br><br>
+<br><br>
+
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
+  
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1></h1>
+
+<img src="images/events/carriere_2021/banner.webp" style="display: block;  margin-left: auto;  margin-right: auto; width: 100%">
+
+<p style="display:block; text-align: center; margin-left: auto; margin-right: auto">
+
+Vous êtes-vous déjà demandé(e) ce que vous alliez faire après avoir terminé vos études supérieures ? 
+
+Quelles sont les options possibles et comment tirer le meilleur parti des différents outils disponibles pour prendre de telles décisions ?
+
+Le Centre SÈVE et le CPICS sont là pour vous aider avec une Journée Carrière en ligne.
+
+Il y aura deux ateliers sur l'utilisation de LinkedIn comme outil de réseautage et sur les avantages que le réseautage offre dans l'environnement professionnel.
+
+Vous aurez également l'occasion de parler à d'anciens étudiants et étudiantes du Centre SÈVE sur leur carrière et de leur parcours après leurs études supérieures. 
+
+Cliquez [ici](https://event.fourwaves.com/fr/journeecarriere/inscription) pour vous inscrire ou regardez ci-dessous pour plus d'informations sur nos invités et les ateliers.
+
+[Program](https://event.fourwaves.com/journeecarriere/schedule)
+
+</p>
+
+<div id="section-2" class="section level2">
+<h2>Ateliers</h2>
+
+<h3>**Le réseautage : approches à privilégier**</h3>
+
+L'atelier vise à rappeler la diversité des approches possibles et l'importance d'une étape de préparation avant de se lancer à la recherche de différentes possibilités. Il s'agit de miser sur ses propres expériences et compétences et d'avoir une approche organisée pour trouver le stage ou l'emploi en adéquation avec ses aspirations.
+
+
+<h3> **LinkedIn: outil de réseautage professionnel**</h3>
+
+Vous terminez ou venez de terminer vos études? Vous êtes toujours a l'université et vous êtes en recherche de stage? LinkedIn, ce puissant outil de réseautage professionnel, pourrait bien vous permettre d'arriver à vos fins. A condition, bien sûr, de l'utiliser correctement!
+
+Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour être vu et reconnu, comment construire et élargir un réseau d'impact et, finalement, aborderez les stratégies qui pourraient vous permettre de trouver l'emploi ou le stage de vos rêves.
+
+</div>
+
+<div id="section-1" class="section level2">
+<h2>Invités</h2>
+
+<div class="row">
+<div class="col-md-6">
+<img src="images/events/carriere_2021/Tony_Savard.webp" class="avatar">
+
+<center>[Tony Savard](https://profils-profiles.science.gc.ca/fr/profil/tony-savard-phd)<br>Chercheur scientifique<br>Centre de recherche et de développement sur les aliments de Saint-Hyacinthe</center>
+
+</div>
+<div class="col-md-6">
+<img src="images/events/carriere_2021/genevieve_laperriere.webp" class="avatar">
+<center>[Geneviève Laperrière]()<br>Ulysse Biotech</center>
+
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<br>
+<img src="images/events/carriere_2021/Tanya_Copley.webp" class="avatar">
+<br>
+<center>[Tanya Copley](https://cerom.qc.ca/organisation/notre-equipe/chercheurs.html)<br>Phytopathologiste<br>Centre de recherche sur les grains, inc.</center>
+</div>
+<div class="col-md-6">
+<br>
+<img src="images/events/carriere_2021/dorian_blondeau.webp" class="avatar">
+<br>
+<center>[Dorian Blondeau]()<br>Chimiste Superviseure R&D<br>Groupe Sani Marc</center>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-6">
+<br>
+<img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="avatar">
+<br>
+<center>[Jean-Philippe Légaré]()<br>Biologiste-entomologiste<br>Laboratoire d'expertise et de diagnostic en phytoprotection du MAPAQ</center>
+
+</div>
+<div class="col-md-6">
+<br>
+<img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="avatar">
+<br>
+
+<center>[Ayooluwa Adurogbangba]()<br>Laboratoire national de microbiologie<br>Agence de la santé publique du Canada</center>
+</div>
+
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div class="row">
+<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
+
+</div>
+
+<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+</div>
+</div>

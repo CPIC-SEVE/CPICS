@@ -14,6 +14,28 @@ navbar:
       href: news.html
     - text: "Comité"
       href: comites.html
+    - text: "Événements"
+      menu:
+       - text: "À venir"
+         menu: 
+           - text: "Journée Carrière"
+             href: carriere_2021.html
+       - text: "Passé"
+         menu: 
+           - text: "2021"
+             menu:
+               - text: "What's up Conferences - 3éme édition"
+                 href: whats_up.html#section-9
+           - text: "2020"
+             menu:
+               - text: "What's up Conferences - 2éme édition"
+                 href: whats_up.html#section-4
+               - text: "What's up Conferences - 1ére édition"
+                 href: whats_up.html#section-1
+           - text: "2019"
+             menu:
+               - text: "1er Symposium annuel international du Centre SÈVE"
+                 href: symposia.html
   right:
     - text: "EN"
       href: ../en/index.html

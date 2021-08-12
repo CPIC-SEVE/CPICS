@@ -10,7 +10,7 @@ ul > li > .anchor-section {display: none;}
 
 div.text {
 font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.4); 
+background-color: rgba(255, 255, 255, 0.6); 
 background-size: cover; 
 padding: 2%;
 }
@@ -107,7 +107,8 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 .nav-stacked>li+li{margin-top:2px;margin-left:0}
 .nav-justified{width:100%}
 .nav-justified>li{float:none}
-.nav-justified>li>a{margin-bottom:5px;text-align:center}.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}
+.nav-justified>li>a{margin-bottom:5px;text-align:center}
+.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}
 
 
 .nav-tabs-justified{border-bottom:0}
