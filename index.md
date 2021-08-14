@@ -116,7 +116,7 @@ a.twitter-timeline {
     
 <div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
-<a href="./fr/carriere_2021.html"><img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./fr/images/events/carriere_2021/banner.png" alt="Banner for Career Day" class="center"></a>
+<a href="https://event.fourwaves.com/fr/journeecarriere/pages"><img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./fr/images/events/carriere_2021/banner.webp" alt="Banner for Career Day" class="center"></a>
 </div> 
   
   </div>    

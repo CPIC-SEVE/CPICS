@@ -71,7 +71,7 @@ Vous aurez également l'occasion de parler à d'anciens étudiants et étudiante
 
 Cliquez [ici](https://event.fourwaves.com/fr/journeecarriere/inscription) pour vous inscrire ou regardez ci-dessous pour plus d'informations sur nos invités et les ateliers.
 
-[Program](https://event.fourwaves.com/journeecarriere/schedule)
+[Program](https://event.fourwaves.com/fr/journeecarriere/horaire)
 
 </p>
 
@@ -135,7 +135,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="avatar">
 <br>
 
-<center>[Ayooluwa Adurogbangba]()<br>Laboratoire national de microbiologie<br>Agence de la santé publique du Canada</center>
+<center><span style="color: white; font-weight: bold">Ayooluwa Adurogbangba</span><br>Laboratoire national de microbiologie<br>Agence de la santé publique du Canada</center>
 </div>
 
 </div>

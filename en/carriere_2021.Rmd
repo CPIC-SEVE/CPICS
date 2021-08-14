@@ -70,7 +70,7 @@ There will be two workshops on the use of LinkedIn as a networking tool and the 
 
 You will also have the opportunity to talk to former Centre SÈVE students about their career and their path after their graduate studies. 
 
-Click [here](https://event.fourwaves.com/fr/journeecarriere/inscription) to register or look below for more information on our guests and the workshops.
+Click [here](https://event.fourwaves.com/journeecarriere/registration) to register or look below for more information on our guests and the workshops.
 
 [Program](https://event.fourwaves.com/journeecarriere/schedule)
 </p>
@@ -138,7 +138,7 @@ This workshop will be given in french.
 <br>
 <img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="avatar">
 <br>
-<center>[Ayooluwa Adurogbangba]()<br>National Laboratory of microbiology<br>Public Health Agency Canada</center>
+<center><span style="color: white; font-weight: bold">Ayooluwa Adurogbangba</span><br>National Laboratory of microbiology<br>Public Health Agency Canada</center>
 </div>
 
 </div>
