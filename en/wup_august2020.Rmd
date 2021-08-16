@@ -1,25 +1,24 @@
 ---
-title: '<span style="display:none"><i> Whats up? 1ere edition</i> Conferences</span>'
+title: '<span style="display:none"><i> Whats up? 1st edition</i> Conferences</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-lang: "fr-fr"
 output: 
   html_document
 ---
 
-<!-- August 2020-->
+<!--August 2020-->
+<head>
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="alternate" hreflang="en-us" href="../en/wup_august2020.html">
+<link rel="alternate" hreflang="fr-fr" href="../fr/wup_august2020.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-<link rel="stylesheet" href="slideshow.css">
 <link rel="stylesheet" href="form.css">
 
 <style>
@@ -64,62 +63,65 @@ iframe {max-width: 100%; max-height: 100%;}
 <h1></h1>
 
 <div  id="section-9" class="section level2 tabset tabset-fade tabset-pills">
-<h2>19 Mai 2021</h2>
+<h2>May 19<sup>th</sup>, 2021</h2>
 
 <div class="row">
 <div style="text-align: center">
-<a href="whats_up.html"> <img src="images/whats up 2021/whatsup_may_conferences_fr_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture et Agroalimentaire Canada" width=100%> </a>
+
+<a href="whats_up.html"><img src="images/whats up 2021/whatsup_may_conferences_en_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture and Agri-Food Canada" width="100%"></a>
+
 
   
  </div> 
 </div> 
-
 </div>
 
+
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>8 Decembre 2020</h2>
+<h2>December 8<sup>th</sup>, 2020</h2>
 
 <div class="row">
 <div style="text-align: center">
-<a href="wup_december2020.html"> <img src="images/whats up 2020/whatsup_Dec_conferences_fr.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%> </a>
+
+<a href="wup_december2020.html"><img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width="100%"></a>
+
 
   
  </div> 
 </div> 
-
 </div>
 
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills active">
-<h2>25 août 2020</h2>
+<h2>August 25^th^ 2020</h2>
 
 <div class="row">
 <div style="text-align: center">
 
-![](images/whats up 2020/whatsup_25aug_conferences_en.webp "What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada")
-
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="100%">
   
  </div> 
 </div> 
+
 <div id="section-2" class="section level3">
-<h3>La conférence</h3>
+<h3>The conference</h3>
 
 <div class="row" style="text-align: justify; color: black">
 
-<center>**Comment la science a vécu et s'est adaptée à la pandémie?**</center>
+<center>**How pandemic impacted science?** </center>
 
-<center>Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?</center>
+<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
 
-<center>Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?</center>
+<center>How Covid-19 modified research habits? </center>
 
 <br>
-<center>Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l'occasion :</center>
+<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<center>[<img src="images/whats up 2020/Leena.webp" alt="Dr. Leena Tripathi from IITA Kenya">](https://www.iita.org/iita-staff/tripathi-leena/)</center>
-<center> **Dre Leena Tripathi**</center> 
+<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"></a></center>
+<center> **Dr Leena Tripathi**</center> 
 
 <center> International Institute of Tropical Agriculture, Kenya </center> 
 <br>
@@ -129,7 +131,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a></center>
-<center> **Dre Isabelle Laforest-Lapointe**</center> 
+<center> **Dr Isabelle Laforest-Lapointe**</center> 
 
 <center> Université de Sherbrooke, Canada</center> 
 <br>
@@ -153,21 +155,22 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section-4" class="section level3">
 <h3>Inscriptions</h3>
 
+
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
 <form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
 
-<label> Prénom* </label>  
+<label > First Name:* </label>  
 
-<input type="text" name="Prénom" placeholder="" required/>
+<input type="text" name="First name" placeholder="" required/>
      <br> <br>
 	 
-<label> Nom* </label> 
+<label > Nom / Last Name:* </label> 
 
-<input type="text" name="Nom" placeholder="" required/><br> <br>
+<input type="text" name="Last name" placeholder="" required/><br> <br>
     
-<label> Affiliation:* </label>  
+<label > Affiliation:* </label>  
 
 <input type="text" name="Affiliation" placeholder="" required/><br> <br>
 
@@ -177,33 +180,38 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <input type="hidden" name="_subject" value="inscription" />
 
-<label> Vous êtes* </label>
+<label> You are:* </label>
 
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor"> Baccalauréat</option>
-<option value="Maîtrise / Master's"> Maîtrise</option>
-<option value="Doctorat / PhD"> Doctorat</option>
-<option value="Postdoc"> Postdoc </option>
-<option value="Technicien(ne) / Technician"> Technicien(ne)</option>
-<option value="Chercheur(e) / Researcher"> Chercheur(e)</option>
-<option value="Autre / Other"> Autre</option>
+<select name="Occupation_level" id="Occupation level" required>
+<option value="Baccalauréat / Bachelor"> Bachelor </option>
+<option value="Maîtrise / Master's"> Master's </option>
+<option value="Doctorat / PhD"> PhD </option>
+<option value="Postdoc" /> Postdoc </option>
+<option value="Technicien(ne) / Technician"> Technician </option>
+<option value="Chercheur(e) / Researcher"> Researcher </option>
+<option value="Autre / Other"> Other</option>
 </select>
 
-<label> Autre:</label>
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
+
+<label> If "Other", please specify: </label> 
 
 <input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+
 <br> <br>
  
 <input type="hidden" name="_gotcha" />
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j'apparais.
+<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
  <br>
 
 <div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre"/>
+<input type="submit" value="Soumettre / Submit"/>
 </div>
 
 </form>
@@ -212,21 +220,22 @@ iframe {max-width: 100%; max-height: 100%;}
 -->
 
 <div id="section-3" class="section level3">
-<h3>Enquête post-conférence</h3>
+<h3>Post-conference survey</h3>
+
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 
 <fieldset>
-<legend> Qui êtes vous? </legend>
-<label>Nom:* </label> 
+<legend> Who are you? </legend>
+<label >Name:* </label> 
 
-<input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
+<input type="text" name="Name" placeholder="First_name Last_name" required/><br> <br>
     
 <label > Affiliation:* </label>  
 
-<input type="text" name="Affiliation" placeholder="Université" required/><br> <br>
+<input type="text" name="Affiliation" placeholder="University" required/><br> <br>
 
 <label>Email:* </label> 
 
@@ -234,62 +243,60 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <input type="hidden" name="_subject" value="survey_25aug" />
 
-<label> Vous êtes:* </label>
+<label> You are:* </label>
 
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
-<option value="Maîtrise / Master's" > Maîtrise </option>
-<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
 <option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
-<option value="Autre / Other"> Autre</option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other"> Other</option>
 </select>
 
-<label> Autre: </label>
-
+<label> Other: </label>
 <input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
- <br> <br>
+<br><br>
 
 </fieldset>
  
 <input type="hidden" name="_gotcha" />
 
 <fieldset>
-<legend> Sur la Conférence </legend>
-<label> Vous avez vu la conférence via:* </label>
+<legend> About the Conference </legend>
+<label> You watched the conference on:* </label>
 
 <select name="Platform" id="Platform" required>
-<option value="Facebook Live"> Facebook Live </option>
-<option value="Zoom"> Zoom </option>
-<option value="Enregistrement / Recording"> Enregistrement </option>
+<option value="Facebook Live" > Facebook Live </option>
+<option value="Zoom" > Zoom </option>
+<option value="Enregistrement / Recording" > Recording </option>
 </select> <br>
 
-<label> Avez-vous aimé le format?* </label>
+<label> Did you like the format?* </label>
 
 <select name="Like_format" id="Like_format" required>
-<option value="Yes / Oui" >Oui</option>
-<option value="Non / No" >Non</option>
-<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
+<option value="Yes / Oui" >Yes</option>
+<option value="Non / No" >No</option>
+<option value="Pourrait être amélioré / Could be better" >Could be better</option>
 </select> <br>
 
 <label > Suggestions: </label> 
 
 <input type="text" name="suggestions" placeholder="" /><br> <br>
 
-<label >Quel sujet aimeriez-vous voir discuté?</label> 
+<label >What subject would you like to see discussed?</label> 
 
 <input type="text" name="new_subjects" placeholder="" /><br> <br>
 
 <div class="column right" style="padding-right: 60%; float: right">
-<input type="submit" value="Soumettre"/>
+<input type="submit" value="Submit"/>
 </div>
 </fieldset>
 
 </form>
 </div>
 </div>
-
 </div>
 
 
@@ -313,9 +320,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
-</div>
 
 </div>
-
-
-
+</div>

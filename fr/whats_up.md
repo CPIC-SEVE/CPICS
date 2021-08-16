@@ -6,6 +6,8 @@ output:
   html_document
 ---
 
+<!-- May 2021-->
+
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -62,22 +64,8 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills">
+<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills active">
 <h2>19 Mai 2021</h2>
-</div>
-<a href="wup_december2020.html"><div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>8 Décembre 2020</h2></a>
-
-</div>
-
-<a href="wup_august2020.html"><div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
-<h2>25 août 2020</h2></a>
-
-</div>
-</div>
-
-<div id="section11" class="section level1 tabset tabset-fade tabset-pills">
-<h1></h1>
 
 <div class="row">
 <div style="text-align: center">
@@ -87,8 +75,8 @@ iframe {max-width: 100%; max-height: 100%;}
  </div> 
 </div> 
 
-<div id="section-9" class="section level2">
-<h2>La conférence</h2>
+<div id="section-9" class="section level3">
+<h3>La conférence</h3>
 
 <div class="row" style="text-align: justify; color: black">
 <center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses du domaine de la biologie végétale se sont-ils adaptés à la pandémie?
@@ -154,8 +142,8 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 <div style="padding-left: 1em; text-align: justify">
 </div>
 
-<div id="section-3" class="section level2">
-<h2>Enquête post-conférence</h2>
+<div id="section-3" class="section level3">
+<h3>Enquête post-conférence</h3>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
@@ -301,9 +289,34 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 
 
+<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
+<h2>8 Decembre 2020</h2>
+
+<div class="row">
+<div style="text-align: center">
+<a href="wup_december2020.html"><img src="images/whats up 2020/whatsup_Dec_conferences_fr.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%></a>
+
+  
+ </div> 
+</div> 
+</div>
+
+<div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
+<h2>25 août 2020</h2>
+
+<div class="row">
+<div style="text-align: center">
+
+<a href="./wup_august2020.html"><img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%></a>
+
+  
+ </div> 
+</div> 
+</div>
 
 
 
+</div>
 </div>
 </div>
 
@@ -325,3 +338,6 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 </div>
 
 </div>
+
+
+

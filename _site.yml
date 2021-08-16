@@ -24,13 +24,13 @@ navbar:
          menu: 
            - text: "2021"
              menu:
-               - text: "What's up Conferences - 3éme édition"
+               - text: "What's up Conferences - 3rd edition"
                  href: ./fr/whats_up.html
            - text: "2020"
              menu:
-               - text: "What's up Conferences - 2éme édition"
+               - text: "What's up Conferences - 2nd edition"
                  href: ./fr/wup_december2020.html
-               - text: "What's up Conferences - 1ére édition"
+               - text: "What's up Conferences - 1st edition"
                  href: ./fr/wup_august2020.html
            - text: "2019"
              menu:
