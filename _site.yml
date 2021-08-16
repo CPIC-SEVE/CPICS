@@ -25,13 +25,13 @@ navbar:
            - text: "2021"
              menu:
                - text: "What's up Conferences - 3éme édition"
-                 href: ./fr/whats_up.html#section-9
+                 href: ./fr/whats_up.html
            - text: "2020"
              menu:
                - text: "What's up Conferences - 2éme édition"
-                 href: ./fr/whats_up.html#section-4
+                 href: ./fr/wup_december2020.html
                - text: "What's up Conferences - 1ére édition"
-                 href: ./fr/whats_up.html#section-1
+                 href: ./fr/wup_august2020.html
            - text: "2019"
              menu:
                - text: "1er Symposium annuel international du Centre SÈVE"
