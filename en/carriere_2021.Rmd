@@ -138,7 +138,7 @@ This workshop will be given in french.
 <br>
 <img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="avatar">
 <br>
-<center><span style="color: white; font-weight: bold">Ayooluwa Adurogbangba</span><br>National Laboratory of microbiology<br>Public Health Agency Canada</center>
+<center><span style="color: white; font-weight: bold">[Ayooluwa Bolaji](https://www.linkedin.com/in/ayooluwa-bolaji-ph-d-2a9a64159/?originalSubdomain=ca)</span><br>Research scientist at the Genomics Unit<br>National Centre for Foreign Animal Disease (Canadian Food Inspection Agency)</center>
 </div>
 
 </div>
