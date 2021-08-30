@@ -77,6 +77,20 @@ color: black
 
 ## 2021
 
+### **2021-08-30**
+
+Do you want to know more about the challenges faced by postdocs, the life of a bioinformatician or the academic path of our president, Dr. [Karen Cristine Goncalves]?
+
+Watch her interview by the doctorate student  Nikunj Sharma, from the Université du Québec à Trois-Rivières!
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/2Xx9Anv2nqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+<br><br>
+
 ### **2021-05-05**
 
 Congratulations, [Karen Cristine Goncalves], our president, for her finishing her PhD and for publishing a paper in MPDI Microorganisms:

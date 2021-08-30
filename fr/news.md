@@ -72,6 +72,20 @@ color: black
 
 ## 2021
 
+### **2021-08-30**
+
+Voulez vous savoir plus sur les defis des postdocs, la vie d'une bioinformaticienne, ou le parcours academique de notre présidente, Dre [Karen Cristine Goncalves]?
+
+Regardez son entrevue par le doctorant Nikunj Sharma, de l'Université du Québec à Trois-Rivières!
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/2Xx9Anv2nqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+<br><br>
+
 ### **2021-05-05**
 
 Felicitations à [Karen Cristine Goncalves], notre présidente, pour avoir soutenu sa thèse de doctorat et pour son article publié en MDPI Microorganisms:
