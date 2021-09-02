@@ -72,6 +72,20 @@ color: black
 
 ## 2021
 
+### **2021-09-02**
+
+Nouvelle publication de une des chercheuses du Centre Séve, Dre [Isabel Desgagné-Penix], et ses étudiants [Manoj Koirala] et [Seydou Ka], en collaboration international avec l'[Universita’ di Napoli Federico II](http://www.unina.it/en_GB/home) (Italie) et l'[Universite Cheikh Anta Diop de Dakar](https://fmpos.ucad.sn/) (Sénégal).
+<br>
+
+Publication: 
+[Isolation and biological characterization of homoisoflavanoids and the alkylamide N-p-Coumaroyltyramine from _Crinum biflorum_ Rottb., an Amaryllidaceae species collected in Senegal](https://doi.org/10.3390/biom11091298)
+
+<br>
+Félicitations à toutes les personnes impliquées dans ce projet pour leur travail assidu et en particulier à la Dre [Isabel Desgagné-Penix] pour sa collaboration avec des chercheurs du monde entier !
+
+<br><br>
+
+
 ### **2021-08-30**
 
 Voulez vous savoir plus sur les defis des postdocs, la vie d'une bioinformaticienne, ou le parcours academique de notre présidente, Dre [Karen Cristine Goncalves]?
@@ -496,7 +510,7 @@ Suivez la [finale](https://www.facebook.com/events/662935087680358/?__cft__[0]=A
 
 ### **2020-10-24**
 
-Soumis par ses étudiants, les laboratoires des [Pr. Desgagné-Penix](https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/) et [Pr. Germain](https://www.researchgate.net/profile/Hugo_Germain) ont obtenu le [Prix d'excellence](https://cbie.ca/fr/laureat-e-s-prix-excellence-2020/) du [Bureau Canadien de l'Éducation Internationale](https://cbie.ca/fr/) pour les [politiques d'équité, de diversité et d'inclusion](https://www.youtube.com/watch?v=QPqd4jLihyU&t=3s&ab_channel=uqtr) menées au quotidien.
+Soumis par ses étudiants, les laboratoires des Dre [Isabel Desgagné-Penix] et Dr. [Hugo Germain](https://www.researchgate.net/profile/Hugo_Germain) ont obtenu le [Prix d'excellence](https://cbie.ca/fr/laureat-e-s-prix-excellence-2020/) du [Bureau Canadien de l'Éducation Internationale](https://cbie.ca/fr/) pour les [politiques d'équité, de diversité et d'inclusion](https://www.youtube.com/watch?v=QPqd4jLihyU&t=3s&ab_channel=uqtr) menées au quotidien.
 
 
 Félicitations!
@@ -837,4 +851,8 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[Valeria Parra]: 
+[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
+[Isabel Desgagné-Penix]: https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/
+[Hugo Germain]: https://www.researchgate.net/profile/Hugo_Germain
+[Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
+[Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/

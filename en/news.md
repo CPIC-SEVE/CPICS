@@ -77,6 +77,18 @@ color: black
 
 ## 2021
 
+### **2021-09-02**
+
+New publication from one of Centre SÈVE's researchers, Dr. [Isabel Desgagné-Penix], and her students [Manoj Koirala] and [Seydou Ka], through an international collaboration with the [Universita’ di Napoli Federico II](http://www.unina.it/en_GB/home) (Italy) and the [Universite Cheikh Anta Diop de Dakar](https://fmpos.ucad.sn/) (Senegal).
+<br>
+
+Publication: [Isolation and biological characterization of homoisoflavanoids and the alkylamide N-p-Coumaroyltyramine from _Crinum biflorum_ Rottb., an Amaryllidaceae species collected in Senegal](https://doi.org/10.3390/biom11091298)
+<br>
+
+Congratulations to all involved for the hard work and specially to Dr. [Isabel Desgagné-Penix] for  collaborating with researchers worldwide!
+
+<br><br>
+
 ### **2021-08-30**
 
 Do you want to know more about the challenges faced by postdocs, the life of a bioinformatician or the academic path of our president, Dr. [Karen Cristine Goncalves]?
@@ -501,7 +513,7 @@ Watch the [finals](https://www.facebook.com/events/662935087680358/?__cft__[0]=A
 
 ### **2020-10-24**
 
-Submitted by their students, the laboratories of [Pr. Desgagné-Penix](https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/) et [Pr. Germain](https://www.researchgate.net/profile/Hugo_Germain) won the [Canadian Bureau for International Education](https://cbie.cen/) [Equity, Diversity and Inclusion (EDI) Award](https://cbie.ca/2020-excellence-award-winners/).
+Submitted by their students, the laboratories of Dr. [Isabel Desgagné-Penix] and Dr. [Hugo Germain] won the [Canadian Bureau for International Education](https://cbie.cen/) [Equity, Diversity and Inclusion (EDI) Award](https://cbie.ca/2020-excellence-award-winners/).
 
 
 Congratulations!
@@ -833,7 +845,10 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
-[Centre SÈVE Annual International Symposium]: (https://cpics.netlify.app/en/symposia.html)
+[Centre SÈVE Annual International Symposium]: https://cpics.netlify.app/en/symposia.html
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[Valeria Parra]: 
-
+[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
+[Isabel Desgagné-Penix]: https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/
+[Hugo Germain]: https://www.researchgate.net/profile/Hugo_Germain
+[Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
+[Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/
