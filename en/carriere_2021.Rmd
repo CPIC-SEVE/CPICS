@@ -106,8 +106,8 @@ This workshop will be given in french.
 
 </div>
 <div class="col-md-6">
-<img src="images/events/carriere_2021/genevieve_laperriere.webp" class="avatar">
-<center>[Geneviève Laperrière](https://www.researchgate.net/profile/Genevieve-Laperriere)<br>Ulysse Biotech</center>
+<img src="images/events/carriere_2021/Lauriane_giroux.jfif" class="avatar">
+<center>[Lauriane Giroux](https://www.linkedin.com/in/lauriane-giroux-83b68b11a/)<br>Research professional<br>Ulysse Biotech</center>
 
 </div>
 </div>
