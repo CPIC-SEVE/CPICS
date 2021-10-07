@@ -18,12 +18,12 @@ navbar:
       menu:
        - text: "À venir"
          menu: 
-           - text: "Journée Carrière"
-             href: ./fr/carriere_2021.html
        - text: "Passé"
          menu: 
            - text: "2021"
              menu:
+               - text: "Journée Carrière"
+                 href: ./fr/carriere_2021.html
                - text: "What's up Conferences - 3rd edition"
                  href: ./fr/whats_up.html
            - text: "2020"
