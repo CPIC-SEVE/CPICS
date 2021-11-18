@@ -1,0 +1,144 @@
+---
+title: '<span style="display:none">Participer Conferences</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+output: 
+  html_document
+---
+
+<!--December 2020-->
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/participate.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="form.css">
+
+<style>
+.main-container{max-width: 1492px}
+
+div.text {
+font-size: 1.25em;
+background-color: rgba(255, 255, 255, 0.7); 
+background-size: cover; 
+padding: 2%;
+}
+li {color: black}
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+div.figure p + p {
+  display: table-caption;
+}
+
+iframe {max-width: 100%; max-height: 100%;}
+</style>
+
+
+<div class="container-fluid">
+
+<div class="row">
+
+<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
+<br><br>
+<div class="col-md-9" style="padding-right: 2%">
+<div class="row text">
+
+<form name="CPICS_participation" method="POST" data-netlify="false">
+
+<!-- ARE you a CS member -->
+<div class="form-row">
+<fieldset aria-required="true">
+Ne remplissez ce formulaire que si vous êtes un(e) membre étudiant(e)/stagiaire posdoctorale du Centre SEVE.<br>
+
+Si vous ne savez pas si vous êtes membre, recherchez votre professeur(e). <a href="https://centreseve.recherche.usherbrooke.ca/en/researchers">here</a>
+
+
+</fieldset>
+</div>
+
+<!-- Name -->
+<div class="form-row">
+<fieldset aria-required="true">
+<legend>Nom</legend>
+<label for="firstName">Prénom</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false">
+<span class="error-msg" id="firstNameErr"></span>
+</div>
+<div class="form-row">
+<label for="lastName">Nom</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false">
+<span class="error-msg" id="lastNameErr"></span>
+</fieldset>
+</div>
+<br><br>
+<!-- University -->
+<div class="form-row">
+<fieldset aria-required="true">
+<legend>Votre labo</legend>
+<label for="University">Université</label><input type="text" name="University" id="University" aria-required="true" data-ok="false">
+<span class="error-msg" id="UniversityErr"></span>
+<label for="Supervisor">Nom de votre superviseur</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false">
+</fieldset>
+</div>
+<br><br>
+
+<!-- Email -->
+<div class="form-row">
+<fieldset aria-required="true">
+<legend>Courriel</legend>
+<input type="text" name="email" id="email" aria-required="true" data-ok="false">
+<span class="error-msg" id="emailErr"></span>
+</fieldset>
+</div>
+<br><br>
+
+<!-- Status -->
+<div class="form-row">
+<fieldset aria-required="true">
+<legend>Votre status</legend>
+<input type="radio" id="masters" name="status" required="required" value="Master's student">
+<label for="masters">Étudiant(e) à la maîtrise</label>
+<input type="radio" id="phd" name="status" required="required" value="Ph.D. student">
+<label for="phd">Étudiant(e) au doctorat</label>
+<input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow">
+<label for="postdoc">Stagiaire posdoctorale</label>
+</fieldset>
+</div>
+<br><br>
+
+<button type="submit" class="btn" aria-disabled="true" aria-describedby="CSmemberErr">Sousmetre</button>
+</form>
+
+</div>
+</div>
+<div class="col-md-3">
+
+<div class="row">
+<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
+
+</div>
+
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+</div>
+
+
+</div>
+</div>

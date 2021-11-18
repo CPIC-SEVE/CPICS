@@ -35,6 +35,8 @@ navbar:
              menu:
                - text: "1st Annual International Symposium of Center SÈVE"
                  href: symposia.html 
+    - text: "Get involved"
+      href: ./participate.html
   right:
     - text: "FR"
       href: ../fr/index.html
