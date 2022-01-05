@@ -102,8 +102,6 @@ Publication:
 <br>
 Congratulations !!
 
-<br><br>
-
 ## 2021
 
 ### **2021-12-03**

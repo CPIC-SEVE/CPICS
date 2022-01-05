@@ -94,8 +94,6 @@ Publication:
 <br>
 Félicitations !
 
-<br><br>
-
 ## 2021
 
 ### **2021-12-03**
@@ -105,6 +103,7 @@ Notre trésorière [Julie Yergeau] vient de finir sa maîtrise titré « L’ide
 En plus, elle a gagné le prix de meilleure présentation dans les Symposiums MicroBioMoléculaires de la Session Automne 2021 à l'Université de Sherbrooke.
 
 Félicitations, Julie!
+<br><br>
 
 ### **2021-11-24**
 
@@ -112,6 +111,7 @@ Notre Vice-Président en Réseautage [Romaric Armel Mouafo Tchinda] a réussi so
 
 Félicitations !!!
 
+<br><br>
 
 ### **2021-09-02**
 
