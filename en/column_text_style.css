@@ -10,18 +10,14 @@ ul > li > .anchor-section {display: none;}
 
 div.text {
 font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.6); 
+background-color: rgba(255, 255, 255, 0.8); 
 background-size: cover; 
 padding: 2%;
 }
 a {
-  color: #ffffff;
+  color: #00A300;
   font-weight: bold;
 }
-
-/*.main-divs {
-  display: flex;
-}*/
 
 a:hover{
 color: #a4eb34
@@ -121,11 +117,7 @@ nav-tabs>li>a:hover{border-color:rgba(50, 130, 102, 0.6)}
 .tab-content>.tab-pane{display:none}
 .tab-content>.active{display:block}
 .nav-tabs .dropdown-menu{margin-top:-1px;border-top-left-radius:0;border-top-right-radius:0}
-  
-a {
-  color:#fff;
-}    
-  
+
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
 @media only screen and (max-width: 940px) {
   div.hide { display: none;

@@ -75,7 +75,55 @@ color: black
 
 # {.tabset .tabset-fade .tabset-pills}
 
+## 2022
+
+### **2022-01-05**
+
+Hello everyone,
+
+Are you a Centre SEVE member? 
+
+Don’t know yet, check out the link below to find out.
+
+Also, get your email registered to get the CPICS meetings alerts.
+
+https://cpics.netlify.app/en/participate.html
+<br><br>
+
+
+### **2022-01-03**
+
+New publication from one of the researchers from Centre Séve, Dr. [Isabel Desgagné-Penix], and her students Laurence Tousignant, [Aracely Maribel Diaz Garza], [Bharat Bhusan Majhi](https://www.researchgate.net/profile/Bharat-Majhi) and [Sarah-Eve Gélinas](https://ca.linkedin.com/in/sarah-%C3%A8ve-g%C3%A9linas-695971159), in collaboration with the postdoctoral fellow [Aparna Singh](https://ca.linkedin.com/in/aparna-singh-5049b462), from the University of New Brunswick.
+<br>
+
+Publication: 
+[Transcriptome analysis of _Leucojum aestivum_ and identification of genes involved in norbelladine biosynthesis](https://doi.org/10.1007/s00425-021-03741-x)
+
+<br>
+Congratulations !!
+
+<br><br>
+
 ## 2021
+
+### **2021-12-03**
+
+Our treasurer [Julie Yergeau] just finished her master's titled "The identificatoin of species of _Phytophthora_ in the cultivars of Christmas trees in Quebec and the validatoin of the pathogenicity of _P. abietivora_" !
+
+In addition, she won the prize of best presentation during the Symposiums MicroBioMoléculaires of the Fall Session of 2021 from the Université de Sherbrooke.
+
+Congratulations, Julie!
+
+<img src="images/news/Prix_julie.webp">
+<br><br>
+
+### **2021-11-24**
+
+Our Vice-President in Networking [Romaric Armel Mouafo Tchinda] finished successfully his PhD degree on Phytopathology, with the thesis "Comparative epidemiology of the two main clades of Plasmopara viticola prevalent in eastern Canada", under the directon of Dr. Carole Beaulieu and Dr. Odile Carisse.
+
+Many congratulations!!!
+
+<br><br>
 
 ### **2021-09-02**
 
@@ -105,10 +153,14 @@ Watch her interview by the doctorate student  Nikunj Sharma, from the Universit�
 
 ### **2021-05-05**
 
-Congratulations, [Karen Cristine Goncalves], our president, for her finishing her PhD and for publishing a paper in MPDI Microorganisms:
+Our president, [Karen Cristine Goncalves], successfully finished her PhD in Cellular and Molecular Biology, with the thesis "Unrelated Fungal Rust Candidate Effectors Act on Overlapping Plant Functions", under the direction of Dr. [Hugo Germain] and Dr. [Isabel Desgagné-Penix]. 
+
+She also published her work in MPDI Microorganisms:
 [Unrelated Fungal Rust Candidate Effectors Act on Overlapping Plant Functions](https://doi.org/10.3390/microorganisms9050996).
 
-Bravo!
+Finally, she has started her postdoctoral fellowship with Dr. [Damase Khasa](https://www.sbf.ulaval.ca/professeurs/damase-p-khasa), Dr. [Juan Carlos Villarreal Aguilar](https://www.bio.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/villarreal-a-juan-carlos/) and Dr. [Ilga Porth](http://www.ibis.ulaval.ca/en/research/ilga-porth/).
+
+Bravo, Karen!!!
 
 <br><br>
 
@@ -119,133 +171,6 @@ Congrats for their great job during this pandemic!
 
 Take a look at their publications here:
 
-#### Jacqueline C Bede
-
-<div class='professors'>
-__Jacqueline C Bede__
-
-- <a href='https://www.intechopen.com/online-first/the-endangered-species-dioon-edule-in-the-sierra-madre-oriental-in-san-luis-potos-demography-and-gen'>The Endangered Species _Dioon edule_ in the Sierra Madre Oriental in San Luis Potosí: Demography and Genetic Diversity</a>
-- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTOFR-07-20-0002-R'>Distinct _Arabidopsis_ Responses to Two Generalist Caterpillar Species Differing in Host Breadth</a>
-</div><br><br>
-
-
-#### Richard Bélanger
-
-<div class='professors'>
-__Richard Bélanger__
-
-- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0348-FI'>Genomic profiling of virulence in the soybean cyst nematode using single-nematode sequencing</a>
-</div><br><br>
-
-
-#### Francois Belzile
-
-<div class='professors'>
-__Francois Belzile__
-
-- <a href='https://www.researchsquare.com/article/rs-244194/latest.pdf'>GWAS identifies a wheat orthologue of the rice D11 gene as an important contributor to grain size in an international collection of hexaploid wheat</a>
-- <a href='https://cdnsciencepub.com/doi/abs/10.1139/CJPS-2020-0187'>Genome-wide association study (GWAS) to identify soybean stem pushing resistance and lodging resistance loci</a>
-- <a href='https://academic.oup.com/g3journal/advance-article-abstract/doi/10.1093/g3journal/jkab031/6128399'>Genome Assembly of the Canadian Two-row Malting Barley Cultivar AAC Synergy</a>
-- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13466'>Soybean ( _Glycine max_ ) Haplotype Map (GmHapMap): a universal resource for soybean translational and functional genomics</a>
-- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13551'>A bumper crop of SNPs in soybean through high‐density genotyping‐by‐sequencing (HD‐GBS)</a>
-- <a href='https://europepmc.org/article/med/33606262'>Accurate Imputation of Untyped Variants from Deep Sequencing Data.</a>
-</div><br><br>
-
-
-#### Jean-Philippe Bellenger
-
-<div class='professors'>
-__Jean-Philippe Bellenger__
-
-- <a href='https://www.cambridge.org/core/journals/lichenologist/article/stigonema-associated-with-boreal-stereocaulon-possesses-the-alternative-vanadium-nitrogenase/4AB78369AB598919146F33D31C9A4063'> _Stigonema_ associated with boreal _Stereocaulon_ possesses the alternative vanadium nitrogenase</a>
-- <a href='https://www.frontiersin.org/articles/10.3389/fmicb.2020.611792/full'>Quantification of Moss-Associated Cyanobacteria Using Phycocyanin Pigment Extraction</a>
-</div><br><br>
-
-
-#### Marc Bélisle
-
-<div class='professors'>
-__Marc Bélisle__
-
-- <a href='https://www.biorxiv.org/content/10.1101/2021.03.24.436831v1.abstract'>Negative effects of agricultural intensification on energetic gain rates of a declining aerial insectivore</a>
-- <a href='https://www.biorxiv.org/content/10.1101/2021.02.02.427782v1.abstract'>Combined influence of food availability and agricultural intensification on a declining aerial insectivore</a>
-</div><br><br>
-
-
-#### Robert L Bradley
-
-<div class='professors'>
-__Robert L Bradley__
-
-- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0031405621000214?via%3Dihub'>Earthworms did not increase long-term nitrous oxide fluxes in perennial forage and riparian buffer ecosystems</a>
-</div><br><br>
-
-
-#### Laurent Cappadocia
-
-<div class='professors'>
-__Laurent Cappadocia__
-
-- <a href='https://www.researchgate.net/profile/Marc-Lussier/publication/349735800_Functional_interaction_of_ubiquitin_ligase_RNF167_with_UBE2D1_and_UBE2N_promotes_ubiquitination_of_AMPA_receptor/links/60445089a6fdcc9c781ade9f/Functional-interaction-of-ubiquitin-ligase-RNF167-with-UBE2D1-and-UBE2N-promotes-ubiquitination-of-AMPA-receptor.pdf'>Functional interaction of ubiquitin ligase RNF167 with UBE2D1 and UBE2N promotes ubiquitination of AMPA receptor</a>
-- <a href='https://www.sciencedirect.com/science/article/pii/S0955286320305507'>Functional targeting of the TGF-βR1 kinase domain and downstream signaling: A role for the galloyl moiety of green tea-derived catechins in ES-2 ovarian clear cell carcinoma</a>
-</div><br><br>
-
-
-#### Jean-Benoit Charron
-
-<div class='professors'>
-__Jean-Benoit Charron__
-
-- <a href='https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16945'>Transcriptional memories mediate the plasticity of cold stress responses to enable morphological acclimation in _Brachypodium distachyon_</a>
-</div><br><br>
-
-
-#### Gerald Chouinard
-
-<div class='professors'>
-__Gerald Chouinard__
-
-- <a href='https://www.mdpi.com/2075-4450/12/3/197'>Pest Activity and Protection Practices: Four Decades of Transformation in Quebec Apple Orchards</a>
-</div><br><br>
-
-
-#### Isabel Desgagne-Penix
-
-<div class='professors'>
-__Isabel Desgagne-Penix__
-
-- <a href='https://www.frontiersin.org/articles/10.3389/fmars.2021.636613/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Marine_Science&id=636613&fbclid=IwAR2v-e12Zt4B8vFqMAJWjb56j-82_4gLvGDd69Up_jmCFw73k3-YwJ8F4uQ'>Diatoms Biotechnology: Various Industrial Applications for a Greener Tomorrow</a>
-</div><br><br>
-
-
-#### Martine Dorais
-
-<div class='professors'>
-__Martine Dorais__
-
-- <a href='https://cdnsciencepub.com/doi/abs/10.1139/CJSS-2020-0147'>Reducing peat in growing media: impact on N content, microbial activity and CO<sub>2</sub> and N<sub>2</sub>O emissions</a>
-</div><br><br>
-
-
-#### Pierre Dutilleul
-
-<div class='professors'>
-__Pierre Dutilleul__
-
-- <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089673'>Periodicity analysis of earthquake occurrence and hypocenter depth near Parkfield, California, 1994-2002 versus 2006-2014</a>
-- <a href='https://www.sciencedirect.com/science/article/pii/S0016706121001762'>Macroaggregate persistence: definition and applications to describe soil surface dynamics</a>
-</div><br><br>
-
-
-#### Valérie Fournier
-
-<div class='professors'>
-__Valérie Fournier__
-
-- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=560255130753671258&btnI=1&hl=fr'>Overwintering survival of _Drosophila suzukii_ (Diptera: Drosophilidae) in temperature regimes emulating partly protected winter conditions in a cold–temperate climate of Québec, Canada</a>
-</div><br><br>
-
-
 #### Anja Geitmann
 
 <div class='professors'>
@@ -254,44 +179,24 @@ __Anja Geitmann__
 - <a href='https://scholar.google.co.uk/scholar?oi=bibs&cluster=13339576317686526099&btnI=1&hl=en'>Biomechanics of hair fibre growth: A multi-scale modeling approach</a>
 </div><br><br>
 
-
-#### Valerio Hoyos-Villegas
-
-<div class='professors'>
-__Valerio Hoyos-Villegas__
-
-- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=14849547404776337262&btnI=1&hl=en'>Transpiration rate of white clover (_Trifolium repens_ L.) cultivars in drying soil</a>
-</div><br><br>
-
-
-#### Hugo Germain
+#### Anne-Lise Routier-Kierzkowska
 
 <div class='professors'>
-__Hugo Germain__
-
-- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=1838276166457437533&btnI=1&hl=en'>Diatoms Biotechnology: Various Industrial Applications for a Greener Tomorrow</a>
-- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=5452494446004638908&btnI=1&hl=en'>Recent Development on Plant Aldehyde Dehydrogenase Enzymes and Their Functions in Plant Development and Stress Signaling</a>
-- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=11426209543910114205&btnI=1&hl=en'>Asymptomatic carriers of COVID-19 in a confined adult community population in Quebec: a cross-sectional study</a>
-</div><br><br>
-
-
-#### Isabelle Laforest-Lapointe
-
-<div class='professors'>
-__Isabelle Laforest-Lapointe__
-
-- <a href='https://www.mdpi.com/2227-9059/9/1/66'>Concurrent Prebiotic Intake Reverses Insulin Resistance Induced by Early-Life Pulsed Antibiotic in Rats</a>
-- <a href='https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1857513'>Maternal consumption of artificially sweetened beverages during pregnancy is associated with infant gut microbiota and metabolic modifications and increased infant body mass index</a>
-</div><br><br>
-
-
-#### Daniel Kierzkowski
-
-<div class='professors'>
-__Daniel Kierzkowski__
+__Anne-Lise Routier-Kierzkowska__
 
 - <a href='https://www.sciencedirect.com/science/article/pii/S0960982220318364'>Mechanochemical feedback mediates tissue bending required for seedling emergence</a>
 </div>
+<br><br>
+
+#### Benjamin Mimee
+
+<div class='professors'>
+__Benjamin Mimee__
+
+- <a href='https://www.frontiersin.org/articles/10.3389/fmicb.2020.619827/full'>Neonicotinoid Seed Treatments Have Significant Non-target Effects on Phyllosphere and Soil Bacterial Communities</a>
+- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-09-20-0418-RVW'>Recent advances in population genomics of plant-parasitic nematodes</a>
+- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0348-FI'>Genomic profiling of virulence in the soybean cyst nematode using single-nematode sequencing</a>
+</div><br><br>
 
 #### Damase Khasa
 
@@ -304,15 +209,13 @@ __Damase Khasa__
 - <a href='https://search.proquest.com/openview/7467a2cccd51af57bb8a25ef94af4430/1?pq-origsite=gscholar&cbl=2032398'>Early Selection of Tree Species for Regeneration in Degraded Woodland of Southeastern Congo Basin</a>
 </div><br><br>
 
-
-#### Vincent Maire
+#### Daniel Kierzkowski
 
 <div class='professors'>
-__Vincent Maire__
+__Daniel Kierzkowski__
 
-- <a href='https://www.pnas.org/content/118/7/e2019355118.short'>Functional rarity and evenness are key facets of biodiversity to boost multifunctionality</a>
-</div><br><br>
-
+- <a href='https://www.sciencedirect.com/science/article/pii/S0960982220318364'>Mechanochemical feedback mediates tissue bending required for seedling emergence</a>
+</div>
 
 #### Dominique Michaud
 
@@ -321,74 +224,6 @@ __Dominique Michaud__
 
 - <a href='https://patents.google.com/patent/US10907168B2/en'>Jasmonic acid pathway activator</a>
 </div><br><br>
-
-
-#### Benjamin Mimee
-
-<div class='professors'>
-__Benjamin Mimee__
-
-- <a href='https://www.frontiersin.org/articles/10.3389/fmicb.2020.619827/full'>Neonicotinoid Seed Treatments Have Significant Non-target Effects on Phyllosphere and Soil Bacterial Communities</a>
-- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-09-20-0418-RVW'>Recent advances in population genomics of plant-parasitic nematodes</a>
-- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0348-FI'>Genomic profiling of virulence in the soybean cyst nematode using single-nematode sequencing</a>
-</div><br><br>
-
-
-#### Maxime Paré
-
-<div class='professors'>
-__Maxime Paré__
-
-- <a href='https://www.sciencedirect.com/science/article/pii/S0168192321000320'>Cold acclimation and deacclimation in wild blueberry: Direct and indirect influence of environmental factors and non-structural carbohydrates</a>
-</div><br><br>
-
-
-#### Steeve Pepin
-
-<div class='professors'>
-__Steeve Pepin__
-
-- <a href='https://www.sciencedirect.com/science/article/pii/S0168192321000939'>Can a physically-based land surface model accurately represent evapotranspiration partitioning? A case study in a humid boreal forest</a>
-- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.14021'>Observations of canopy storage capacity and wet canopy evaporation in a humid boreal forest</a>
-</div><br><br>
-
-
-#### Edel Pérez-López
-
-<div class='professors'>
-__Edel Pérez-López__
-
-- <a href='https://link.springer.com/article/10.1007/s13314-020-00415-7'>Molecular characterization of a 'Candidatus Phytoplasma asteris'-related strain (16SrI-B/cpn60UT I-IB) affecting daisies ( _Argyranthemum_ spp.) in Mexico</a>
-</div>
-<br><br>
-
-#### Anne-Lise Routier-Kierzkowska
-
-<div class='professors'>
-__Anne-Lise Routier-Kierzkowska__
-
-- <a href='https://www.sciencedirect.com/science/article/pii/S0960982220318364'>Mechanochemical feedback mediates tissue bending required for seedling emergence</a>
-</div>
-<br><br>
-
-#### Philippe Seguin
-
-<div class='professors'>
-__Philippe Seguin__
-
-- <a href='http://scholar.google.com/scholar?cluster=10382021517732928995&hl=en&oi=scholarr'>Validation in Quebec of equations to predict the nutritional value of alfalfa in the field before harvest</a>
-</div><br><br>
-
-
-#### Jaswinder Singh
-
-<div class='professors'>
-__Jaswinder Singh__
-
-- <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247380'>The effect of light quality on plant physiology, photosynthetic, and stress response in _Arabidopsis thaliana_ leaves</a>
-- <a href='https://academic.oup.com/g3journal/advance-article-abstract/doi/10.1093/g3journal/jkab031/6128399'>Genome Assembly of the Canadian Two-row Malting Barley Cultivar AAC Synergy</a>
-</div>
-<br><br>
 
 #### Donald Smith
 
@@ -405,15 +240,104 @@ __Donald Smith__
 </div>
 <br><br>
 
-#### Martina Stromvik
+
+#### Edel Pérez-López
 
 <div class='professors'>
-__Martina Stromvik__
+__Edel Pérez-López__
 
-- <a href='https://www.tandfonline.com/doi/abs/10.1080/23802359.2021.1883486'>The complete plastome sequences of nine diploid potato clones</a>
-- <a href='https://www.tandfonline.com/doi/abs/10.1080/23802359.2021.1886016'>Complete mitogenome assemblies from a panel of 13 diverse potato taxa</a>
+- <a href='https://link.springer.com/article/10.1007/s13314-020-00415-7'>Molecular characterization of a 'Candidatus Phytoplasma asteris'-related strain (16SrI-B/cpn60UT I-IB) affecting daisies ( _Argyranthemum_ spp.) in Mexico</a>
 </div>
 <br><br>
+
+
+#### Francois Belzile
+
+<div class='professors'>
+__Francois Belzile__
+
+- <a href='https://www.researchsquare.com/article/rs-244194/latest.pdf'>GWAS identifies a wheat orthologue of the rice D11 gene as an important contributor to grain size in an international collection of hexaploid wheat</a>
+- <a href='https://cdnsciencepub.com/doi/abs/10.1139/CJPS-2020-0187'>Genome-wide association study (GWAS) to identify soybean stem pushing resistance and lodging resistance loci</a>
+- <a href='https://academic.oup.com/g3journal/advance-article-abstract/doi/10.1093/g3journal/jkab031/6128399'>Genome Assembly of the Canadian Two-row Malting Barley Cultivar AAC Synergy</a>
+- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13466'>Soybean ( _Glycine max_ ) Haplotype Map (GmHapMap): a universal resource for soybean translational and functional genomics</a>
+- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13551'>A bumper crop of SNPs in soybean through high‐density genotyping‐by‐sequencing (HD‐GBS)</a>
+- <a href='https://europepmc.org/article/med/33606262'>Accurate Imputation of Untyped Variants from Deep Sequencing Data.</a>
+</div><br><br>
+
+#### Gerald Chouinard
+
+<div class='professors'>
+__Gerald Chouinard__
+
+- <a href='https://www.mdpi.com/2075-4450/12/3/197'>Pest Activity and Protection Practices: Four Decades of Transformation in Quebec Apple Orchards</a>
+</div><br><br>
+
+
+
+#### Hugo Germain
+
+<div class='professors'>
+__Hugo Germain__
+
+- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=1838276166457437533&btnI=1&hl=en'>Diatoms Biotechnology: Various Industrial Applications for a Greener Tomorrow</a>
+- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=5452494446004638908&btnI=1&hl=en'>Recent Development on Plant Aldehyde Dehydrogenase Enzymes and Their Functions in Plant Development and Stress Signaling</a>
+- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=11426209543910114205&btnI=1&hl=en'>Asymptomatic carriers of COVID-19 in a confined adult community population in Quebec: a cross-sectional study</a>
+</div><br><br>
+
+
+#### Isabel Desgagne-Penix
+
+<div class='professors'>
+__Isabel Desgagne-Penix__
+
+- <a href='https://www.frontiersin.org/articles/10.3389/fmars.2021.636613/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Marine_Science&id=636613&fbclid=IwAR2v-e12Zt4B8vFqMAJWjb56j-82_4gLvGDd69Up_jmCFw73k3-YwJ8F4uQ'>Diatoms Biotechnology: Various Industrial Applications for a Greener Tomorrow</a>
+</div><br><br>
+
+#### Isabelle Laforest-Lapointe
+
+<div class='professors'>
+__Isabelle Laforest-Lapointe__
+
+- <a href='https://www.mdpi.com/2227-9059/9/1/66'>Concurrent Prebiotic Intake Reverses Insulin Resistance Induced by Early-Life Pulsed Antibiotic in Rats</a>
+- <a href='https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1857513'>Maternal consumption of artificially sweetened beverages during pregnancy is associated with infant gut microbiota and metabolic modifications and increased infant body mass index</a>
+</div><br><br>
+
+
+#### Jacqueline C Bede
+
+<div class='professors'>
+__Jacqueline C Bede__
+
+- <a href='https://www.intechopen.com/online-first/the-endangered-species-dioon-edule-in-the-sierra-madre-oriental-in-san-luis-potos-demography-and-gen'>The Endangered Species _Dioon edule_ in the Sierra Madre Oriental in San Luis Potosí: Demography and Genetic Diversity</a>
+- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTOFR-07-20-0002-R'>Distinct _Arabidopsis_ Responses to Two Generalist Caterpillar Species Differing in Host Breadth</a>
+</div><br><br>
+
+#### Jaswinder Singh
+
+<div class='professors'>
+__Jaswinder Singh__
+
+- <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247380'>The effect of light quality on plant physiology, photosynthetic, and stress response in _Arabidopsis thaliana_ leaves</a>
+- <a href='https://academic.oup.com/g3journal/advance-article-abstract/doi/10.1093/g3journal/jkab031/6128399'>Genome Assembly of the Canadian Two-row Malting Barley Cultivar AAC Synergy</a>
+</div>
+<br><br>
+
+#### Jean-Benoit Charron
+
+<div class='professors'>
+__Jean-Benoit Charron__
+
+- <a href='https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16945'>Transcriptional memories mediate the plasticity of cold stress responses to enable morphological acclimation in _Brachypodium distachyon_</a>
+</div><br><br>
+
+#### Jean-Philippe Bellenger
+
+<div class='professors'>
+__Jean-Philippe Bellenger__
+
+- <a href='https://www.cambridge.org/core/journals/lichenologist/article/stigonema-associated-with-boreal-stereocaulon-possesses-the-alternative-vanadium-nitrogenase/4AB78369AB598919146F33D31C9A4063'> _Stigonema_ associated with boreal _Stereocaulon_ possesses the alternative vanadium nitrogenase</a>
+- <a href='https://www.frontiersin.org/articles/10.3389/fmicb.2020.611792/full'>Quantification of Moss-Associated Cyanobacteria Using Phycocyanin Pigment Extraction</a>
+</div><br><br>
 
 #### Joann Whalen
 
@@ -434,9 +358,124 @@ __Joann Whalen__
 - <a href='https://www.sciencedirect.com/science/article/pii/S0031405621000214'>Earthworms did not increase long-term nitrous oxide fluxes in perennial forage and riparian buffer ecosystems</a>
 - <a href='https://www.sciencedirect.com/science/article/pii/S1002016020600807'>Earthworm populations are stable in temperate agricultural soils receiving wood-based biochar</a>
 - <a href='https://www.sciencedirect.com/science/article/pii/S1002016020600844'>Earthworm functional groups are related to denitrifier activity in riparian soils</a>
-</div>	
+</div>	<br><br>
 
+#### Laurent Cappadocia
+
+<div class='professors'>
+__Laurent Cappadocia__
+
+- <a href='https://www.researchgate.net/profile/Marc-Lussier/publication/349735800_Functional_interaction_of_ubiquitin_ligase_RNF167_with_UBE2D1_and_UBE2N_promotes_ubiquitination_of_AMPA_receptor/links/60445089a6fdcc9c781ade9f/Functional-interaction-of-ubiquitin-ligase-RNF167-with-UBE2D1-and-UBE2N-promotes-ubiquitination-of-AMPA-receptor.pdf'>Functional interaction of ubiquitin ligase RNF167 with UBE2D1 and UBE2N promotes ubiquitination of AMPA receptor</a>
+- <a href='https://www.sciencedirect.com/science/article/pii/S0955286320305507'>Functional targeting of the TGF-βR1 kinase domain and downstream signaling: A role for the galloyl moiety of green tea-derived catechins in ES-2 ovarian clear cell carcinoma</a>
+</div><br><br>
+
+#### Marc Bélisle
+
+<div class='professors'>
+__Marc Bélisle__
+
+- <a href='https://www.biorxiv.org/content/10.1101/2021.03.24.436831v1.abstract'>Negative effects of agricultural intensification on energetic gain rates of a declining aerial insectivore</a>
+- <a href='https://www.biorxiv.org/content/10.1101/2021.02.02.427782v1.abstract'>Combined influence of food availability and agricultural intensification on a declining aerial insectivore</a>
+</div><br><br>
+
+#### Martina Stromvik
+
+<div class='professors'>
+__Martina Stromvik__
+
+- <a href='https://www.tandfonline.com/doi/abs/10.1080/23802359.2021.1883486'>The complete plastome sequences of nine diploid potato clones</a>
+- <a href='https://www.tandfonline.com/doi/abs/10.1080/23802359.2021.1886016'>Complete mitogenome assemblies from a panel of 13 diverse potato taxa</a>
+</div>
 <br><br>
+
+#### Maxime Paré
+<div class='professors'>
+__Maxime Paré__
+
+- <a href='https://www.sciencedirect.com/science/article/pii/S0168192321000320'>Cold acclimation and deacclimation in wild blueberry: Direct and indirect influence of environmental factors and non-structural carbohydrates</a>
+</div><br><br>
+
+
+#### Martine Dorais
+
+<div class='professors'>
+__Martine Dorais__
+
+- <a href='https://cdnsciencepub.com/doi/abs/10.1139/CJSS-2020-0147'>Reducing peat in growing media: impact on N content, microbial activity and CO<sub>2</sub> and N<sub>2</sub>O emissions</a>
+</div><br><br>
+
+#### Philippe Seguin
+
+<div class='professors'>
+__Philippe Seguin__
+
+- <a href='http://scholar.google.com/scholar?cluster=10382021517732928995&hl=en&oi=scholarr'>Validation in Quebec of equations to predict the nutritional value of alfalfa in the field before harvest</a>
+</div><br><br>
+
+
+#### Pierre Dutilleul
+
+<div class='professors'>
+__Pierre Dutilleul__
+
+- <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL089673'>Periodicity analysis of earthquake occurrence and hypocenter depth near Parkfield, California, 1994-2002 versus 2006-2014</a>
+- <a href='https://www.sciencedirect.com/science/article/pii/S0016706121001762'>Macroaggregate persistence: definition and applications to describe soil surface dynamics</a>
+</div><br><br>
+
+#### Richard Bélanger
+
+<div class='professors'>
+__Richard Bélanger__
+
+- <a href='https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0348-FI'>Genomic profiling of virulence in the soybean cyst nematode using single-nematode sequencing</a>
+</div><br><br>
+
+
+#### Robert L Bradley
+
+<div class='professors'>
+__Robert L Bradley__
+
+- <a href='https://www.sciencedirect.com/science/article/abs/pii/S0031405621000214?via%3Dihub'>Earthworms did not increase long-term nitrous oxide fluxes in perennial forage and riparian buffer ecosystems</a>
+</div><br><br>
+
+
+#### Steeve Pepin
+
+<div class='professors'>
+__Steeve Pepin__
+
+- <a href='https://www.sciencedirect.com/science/article/pii/S0168192321000939'>Can a physically-based land surface model accurately represent evapotranspiration partitioning? A case study in a humid boreal forest</a>
+- <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.14021'>Observations of canopy storage capacity and wet canopy evaporation in a humid boreal forest</a>
+</div><br><br>
+
+
+#### Valérie Fournier
+
+<div class='professors'>
+__Valérie Fournier__
+
+- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=560255130753671258&btnI=1&hl=fr'>Overwintering survival of _Drosophila suzukii_ (Diptera: Drosophilidae) in temperature regimes emulating partly protected winter conditions in a cold–temperate climate of Québec, Canada</a>
+</div><br><br>
+
+
+#### Valerio Hoyos-Villegas
+
+<div class='professors'>
+__Valerio Hoyos-Villegas__
+
+- <a href='https://scholar.google.com/scholar?oi=bibs&cluster=14849547404776337262&btnI=1&hl=en'>Transpiration rate of white clover (_Trifolium repens_ L.) cultivars in drying soil</a>
+</div><br><br>
+
+
+
+#### Vincent Maire
+
+<div class='professors'>
+__Vincent Maire__
+
+- <a href='https://www.pnas.org/content/118/7/e2019355118.short'>Functional rarity and evenness are key facets of biodiversity to boost multifunctionality</a>
+</div><br><br>
 
 
 ### **2021-01-29**
