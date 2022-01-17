@@ -79,7 +79,7 @@ thead {
 <div class="col-md-9">
 <div class="row text" style="margin: 2%">
 
-#   {.tabset .tabset-fade .tabset-pills}
+# {.tabset .tabset-fade .tabset-pills}
 
 ## Description des Fonctions
 
@@ -147,8 +147,61 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 
 ## Actuel
 
-![](images/comite%20photos/comite_2021.webp)
+<center>
+<!--<img src="images/comite%20photos/" width=75%>-->
+</center>
+<br>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<td scope="col">Role</td>
+<td scope="col">Name</td>
+<td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Présidence</th><td>[Nicolas Sene]</td><td rowspan="7">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-Présidence</th><td>[Serge Nouemssi]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence aux Communications</th><td>[Jennifer Paillassa]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Snehi Gazal]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence aux Réseautage</th><td>[Naresh Panneerselvam]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Théo Devèze]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Présidence à la Trésorerie</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Julie Yergeau]</td><td>Université de Sherbrooke<br>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2"> Secrétaires</th><td>[Aracely Maribel Diaz Garza]</td><td >Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Karen Cristine Goncalves dos Santos]</td><td>Université Laval</td>
+</tr>
+</tbody>
+</table>
+</div>
 
+## Passé {.tabset .tabset-pill}
+
+### 2021 
+
+<center>
+<img src="images/comite%20photos/comite_2021.webp" width=75%>
+</center>
 <br>
 <div class="table-responsive">
 <table>
@@ -195,15 +248,13 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 </div>
 
 
-
-
-## Passé {.tabset .tabset-pill}
-
 ### 2020 {.tabset .tabset-pill}
 
 #### 2020-05
 
-![](images/comite%20photos/comite_2020_new.webp)
+<center>
+<img src="images/comite%20photos/comite_2020_new.webp" width=75%>
+</center>
 
 <br>
 <div class="table-responsive">
@@ -256,7 +307,9 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 
 #### 2020-01-10
 
-![](images/comite%20photos/comite_2020.webp)
+<center>
+<img src="images/comite%20photos/comite_2020.webp" width=75%>
+</center>
 
 <br>
 
@@ -305,9 +358,12 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 </tbody>
 </table>
 </div>
+
 ### 2019
 
-![](images/comite%20photos/comite_2019.webp)
+<center>
+<img src="images/comite%20photos/comite_2019.webp" width=75%>
+</center>
 
 <br>
 

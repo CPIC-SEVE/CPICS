@@ -137,7 +137,62 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ## Current
 
-![](images/comite photos/comite_2021.webp) 
+<center>
+<!--<img src="images/comite%20photos/" width=75%>-->
+</center>
+
+
+<br>
+
+<table>
+<thead>
+<tr>
+<td scope="col">Role</td>
+<td scope="col">Name</td>
+<td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Presidence</th><td>[Nicolas Sene]</td><td rowspan="7">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-Presidence</th><td>[Serge Nouemssi]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Snehi Gazal]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Naresh Panneerselvam]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Théo Devèze]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Treasury</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Julie Yergeau]</td><td>Université de Sherbrooke<br>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2"> Secretaries</th><td>[Aracely Maribel Diaz Garza]</td><td >Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Karen Cristine Goncalves dos Santos]</td><td>Université Laval</td>
+</tr>
+</tbody>
+</table>
+
+## Past {.tabset .tabset-pill}
+
+### 2021
+
+<center>
+<img src="images/comite%20photos/comite_2021.webp" width=75%>
+</center>
 
 <br>
 
@@ -183,12 +238,14 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tbody>
 </table>
 
-## Past {.tabset .tabset-pill}
 
 ### 2020 {.tabset .tabset-pill}
 
 #### 2020-05
-![](images/comite photos/comite_2020_new.webp) 
+
+<center>
+<img src="images/comite%20photos/comite_2020_new.webp" width=75%>
+</center>
 
 <br>
 
@@ -241,7 +298,9 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 #### 2020-01-10
 
-![](images/comite photos/comite_2020.webp) 
+<center>
+<img src="images/comite%20photos/comite_2020.webp" width=75%>
+</center>
 
 <br>
 
@@ -293,7 +352,9 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 ###  2019
 
-![](images/comite photos/comite_2019.webp)
+<center>
+<img src="images/comite%20photos/comite_2019.webp" width=75%>
+</center>
 
 <br>
 
