@@ -408,20 +408,25 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </div>
 
 </div>
+[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
-[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
-[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
-[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
-[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
-[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
-[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
-[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Elisa Ines Fantino]: https://www.linkedin.com/in/elisa-fantino-84b25251/
+[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
+[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
+[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
+[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Naresh Panneerselvam]: https://www.linkedin.com/in/nareshpanneerselvam/
+[Nicolas Sene]: https://www.linkedin.com/in/nicolas-sene-6b0918128
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
-[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
-[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[Valeria Parra]: 
+[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+<!--[Théo Devèze]:-->
+[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
+[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
+
