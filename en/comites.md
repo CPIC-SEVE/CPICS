@@ -138,7 +138,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 ## Current
 
 <center>
-<!--<img src="images/comite%20photos/" width=75%>-->
+<!--<img src="images/comite%20photos/comite_2022.webp" width=75%>-->
 </center>
 
 
@@ -182,6 +182,18 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tr>
 <tr>
 <td>[Karen Cristine Goncalves dos Santos]</td><td>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="4"> Collaborators</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Valeria Parra]</td>
+</tr>
+<tr>
+<td> [Romaric Armel Mouafo Tchinda]</td><td></td>
+</tr>
+<tr>
+<td> [Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
 </tr>
 </tbody>
 </table>
@@ -268,7 +280,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 <th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>Université de Montréal</td>
+<td>[Marianne Bessette]</td><td>Université de Montr?al</td>
 </tr>
 <tr>
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
@@ -325,7 +337,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 <th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>Université de Montréal</td>
+<td>[Marianne Bessette]</td><td>Université de Montr?al</td>
 </tr>
 <tr>
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
@@ -426,7 +438,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-<!--[Théo Devèze]:-->
+<!--[Th?o Dev?ze]:-->
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 

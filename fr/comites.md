@@ -192,6 +192,18 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 <tr>
 <td>[Karen Cristine Goncalves dos Santos]</td><td>Université Laval</td>
 </tr>
+<tr>
+<th scope="row" rowspan="4"> Collaborateurs</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Valeria Parra]</td>
+</tr>
+<tr>
+<td> [Romaric Armel Mouafo Tchinda]</td><td></td>
+</tr>
+<tr>
+<td> [Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
+</tr>
 </tbody>
 </table>
 </div>
