@@ -149,7 +149,7 @@ Il/elle sera en charge de la gestion du budget alloué au CPICS et de présenter
 ## Actuel
 
 <center>
-<!--<img src="images/comite%20photos/" width=75%>-->
+<img src="images/comite photos/comite_2022.webp" width=75%>
 </center>
 <br>
 <div class="table-responsive">
