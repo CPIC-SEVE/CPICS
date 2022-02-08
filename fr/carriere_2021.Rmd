@@ -59,7 +59,7 @@ function myFunction(x) {
 
 <p style="display:block; text-align: center; margin-left: auto; margin-right: auto">
 
-Vous êtes-vous déjà demandé(e) ce que vous alliez faire après avoir terminé vos études supérieures ? 
+Vous êtes-vous déjà demandé&middot;e&middot; ce que vous alliez faire après avoir terminé vos études supérieures ? 
 
 Quelles sont les options possibles et comment tirer le meilleur parti des différents outils disponibles pour prendre de telles décisions ?
 
