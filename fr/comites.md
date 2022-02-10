@@ -426,7 +426,7 @@ Iel sera en charge de la gestion du budget alloué au CPICS et de présenter un 
 [Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
 [Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
-[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Naresh Panneerselvam]: https://www.linkedin.com/in/nareshpanneerselvam/

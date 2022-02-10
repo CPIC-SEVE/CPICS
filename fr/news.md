@@ -869,7 +869,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
 [Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
-[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
