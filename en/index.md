@@ -2,9 +2,9 @@
 title: '<span style="display:none">CSIPC</span>'
 name: "Home"
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
-output: html_document
+output: 
+  html_document
 ---
-
 <head>
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -18,8 +18,6 @@ output: html_document
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-</head>
-
 <style>
 
 a.twitter-timeline {
