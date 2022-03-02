@@ -1,12 +1,23 @@
 name: "Comité de partenariat international du Centre SÈVE"
 output_dir: "."
-lang: "en-us"
+lang: "en-us" 
 navbar:
   title: "CSIPC"  
   left:
     - text: "About us"
       href: about_us.html
     - text: "What's up? Conferences"
+      menu:
+       - text: "Upcoming"
+           - text: "What's up Conferences - 4th edition"
+       - text: "Passé"
+         menu: 
+           - text: "What's up Conferences - 3rd edition"
+             href: wup_may2021.html
+           - text: "What's up Conferences - 2nd edition"
+             href: wup_december2020.html
+           - text: "What's up Conferences - 1st edition"
+             href: wup_august2020.html
       href: whats_up.html
     - text: "Symposia"
       href: symposia.html
@@ -19,22 +30,10 @@ navbar:
        - text: "Upcoming"
        - text: "Passé"
          menu: 
-           - text: "2021"
-             menu:
-               - text: "Career day"
-                 href: carriere_2021.html
-               - text: "What's up Conferences - 3rd edition"
-                 href: whats_up.html
-           - text: "2020"
-             menu:
-               - text: "What's up Conferences - 2nd edition"
-                 href: wup_december2020.html
-               - text: "What's up Conferences - 1st edition"
-                 href: wup_august2020.html
-           - text: "2019"
-             menu:
-               - text: "1st Annual International Symposium of Center SÈVE"
-                 href: symposia.html 
+           - text: "Career day 2021"
+             href: carriere_2021.html
+           - text: "1st Annual International Symposium of Center SÈVE"
+             href: symposia.html 
     - text: "Get involved"
       href: ./participate.html
   right:
