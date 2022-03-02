@@ -73,13 +73,7 @@ color: black
 
 <div class="row text">
 
-# {.tabset .tabset-fade .tabset-pills}
-
-## 2022
-
-### **2022-01-05**
-
-Hello everyone,
+#
 
 Are you a Centre SEVE member? 
 
@@ -89,6 +83,22 @@ Also, get your email registered to get the CPICS meetings alerts.
 
 https://cpics.netlify.app/en/participate.html
 <br><br>
+
+# {.tabset .tabset-fade .tabset-pills}
+
+## 2022
+ 
+### **2022-02-10**
+
+New publication of our previous Vice-President of Communications, [Marianne Bessette].
+<br>
+
+Publication: 
+[Population genetic structure of the carrot weevil (<i>Listronotus oregonensis</i>) in North America](https://doi.org/10.1111/eva.13343)
+
+<br>
+Congratulations !
+
 
 
 ### **2022-01-03**
