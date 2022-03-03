@@ -64,20 +64,6 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills">
-<h2>19 Mai 2021</h2>
-
-<div class="row">
-<div style="text-align: center">
-<a href="whats_up.html"><img src="images/whats up 2021/whatsup_may_conferences_fr_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture et Agroalimentaire Canada" width=100%></a>
-
-  
- </div> 
-</div> 
-
-
-</div>
-
 <div  id="section-4" class="section level2 tabset tabset-fade tabset-pills active">
 <h2>8 Decembre 2020</h2>
 
@@ -326,20 +312,6 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 </div>
-
-<div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
-<h2>25 août 2020</h2>
-
-<div class="row">
-<div style="text-align: center">
-
-<a href="wup_august2020.html"><img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a>
-
-</div> 
-</div> 
-</div>
-
-
 
 </div>
 </div>

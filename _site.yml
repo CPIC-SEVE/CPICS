@@ -7,7 +7,17 @@ navbar:
     - text: "À propos"
       href: ./fr/about_us.html
     - text: "What's up? Conferences"
-      href: ./fr/whats_up.html
+      menu: 
+       - text: "À venir"
+         menu: 
+       - text: "Passé"
+         menu: 
+          - text: "What's up Conferences - 3éme édition"
+            href: ./fr/wup_may2021.html
+          - text: "What's up Conferences - 2éme édition"
+            href: ./fr/wup_december2020.html
+          - text: "What's up Conferences - 1ére édition"
+            href: ./fr/wup_august2020.html
     - text: "Symposia"
       href: ./fr/symposia.html
     - text: "Nouvelles"
@@ -24,20 +34,12 @@ navbar:
              menu:
                - text: "Journée Carrière"
                  href: ./fr/carriere_2021.html
-               - text: "What's up Conferences - 3rd edition"
-                 href: ./fr/whats_up.html
-           - text: "2020"
-             menu:
-               - text: "What's up Conferences - 2nd edition"
-                 href: ./fr/wup_december2020.html
-               - text: "What's up Conferences - 1st edition"
-                 href: ./fr/wup_august2020.html
            - text: "2019"
              menu:
                - text: "1er Symposium annuel international du Centre SÈVE"
                  href: ./fr/symposia.html
     - text: "Participer"
-      href: "./fr/participer.html"
+      href: ./fr/participer.html
   right:
     - text: "EN"
       href: ./en/index.html
