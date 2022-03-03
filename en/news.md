@@ -73,13 +73,7 @@ color: black
 
 <div class="row text">
 
-# {.tabset .tabset-fade .tabset-pills}
-
-## 2022
-
-### **2022-01-05**
-
-Hello everyone,
+#
 
 Are you a Centre SEVE member? 
 
@@ -89,6 +83,22 @@ Also, get your email registered to get the CPICS meetings alerts.
 
 https://cpics.netlify.app/en/participate.html
 <br><br>
+
+# {.tabset .tabset-fade .tabset-pills}
+
+## 2022
+ 
+### **2022-02-10**
+
+New publication of our previous Vice-President of Communications, [Marianne Bessette].
+<br>
+
+Publication: 
+[Population genetic structure of the carrot weevil (<i>Listronotus oregonensis</i>) in North America](https://doi.org/10.1111/eva.13343)
+
+<br>
+Congratulations !
+
 
 
 ### **2022-01-03**
@@ -867,7 +877,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
 [Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
-[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/

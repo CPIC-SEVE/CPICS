@@ -138,7 +138,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 ## Current
 
 <center>
-<!--<img src="images/comite%20photos/" width=75%>-->
+<img src="images/comite photos/comite_2022.webp" width=75%>
 </center>
 
 
@@ -182,6 +182,18 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tr>
 <tr>
 <td>[Karen Cristine Goncalves dos Santos]</td><td>Université Laval</td>
+</tr>
+<tr>
+<th scope="row" rowspan="4"> Collaborators</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<td>[Valeria Parra]</td>
+</tr>
+<tr>
+<td> [Romaric Armel Mouafo Tchinda]</td><td></td>
+</tr>
+<tr>
+<td> [Vincent Charron-Lamoureux]</td><td>Université de Sherbrooke</td>
 </tr>
 </tbody>
 </table>
@@ -268,7 +280,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 <th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>Université de Montréal</td>
+<td>[Marianne Bessette]</td><td>Université de Montr?al</td>
 </tr>
 <tr>
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
@@ -325,7 +337,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 <th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Jennifer Paillassa]</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>Université de Montréal</td>
+<td>[Marianne Bessette]</td><td>Université de Montr?al</td>
 </tr>
 <tr>
 <th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>Université du Québec à Trois-Rivières</td>
@@ -408,20 +420,25 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </div>
 
 </div>
+[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
-[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
-[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
-[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
-[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
-[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
-[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
-[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Elisa Ines Fantino]: https://www.linkedin.com/in/elisa-fantino-84b25251/
+[Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
+[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
+[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
+[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Naresh Panneerselvam]: https://www.linkedin.com/in/nareshpanneerselvam/
+[Nicolas Sene]: https://www.linkedin.com/in/nicolas-sene-6b0918128
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
-[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
-[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[Valeria Parra]: 
+[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+<!--[Th?o Dev?ze]:-->
+[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
+[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
+

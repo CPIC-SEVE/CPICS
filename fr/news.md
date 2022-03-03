@@ -68,19 +68,36 @@ color: black
 
 <div class="row text">
 
+
+#
+
+
+Etes-vous un membre du Centre SEVE ? <br>
+
+Si vous ne le savez pas encore, consultez le lien ci-dessous pour le découvrir<br>
+
+Enregistrez votre adresse e-mail pour recevoir les alertes des événements du CPICS.<br>
+
+https://cpics.netlify.app/en/participate.html
+<br><br>
+
 # {.tabset .tabset-fade .tabset-pills}
 
 ## 2022
 
-### **2022-01-05**
 
 
-Bonjour à tous,<br>
-Etes-vous un membre du Centre SEVE ? <br>
-Si vous ne le savez pas encore, consultez le lien ci-dessous pour le découvrir<br>
-Enregistrez votre adresse e-mail pour recevoir les alertes des événements du CPICS.<br>
-https://cpics.netlify.app/en/participate.html
-<br><br>
+### **2022-02-10**
+
+Nouvelle publication de notre ancienne Vice-Présidente aux Communications, [Marianne Bessette].
+<br>
+
+Publication: 
+[Population genetic structure of the carrot weevil (<i>Listronotus oregonensis</i>) in North America](https://doi.org/10.1111/eva.13343)
+
+<br>
+Félicitations !
+
 
 
 ### **2022-01-03**
@@ -869,7 +886,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
 [Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
-[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
@@ -891,3 +908,4 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Hugo Germain]: https://www.researchgate.net/profile/Hugo_Germain
 [Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/

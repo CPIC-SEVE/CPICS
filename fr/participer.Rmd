@@ -63,9 +63,9 @@ iframe {max-width: 100%; max-height: 100%;}
 <!-- ARE you a CS member -->
 <div class="form-row">
 <fieldset aria-required="true">
-Ne remplissez ce formulaire que si vous êtes un(e) membre étudiant(e)/stagiaire posdoctorale du Centre SEVE.<br>
+Ne remplissez ce formulaire que si vous êtes un&middot;e membre étudiant&middot;e/postdoctorante du Centre SEVE.<br>
 
-Si vous ne savez pas si vous êtes membre, recherchez votre professeur(e). <a href="https://centreseve.recherche.usherbrooke.ca/en/researchers">here</a>
+Si vous ne savez pas si vous êtes membre, recherchez votre professeur&middot;e <a href="https://centreseve.recherche.usherbrooke.ca/en/researchers">here</a>. 
 
 
 </fieldset>
@@ -110,11 +110,11 @@ Si vous ne savez pas si vous êtes membre, recherchez votre professeur(e). <a hr
 <fieldset aria-required="true">
 <legend>Votre status</legend>
 <input type="radio" id="masters" name="status" required="required" value="Master's student">
-<label for="masters">Étudiant(e) à la maîtrise</label>
+<label for="masters">Étudiant&middot;e à la maîtrise</label>
 <input type="radio" id="phd" name="status" required="required" value="Ph.D. student">
-<label for="phd">Étudiant(e) au doctorat</label>
+<label for="phd">Étudiant&middot;e au doctorat</label>
 <input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow">
-<label for="postdoc">Stagiaire posdoctorale</label>
+<label for="postdoc">Postdoctorante</label>
 </fieldset>
 </div>
 <br><br>
