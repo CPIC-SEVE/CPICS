@@ -14,6 +14,7 @@
 
 <title>CPICS</title>
 
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -244,8 +245,29 @@ $(document).ready(function () {
         <li>
   <a href="about_us.html">À propos</a>
 </li>
-<li>
-  <a href="whats_up.html">What's up? Conferences</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    What's up? Conferences
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">À venir</li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Passé</a>
+      <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="wup_may2021.html">What's up Conferences - 3éme édition</a>
+        </li>
+        <li>
+          <a href="wup_december2020.html">What's up Conferences - 2éme édition</a>
+        </li>
+        <li>
+          <a href="wup_august2020.html">What's up Conferences - 1ére édition</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="symposia.html">Symposia</a>
@@ -272,20 +294,6 @@ $(document).ready(function () {
           <ul class="dropdown-menu" role="menu">
             <li>
               <a href="carriere_2021.html">Journée Carrière</a>
-            </li>
-            <li>
-              <a href="whats_up.html">What's up Conferences - 3éme édition</a>
-            </li>
-          </ul>
-        </li>
-        <li class="dropdown-submenu">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">2020</a>
-          <ul class="dropdown-menu" role="menu">
-            <li>
-              <a href="wup_december2020.html">What's up Conferences - 2éme édition</a>
-            </li>
-            <li>
-              <a href="wup_august2020.html">What's up Conferences - 1ére édition</a>
             </li>
           </ul>
         </li>

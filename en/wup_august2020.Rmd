@@ -20,7 +20,7 @@ output:
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="form.css">
-
+</head>
 <style>
 .main-container{max-width: 1492px}
 
@@ -61,35 +61,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
-
-<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills">
-<h2>May 19<sup>th</sup>, 2021</h2>
-
-<div class="row">
-<div style="text-align: center">
-
-<a href="whats_up.html"><img src="images/whats up 2021/whatsup_may_conferences_en_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture and Agri-Food Canada" width="100%"></a>
-
-
-  
- </div> 
-</div> 
-</div>
-
-
-<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills">
-<h2>December 8<sup>th</sup>, 2020</h2>
-
-<div class="row">
-<div style="text-align: center">
-
-<a href="wup_december2020.html"><img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width="100%"></a>
-
-
-  
- </div> 
-</div> 
-</div>
 
 <div id="section-1" class="section level2 tabset tabset-fade tabset-pills active">
 <h2>August 25^th^ 2020</h2>

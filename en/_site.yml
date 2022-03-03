@@ -7,7 +7,16 @@ navbar:
     - text: "About us"
       href: about_us.html
     - text: "What's up? Conferences"
-      href: whats_up.html
+      menu:
+       - text: "Upcoming"
+       - text: "Past"
+         menu: 
+          - text: "What's up Conferences - 3rd edition"
+            href: wup_may2021.html
+          - text: "What's up Conferences - 2nd edition"
+            href: wup_december2020.html
+          - text: "What's up Conferences - 1st edition"
+            href: wup_august2020.html
     - text: "Symposia"
       href: symposia.html
     - text: "News"
@@ -17,20 +26,12 @@ navbar:
     - text: "Events"
       menu:
        - text: "Upcoming"
-       - text: "Passé"
+       - text: "Past"
          menu: 
            - text: "2021"
              menu:
                - text: "Career day"
                  href: carriere_2021.html
-               - text: "What's up Conferences - 3rd edition"
-                 href: whats_up.html
-           - text: "2020"
-             menu:
-               - text: "What's up Conferences - 2nd edition"
-                 href: wup_december2020.html
-               - text: "What's up Conferences - 1st edition"
-                 href: wup_august2020.html
            - text: "2019"
              menu:
                - text: "1st Annual International Symposium of Center SÈVE"
