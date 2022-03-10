@@ -85,6 +85,18 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
 
+### **2022-03-10**
+
+Nouvelle publication du Dr. [Tagnon Missihoun] et son étudiante à la maitrise [Amal Jaballi] de l'UQTR.
+<br>
+
+Publication: 
+[The phytohormone abscisic acid modulates protein carbonylation in _Arabidopsis thaliana_](https://doi.org/10.1111/ppl.13658)
+
+<br>
+Félicitations !
+
+
 
 
 ### **2022-02-10**
@@ -868,44 +880,42 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 </div>
 
 
-[Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
-[Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
-[Francisco Campos]: https://www.researchgate.net/profile/Francisco_Campos23/
-[Eszter Sas]: https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/
 [Adrien Fremont]: https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/
-[Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
-[Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
-[Guilherme Silva-Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
-[Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
-[Iauhenia Isayenka]: https://www.researchgate.net/profile/Iauhenia_Isayenka/
-[François Belzile]: http://www.ibis.ulaval.ca/en/research/francois-belzile/
-[Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
-[Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
-[Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
-[Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
+[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
+[Amal Jaballi]: https://www.researchgate.net/profile/Amal-Jaballi[Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
+[Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
+[Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
+[Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
+[Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
+[Eszter Sas]: https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/
 [Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
 [Fatima Awwad]: https://www.linkedin.com/in/fatima-awwad-06553a29/
-[Andrew Diamond]: https://www.linkedin.com/in/andrew-diamond-74390b137/) 
-[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
-[Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
-[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
-[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
-[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
-[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
-[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
+[Francisco Campos]: https://www.researchgate.net/profile/Francisco_Campos23/
+[François Belzile]: http://www.ibis.ulaval.ca/en/research/francois-belzile/
 [Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
-[Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
-[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Hamid Akbarzadeh]: https://www.mcgill.ca/macdonald/abdolhamid-akbarzadeh-shafaroudi/
+[Hugo Germain]: https://www.researchgate.net/profile/Hugo_Germain
+[Iauhenia Isayenka]: https://www.researchgate.net/profile/Iauhenia_Isayenka/
 [Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
+[Isabel Desgagné-Penix]: https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/
+[Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
+[Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
+[Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
+[Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
+[Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
+[Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
+[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
+[Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
-[Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
-[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
-[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
-[Isabel Desgagné-Penix]: https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/
-[Hugo Germain]: https://www.researchgate.net/profile/Hugo_Germain
-[Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/
-[Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
+[Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
+[Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
+[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
+[Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
+[Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+[Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
+[Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
+[Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
+[Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
