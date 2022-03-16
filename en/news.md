@@ -96,6 +96,10 @@ New publication by Dr. [Tagnon Missihoun] his master's student [Amal Jaballi] fr
 Publication: 
 [The phytohormone abscisic acid modulates protein carbonylation in _Arabidopsis thaliana_](https://doi.org/10.1111/ppl.13658)
 
+Also, the PhD candidate [Charles Roussin-Léveillée] from Dr. [Peter Moffet]'s lab published his research in the Cells Host & Microbe journal. Here is their publication:
+
+[Evolutionarily conserved bacterial effectors hijack abscisic acid signaling to induce an aqueous environment in the apoplast](https://doi.org/10.1016/j.chom.2022.02.006)
+
 <br>
 Congratulations !
 
@@ -898,6 +902,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/

@@ -93,6 +93,10 @@ Nouvelle publication du Dr. [Tagnon Missihoun] et son étudiante à la maitrise 
 Publication: 
 [The phytohormone abscisic acid modulates protein carbonylation in _Arabidopsis thaliana_](https://doi.org/10.1111/ppl.13658)
 
+Aussi, le candidat au doctorat [Charles Roussin-Léveillée] du laboratoire du Dr. [Peter Moffet] a publié sa recherche dans la revue Cells Host & Microbe. Voici leur publication:
+
+[Evolutionarily conserved bacterial effectors hijack abscisic acid signaling to induce an aqueous environment in the apoplast](https://doi.org/10.1016/j.chom.2022.02.006)
+
 <br>
 Félicitations !
 
@@ -186,7 +190,7 @@ Bravo, Karen !!
 
 ### **2021-04-06**{.tabset .tabset-fade .tabset-pills}
 
-Bien que l'année 2021 ne fasse que commencer, les chercheur(euse)s membres du Centre SÈVE ont été très occupé(e)s.
+Bien que l'année 2021 ne fasse que commencer, les chercheur&middot;euse&middot;s membres du Centre SÈVE ont été très occupé&middot;e&middot;s.
 Félicitations pour leur excellent travail durant cette pandémie !
 
 Jetez un coup d'œil à leurs publications ici :
@@ -796,7 +800,7 @@ Quelques souvenirs du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019**
 
 [Département de biologie - Université de Sherbrooke](https://www.facebook.com/biologie.USherbrooke/?__cft__[0]=AZUmaWk-zvwOikcNCt0OcvfmvkrKzFs2buKKe4i7TbO_wFdba43AV9Qkt9jzIiuCnPC89OojsapHhjomKzSxYirPALxNNf7i4_xczXp8scgjmlGSvsz9PaAH1Qe_K_5T7UAoQv0hGdhOZyfVEP-t370IioP1WMCoLP79KMgzfiSfAQ&__tn__=kK-R)
 
-Une soixantaine de participant(e)s et de conférencier(ière)s ont pu partager leurs connaissances, échanger et tisser des liens sur le thème de _« La biotechnologie au service de la sécurité alimentaire »_.
+Une soixantaine de participant&middot;e&middot;s et de conférencier&middot;ière&middot;s ont pu partager leurs connaissances, échanger et tisser des liens sur le thème de _« La biotechnologie au service de la sécurité alimentaire »_.
 
 Objectif atteint pour ce premier symposium organisé par les étudiants du CPICS !
 
@@ -907,6 +911,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/
