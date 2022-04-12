@@ -88,6 +88,16 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
  
+### **2022-04-12**
+
+Congratulations to our Centre SÈVE member Dr. [Hugo Germain] and his team members [Théo Devèze], [Claire Letanneur], [Nikunj Sharma] and [Snehi Gazal] for having a successful Indian expedition on the biodiversity of _Cannabis_ in the fall 2021! 
+
+Their work has been published in [NEO UQTR](https://neo.uqtr.ca/2022/03/30/expedition-scientifique-en-inde-etudier-la-biodiversite-du-cannabis/?fbclid=IwAR3jYGNy2PgEz1I_JzIjh6sePDGWw1PQgAH9UWvJ7vo1onOkwfdZLhSUcp4).
+
+Read about their journey and scientific work carried out in India with mesmerizing images of Himalayan ranges with _Cannabis_. 
+
+<br><br>
+
 ### **2022-03-10**
 
 New publication by Dr. [Tagnon Missihoun] his master's student [Amal Jaballi] from UQTR.
@@ -102,6 +112,7 @@ Also, the PhD candidate [Charles Roussin-Léveillée] from Dr. [Peter Moffet]'s 
 
 <br>
 Congratulations !
+<br><br>
 
 
 ### **2022-02-10**
@@ -114,6 +125,7 @@ Publication:
 
 <br>
 Congratulations !
+<br><br>
 
 
 
@@ -127,6 +139,7 @@ Publication:
 
 <br>
 Congratulations !!
+<br><br>
 
 ## 2021
 
@@ -165,7 +178,7 @@ Congratulations to all involved for the hard work and specially to Dr. [Isabel D
 
 Do you want to know more about the challenges faced by postdocs, the life of a bioinformatician or the academic path of our president, Dr. [Karen Cristine Goncalves]?
 
-Watch her interview by the doctorate student  Nikunj Sharma, from the Université du Québec à Trois-Rivières!
+Watch her interview by the doctorate student  [Nikunj Sharma], from the Université du Québec à Trois-Rivières!
 
 <!-- blank line -->
 <figure class="video_container">
@@ -902,6 +915,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Nikunj Sharma]: https://in.linkedin.com/in/nikunj-sharma-5a863490
 [Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
@@ -910,6 +924,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+[Théo Devèze]: aaa
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/

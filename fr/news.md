@@ -85,6 +85,16 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
 
+### **2022-04-12**
+
+Félicitations au Centre SÈVE membre Dr. [Hugo Germain] et aux membres de son équipe, [Théo Devèze], [Claire Letanneur], [Nikunj Sharma] et [Snehi Gazal] pour la réussite de leur expédition Indienne sur la biodiversité du _Cannabis_ à l’automne 2021! 
+
+Leurs travaux ont été publiés dans [NEO UQTR](https://neo.uqtr.ca/2022/03/30/expedition-scientifique-en-inde-etudier-la-biodiversite-du-cannabis/?fbclid=IwAR3jYGNy2PgEz1I_JzIjh6sePDGWw1PQgAH9UWvJ7vo1onOkwfdZLhSUcp4).
+
+Lisez le récit de leur voyage et des travaux scientifiques réalisés en Inde avec des images envoûtantes des chaînes himalayennes avec du _Cannabis_.
+
+<br><br>
+
 ### **2022-03-10**
 
 Nouvelle publication du Dr. [Tagnon Missihoun] et son étudiante à la maitrise [Amal Jaballi] de l'UQTR.
@@ -100,8 +110,7 @@ Aussi, le candidat au doctorat [Charles Roussin-Léveillée] du laboratoire du D
 <br>
 Félicitations !
 
-
-
+<br><br>
 
 ### **2022-02-10**
 
@@ -113,7 +122,7 @@ Publication:
 
 <br>
 Félicitations !
-
+<br><br>
 
 
 ### **2022-01-03**
@@ -126,6 +135,7 @@ Publication:
 
 <br>
 Félicitations !
+<br><br>
 
 ## 2021
 
@@ -884,6 +894,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 </div>
 
 
+[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
 [Adrien Fremont]: https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/adrien-fremont/
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Amal Jaballi]: https://www.researchgate.net/profile/Amal-Jaballi[Amir Bidhendi]: https://www.researchgate.net/profile/Amir_Bidhendi/experience/
@@ -911,15 +922,16 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
+[Nikunj Sharma]: https://in.linkedin.com/in/nikunj-sharma-5a863490
 [Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
-[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE]: https://cpics.netlify.app/fr/symposia.html
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
+[Théo Devèze]: aaa
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
