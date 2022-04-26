@@ -88,6 +88,15 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
  
+### **2022-04-26**
+
+Congratulations to the [Plant Biology Research Group (GRBV)](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210) on its 20th anniversary. Also, kudos to the presenters and the organizers of the GRBV annual symposium.
+
+<center>
+<img src="./images/news/colloque_GRBV_2022.webp" width=100%>
+</center>
+<br><br>
+ 
 ### **2022-04-12**
 
 Congratulations to our Centre SÈVE member Dr. [Hugo Germain] and his team members [Théo Devèze], [Claire Letanneur], [Nikunj Sharma] and [Snehi Gazal] for having a successful Indian expedition on the biodiversity of _Cannabis_ in the fall 2021! 
