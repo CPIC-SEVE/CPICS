@@ -1,11 +1,12 @@
 ---
-title: '<span style="display:none"><i> Whats up? 1st edition</i> Conferences</span>'
+title: '<span style="display:none"><i> Whats up? 3rd edition</i> Conferences</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output: 
   html_document
 ---
 
-<!--August 2020-->
+<!-- May 2021-->
+
 <head>
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -13,7 +14,7 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="alternate" hreflang="fr-fr" href="../fr/wup_august2020.html">
+<link rel="alternate" hreflang="fr-fr" href="../fr/wup_may2021.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,7 +59,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 
-<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="100%">
+<img src="images/whats up 2022/whatsup_june_conferences_en_site.webp" alt="What's up conferences June 8th at HOUR am with Dr. Shashi Kumar from the International Centre for Genetic Engineering and Biotechnology in India, and Dr. Isabel Desgagné-Penix, from the Université du Québec à Trois-Rivières" width="100%">
 
 <div  id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
 <h1></h1>
@@ -68,66 +69,49 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify; color: black">
 
-<center>**How pandemic impacted science?** </center>
-
-<center>Have canadian researchers faced the same challenge as other researchers around the world? </center>
-
-<center>How Covid-19 modified research habits? </center>
-
-<br>
-<center>The Centre SÈVE's International Partnership Committee (CSIPC) offer you to join to the reflexion with researchers: </center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats up 2020/Leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"  width="100%"></a></center>
-<center> **Dr Leena Tripathi**</center> 
-
-<center> International Institute of Tropical Agriculture, Kenya </center> 
+<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt=""></a></center>
+<center> **Dr. Shashi Kumar**<br> International Centre for Genetic Engineering and Biotechnology<br>New Delhi, India </center> 
 <br>
 
 </div>
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats up 2020/Isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="70%"></a></center>
-<center> **Dr Isabelle Laforest-Lapointe**</center> 
-
-<center> Université de Sherbrooke, Canada</center> 
+<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="" width="87%"></a></center>
+<center> **Dr. Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
 <br>
 
-</div>
 </div>
 
 
 <div class="col-md-12" style="text-align: center">
-
-<!-- blank line -->
-<figure class="video_container">
-<iframe width="816" height="480" src="https://www.youtube.com/embed/-gFsec4hoDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
-</figure>
-<!-- blank line -->
-
-</div>
-</div>
-
 <!--
-<div id="section-4" class="section level2">
-<h2>Inscriptions</h2>
+<figure class="video_container">
+</figure>
+--><br><br>
 
+</div>
+</div>
+</div>
+
+<div id="section-3" class="section level2">
+<h2>Inscriptions</h2>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-
-<form name="CPICS_whatsup_registration" method="POST" data-netlify="false">
+<form name="CPICS_whatsup_registration_june2022" method="POST" data-netlify="false">
 
 <label > First Name:* </label>  
 
 <input type="text" name="First name" placeholder="" required/>
      <br> <br>
 	 
-<label > Nom / Last Name:* </label> 
+<label > Last Name:* </label> 
 
 <input type="text" name="Last name" placeholder="" required/><br> <br>
     
@@ -140,69 +124,6 @@ iframe {max-width: 100%; max-height: 100%;}
 <input type="text" name="Email" placeholder="" required/><br> <br>
 
 <input type="hidden" name="_subject" value="inscription" />
-
-<label> You are:* </label>
-
-<select name="Occupation_level" id="Occupation level" required>
-<option value="Baccalauréat / Bachelor"> Bachelor </option>
-<option value="Maîtrise / Master's"> Master's </option>
-<option value="Doctorat / PhD"> PhD </option>
-<option value="Postdoc" /> Postdoc </option>
-<option value="Technicien(ne) / Technician"> Technician </option>
-<option value="Chercheur(e) / Researcher"> Researcher </option>
-<option value="Autre / Other"> Other</option>
-</select>
-
-<label> Other: </label>
-<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
-<br><br>
-
-<label> If "Other", please specify: </label> 
-
-<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
-
-<br> <br>
- 
-<input type="hidden" name="_gotcha" />
-
-<label class="container">By participating in the Zoom meeting, I consent to be recorded during the conference if I appear.
-  <input name="agree_recording" type="checkbox" checked="checked" required>
-  <span class="checkmark"></span>
-</label>
- <br>
-
-<div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre / Submit"/>
-</div>
-
-</form>
-</div>
-</div>
--->
-
-<div id="section-3" class="section level2">
-<h2>Post-conference survey</h2>
-
-<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
-
-
-<form name="post_conference_survey_25aug" method="POST" data-netlify="true">
-
-<fieldset>
-<legend> Who are you? </legend>
-<label >Name:* </label> 
-
-<input type="text" name="Name" placeholder="First_name Last_name" required/><br> <br>
-    
-<label > Affiliation:* </label>  
-
-<input type="text" name="Affiliation" placeholder="University" required/><br> <br>
-
-<label>Email:* </label> 
-
-<input type="text" name="Email" placeholder="" required/><br> <br>
-
-<input type="hidden" name="_subject" value="survey_25aug" />
 
 <label> You are:* </label>
 
@@ -219,6 +140,76 @@ iframe {max-width: 100%; max-height: 100%;}
 <label> Other: </label>
 <input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
 <br><br>
+ 
+<label> Will you be attending: </label>
+
+<select name="Attending" id="Attending meeting" required>
+<option value="En présentielle / In person"> In person at the UQTR </option>
+<option value="En ligne / On line"> On ZOOM/Facebook live </option>
+</select>
+
+<label> For statistical purposes, do you feel prefer meetings in: </label>
+
+<select name="Prefered_language" id="Prefered language">
+<option value="Anglais / English"> English </option>
+<option value="Francais / French"> French </option>
+<option value="Les deux / Both"> Both </option>
+</select>
+
+<input type="hidden" name="_gotcha" />
+ <br> <br>
+
+<label class="container">By participating in the meeting, I consent to be recorded during the conference if I appear.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
+
+<div class="column right" style="padding-right: 70%; float: right">
+
+<center><input type="submit" value="Submit"/></center>
+
+</div>
+
+</form>
+</div>
+</div>
+
+<!--<div id="section-4" class="section level2">
+<h2>Post-conference survey</h2>
+
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form name="post_conference_survey_8june" method="POST" data-netlify="true">
+
+<fieldset>
+<legend> Who are you? </legend>
+<label >Name:* </label> <br>
+<input type="text" name="Name" placeholder="First_name Last_name" required/><br> <br>
+    
+<label > Affiliation:* </label>  <br>
+<input type="text" name="Affiliation" placeholder="University" required/><br> <br>
+
+<label>Email:* </label> <br>
+<input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
+
+<input type="hidden" name="_subject" value="survey_8june" />
+
+<label> You are:* </label><br>
+<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Bachelor </option>
+<option value="Maîtrise / Master's" > Master's </option>
+<option value="Doctorat / PhD" > PhD </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technician </option>
+<option value="Chercheur(e) / Researcher" > Researcher </option>
+<option value="Autre / Other"> Other</option>
+</select>
+
+<label> Other: </label>
+<input type="text" name="Other occupation" id="Other occupation" placeholder="Research assistant" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br><br>
 
 </fieldset>
  
@@ -226,9 +217,9 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <fieldset>
 <legend> About the Conference </legend>
-<label> You watched the conference on:* </label>
+<label> You watched the conference:* </label>
 
-<select name="Platform" id="Platform" required>
+<option value="In person" > In person </option>
 <option value="Facebook Live" > Facebook Live </option>
 <option value="Zoom" > Zoom </option>
 <option value="Enregistrement / Recording" > Recording </option>
@@ -242,13 +233,11 @@ iframe {max-width: 100%; max-height: 100%;}
 <option value="Pourrait être amélioré / Could be better" >Could be better</option>
 </select> <br>
 
-<label > Suggestions: </label> 
+<label > Suggestions: </label> <br>
+<input type="text" name="suggestions" placeholder="What you think we could do better" /><br> <br>
 
-<input type="text" name="suggestions" placeholder="" /><br> <br>
-
-<label >What subject would you like to see discussed?</label> 
-
-<input type="text" name="new_subjects" placeholder="" /><br> <br>
+<label >What subject would you like to see discussed?</label> <br>
+<input type="text" name="new_subjects" placeholder="Subject to discuss" /><br> <br>
 
 <div class="column right" style="padding-right: 60%; float: right">
 <input type="submit" value="Submit"/>
@@ -256,12 +245,15 @@ iframe {max-width: 100%; max-height: 100%;}
 </fieldset>
 
 </form>
-</div>
-</div>
-</div><!--closes divs containing the tabs-->
 
-</div><!--closes div of class row text under the col-md-9-->
-</div><!--closes div of class col-md-9-->
+</div>
+-->
+</div>
+
+</div>
+
+
+</div>
 
 
 <div class="col-md-3">

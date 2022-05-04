@@ -6,7 +6,7 @@ output:
   html_document
 ---
 
-<!-- May 2021-->
+<!-- June 2022-->
 
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -60,7 +60,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 
-<img src="images/whats up 2021/whatsup_may_conferences_fr_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture et Agroalimentaire Canada" width=100%>
+<img src="images/whats up 2022/whatsup_june_conferences_en_site.webp" alt="What's up conferences 8 Juin à HOUR am avec Dr. Shashi Kumar de l'International Centre for Genetic Engineering and Biotechnology à l'India, et la Dre. Isabel Desgagné-Penix, l'Université du Québec à Trois-Rivières" width="100%">
 
 <div  id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
 <h1></h1>
@@ -68,25 +68,21 @@ iframe {max-width: 100%; max-height: 100%;}
 <h2>La conférence</h2>
 
 <div class="row" style="text-align: justify; color: black">
-<center>À l'heure de l'internationalisation des connaissances scientifiques, des bouleversements environnementaux et de la pandémie du COVID-19, la science et les scientifiques ont du faire preuve d'inventivité et de résilience.<br><br>Mais, après un an:<br>**Comment vont les scientifiques du monde d'aujourd'hui?**<br><br>Comment les chercheurs et chercheuses du domaine de la biologie végétale se sont-ils adaptés à la pandémie?
-<br><br>La troisième édition de la What's Up Conférence **vous amène à la rencontre de deux fascinants chercheurs** qui nous feront part de leurs travaux, leurs projets, leurs enjeux ainsi que leurs réflexions sur le monde scientifique de demain.</center>
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/"><img src="images/whats up 2021/Karen_Garrett.webp" alt=""></a></center>
-<center> **Dre. Karen Garrett**</center> 
-
-<center> University of Florida </center> 
+<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt=""></a></center>
+<center> **Dr. Shashi Kumar**<br> International Centre for Genetic Engineering and Biotechnology<br>New Delhi, India </center> 
 <br>
 
 </div>
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://profils-profiles.science.gc.ca/en/profile/mamadou-l-fall"><img src="images/whats up 2021/Mamadou_fall.webp" alt=""></a></center>
-<center> **Dr. Mamadou Lamine Fall** <br>Agriculture et Agroalimentaire Canada</center> 
+<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="" width="87%"></a></center>
+<center> **Dr. Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
 <br>
 
 
@@ -98,42 +94,18 @@ iframe {max-width: 100%; max-height: 100%;}
 <iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F375707827207980%2F&show_text=false&width=560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
-O. Carisse, M. L. Fall & C. Vincent. (2017). **Using a biovigilance approach for pest and disease management in Quebec vineyards**. *Canadian Journal of Plant Pathology*, 39:4, 393-404, DOI: [10.1080/07060661.2017.1366368](https://doi.org/10.1080/07060661.2017.1366368)
 
-C. E. Buddenhagen, J. F. Hernandez Nopsa, K. F. Andersen, J. Andrade-Piedra, G. A. Forbes, P. Kromann, S. Thomas-Sharma, P. Useche, and K. A. Garrett. **Epidemic Network Analysis for Mitigation of Invasive Pathogens in Seed Systems: Potato in Ecuador**.  *Phytopathology*, 107(10). DOI: [10.1094/PHYTO-03-17-0108-FI](https://doi.org/10.1094/PHYTO-03-17-0108-FI)
-
-Tool box for working with root, tuber and banana seed systems [tools4seedsystems.org/](https://tools4seedsystems.org/)
-
-R Poudel, A Jumpponen, D C Schlatter, T C Paulitz, B B McSpadden Gardener, L L Kinkel, K A Garrett. (2016). **Microbiome Networks: A Systems Framework for Identifying Candidate Microbial Assemblages for Disease Management**. *Phytopathology*, 106(10):1083-1096. doi: [10.1094/PHYTO-02-16-0058-FI](https://doi.org/10.1094/PHYTO-02-16-0058-FI).
-
-Ricardo I Alcalá-Briseño, Kena Casarrubias-Castillo, Diana López-Ley, Karen A Garrett, Laura Silva-Rosales. (2020). **Network Analysis of the Papaya Orchard Virome from Two Agroecological Regions of Chiapas, Mexico**. *mSystems*, 5(1): e00423-19. doi: 10.1128/mSystems.00423-19.
-
-K. A. Garrett. (2020). **Impact network analysis and the INA R package: Decision support for regional management interventions**. *bioRxiv*. DOI: [10.1101/2020.11.08.373621](https://doi.org/10.1101/2020.11.08.373621)
-
-M. Carvajal-Yepes, K. Cardwell, A. Nelson, K. A. Garrett, B. Giovani, D. G. O. Saunders, S. Kamoun, J. P. Legg, V. Verdier, J. Lessel, R. A. Neher, R. Day, P. Pardey, M. L. Gullino, A. R. Records, B. Bextine, J. E. Leach, S. Staiger, J. Tohme. (2019). **A global surveillance system for crop diseases**. *Science*, 364(6447): 1237-1239. DOI: 10.1126/science.aaw1572
-
-Yanru Xing, John F Hernandez Nopsa, Kelsey F Andersen, Jorge L Andrade-Piedra, Fenton D Beed, Guy Blomme, Mónica Carvajal-Yepes, Danny L Coyne, Wilmer J Cuellar, Gregory A Forbes, Jan F Kreuze, Jürgen Kroschel, P Lava Kumar, James P Legg, Monica Parker, Elmar Schulte-Geldermann, Kalpana Sharma, Karen A Garrett.  (2020). **Global Cropland Connectivity: A Risk Factor for Invasion and Saturation by Emerging Pathogens and Pests**. *Bioscience*, 70(9): 744-758. DOI: [10.1093/biosci/biaa067](https://doi.org/10.1093/biosci/biaa067)
-
-Garrett, K. A., Andersen, K. F., Asche, F., Bowden, R. L., Forbes, G. A., Kulakow, P. A., & Zhou, B. (2017). **Resistance genes in global crop breeding networks**. *Phytopathology*, 107(10): 1268-1278. https://doi.org/10.1094/PHYTO-03-17-0082-FI
-
-Garrett, K.A., Alcalá-Briseño, R.I., Andersen, K.F., Brawner, J., Choudhury, R.A., Delaquis, E., Fayette, J., Poudel, R., Purves, D., Rothschild, J. and Small, I.M., (2020). **Effective altruism as an ethical lens on research priorities**. *Phytopathology*, 110(4): 708-722. [10.1094/PHYTO-05-19-0168-RVW](https://doi.org/10.1094/PHYTO-05-19-0168-RVW)
-
-Armijo, G., Schlechter, R., Agurto, M., Muñoz, D., Nuñez, C., & Arce-Johnson, P. (2016). **Grapevine pathogenic microorganisms: understanding infection strategies and host response scenarios**. *Frontiers in plant science*, 7, 382. doi: [10.3389/fpls.2016.00382](https://doi.org/10.3389/fpls.2016.00382)
-
-Fall, Mamadou L., Dong Xu, Pierre Lemoyne, Issam E. Ben Moussa, Carole Beaulieu, and Odile Carisse. (2020). **A Diverse Virome of Leafroll-Infected Grapevine Unveiled by dsRNA Sequencing**. *Viruses*, 12(10): 1142. doi: [10.3390/v12101142](https://doi.org/10.3390/v12101142)
-
-Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage difficile à défaire: la biovigilance est nécessaire plus que jamais**. *Phytoprotection*, 99(1), pp.15-20. doi: [10.7202/1059305ar](https://doi.org/10.7202/1059305ar)
 </div>
 
 </div>
 </div>
 
-<div id="section-3" class="section level2">
+<!--<div id="section-3" class="section level2">
 <h2>Enquête post-conférence</h2>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
-<form name="post_conference_survey_19mai" method="POST" data-netlify="true">
+<form name="post_conference_survey_juin2022" method="POST" data-netlify="true">
 
 <fieldset>
 <legend> Qui êtes vous? </legend>
@@ -146,7 +118,7 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 <label>Email:* </label> <br>
 <input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
 
-<input type="hidden" name="_subject" value="survey_8dec" />
+<input type="hidden" name="_subject" value="survey_8juin" />
 
 <label> Vous êtes:* </label>
 
@@ -199,17 +171,16 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 </form>
 </div>
-</div>
+</div>-->
 
 
-<!--
 <div id="section-6" class="section level2">
 <h2>Inscriptions</h2>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<form name="CPICS_whatsup_registration_may2021" method="POST" data-netlify="false">
+<form name="CPICS_whatsup_registration_juin2022" method="POST" data-netlify="false">
 
 <label > Prénom :* </label>  
 
@@ -246,7 +217,14 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 <input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
  <br> <br>
- 
+
+<label> Voulez-vous participer: </label>
+
+<select name="Attending" id="Attending meeting" required>
+<option value="En présentielle / In person"> En présentielle à l'UQTR </option>
+<option value="En ligne / On line"> Sur ZOOM/Facebook live </option>
+</select>
+
 <label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
 
 <select name="Prefered_language" id="Prefered language">
@@ -258,7 +236,7 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 <input type="hidden" name="_gotcha" />
  <br> <br>
 
-<label class="container">En participant au zoom, je consens à être enregistré durant la conférence lorsque j'apparais.
+<label class="container">En participant à la conférence, je consens à être enregistré durant la conférence lorsque j'apparais.
   <input name="agree_recording" type="checkbox" checked="checked" required>
   <span class="checkmark"></span>
 </label>
@@ -270,12 +248,12 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 </form>
 </div>
--->
+
 </div>
 
 </div>
 </div>
-
+</div>
 
 <div class="col-md-3">
 

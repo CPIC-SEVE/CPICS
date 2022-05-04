@@ -63,19 +63,10 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-<div id="section-1" class="section level2 tabset tabset-fade tabset-pills active">
-<h2>25 août 2020</h2>
-
-<div class="row">
-<div style="text-align: center">
-
 ![](images/whats up 2020/whatsup_25aug_conferences_en.webp "What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada")
 
-  
- </div> 
-</div> 
-<div id="section-2" class="section level3">
-<h3>La conférence</h3>
+<div id="section-2" class="section level2">
+<h2>La conférence</h2>
 
 <div class="row" style="text-align: justify; color: black">
 
@@ -124,8 +115,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 
 <!--
-<div id="section-4" class="section level3">
-<h3>Inscriptions</h3>
+<div id="section-4" class="section level2">
+<h2>Inscriptions</h2>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -185,8 +176,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 -->
 
-<div id="section-3" class="section level3">
-<h3>Enquête post-conférence</h3>
+<div id="section-3" class="section level2">
+<h2>Enquête post-conférence</h2>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
@@ -268,7 +259,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 
 
-</div>
 </div>
 </div>
 

@@ -55,28 +55,17 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
+<br><br>
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 
-
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
-<h1></h1>
-
-<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills active">
-<h2>December 8<sup>th</sup>, 2020</h2>
-
-<div class="row">
-<div style="text-align: center">
-
 <img src="images/whats up 2020/whatsup_Dec_conferences_en.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture and Agri-Food Canada" width="100%">
 
+<div  id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
+<h1></h1>
 
-  
- </div> 
-</div> 
-
-<div id="section-5" class="section level3">
-<h3>The conference</h3>
+<div id="section-2" class="section level2">
+<h2>The conference</h2>
 
 <div class="row" style="text-align: justify; color: black">
 
@@ -114,9 +103,10 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 </div>
 
-### Extra questions from the audience
-
+<div id="section-5" class="section level2">
+<h2>Extra questions from the audience</h2>
 <div style="padding-right: 1em; text-align: justify">
+
   - **Question:** Hello Dr. Arseneault, you talked about your work on the study of the interaction of microorganisms in soil. Have you ever observed positive interactions? If so, which ones?
   - **Dr. Arseneault:** The project I presented was halfway to completion when the laboratory closures, due to the pandemic, took place. Given the large quantity of soil samples (several hundred per summer) we have not yet completed the sequencing but have isolated almost all the necessary DNA. Interaction analyses are still to come!
    <br>   <br>
@@ -126,10 +116,10 @@ iframe {max-width: 100%; max-height: 100%;}
   - **Question:** I would like to know how if the method of crop cultivation called "precision agriculture" takes in account the climatic parameters? If so, how is it performed? And I will also like to know if this method could be apply on high scale production. Additionally the performances of plants in nutrients uptake varies in function of the cultivars...is this also taken into account?
   - **Dr. Arseneault:** Precision agriculture is a vast field of research and is constantly adapting to new technologies and knowledge to better adapt agricultural practices (fertilization, water, pest control applications, etc) to a smaller scale and reduce as much as possible the "one size fits all" approach. It can take into account a large amount of information depending the available equipment and models developed, and yes it varies greatly depending on the crop being grown, the climactic zone and soil type. I encourage you to read the publications in the journal Precision Agriculture for more detailed information on what is currently being studied in this field of research: https://www.springer.com/journal/11119. There is also an [International Society of Precision Agriculture](https://www.ispag.org).
  <br>   <br>
-  - **Question:** I would like to know what are the five types of biofertilizers used in Cameroon please? 
+  - **Question:** I would like to know what are the five types of biofertilizers used in Cameroon please?
   - **Dr. Eddy Ngonkeu:** So we have developed biofertilizers to cope with different production constraints. Biotic and abiotic constraints: biopestices, biofertilizers in acidic soils, biofertilizers in non-acidic soils, biofertilizers in saline soils, biofertilizers in arid areas, biofertilizers in rich soils (volcanic), biofertilizers in aquatic environments (e.g. irrigated rice), etc.
 <br><br>
-  - **Question:** Today we ask ourselves enough questions about African strategies for managing COVID-19. You have presented some work on the management of COVID. What are these strategies? 
+  - **Question:** Today we ask ourselves enough questions about African strategies for managing COVID-19. You have presented some work on the management of COVID. What are these strategies?
   - **Dr. Eddy Ngonkeu:** 
     
     - The fight against the coronavirus pandemic is being fought on several fronts at the level of agricultural research: on the food level and also on the medicinal level. Cameroonian agricultural research has benefited from the special solidarity fund for the fight against the coronavirus in order to carry out three major activities including:
@@ -163,10 +153,11 @@ iframe {max-width: 100%; max-height: 100%;}
   - **Question:** I have a small problem with the statement **"agro-industry is killing by leaps and bounds"**. Without agro-industry, how do you conserve your different crops then?
   - **Dr. Eddy Ngonkeu:** By agro-industry I mean industrial agriculture, which means the massive use of chemical inputs for mass production. This production system has consequences for the soil microbiome. We have very recently detected more than 8 chemical residues in vegetable products, such as tomatoes. These tomatoes are good for selling (well preserved, no rot etc.), which affects our own microbiome and consequently affects our health. You know, life makes the soil and the soil makes life. My sad expression is to no longer say "bon appétit" at the table, but "good luck" in this production context.
 </div> 
+</div> 
 
 <!-- 
-<div id="section-6" class="section level3">
-<h3>Inscriptions</h3>
+<div id="section-3" class="section level2">
+<h2>Inscriptions</h2>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -237,8 +228,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 -->
 
-<div id="section-7" class="section level3">
-<h3>Post-conference survey</h3>
+<div id="section-4" class="section level2">
+<h2>Post-conference survey</h2>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -314,7 +305,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 </div>
-</div>
+
 
 <div class="col-md-3">
 

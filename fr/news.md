@@ -85,6 +85,12 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
 
+### **2022-05-04**
+Félicitations à notre ex-vice président Networking, [Romaric Mouafo] pour avoir obtenu un poste de post-doctorat à l'University of Florida au laboratoire de la Dre. **[Karen Garrett]** (qui était notre invitée dans la [What's up Conference de l'annéee passée](./wup_may2021.html)).
+
+Nous vous souhaitons le meilleur pour vos projets futurs !
+<br><br>
+
 ### **2022-04-26**
 
 Félicitations au [Groupe de recherche en biologie végétale (GRBV)](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210) pour son 20e anniversaire. Aussi, félicitations aux présentateurs et aux organisateurs du colloque annuel du GRBV. 

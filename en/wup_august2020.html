@@ -14,7 +14,7 @@
 
 <title> Whats up? 1st edition Conferences</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -61,6 +61,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -246,15 +250,17 @@ $(document).ready(function () {
   <a href="about_us.html">About us</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     What's up? Conferences
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li class="dropdown-header">Upcoming</li>
+    <li>
+      <a href="wup_june2022.html">What's up Conferences - 4th edition</a>
+    </li>
     <li class="dropdown-submenu">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Past</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Past</a>
       <ul class="dropdown-menu" role="menu">
         <li>
           <a href="wup_may2021.html">What's up Conferences - 3rd edition</a>
@@ -279,7 +285,7 @@ $(document).ready(function () {
   <a href="comites.html">Committee</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Events
      
     <span class="caret"></span>
@@ -287,10 +293,10 @@ $(document).ready(function () {
   <ul class="dropdown-menu" role="menu">
     <li class="dropdown-header">Upcoming</li>
     <li class="dropdown-submenu">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Past</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Past</a>
       <ul class="dropdown-menu" role="menu">
         <li class="dropdown-submenu">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">2021</a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">2021</a>
           <ul class="dropdown-menu" role="menu">
             <li>
               <a href="carriere_2021.html">Career day</a>
@@ -298,7 +304,7 @@ $(document).ready(function () {
           </ul>
         </li>
         <li class="dropdown-submenu">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">2019</a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">2019</a>
           <ul class="dropdown-menu" role="menu">
             <li>
               <a href="symposia.html">1st Annual International Symposium of Center SÈVE</a>
@@ -376,22 +382,14 @@ iframe {max-width: 100%; max-height: 100%;}
 <br><br>
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="100%"></p>
+<div id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
 <h1>
 </h1>
-<div id="section-1" class="section level2 tabset tabset-fade tabset-pills active">
+<div id="section-2" class="section level2">
 <h2>
-August 25<sup>th</sup> 2020
-</h2>
-<div class="row">
-<div style="text-align: center">
-<p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25<sup>th</sup> at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="100%"></p>
-</div>
-</div>
-<div id="section-2" class="section level3">
-<h3>
 The conference
-</h3>
+</h2>
 <div class="row" style="text-align: justify; color: black">
 <center>
 <strong>How pandemic impacted science?</strong>
@@ -409,7 +407,7 @@ The Centre SÈVE’s International Partnership Committee (CSIPC) offer you to jo
 <p><br></p>
 <div class="col-md-6" style="text-align: center">
 <center>
-<a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"></a>
+<a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"  width="100%"></a>
 </center>
 <center>
 <strong>Dr Leena Tripathi</strong>
@@ -421,7 +419,7 @@ International Institute of Tropical Agriculture, Kenya
 </div>
 <div class="col-md-6" style="text-align: center">
 <center>
-<a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats%20up%202020/isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a>
+<a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats%20up%202020/isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width="70%"></a>
 </center>
 <center>
 <strong>Dr Isabelle Laforest-Lapointe</strong>
@@ -442,8 +440,8 @@ Université de Sherbrooke, Canada
 </div>
 </div>
 <!--
-<div id="section-4" class="section level3">
-<h3>Inscriptions</h3>
+<div id="section-4" class="section level2">
+<h2>Inscriptions</h2>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -508,10 +506,10 @@ Université de Sherbrooke, Canada
 </div>
 </div>
 -->
-<div id="section-3" class="section level3">
-<h3>
+<div id="section-3" class="section level2">
+<h2>
 Post-conference survey
-</h3>
+</h2>
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey_25aug" method="POST" data-netlify="true">
 <fieldset>
@@ -544,9 +542,11 @@ Post-conference survey
 </div>
 </div>
 </div>
+<!--closes divs containing the tabs-->
 </div>
+<!--closes div of class row text under the col-md-9-->
 </div>
-</div>
+<!--closes div of class col-md-9-->
 <div class="col-md-3">
 <div class="row">
 <span>

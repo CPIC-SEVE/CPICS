@@ -64,19 +64,10 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-<div  id="section-4" class="section level2 tabset tabset-fade tabset-pills active">
-<h2>8 Decembre 2020</h2>
+<img src="images/whats up 2020/whatsup_Dec_conferences_fr.webp" alt="What's up conferences December 8<sup>th</sup> at 9h20 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%>
 
-<div class="row">
-<div style="text-align: center">
-<img src="images/whats up 2020/whatsup_Dec_conferences_fr.webp" alt="What's up conferences December 8<sup>th</sup> at 9h30 am with Dr. Eddy L. Ngonkeu from Université de Yaoundé and Dr. Tanya Arseneault from Agriculture et Agroalimentaire Canada" width=100%>
-
-  
- </div> 
-</div> 
-
-<div id="section-5" class="section level3">
-<h3>La conférence</h3>
+<div id="section-5" class="section level2">
+<h2>La conférence</h2>
 
 <div class="row" style="text-align: justify; color: black">
 
@@ -101,9 +92,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <br>
 
 </div>
-
-
-
+</div>
 
 <div class="col-md-12" style="text-align: center">
 <!-- blank line -->
@@ -114,11 +103,10 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 </div>
-</div>
 
-### Questions supplémentaires du public
-
-<div style="padding-left: 1em; text-align: justify">
+<div id="section-5" class="section level2">
+<h2>Questions supplémentaires du public</h2>
+<div style="padding-right: 1em; text-align: justify">
 
   - **Question:** Bonjour Dre Arseneault, vous avez parlé de vos travaux sur l'étude de l'interaction des microorganismes dans le sol. Avez-vous déjà observé des interactions positives? si oui lesquelles ?
   - **Dre. Tanya Arseneault:** Le projet que j'ai présenté était complété à mi-chemin lorsque les fermetures de laboratoires, dû à la pandémie, ont eu lieues. Étant donné la grande quantité d'échantillons de sol (plusieurs centaines par été) nous n'avons pas encore complété le séquençage mais avons isolé presque tout l'ADN nécessaire. Les analyses d'interactions sont à venir!
@@ -166,9 +154,11 @@ iframe {max-width: 100%; max-height: 100%;}
   - **Dr. Eddy Ngonkeu:** J’entends par agro-industrie: une agriculture industrielle, synonyme d’emploi massif d’intrants chimiques pour une production en quantité. Ce système de production a des conséquences sur le microbiome du sol. Nous avons très récemment détecté plus de 8 résidus chimiques dans les produits maraîchers, comme la tomate. Ces tomates sont bon marché (bien conservé, pas de pourriture etc.), ce qui affecte notre propre microbiome et en conséquence affecte notre santé. Vous savez, la vie fait le sol et le sol fait la vie. Mon expression triste est de ne plus dire bon appétit à table mais bonne chance dans ce contexte de production.
 
 </div>
+</div>
+
 <!--
-<div id="section-7" class="section level3">
-<h3>Inscriptions</h3>
+<div id="section-7" class="section level2">
+<h2>Inscriptions</h2>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -238,8 +228,8 @@ iframe {max-width: 100%; max-height: 100%;}
 </div>
 -->
 
-<div id="section-3" class="section level3">
-<h3>Enquête post-conférence</h3>
+<div id="section-3" class="section level2">
+<h2>Enquête post-conférence</h2>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
 
@@ -313,7 +303,6 @@ iframe {max-width: 100%; max-height: 100%;}
 
 </div>
 
-</div>
 </div>
 </div>
 

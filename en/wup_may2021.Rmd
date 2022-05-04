@@ -5,7 +5,7 @@ output:
   html_document
 ---
 
-<!-- May 2021-->
+<!-- June 2021-->
 
 <head>
 <meta charset="utf-8">
@@ -59,25 +59,13 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 
-
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
-<h1></h1>
-
-<div  id="section-9" class="section level2 tabset tabset-fade tabset-pills active">
-<h2>May 19<sup>th</sup>, 2021</h2>
-
-<div class="row">
-<div style="text-align: center">
-
 <img src="images/whats up 2021/whatsup_may_conferences_en_site.webp" alt="What's up conferences May 19<sup>th</sup> at 10h am with Dr. Karen Garrett from University of Florida and Dr. Mamadou Lamine Fall from Agriculture and Agri-Food Canada" width="100%">
 
+<div  id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
+<h1></h1>
 
-  
- </div> 
-</div> 
-
-<div id="section-8" class="section level3">
-<h3>The conference</h3>
+<div id="section-2" class="section level2">
+<h2>The conference</h2>
 
 <div class="row" style="text-align: justify; color: black">
 
@@ -136,10 +124,11 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 </div>
 </div>
+</div>
 
 <!-- 
-div id="section-6" class="section level3">
-<h3>Inscriptions</h3>
+div id="section-3" class="section level2">
+<h2>Inscriptions</h2>
 
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -210,8 +199,8 @@ div id="section-6" class="section level3">
 </div>
 -->
 
-<div id="section-7" class="section level3">
-<h3>Post-conference survey</h3>
+<div id="section-4" class="section level2">
+<h2>Post-conference survey</h2>
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
@@ -287,8 +276,6 @@ div id="section-6" class="section level3">
 </div>
 
 
-</div>
-</div>
 </div>
 </div>
 
