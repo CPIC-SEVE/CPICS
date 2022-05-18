@@ -60,16 +60,18 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 
-<img src="images/whats up 2022/whatsup_june_conferences_en_site.webp" alt="What's up conferences 8 Juin à HOUR am avec Dr. Shashi Kumar de l'International Centre for Genetic Engineering and Biotechnology à l'India, et la Dre. Isabel Desgagné-Penix, l'Université du Québec à Trois-Rivières" width="100%">
+<img src="images/whats up 2022/whatsup_june_conferences_fr_site.webp" alt="What's up conferences 8 Juin à 10 am avec Dr. Shashi Kumar de l'International Centre for Genetic Engineering and Biotechnology à l'India, et la Dre. Isabel Desgagné-Penix, l'Université du Québec à Trois-Rivières" width="100%">
 
 <div  id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
 <h1></h1>
 <div id="section-9" class="section level2">
 <h2>La conférence</h2>
 
-<div class="row" style="text-align: justify; color: black">
+<div class="row" style="text-align: justify; color: black;">
+<div style="padding-right: 2%; padding-left: 2%">
+<center>Rejoignez-nous à l'UQTR (salle 1051, Pavillon Michel Sarrazin), sur ZOOM ou facebook pour parler des biotechnologies et du rôle des scientifiques dans les actions contre l'urgence climatique avec nos invités :</center>
 <br>
-
+</div>
 
 <div class="col-md-6" style="text-align: center">
 
@@ -82,18 +84,22 @@ iframe {max-width: 100%; max-height: 100%;}
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="" width="87%"></a></center>
-<center> **Dr. Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
+<center> **Dre Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
 <br>
 
 
 </div>
 
 <div class="col-md-12" style="text-align: center">
-<!-- blank line -->
+<!-- blank line 
 <figure class="video_container">
-<iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F375707827207980%2F&show_text=false&width=560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
 <!-- blank line -->
+<br><br>
+<center><span style="font-size: 1.75em">**Nos partenaires:**</span></center>
+<div style="background-color: white">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve_white.webp" alt="Centre SEVE logo" width="50%"></a><a href="https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-appui-a-engagement-etudiant"><img src="images/whats up 2022/faee.webp" alt="Fonds d'appui à l'engagement étudiant (FAEE) de l'Université d Sherbrooke" width="50%"></a>
+</div>
 
 </div>
 
