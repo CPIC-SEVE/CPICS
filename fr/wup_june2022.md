@@ -69,13 +69,13 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify; color: black;">
 <div style="padding-right: 2%; padding-left: 2%">
-<center>Rejoignez-nous à l'UQTR (salle 1051, Pavillon Michel Sarrazin), sur ZOOM ou facebook pour parler des biotechnologies et du rôle des scientifiques dans les actions contre l'urgence climatique avec nos invités :</center>
+<center>**Nous sommes heureux de vous inviter à nous rejoindre (*finalement*) en personne ou via ZOOM pour la quatrième édition des "What's up? Conferences"!**<br><br>Dans cette édition, nous nous intéressons aux causes et aux conséquences du changement climatique et à la manière dont l'application de la biotechnologie peut atténuer ou ralentir la progression de l'urgence climatique.<br><br>Nous vous invitons donc à discuter, débattre et partager vos idées et curiosités avec nos conférenciers :</center>
 <br>
 </div>
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt=""></a></center>
+<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt="Dr. Shashi Kumar"></a></center>
 <center> **Dr. Shashi Kumar**<br> International Centre for Genetic Engineering and Biotechnology<br>New Delhi, India </center> 
 <br>
 
@@ -83,7 +83,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="" width="87%"></a></center>
+<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="Dre Isabel Desgagné-Penix" width="87%"></a></center>
 <center> **Dre Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
 <br>
 

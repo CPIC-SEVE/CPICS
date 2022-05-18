@@ -68,14 +68,14 @@ iframe {max-width: 100%; max-height: 100%;}
 <h2>The conference</h2>
 
 <div class="row" style="text-align: justify; color: black; padding-right: 2%; padding-left: 2%">
-<center>Join us at the UQTR (room 1051, Pavillon Michel Sarrazin), on ZOOM or facebook to talk about biotechnology and the role of scientists in actions against the climate emergency with our guests:</center>
+<center>**We are happy to invite you to join us (*finally*) in person or via ZOOM for the 4th edition of the "What's up? Conferences"!**<br><br>In this edition, we are interested in the causes and consequences of climate change and at the way biotechnology applications can attenuate or slow down the progress of the climate emergency.<br><br>Thus, we invite you to discuss, debate and share your ideas and curiosities with our keynote speakers:</center>
 
 <br>
 
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt=""></a></center>
+<center> <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats up 2022/Shashi_Kumar.webp" alt="Dr. Shashi Kumar"></a></center>
 <center> **Dr. Shashi Kumar**<br> International Centre for Genetic Engineering and Biotechnology<br>New Delhi, India </center> 
 <br>
 
@@ -83,7 +83,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="col-md-6" style="text-align: center">
 
-<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="" width="87%"></a></center>
+<center> <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats up 2022/Isabel_Desgagne-Penix.webp" alt="Dr. Isabel Desgagné-Penix" width="87%"></a></center>
 <center> **Dr. Isabel Desgagné-Penix**<br>Université du Québec à Trois-Rivières</center> 
 <br>
 
