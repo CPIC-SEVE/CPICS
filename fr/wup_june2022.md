@@ -69,7 +69,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div class="row" style="text-align: justify; color: black;">
 <div style="padding-right: 2%; padding-left: 2%">
-<center>**Nous sommes heureux de vous inviter à nous rejoindre (*finalement*) en personne ou via ZOOM pour la quatrième édition des "What's up? Conferences"!**<br><br>Dans cette édition, nous nous intéressons aux causes et aux conséquences du changement climatique et à la manière dont l'application de la biotechnologie peut atténuer ou ralentir la progression de l'urgence climatique.<br><br>Nous vous invitons donc à discuter, débattre et partager vos idées et curiosités avec nos conférenciers :</center>
+<center>**Nous sommes heureux de vous inviter à nous rejoindre (*finalement*) en personne ou via ZOOM pour la quatrième édition des "What's up? Conferences"!**<br><br>Dans cette édition, nous nous concentrerons sur le changement climatique et sur la manière dont la biotechnologie et ses applications peuvent atténuer cette urgence. Nous vous invitons donc à discuter, débattre et partager vos idées et curiosités avec nos conférenciers :</center>
 <br>
 </div>
 
