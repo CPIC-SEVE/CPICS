@@ -186,7 +186,7 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<form name="CPICS_whatsup_registration_juin2022" method="POST" data-netlify="false">
+<form name="CPICS_whatsup_registration_june2022" method="POST" data-netlify="false">
 
 <label > Prénom :* </label>  
 
