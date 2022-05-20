@@ -209,7 +209,7 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<form name="CPICS_whatsup_registration_may2021" method="POST" data-netlify="false">
+<form name="CPICS_whatsup_registration_may2021" method="POST" data-netlify="true">
 
 <label > Prénom :* </label>  
 
