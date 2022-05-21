@@ -515,24 +515,23 @@ Post-conference survey
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey_19mai" method="POST" data-netlify="true">
 <fieldset>
-<p><legend> Who are you? </legend> <label >Name:* </label> <br> <input type="text" name="Name" placeholder="First_name Last_name" required/><br> <br></p>
-<p><label > Affiliation:* </label> <br> <input type="text" name="Affiliation" placeholder="University" required/><br> <br></p>
-<p><label>Email:* </label> <br> <input type="text" name="Email" placeholder="email@email.com" required/><br> <br></p>
-<p><input type="hidden" name="_subject" value="survey_8dec" /></p>
-<p><label> You are:* </label><br> <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Bachelor </option> <option value="Maîtrise / Master's" > Master’s </option> <option value="Doctorat / PhD" > PhD </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien(ne) / Technician" > Technician </option> <option value="Chercheur(e) / Researcher" > Researcher </option> <option value="Autre / Other"> Other</option> </select></p>
-<p><label> Other: </label> <input type="text" name="Other occupation" id="Other occupation" placeholder="Research assistant" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/> <br><br></p>
+<p><legend> Who are you? </legend> <label >Name:* </label> <input type="text" name="Name" placeholder="First_name Last_name" required/><br></p>
+<p><label > Affiliation:* </label><br />
+<input type="text" name="Affiliation" placeholder="University" required/><br></p>
+<p><label>Email:* </label> <input type="text" name="Email" placeholder="" required/><br></p>
+<p><input type="hidden" name="_subject" value="survey_25aug" /></p>
+<p><label> You are:* </label> <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Bachelor </option> <option value="Maîtrise / Master's" > Master’s </option> <option value="Doctorat / PhD" > PhD </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien&middot;ne / Technician" > Technician </option> <option value="Chercheur&middot;se / Researcher" > Researcher </option> <option value="Autre / Other"> Other</option> </select></p>
+<p><label> Other: </label> <input type="text" name="Other occupation" id="Other occupation"/> <br></p>
 </fieldset>
 <p><input type="hidden" name="_gotcha" /></p>
 <fieldset>
-<p><legend> About the Conference </legend> <label> You watched the conference on:* </label></p>
-<p><select name="Platform" id="Platform" required> <option value="Facebook Live" > Facebook Live </option> <option value="Zoom" > Zoom </option> <option value="Enregistrement / Recording" > Recording </option> </select> <br></p>
-<p><label> Did you like the format?* </label></p>
-<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" >Yes</option> <option value="Non / No" >No</option> <option value="Pourrait être amélioré / Could be better" >Could be better</option> </select> <br></p>
-<p><label > Suggestions: </label> <br> <input type="text" name="suggestions" placeholder="What you think we could do better" /><br> <br></p>
-<p><label >What subject would you like to see discussed?</label> <br> <input type="text" name="new_subjects" placeholder="Subject to discuss" /><br> <br></p>
-<div class="column right" style="padding-right: 60%; float: right">
-<p><input type="submit" value="Submit"/></p>
-</div>
+<p><legend> About the Conference </legend> <label> You watched the conference on:* </label> <select name="Platform" id="Platform" required> <option value="Facebook Live" > Facebook Live </option> <option value="Zoom" > Zoom </option> <option value="Enregistrement / Recording" > Recording </option> </select> <br></p>
+<p><label> Did you like the format?* </label> <select name="Like_format" id="Like_format" required> <option value="Yes / Oui" >Yes</option> <option value="Non / No" >No</option> <option value="Pourrait être amélioré / Could be better" >Could be better</option> </select> <br></p>
+<p><label > Suggestions: </label> <input type="text" name="suggestions" placeholder=""/><br></p>
+<p><label >What subject would you like to see discussed?</label> <input type="text" name="new_subjects" placeholder=""/><br></p>
+<center>
+<input type="submit" value="Soumettre"/>
+</center>
 </fieldset>
 </form>
 </div>

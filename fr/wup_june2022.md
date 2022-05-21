@@ -115,31 +115,30 @@ iframe {max-width: 100%; max-height: 100%;}
 
 <fieldset>
 <legend> Qui êtes vous? </legend>
-<label>Nom:* </label> <br>
-<input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br>
+<label>Nom:* </label>
+<input type="text" name="Name" placeholder="Prénom Nom" required/><br>
     
-<label > Affiliation:* </label>  <br>
-<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br> <br>
+<label > Affiliation:* </label> 
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br>
 
-<label>Email:* </label> <br>
-<input type="text" name="Email" placeholder="email@email.com" required/><br> <br>
+<label>Email:* </label>
+<input type="text" name="Email" placeholder="email@email.com" required/><br>
 
 <input type="hidden" name="_subject" value="survey_8juin" />
 
 <label> Vous êtes:* </label>
-
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
 <option value="Baccalauréat / Bachelor" > Baccalauréat </option>
 <option value="Maîtrise / Master's" > Maîtrise </option>
 <option value="Doctorat / PhD" > Doctorat </option>
 <option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Technicien&middot;ne / Technician" > Technicien&middot;ne </option>
+<option value="Chercheur&middot;se / Researcher" > Chercheur&middot;se </option>
 <option value="Autre / Other"> Autre</option>
 </select>
 
-<label> Autre: </label><br>
-<input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<label> Autre: </label><
+<input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche"/>
  <br> <br>
 
 </fieldset>
@@ -149,30 +148,27 @@ iframe {max-width: 100%; max-height: 100%;}
 <fieldset>
 <legend> Sur la Conférence </legend>
 <label> Vous avez vu la conférence via:* </label>
-
 <select name="Platform" id="Platform" required>
+<option value="In person"> En personne</option>
 <option value="Facebook Live"> Facebook Live </option>
 <option value="Zoom"> Zoom </option>
 <option value="Enregistrement / Recording"> Enregistrement </option>
 </select> <br>
 
 <label> Avez-vous aimé le format?* </label>
-
 <select name="Like_format" id="Like_format" required>
 <option value="Yes / Oui" >Oui</option>
 <option value="Non / No" >Non</option>
 <option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
 </select> <br>
 
-<label > Suggestions: </label> <br>
-<input type="text" name="suggestions" placeholder="" /><br> <br>
+<label > Suggestions: </label>
+<input type="text" name="suggestions" placeholder="" /><br>
 
-<label >Quel sujet aimeriez-vous voir discuté?</label> <br>
-<input type="text" name="new_subjects" placeholder="" /><br> <br>
+<label >Quel sujet aimeriez-vous voir discuté?</label>
+<input type="text" name="new_subjects" placeholder="" /><br>
 
-<div class="column right" style="padding-right: 60%; float: right">
-<input type="submit" value="Soumettre"/>
-</div>
+<center><input type="submit" value="Soumettre"/></center>
 </fieldset>
 
 </form>
@@ -189,50 +185,42 @@ iframe {max-width: 100%; max-height: 100%;}
 <form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
 
 <label > Prénom :* </label>  
-
 <input type="text" name="First name" placeholder="" required/>
-     <br> <br>
+     <br>
 	 
 <label > Nom :* </label> 
-
-<input type="text" name="Last name" placeholder="" required/><br> <br>
+<input type="text" name="Last name" placeholder="" required/><br>
     
 <label > Affiliation:* </label>  
-
-<input type="text" name="Affiliation" placeholder="" required/><br> <br>
+<input type="text" name="Affiliation" placeholder="" required/><br>
 
 <label>Email:* </label> 
-
-<input type="text" name="Email" placeholder="" required/><br> <br>
+<input type="text" name="Email" placeholder="" required/><br>
 
 <input type="hidden" name="_subject" value="inscription" />
 
 <label> Vous êtes:* </label>
-
 <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
 <option value="Baccalauréat / Bachelor" > Baccalauréat </option>
 <option value="Maîtrise / Master's" > Maîtrise </option>
 <option value="Doctorat / PhD" > Doctorat </option>
 <option value="Postdoc" > Postdoc </option>
-<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
-<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Technicien&middot;ne / Technician" > Technicien&middot;ne </option>
+<option value="Chercheur&middot;se / Researcher" > Chercheur&middot;se </option>
 <option value="Autre / Other"> Autre</option>
 </select>
 
 <label> Autre: </label>
-
-<input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<input type="text" name="Other occupation" id="Other occupation"/>
  <br> <br>
 
 <label> Voulez-vous participer: </label>
-
 <select name="Attending" id="Attending meeting" required>
 <option value="En présentielle / In person"> En présentielle à l'UQTR </option>
 <option value="En ligne / On line"> Sur ZOOM/Facebook live </option>
 </select>
 
 <label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
-
 <select name="Prefered_language" id="Prefered language">
 <option value="Anglais / English"> Anglais </option>
 <option value="Francais / French"> Francais </option>
@@ -240,7 +228,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </select>
 
 <input type="hidden" name="_gotcha" />
- <br> <br>
+ <br>
 
 <label class="container">En participant à la conférence, je consens à être enregistré durant la conférence lorsque j'apparais.
   <input name="agree_recording" type="checkbox" checked="checked" required>
@@ -248,9 +236,7 @@ iframe {max-width: 100%; max-height: 100%;}
 </label>
  <br>
 
-<div class="column right" style="padding-right: 70%; float: right">
-<input type="submit" value="Soumettre"/>
-</div>
+<center><input type="submit" value="Soumettre"/></center>
 
 </form>
 </div>

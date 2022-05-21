@@ -75,51 +75,47 @@ If you don't know if you are a member, search for your professor <a href="https:
 <div class="form-row">
 <fieldset aria-required="true">
 <legend>Name</legend>
-<label for="firstName">First name</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false">
-<span class="error-msg" id="firstNameErr"></span>
+<label for="firstName">First name</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false" required/> <span class="error-msg" id="firstNameErr"></span>
 </div>
 <div class="form-row">
-<label for="lastName">Last name</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false">
-<span class="error-msg" id="lastNameErr"></span>
+<label for="lastName">Last name</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false" required/> <span class="error-msg" id="lastNameErr"></span>
 </fieldset>
 </div>
-<br><br>
+<br>
 <!-- University -->
 <div class="form-row">
 <fieldset aria-required="true">
 <legend>Your lab</legend>
-<label for="University">University</label><input type="text" name="University" id="University" aria-required="true" data-ok="false">
-<span class="error-msg" id="UniversityErr"></span>
-<label for="Supervisor">Name of your supervisor</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false">
+<label for="University">University</label><input type="text" name="University" id="University" aria-required="true" data-ok="false" required/> <span class="error-msg" id="UniversityErr"></span>
+<label for="Supervisor">Name of your supervisor</label> <input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false" required/>
 </fieldset>
 </div>
-<br><br>
+<br>
 
 <!-- Email -->
 <div class="form-row">
 <fieldset aria-required="true">
 <legend>E-mail</legend>
-<input type="text" name="email" id="email" aria-required="true" data-ok="false">
-<span class="error-msg" id="emailErr"></span>
+<input type="text" name="email" id="email" aria-required="true" data-ok="false" required/> <span class="error-msg" id="emailErr"></span>
 </fieldset>
 </div>
-<br><br>
+<br>
 
 <!-- Status -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Your status</legend>
+<center><legend>Your status</legend>
 <input type="radio" id="masters" name="status" required="required" value="Master's student">
 <label for="masters">Master's student</label>
 <input type="radio" id="phd" name="status" required="required" value="Ph.D. student">
 <label for="phd">Ph.D. student</label>
 <input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow">
-<label for="postdoc">Postdoctorate fellow</label>
+<label for="postdoc">Postdoctorate fellow</label></center>
 </fieldset>
 </div>
-<br><br>
+<br>
 
-<button type="submit" class="btn" aria-disabled="true" aria-describedby="CSmemberErr">Submit</button>
+<center> <button type="submit" class="btn" aria-disabled="true" aria-describedby="CSmemberErr"> Submit </button></center>
 </form>
 
 </div>

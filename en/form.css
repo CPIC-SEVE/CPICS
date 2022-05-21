@@ -1,8 +1,8 @@
 /*  Code done with examples from https://www.w3schools.com/ howto CSS forms*/
 input[type="text"], input[type="submit"], button, textarea, select{ 
-  padding: 0.75em ; 
+  padding: 0.5em ; 
   border: 1px solid #e5e5e5; 
-  border-radius: 30px; 
+  border-radius: 10px; 
   margin: 0em; 
   font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", 
   "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
@@ -11,7 +11,7 @@ input[type="text"], input[type="submit"], button, textarea, select{
 }
 
 label {
-  font-size: 0.75em;
+  font-size: 1em;
 }
 
 input[type="text"] {
@@ -20,12 +20,18 @@ input[type="text"] {
 
 textarea { width: 100%;  resize: both; }
 
-input[type="text"]:hover, textarea:hover, select:hover, input[name="Other affiliation"] {border: solid rgba(50, 130, 102, 0.7);}
+input[type="text"]:hover, textarea:hover, select:hover, input[name="Other affiliation"] {
+	border: solid rgba(50, 130, 102, 0.7);
+}
 
-input[type="text"]:active, textarea:active, select:active {border: solid rgba(50, 130, 102, 1);}
+input[type="text"]:active, textarea:active, select:active {
+	border: solid rgba(50, 130, 102, 1);
+}
 ph {display: inline;}
     
-input[type=submit]:hover{background-color: rgba(50, 130, 102, 0.7)}
+input[type=submit]:hover{
+	background-color: rgba(50, 130, 102, 0.7)
+}
 .submit:active{background-color: rgba(50, 130, 102, 1)}
 
 /* The container */
@@ -33,7 +39,7 @@ input[type=submit]:hover{background-color: rgba(50, 130, 102, 0.7)}
   display: block;
   position: relative;
   padding-left: 35px;
-  margin-bottom: 12px;
+  margin-bottom: 6px;
   cursor: pointer;
   font-size: 1em;
   -webkit-user-select: none;
@@ -99,7 +105,7 @@ input[type=submit]:hover{background-color: rgba(50, 130, 102, 0.7)}
 
 ol {padding: 0; margin: 0;}
 
-textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="file"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.faux-file:focus{
+textarea:focus,input[type="text"]:focus,:focus,input[type="email"]:focus,.faux-file:focus{
   outline:none;
   border:1px solid rgba(50, 130, 102, 1);
   box-shadow:inset 0 0 0 1px}

@@ -395,36 +395,39 @@ iframe {max-width: 100%; max-height: 100%;}
 <!-- Name -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Nom</legend> <label for="firstName">Prénom</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false"> <span id="firstNameErr" class="error-msg"></span>
+<legend>Nom</legend> <label for="firstName">Prénom</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false" required><span id="firstNameErr" class="error-msg"></span>
 </div>
 <div class="form-row">
-<label for="lastName">Nom</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false"> <span id="lastNameErr" class="error-msg"></span>
+<label for="lastName">Nom</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false" required><span id="lastNameErr" class="error-msg"></span>
 </fieldset>
 </div>
-<br><br> <!-- University -->
+<p><br></p>
+<!-- University -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Votre labo</legend> <label for="University">Université</label><input type="text" name="University" id="University" aria-required="true" data-ok="false"> <span id="UniversityErr" class="error-msg"></span> <label for="Supervisor">Nom de votre superviseur</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false">
+<legend>Votre labo</legend> <label for="University">Université</label><input type="text" name="University" id="University" aria-required="true" data-ok="false" required><span id="UniversityErr" class="error-msg"></span> <label for="Supervisor">Nom de votre superviseur</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false" required>
 </fieldset>
 </div>
-<p><br><br></p>
+<p><br></p>
 <!-- Email -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Courriel</legend> <input type="text" name="email" id="email" aria-required="true" data-ok="false"> <span id="emailErr" class="error-msg"></span>
+<legend>Courriel</legend> <input type="text" name="email" id="email" aria-required="true" data-ok="false" required><span id="emailErr" class="error-msg"></span>
 </fieldset>
 </div>
-<p><br><br></p>
+<p><br></p>
 <!-- Status -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Votre status</legend> <input type="radio" id="masters" name="status" required="required" value="Master's student"> <label for="masters">Étudiant·e à la maîtrise</label> <input type="radio" id="phd" name="status" required="required" value="Ph.D. student"> <label for="phd">Étudiant·e au doctorat</label> <input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow"> <label for="postdoc">Postdoctorante</label>
+<legend>Votre status</legend> <input type="radio" id="masters" name="status" required="required" value="Master's student"> <label for="masters">Étudiant·e à la maîtrise</label> <input type="radio" id="phd" name="status" required="required" value="Ph.D. student"> <label for="phd">Étudiant·e au doctorat</label> <input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow"> <label for="postdoc">Postdoctorant·e</label>
 </fieldset>
 </div>
-<p><br><br></p>
+<p><br></p>
+<center>
 <button type="submit" class="btn" aria-disabled="true" aria-describedby="CSmemberErr">
-Sousmetre
+Submit
 </button>
+</center>
 </form>
 </div>
 </div>
