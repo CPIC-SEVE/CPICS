@@ -55,7 +55,7 @@ The **Centre SÈVE** is the only inter-institutional research centre in Quebec t
 
 </div>
 
-<a class="twitter-timeline" data-height=800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 

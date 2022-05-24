@@ -63,7 +63,7 @@ color: black
 </a>
 </div>
 
-<a class="twitter-timeline" data-height=2100px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height=1500px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
@@ -90,7 +90,7 @@ https://cpics.netlify.app/en/participate.html
  
 ### **2022-05-04**
 
-Many congratulations to our ex-vice president of Networking [Romaric Mouafo] for getting a postdoctorate position at the University of Florida in Dr. **[Karen Garrett]**'s Lab (who was a guest at our [What's up Conference last year](./wup_may2021.html)).
+Many congratulations to our ex-vice president of Networking [Romaric Armel Mouafo Tchinda] for getting a postdoctorate position at the University of Florida in Dr. [Karen Garrett]'s Lab (who was a guest at our [What's up Conference last year](./wup_may2021.html)).
 
 We wish you all the best in your future endeavors!
 <br><br>
@@ -926,7 +926,7 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
 [Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
 [Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
-[Karen Garrett]: https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/"
+[Karen Garrett]: https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/
 [Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
 [Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
@@ -934,7 +934,6 @@ In the meantime, We are leaving you with this pretty picture of this year’s co
 [Meha Sharma]: https://www.researchgate.net/profile/Meha_Sharma5/
 [Nikunj Sharma]: https://in.linkedin.com/in/nikunj-sharma-5a863490
 [Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
-[Romaric Mouafo]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Seydou Ka]: https://www.linkedin.com/in/seydou-ka-9a41a4167/

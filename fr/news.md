@@ -59,7 +59,7 @@ color: black
 
 </div>
 
-<a class="twitter-timeline" data-height=1700px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height=1500px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
@@ -86,7 +86,7 @@ https://cpics.netlify.app/en/participate.html
 ## 2022
 
 ### **2022-05-04**
-Félicitations à notre ex-vice président Networking, [Romaric Mouafo] pour avoir obtenu un poste de post-doctorat à l'University of Florida au laboratoire de la Dre. **[Karen Garrett]** (qui était notre invitée dans la [What's up Conference de l'annéee passée](./wup_may2021.html)).
+Félicitations à notre ex-vice président Networking, [Romaric Armel Mouafo Tchinda] pour avoir obtenu un poste de post-doctorat à l'University of Florida au laboratoire de la Dre. [Karen Garrett] (qui était notre invitée dans la [What's up Conference de l'annéee passée](./wup_may2021.html)).
 
 Nous vous souhaitons le meilleur pour vos projets futurs !
 <br><br>
@@ -933,6 +933,7 @@ En attendant nous vous laissons avec cette belle photo qui liste tous les membre
 [Julian Henao-Martinez]: https://www.linkedin.com/in/julian-martinez-henao/?originalSubdomain=ca/
 [Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
 [Karen Cristine Goncalves]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
+[Karen Garrett]: https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/
 [Karuna Kapoor]: https://scholar.google.ca/citations?user=gHKRIVEAAAAJ&hl=en/
 [Manoj Koirala]: https://www.linkedin.com/in/manoj-koirala-72a149120/?originalSubdomain=ca
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
