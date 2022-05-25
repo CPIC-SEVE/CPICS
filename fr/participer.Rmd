@@ -1,5 +1,5 @@
 ---
-title: '<span style="display:none">Participer Conferences</span>'
+title: '<span style="display:none">Participer</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 output: 
   html_document
@@ -20,34 +20,7 @@ output:
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="form.css">
-
-<style>
-.main-container{max-width: 1492px}
-
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
-li {color: black}
-figure {
-  padding: 4px;
-  margin: auto;
-}
-
-figcaption {
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-div.figure p + p {
-  display: table-caption;
-}
-
-iframe {max-width: 100%; max-height: 100%;}
-</style>
-
+</head>
 
 <div class="container-fluid">
 

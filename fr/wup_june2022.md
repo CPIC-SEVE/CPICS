@@ -22,33 +22,8 @@ output:
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="slideshow.css">
 <link rel="stylesheet" href="form.css">
-
-<style>
-.main-container{max-width: 1492px}
-
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
-li {color: black}
-figure {
-  padding: 4px;
-  margin: auto;
-}
-
-figcaption {
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-div.figure p + p {
-  display: table-caption;
-}
-
-iframe {max-width: 100%; max-height: 100%;}
-</style>
+<link rel="stylesheet" href="wupc_style.css">
+</head>
 
 
 <div class="container-fluid">

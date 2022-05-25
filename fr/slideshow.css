@@ -14,7 +14,7 @@ tab-pane, section, tabbed-pane, tab-content {
 .slideshow-container > img {
   max-width: 400px;
   margin-left: auto;
-  margin:right: auto
+  margin-right: auto
 }
 /* Next & previous buttons */
 .prev, .next {
@@ -47,7 +47,7 @@ tab-pane, section, tabbed-pane, tab-content {
 }
 
 /* Six columns side by side */
-.column {
+div.column {
   float: left;
   width: 16.66%;
 }

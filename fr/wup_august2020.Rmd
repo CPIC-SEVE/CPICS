@@ -21,33 +21,8 @@ output:
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="slideshow.css">
 <link rel="stylesheet" href="form.css">
-
-<style>
-.main-container{max-width: 1492px}
-
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
-li {color: black}
-figure {
-  padding: 4px;
-  margin: auto;
-}
-
-figcaption {
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-div.figure p + p {
-  display: table-caption;
-}
-
-iframe {max-width: 100%; max-height: 100%;}
-</style>
+<link rel="stylesheet" href="wupc_style.css">
+</head>
 
 
 <div class="container-fluid">
@@ -63,7 +38,7 @@ iframe {max-width: 100%; max-height: 100%;}
 <div id="section" class="section level1 tabset tabset-fade tabset-pills">
 <h1></h1>
 
-![](images/whats up 2020/whatsup_25aug_conferences_en.webp "What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada")
+<img src="images/whats up 2020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%>
 
 <div id="section-2" class="section level2">
 <h2>La conférence</h2>

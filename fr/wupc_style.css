@@ -1,0 +1,16 @@
+li {color: black}
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+div.figure p + p {
+  display: table-caption;
+}
+
+iframe {max-width: 100%; max-height: 100%;}

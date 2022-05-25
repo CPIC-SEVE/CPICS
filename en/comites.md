@@ -18,36 +18,7 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-<head>
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  overflow-x:auto;
-  overflow: scroll; 
-  max-width: 100%;
-  height: auto;
-}
-
-td, th {
-  border: 1px solid rgba(50, 130, 102);
-  text-align: left;
-  height: auto;
-  width: auto;
-}
-thead {
-  background-color: #dddddd;
-  overflow: scroll;
-  height: auto;
-  width: auto;
-
-}
-
-</style>
+<link rel="stylesheet" href="committe_style.css">
 </head>
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
@@ -75,16 +46,18 @@ thead {
 </div>
 </div>
 
-<div class="col-md-9" style="padding-right: 2%">
-<div class="row text">
+<div class="col-md-9" id="col9" style="padding-right: 2%">
+<div class="row text" id="row_text_col9">
 
-# &nbsp; {.tabset .tabset-fade .tabset-pills} 
+<div  id="section-1" class="section level1 tabset tabset-fade tabset-pills">
+<h1></h1>
 
-## Description of the roles
+<div id="Role_description" class="section level2">
+<h2> Description of the roles</h2>
 
 ### **President**
 
-The president directs the deliberations, maintains order and decorum, receives the proposals and submits them to the assembly. He/She also ensures that the CSIPC schedule runs smoothly and helps each of the other sectors if necessary. This person represents the committee during each of the activities in which CSIPC participates. The president calls the vote and proclaims the result, signs the official documents and confirms the minutes of the previous sessions approved by the assembly. In the event of parity in the last ballot, it is usually given the casting vote in order to resolve a situation which would otherwise appear insoluble. In the event of an appeal from one of its decisions, it is entitled to be heard first on the reasons for its decision.
+The president directs the deliberations, maintains order and decorum, receives the proposals and submits them to the assembly. They also ensures that the CSIPC schedule runs smoothly and helps each of the other sectors if necessary. This person represents the committee during each of the activities in which CSIPC participates. The president calls the vote and proclaims the result, signs the official documents and confirms the minutes of the previous sessions approved by the assembly. In the event of parity in the last ballot, it is usually given the casting vote in order to resolve a situation which would otherwise appear insoluble. In the event of an appeal from one of its decisions, it is entitled to be heard first on the reasons for its decision.
 
 > <b><i>I wanted to do more for the scientific community. I met great people, developed organizational skills and learn more about academic processes related to research. Working with this great team, brings me so much!</b>
 <br>
@@ -93,12 +66,12 @@ The president directs the deliberations, maintains order and decorum, receives t
  
 ### **Vice-President**
 
-The Vice-President, together with the President, ensures that the CSIPC calendar runs smoothly and helps each of the other sectors if necessary. He/She fulfills the functions of the president in the meetings in the event of his absence or other impediment; it is he/she who is generally called to preside over the meetings of the assembly when it sits in a committee of the whole.
+The Vice-President, together with the President, ensures that the CSIPC calendar runs smoothly and helps each of the other sectors if necessary. They fulfills the functions of the president in the meetings in the event of his absence or other impediment; it is they who is generally called to preside over the meetings of the assembly when it sits in a committee of the whole.
 
  
 ### **Secretary**
 
-The secretary writes up, in the two official languages of CSIPC, and signs the minutes of the general, regular, special and Executive Council meetings which he/she then submits for the approval of the assembly while the chairman of the meeting or they are adopted confirms his signature indicating the date of this confirmation. He/She must prepare the agenda that will be accepted by the presidency and made available to members before the meeting. He/She will communicate to the members the reports of the committees, the proposals and other official documents in his care. The secretary will also be responsible for the management of these documents.
+The secretary writes up, in the two official languages of CSIPC, and signs the minutes of the general, regular, special and Executive Council meetings which they then submits for the approval of the assembly while the chairman of the meeting or they are adopted confirms his signature indicating the date of this confirmation. They must prepare the agenda that will be accepted by the presidency and made available to members before the meeting. They will communicate to the members the reports of the committees, the proposals and other official documents in his care. The secretary will also be responsible for the management of these documents.
 
 > <b><i>The CPICS is  amazing and I am proud to have helped create it. I like to participate in the organization of events, but I am too shy to take the lead. So being the secretary allowed me to be a part of this committee in the "background", giving my opinion, being part of important decisions and helping in the organization of our conferences and our Symposium. As a secretary I also had to push myself to improve my organization skills and pay more attention to the meetings. Finally, I also got to mentor two incredible people that replaced me in the position.</b>
 <br>
@@ -107,7 +80,7 @@ The secretary writes up, in the two official languages of CSIPC, and signs the m
 
 ### **Vice-President for Communications**
 
-He/She will be in charge of creating and managing social media platforms, setting up and managing the association's official means of communication (mailbox). In the case of organizing an event, it will help to maximize the visibility of the event for all members of the Center SÈVE as well as for any public targeted by the Committee.
+They will be in charge of creating and managing social media platforms, setting up and managing the association's official means of communication (mailbox). In the case of organizing an event, they will help to maximize the visibility of the event for all members of the Center SÈVE as well as for any public targeted by the Committee.
 
 <b><i>
 
@@ -119,7 +92,7 @@ He/She will be in charge of creating and managing social media platforms, settin
 
 ### **Vice-President of Networking**
 
-He/She will be in charge of creating, managing and updating the database. In these steps, he/she must contact the researchers, former members and students currently members of the SÈVE Center to obtain information as well as authorizations to use this information.
+They will be in charge of creating, managing and updating the database. In these steps, they must contact the researchers, former members and students currently members of the SÈVE Center to obtain information as well as authorizations to use this information.
 
 <b><i>
 
@@ -131,17 +104,14 @@ He/She will be in charge of creating, managing and updating the database. In the
  
 ### **Treasurer**
 
-He/She will be in charge of managing the budget allocated to CSIPC and of presenting a financial report when it is necessary to withdraw funds and dispose of them. If necessary, he/she will be responsible for finding and contacting potential partners to obtain additional funds during the CSIPC activity. He/She must work closely with the vice-president of communications, the president and the vice-president.
+They will be in charge of managing the budget allocated to CSIPC and of presenting a financial report when it is necessary to withdraw funds and dispose of them. If necessary, they will be responsible for finding and contacting potential partners to obtain additional funds during the CSIPC activity. They must work closely with the vice-president of communications, the president and the vice-president.
 
+</div><!-- id="Role_description" -->
 
+<div id="Current" class="section level2">
+<h2> Current</h2>
 
-## Current
-
-<center>
-<img src="images/comite photos/comite_2022.webp" width=75%>
-</center>
-
-
+<center><img src="images/comite photos/comite_2022.webp" width=75%></center>
 <br>
 
 <table>
@@ -197,8 +167,10 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tr>
 </tbody>
 </table>
+</div><!-- id="Current" -->
 
-## Past {.tabset .tabset-pill}
+<div id="Past" class="section level2 tabset tabset-fade tabset-pills">
+<h2> Past </h2>
 
 ### 2021
 
@@ -251,7 +223,8 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </table>
 
 
-### 2020 {.tabset .tabset-pill}
+<div id="comite_2020" class="section level3 tabset tabset-fade tabset-pills">
+<h3> 2020 </h3>
 
 #### 2020-05
 
@@ -316,7 +289,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 <br>
 
-<div class="table-responsive">
+<div id="table_20200110" class="table-responsive">
 
 <table>
 <thead>
@@ -360,7 +333,8 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tr>
 </tbody>
 </table>
-</div>
+</div><!-- id="table_20200110" -->
+</div><!-- id="comite_2020" -->
 
 ###  2019
 
@@ -370,7 +344,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 
 <br>
 
-<div class="table-responsive">
+<div id="comite_2019" class="table-responsive">
 
 <table>
 <thead>
@@ -412,14 +386,17 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 </tr>
 </tbody>
 </table>
-</div>
+</div><!-- id="comite_2019"-->
 
-</div>
-</div>
+</div><!-- closing div Past-->
+</div><!-- closing div id=section-1-->
+</div><!-- closing div id="row_text_col9"-->
 
-</div>
+</div><!-- closing div id=col9 -->
 
-</div>
+</div><!-- closing div class row under container-fluid div -->
+</div><!-- closing container-fluid -->
+
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
 [Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
@@ -438,7 +415,7 @@ He/She will be in charge of managing the budget allocated to CSIPC and of presen
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-<!--[Th?o Dev?ze]:-->
+<!--[Theo Deveze]:-->
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 

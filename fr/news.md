@@ -18,29 +18,8 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-
-<style>
-iframe { 
-  width: 100%; 
-  height: 40vw; 
-  margin-left: auto; 
-  margin-right: auto; 
-  display: block
-  }
-
-/* Style the box with articles */
-.professors {
-background-color: rgb(242,242,242);
-color: black;
-border-radius: 0.5em;
-}
-
-.professors a {
-font-weight: normal;
-color: black
-}
-</style>
-
+<link rel="stylesheet" href="news_style.css">
+</head>
 
 <div class="container-fluid">
 

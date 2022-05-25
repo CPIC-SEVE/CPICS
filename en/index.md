@@ -18,69 +18,6 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-<style>
-
-a.twitter-timeline {
-  margin-left: auto;
-  margin-right: auto; 
-}
-
-.resize {
-  border-style: solid;
-  border-width: 0px 5vw;
-  border-color: rgba(255, 255, 255, 0)
-}
-
-.avatar {
-  min-width: 50px;
-  margin-left: -15%; 
-  margin-top: -3%; 
-  vertical-align: middle;
-  border-radius: 50%;
-  border-width: 5px;
-  border-style: solid;
-  border-color: rgba(255, 255, 255, 0.7);
-  max-width: 12.5vw;
-  position: absolute; 
-  z-index: 2
-}
-
-.quote {
-  min-width: 40px;
-  margin-top: -15%; 
-  margin-left:-0.1%; 
-  width:10vw; 
-  position: absolute; 
-  z-index: 1
-}
-
-.resize1 {
-  padding: 5% 13% 5% 23%; 
-}
-
-@media screen and (max-width: 991px) {
-  .quote {
-    margin-top: -8%; 
-    margin-left:-1%; 
-    position: absolute; 
-    z-index: 1
-  }
-  
-  .avatar {
-    margin-left: -10%; 
-    margin-top: -0.1%; 
-    position: absolute; 
-    z-index: 2
-  }
-  
-  .resize {
-    border-style: hidden;
-    border-width: 0px 5vw;
-    border-color: rgba(255, 255, 255, 0)
-  }
-} 
-</style>
-
 
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
@@ -97,6 +34,7 @@ a.twitter-timeline {
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
 <img src="./images/comite photos/Cpicsmap.webp" alt="Map with the nationality of all current and past members of the CSIPC">
 <br>
+
 <!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
 <img src="./images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
@@ -121,7 +59,7 @@ a.twitter-timeline {
 <div class="col-md-3">
 
 <div class="row">
-<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
