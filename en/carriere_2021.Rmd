@@ -114,7 +114,7 @@ In this workshop, you will learn how to optimize your profile to be seen and rec
 </div>
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-12">
 <br>
 <img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="career_avatar">
 <br>

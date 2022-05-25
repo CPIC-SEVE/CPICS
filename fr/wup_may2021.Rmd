@@ -22,34 +22,8 @@ output:
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="slideshow.css">
 <link rel="stylesheet" href="form.css">
-
-<style>
-.main-container{max-width: 1492px}
-
-div.text {
-font-size: 1.25em;
-background-color: rgba(255, 255, 255, 0.7); 
-background-size: cover; 
-padding: 2%;
-}
-li {color: black}
-figure {
-  padding: 4px;
-  margin: auto;
-}
-
-figcaption {
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-div.figure p + p {
-  display: table-caption;
-}
-
-iframe {max-width: 100%; max-height: 100%;}
-</style>
-
+<link rel="stylesheet" href="wupc_style.css">
+</head>
 
 <div class="container-fluid">
 
@@ -274,7 +248,7 @@ Ben Moussa, I., Lemoyne, P. and Fall, M., 2019. **Virus et vigne, un mariage dif
 <div class="col-md-3">
 
 <div class="row">
-<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 

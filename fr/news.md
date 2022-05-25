@@ -13,10 +13,12 @@ output:
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <link rel="alternate" hreflang="en-us" href="../en/news.html">
+
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+
 <link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="news_style.css">
 </head>
@@ -32,7 +34,7 @@ output:
 <div class="col-md-3" style="float: right">
 
 <div class="row">
-<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/fr/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 
@@ -43,6 +45,7 @@ output:
 </div>
 
 </div>
+
 <div class="col-md-9" style="padding-right: 2%">
 
 <div class="row text">
@@ -64,33 +67,41 @@ https://cpics.netlify.app/en/participate.html
 
 ## 2022
 
-### **2022-05-04**
+<section id="2022">
+<article>
+<strong>2022-05-04</strong>
+
 Félicitations à notre ex-vice président Networking, [Romaric Armel Mouafo Tchinda] pour avoir obtenu un poste de post-doctorat à l'University of Florida au laboratoire de la Dre. [Karen Garrett] (qui était notre invitée dans la [What's up Conference de l'annéee passée](./wup_may2021.html)).
 
 Nous vous souhaitons le meilleur pour vos projets futurs !
+</article>
+
 <br><br>
 
-### **2022-04-26**
+<article>
+<strong>2022-04-26</strong>
 
 Félicitations au [Groupe de recherche en biologie végétale (GRBV)](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210) pour son 20e anniversaire. Aussi, félicitations aux présentateurs et aux organisateurs du colloque annuel du GRBV. 
 
 <center>
 <img src="./images/news/colloque_GRBV_2022.webp" width=100%>
 </center>
-
+</article>
 <br><br>
 
-### **2022-04-12**
+<article>
+<strong>2022-04-12</strong>
 
 Félicitations au Centre SÈVE membre Dr. [Hugo Germain] et aux membres de son équipe, [Théo Devèze], [Claire Letanneur], [Nikunj Sharma] et [Snehi Gazal] pour la réussite de leur expédition Indienne sur la biodiversité du _Cannabis_ à l’automne 2021! 
 
 Leurs travaux ont été publiés dans [NEO UQTR](https://neo.uqtr.ca/2022/03/30/expedition-scientifique-en-inde-etudier-la-biodiversite-du-cannabis/?fbclid=IwAR3jYGNy2PgEz1I_JzIjh6sePDGWw1PQgAH9UWvJ7vo1onOkwfdZLhSUcp4).
 
 Lisez le récit de leur voyage et des travaux scientifiques réalisés en Inde avec des images envoûtantes des chaînes himalayennes avec du _Cannabis_.
-
+</article>
 <br><br>
 
-### **2022-03-10**
+<article>
+<strong>2022-03-10</strong>
 
 Nouvelle publication du Dr. [Tagnon Missihoun] et son étudiante à la maitrise [Amal Jaballi] de l'UQTR.
 <br>
@@ -104,10 +115,11 @@ Aussi, le candidat au doctorat [Charles Roussin-Léveillée] du laboratoire du D
 
 <br>
 Félicitations !
-
+</article>
 <br><br>
 
-### **2022-02-10**
+<article>
+<strong>2022-02-10</strong>
 
 Nouvelle publication de notre ancienne Vice-Présidente aux Communications, [Marianne Bessette].
 <br>
@@ -117,10 +129,12 @@ Publication:
 
 <br>
 Félicitations !
+</article>
 <br><br>
 
 
-### **2022-01-03**
+<article>
+<strong>2022-01-03</strong>
 
 Nouvelle publication de une des chercheuses du Centre Séve, Dre [Isabel Desgagné-Penix], et ses étudiants et étudiants Laurence Tousignant, [Aracely Maribel Diaz Garza], [Bharat Bhusan Majhi](https://www.researchgate.net/profile/Bharat-Majhi), [Sarah-Eve Gélinas](https://ca.linkedin.com/in/sarah-%C3%A8ve-g%C3%A9linas-695971159), en collaboration avec la chercheuse postdoctorale [Aparna Singh](https://ca.linkedin.com/in/aparna-singh-5049b462), de l'University of New Brunswick.
 <br>
@@ -130,28 +144,36 @@ Publication:
 
 <br>
 Félicitations !
+</article>
 <br><br>
 
-## 2021
+</section>
 
-### **2021-12-03**
+## 2021
+<section id="2021">
+
+<article>
+<strong>2021-12-03</strong>
 
 Notre trésorière [Julie Yergeau] vient de finir sa maîtrise titré « L’identification des espèces de _Phytophthora_ dans les cultures d’arbres de Noël du Québec et la validation de la pathogénicité de _P. abietivora_ » !
 
 En plus, elle a gagné le prix de meilleure présentation dans les Symposiums MicroBioMoléculaires de la Session Automne 2021 à l'Université de Sherbrooke.
 
 Félicitations, Julie!
+</article>
 <br><br>
 
-### **2021-11-24**
+<article>
+<strong>2021-11-24</strong>
 
 Notre Vice-Président en Réseautage [Romaric Armel Mouafo Tchinda] a réussi son doctorat en phytopathologie, avec la thèse « Comparative epidemiology of the two main clades of Plasmopara viticola prevalent in eastern Canada » avec la Dre. Carole Beaulieu et le Dr. Odile Carisse.
 
 Félicitations !!!
-
+</article>
 <br><br>
 
-### **2021-09-02**
+<article>
+<strong>2021-09-02</strong>
 
 Nouvelle publication de une des chercheuses du Centre Séve, Dre [Isabel Desgagné-Penix], et ses étudiants [Manoj Koirala] et [Seydou Ka], en collaboration international avec l'[Universita’ di Napoli Federico II](http://www.unina.it/en_GB/home) (Italie) et l'[Universite Cheikh Anta Diop de Dakar](https://fmpos.ucad.sn/) (Sénégal).
 <br>
@@ -161,11 +183,12 @@ Publication:
 
 <br>
 Félicitations à toutes les personnes impliquées dans ce projet pour leur travail assidu et en particulier à la Dre [Isabel Desgagné-Penix] pour sa collaboration avec des chercheurs du monde entier !
-
+</article>
 <br><br>
 
 
-### **2021-08-30**
+<article>
+<strong>2021-08-30</strong>
 
 Voulez vous savoir plus sur les defis des postdocs, la vie d'une bioinformaticienne, ou le parcours academique de notre présidente, Dre [Karen Cristine Goncalves]?
 
@@ -176,10 +199,11 @@ Regardez son entrevue par le doctorant Nikunj Sharma, de l'Université du Québe
 <iframe src="https://www.youtube.com/embed/2Xx9Anv2nqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
-
+</article>
 <br><br>
 
-### **2021-05-05**
+<article>
+<strong>2021-05-05</strong>
 
 Notre présidente, [Karen Cristine Goncalves], a réussi son doctorat en Biologie Cellulaire et Moléculaire avec la thèse "Unrelated Fungal Rust Candidate Effectors Act on Overlapping Plant Functions", sous la direction du Dr. [Hugo Germain] et la Dre. [Isabel Desgagné-Penix].
 
@@ -190,10 +214,13 @@ Finallement, elle a commencé sa recherche postoctorale avec le Dr. [Damase Khas
 
 
 Bravo, Karen !!
-
+</article>
 <br><br>
 
-### **2021-04-06**{.tabset .tabset-fade .tabset-pills}
+<article>
+<strong>2021-04-06</strong>
+
+<div id="Professors_articles" class="section level3 .tabset .tabset-fade .tabset-pills">
 
 Bien que l'année 2021 ne fasse que commencer, les chercheur&middot;euse&middot;s membres du Centre SÈVE ont été très occupé&middot;e&middot;s.
 Félicitations pour leur excellent travail durant cette pandémie !
@@ -505,18 +532,23 @@ __Valerio Hoyos-Villegas__
 __Vincent Maire__
 
 - <a href='https://www.pnas.org/content/118/7/e2019355118.short'>Functional rarity and evenness are key facets of biodiversity to boost multifunctionality</a>
-</div><br><br>
+</div>
+</div>
+</article>
+<br><br>
 
 
-### **2021-01-29**
+<article>
+<strong>2021-01-29</strong>
 
 Bienvenue à nos deux nouvelles membres de la CIPCS, [Snehi Gazal] (VP Communications) and [Valeria Parra] (VP Réseautage)!
 
 Nous remercions [Claire Lettaneur], [Teura Barff] et [Marianne Bessette] pour leur travail. Elles ne feront plus partie du comité exécutif, mais elles seront toujours invitées à nos réunions et nos événements.
-
+</article>
 <br><br>
 
-### **2021-01-27**
+<article>
+<strong>2021-01-27</strong>
 
 Félicitation à Michelle Boivin (UQTR), étudiante du centre SÈVE pour son intriguant projet de revalorisation de matière organique.
 
@@ -524,20 +556,25 @@ Félicitation à Michelle Boivin (UQTR), étudiante du centre SÈVE pour son int
 <img src="./images/news/michelle-pommes-terre_2020.webp" width=50%>
 <a href="https://neo.uqtr.ca/2021/01/26/un-elixir-de-jouvence-naturel-pour-les-patates/?fbclid=IwAR20dE7XqTMOcri8oFFGIEJPwXB4ZYWQzzWAaNBSYfqc-folknVrpcIquz4"><img src="./images/news/michelle_schema.webp" width=70%></a>
 </center>
+</article>
 <br><br>
 
+</section>
 
 ## 2020
+<section id="2020">
 
-### **2020-11-06**
+<article>
+<strong>2020-11-06</strong>
 
 Felicitations à [Aracely Maribel Diaz Garza], notre secrétaire, pour son article sur la [dynamique temporelle des rhizobactéries dans les cultures cultivées dans un écosystème semi-aride](https://doi.org/10.3389/fsufs.2020.602283).
 
 Bravo!
-
+</article>
 <br><br>
 
-### **2020-11-10**
+<article>
+<strong>2020-11-10</strong>
 
 Prochain webinar Synbio Canada, organisé par une de nos membres, [Fatima Awwad].
 
@@ -547,30 +584,33 @@ Prochain webinar Synbio Canada, organisé par une de nos membres, [Fatima Awwad]
 ![](./images/news/synbio_1.webp)
 ![](./images/news/synbio_2.webp)
 </center>
-
+</article>
 <br><br>
 
-### **2020-11-06**
+<article>
+<strong>2020-11-06</strong>
 
 Felicitations à [Karen Cristine Goncalves], notre secrétaire, pour son preprint sur des effecteurs candidates des champignons. 
 
 Bon travail!
 
 Preprint: [Differential alteration of plant functions by homologous fungal candidate effectors](https://www.biorxiv.org/content/10.1101/2020.10.30.363010v1)
-
+</article>
 <br><br>
 
-### **2020-11-05** 
+<article>
+<strong>2020-11-05</strong> 
 
 Félicitations à [Fadoua Dhaouadi], [Fatima Awwad] et [Andrew Diamond] pour la publication de cette review scientifique sur les Diatomées.
 
 Premier papier pour Fadoua Dhaouadi, ça se fête!
 
 Papier: [Diatoms' breakthroughs in biotechnology: <i>Phaeodactylum tricornutum</i> as a model for producing high-added value molecules](https://doi.org/10.4236/ajps.2020.1110118)
-
+</article>
 <br><br>
 
-### **2020-10-27**
+<article>
+<strong>2020-10-27</strong>
 
 Aujourd'hui, [Romaric Armel Mouafo Tchinda] a pratiqué sa présentation pour [Ma thèse en 180s de l'ACFAS](https://www.acfas.ca/prix-concours/ma-these-en-180-secondes/a-propos), où il représentera l'Université de Sherbrooke.
 
@@ -578,10 +618,11 @@ Suivez la [finale](https://www.facebook.com/events/662935087680358/?__cft__[0]=A
 
 
 ![](./images/news/romaric_mt180.webp)
-
+</article>
 <br><br>
 
-### **2020-10-24**
+<article>
+<strong>2020-10-24</strong>
 
 Soumis par ses étudiants, les laboratoires des Dre [Isabel Desgagné-Penix] et Dr. [Hugo Germain](https://www.researchgate.net/profile/Hugo_Germain) ont obtenu le [Prix d'excellence](https://cbie.ca/fr/laureat-e-s-prix-excellence-2020/) du [Bureau Canadien de l'Éducation Internationale](https://cbie.ca/fr/) pour les [politiques d'équité, de diversité et d'inclusion](https://www.youtube.com/watch?v=QPqd4jLihyU&t=3s&ab_channel=uqtr) menées au quotidien.
 
@@ -592,10 +633,11 @@ Félicitations!
 <iframe src="https://www.youtube.com/embed/QPqd4jLihyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
-
+</article>
 <br><br>
 
-### **2020-10-02**
+<article>
+<strong>2020-10-02</strong>
 
 Nous sommes heureux de vous inviter au Concours d'affiches scientifiques étudiantes 2020 du Centre SÈVE. Cet événement virtuel aura lieu les 25 et 26 novembre 2020.
 Le [portail d’inscription](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/registration/) pour les participants et pour soumettre une communication par affiche est maintenant en ligne. Vous y trouverez aussi toutes les [informations sur l’événement](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8038-0209e3bc0682/pages).
@@ -603,10 +645,11 @@ Le [portail d’inscription](https://event.fourwaves.com/fr/a6183e12-d9e0-420a-8
 Au plaisir de vous y voir en grand nombre !
 
 ![](./images/news/cs_concours_affiche2020.webp)
-
+</article>
 <br><br>
 
-### **2020-09-22**
+<article>
+<strong>2020-09-22</strong>
 
 
 <div class="col-lg-6">
@@ -615,30 +658,31 @@ Au plaisir de vous y voir en grand nombre !
 <div class="col-lg-6">
 <img src="images/news/charles_cs_2.webp" alt="Charles presentation">
 </div>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Conférence Web du Centre SÈVE aujourd'hui, avec [Charles Roussin-Léveillée] de l'Université de Sherbrooke. Merci à tous les participants!</p>
+Conférence Web du Centre SÈVE aujourd'hui, avec [Charles Roussin-Léveillée] de l'Université de Sherbrooke. Merci à tous les participants!
 Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/1511546979039577)
-
+</article>
 <br><br>
 
-### **2020-08-17**
+<article>
+<strong>2020-08-17</strong>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)? </p>
+Vous souhaitez en savoir plus sur notre invitée [Isabelle Laforest-Lapointe](https://twitter.com/Isabel_Laforest), de l'[USherbrooke](https://twitter.com/USherbrooke) pour le [25 août](whats_up.html#inscriptions)?
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !! </p>
+Lisez cet [article](https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/) sur son travail !! 
 <br>
 
 <a href="https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2017/4-probiotiques-forestiers/"><img src="images/news/leaves.webp" alt="photo des feuilles" style="text-align:center;display: block; margin-left: auto; margin-right:auto"></a>
 <br>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p>
-
+[#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)
+</article>
 <br><br>
 
-### **2020-08-14**
+<article>
+<strong>2020-08-14</strong>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?</p>
+Vous souhaitez en savoir plus sur notre invitée [Leena Tripathi](https://twitter.com/Leena_Tripathi) pour le [25 août](whats_up.html#inscriptions)?
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!  </p>
-<br>
+Regardez cette vidéo de [IITA CGIAR](https://twitter.com/IITA_CGIAR) sur son travail !!  
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 
 <!-- blank line -->
@@ -647,16 +691,19 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 </figure>
 <!-- blank line -->
 <br><br>
-<span> <p style="text-align:center;display: block; margin-left: auto; margin-right:auto"> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
+<span> [#whatsupconferences](https://twitter.com/hashtag/whatsupconferences?src=hashtag_click)  [#plantscience](https://twitter.com/hashtag/plantscience?src=hashtag_click) [#SEVE](https://twitter.com/hashtag/SEVE?src=hashtag_click) [#CPICS](https://twitter.com/hashtag/CPICS?src=hashtag_click)</p></span>
 
 </span>
 
+</article>
+
 <br><br>
 
-### **2020-08-10**
+<article>
+<strong>2020-08-10</strong>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!**</p>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto"><img src="images/news/conferences_web_cs.webp" class="center" width="60%"></p>
+**Le Centre SÈVE annonce une nouvelle série de Conferences web qui commence le 15 septembre!**
+<img src="images/news/conferences_web_cs.webp" class="center" width="60%">
 
 <br><br>
 <table class="center">
@@ -683,14 +730,17 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 </tbody>
 </table>
 <br>
-<b><p style="font-size:1.5em; text-align:center; padding-left:0px"> [Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </p></b>
+<b>[Inscriptions](http://centreseve.recherche.usherbrooke.ca/fr/node/226#overlay-context=fr/node/223) </b>
+</article>
+
 <br><br>
 
 
-### **2020-07-29**
+<article>
+<strong>2020-07-29</strong>
 
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.</p>
-<p style="text-align:center;display: block; margin-left: auto; margin-right:auto">Vous pouvez voir leurs affiches sur notre twitter (link en bas).</p>
+Felicitations aux etudiants du Centre SEVE qui presentent dans le Worldwide Plant Biology Summit 2020.
+Vous pouvez voir leurs affiches sur notre twitter (link en bas).
 
 <span class="row" style=" display: block;  margin-left: auto;  margin-right: auto;">
 <p style=" text-align:center;">[<i class="fab fa-twitter"></i> Karuna Kapoor <i class="fab fa-twitter"></i>][1]</p><br>
@@ -733,23 +783,24 @@ Source: [Centre SÈVE](https://www.facebook.com/centreseve/posts/151154697903957
 </table>
 
 </span>
+</article>
 <br><br>
 
-### **2020-07-07**
+<article>
+<strong>2020-07-07</strong>
 
 
 <img src="images/news/fatima_cs.webp" class="center">
 
-
-
-<div>
 <p>**[Fatima Awwad]**, postdoc de l'_UQTR_, nous a presenté aujourd'hui le potentiel des microalgues dans les conférences Web du Centre SÈVE. Merci à tous les participants!</p>
-</div>
+
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1444690485725227/)
+</article>
 
 <br><br>
 
-### **2020-06-16**
+<article>
+<strong>2020-06-16</strong>
 
 <img src="images/news/karen_cs.webp" class="center">
 
@@ -760,10 +811,12 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 </div>
 Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.445334158994203/1427129864147956/)
 
+</article>
 
 <br><br>
 
-### **2020-05-09**
+<article>
+<strong>2020-05-09</strong>
 
 
 <div>
@@ -772,20 +825,28 @@ Source: [Centre SEVE](https://www.facebook.com/centreseve/photos/a.4453341589942
 <p>**_Félicitation à vous deux !_**</p>
 
 </div>
+</article>
+
 <br><br>
 
-### **2020-03-02**
+<article>
+<strong>2020-03-02</strong>
 
 
 <div>
 <p>Félicitations à **[Claire Letanneur]**, doctorante à l'_UQTR_, pour l'octroi d'une subvention au premier concours du programme DIALOGUE - volet relève étudiante! Seulement quatre projets étaient sélectionnés pour chaque secteur de recherche des FRQ.</p>
 </div>
+</article>
+
 <br><br>
+</section>
 
 ## 2019
 
+<section id="2019">
 
-### **2019-09-30**
+<article>
+<strong>2019-09-30</strong>
 
 
 <div >
@@ -795,11 +856,12 @@ Nous rémercions Rose-Marie Bell, étudiante à la maitrise en biologie vegetale
 <span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
 [**_OGM, tabou démystifié : topo sur le symposium international annuel du centre SÈVE_**](https://journalagral.wordpress.com/2019/09/29/ogm-tabou-demystifie-topo-sur-le-symposium-international-annuel-du-centre-seve/)<br>
 </span>
+</article>
+
 <br><br>
 
-### **2019-08-29**
-
-<div>
+<article>
+<strong>2019-08-29</strong>
 
 Quelques souvenirs du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019**
 
@@ -810,7 +872,6 @@ Une soixantaine de participant&middot;e&middot;s et de conférencier&middot;ièr
 Objectif atteint pour ce premier symposium organisé par les étudiants du CPICS !
 
 Merci encore une fois aux commanditaires de l’événement :
-</div>
 
 <span class="row" style="display: block;  margin-left: auto; text-align:center; margin-right: auto;">
 
@@ -828,13 +889,14 @@ Merci encore une fois aux commanditaires de l’événement :
 
 
 </span>
+</article>
 
 <br><br>
 
 
-### **2019-06-11**
+<article>
+<strong>2019-06-11</strong>
 
-<div>
 Les inscriptions, pour la première édition du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019** qui aura lieu le **_23 août prochain_**, sont maintenant ouvertes!
 
 Les étudiants ont la possibilité de soumettre un résumé afin d’être sélectionnés pour une présentation orale. 
@@ -858,25 +920,26 @@ Pour vous inscrire, rendez-vous sur le site [web du Centre SÈVE](http://tiny.cc
 Vous y trouverez aussi le planning de la journée et bien plus, alors ne tardez plus. 
 
 Nous avons hâte de vous y voir. 
-</div>
+</article>
 
 <br><br>
 
-### **2019-03-14**
+<article>
+<strong>2019-03-14</strong>
 
-<div>
 
 Après une longue période d’attente, nous avons enfin le plaisir de vous présenter le **Comité de Partenariat du Centre SÈVE (CPICS)**. Comme vous le savez nous aspirons à l'établissement de partenariats avec des chercheurs du monde entier. Nous sommes d’ailleurs en pleine préparation du **[SYMPOSIUM INTERNATIONAL DU CENTRE SÈVE] 2019** qui portera cette année sur **« La biotechnologie au service de la sécurité alimentaire »**.
 
 Restez à l’affût pour plus d’informations sur le symposium, mais aussi pour en savoir plus sur les recherches menées au sein du Centre SÈVE ainsi qu’à l’extérieur du Québec et d’autre nouvelles palpitantes dans le monde de la science. 
 
 En attendant nous vous laissons avec cette belle photo qui liste tous les membres du bureau exécutif du CPICS de cette année.
-</div>
 
 <a href="comites.html"><img src="images/comite photos/comite_2019.webp" style="width: 75%; display:block; margin-left: auto; margin-right: auto"></a>
 
 </div>
 
+</article>
+</section>
 
 
 </div>

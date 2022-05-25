@@ -27,19 +27,7 @@ function myFunction(x) {
   location.replace(x)
   }
 </script>
-
-<style>
-.avatar {
-  min-width: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 50%;
-  border-width: 5px;
-  width: 10em;
-  display: block; 
-  border-bottom:5px
-}
-</style>
+</head>
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
 
@@ -96,13 +84,13 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 
 <div class="row">
 <div class="col-md-6">
-<img src="images/events/carriere_2021/Tony_Savard.webp" class="avatar">
+<img src="images/events/carriere_2021/Tony_Savard.webp" class="career_avatar">
 
 <center>[Tony Savard](https://profils-profiles.science.gc.ca/fr/profil/tony-savard-phd)<br>Chercheur scientifique<br>Centre de recherche et de développement sur les aliments de Saint-Hyacinthe</center>
 
 </div>
 <div class="col-md-6">
-<img src="images/events/carriere_2021/Lauriane_giroux.jfif" class="avatar">
+<img src="images/events/carriere_2021/Lauriane_giroux.jfif" class="career_avatar">
 <center>[Lauriane Giroux](https://www.linkedin.com/in/lauriane-giroux-83b68b11a/)<br>Professionelle de recherche<br>Ulysse Biotech</center>
 
 </div>
@@ -110,14 +98,14 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <div class="row">
 <div class="col-md-6">
 <br>
-<img src="images/events/carriere_2021/Tanya_Copley.webp" class="avatar">
+<img src="images/events/carriere_2021/Tanya_Copley.webp" class="career_avatar">
 <br>
 <center>[Tanya Copley](https://cerom.qc.ca/organisation/notre-equipe/chercheurs.html)<br>Phytopathologist<br>Centre de recherche sur les grains, inc.</center>
 </div>
 
 <div class="col-md-6">
 <br>
-<img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="avatar">
+<img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="career_avatar">
 <br>
 <center>[Jean-Philippe Légaré](https://www.linkedin.com/in/jean-phillippe-legare-29209368/?originalSubdomain=ca)<br>Biologist-entomologist<br>MAPAQ's Laboratory of expertise and diagnostic in en phytoprotection</center>
 
@@ -126,7 +114,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <div class="row">
 <div class="col-md-12">
 <br>
-<img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="avatar">
+<img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="career_avatar">
 <br>
 <center><span style="color: white; font-weight: bold">[Ayooluwa Bolaji](https://www.linkedin.com/in/ayooluwa-bolaji-ph-d-2a9a64159/?originalSubdomain=ca)</span><br>Research scientist at the Genomics Unit<br>National Centre for Foreign Animal Disease (Canadian Food Inspection Agency)</center>
 </div>
@@ -146,7 +134,7 @@ Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour êtr
 <div class="col-md-3">
 
 <div class="row">
-<span> <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 <div class="row" style="margin: 1%">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 

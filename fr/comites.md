@@ -20,36 +20,8 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  overflow-x:auto;
-  overflow: scroll; 
-  max-width: 100%;
-  height: auto;
-}
-
-td, th {
-  border: 1px solid rgba(50, 130, 102);
-  text-align: left;
-  height: auto;
-  width: auto;
-}
-thead {
-  background-color: #dddddd;
-  overflow: scroll;
-  height: auto;
-  width: auto;
-
-}
-
-</style>
+<link rel="stylesheet" href="committee_style.css">
+</head>
 
 <div class="container-fluid" style="margin-left: auto; margin-right: auto;">
 
@@ -62,16 +34,12 @@ thead {
 
 <div class="row" style="margin: 1%">
 
-<span style="font-size: 2em; text-align:center; display: block; margin-left: auto; margin-right:auto"> 
-[<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) 
-[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) 
-[<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) 
-<a href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> 
-</span>
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
 
-<div>
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
+<div class="row" style="margin: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="./images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="./images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
 </div>
+
 <a class="twitter-timeline" data-height=1800px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div><!-- class = row-->
