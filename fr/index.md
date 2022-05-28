@@ -36,7 +36,7 @@ output:
 <div class="col-md-9 resize">
 <div class="row mx-0 no-gutters">
 
-<div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
+<div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative;"> 
 <img src="./images/comite photos/Cpicsmap.webp" alt="Carte avec la nationalite de tous les membres actuels et passes du CPICS">
 <br>
 <!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->

@@ -1,5 +1,5 @@
 ---
-title: '<span style="display:none">About us</span>'
+title: '<span style="display:none">À propos</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 lang: "fr-fr"
 output: 

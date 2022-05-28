@@ -1,11 +1,8 @@
 /* Styles for section anchors */
 a.anchor-section {margin-left: 10px; visibility: hidden; color: inherit;}
 a.anchor-section::before {content: '#';}
-.hasAnchor:hover a.anchor-section {visibility: hidden;}
-ul > li > .anchor-section {display: none;}
-/*
 
-*/
+
 div.text {
 font-size: 1.25em;
 background-color: rgba(255, 255, 255, 0.8); 
