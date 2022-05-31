@@ -21,7 +21,15 @@ navbar:
     - text: "Symposia"
       href: ./fr/symposia.html
     - text: "Nouvelles"
-      href: ./fr/news.html
+      menu:
+       - text: "2022"
+         href: ./fr/news_2022.html
+       - text: "2021"
+         href: ./fr/news_2021.html
+       - text: "2020"
+         href: ./fr/news_2020.html
+       - text: "2019"
+         href: ./fr/news_2019.html
     - text: "Comité"
       href: ./fr/comites.html
     - text: "Événements"
