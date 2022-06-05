@@ -90,19 +90,19 @@ output:
 <form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
 
 <label > Prénom :* </label>  
-<input type="text" name="First name" placeholder="" required/>
+<input type="text" name="First name" placeholder="Prenom" required/>
      <br>
 	 
 <label > Nom :* </label> 
-<input type="text" name="Last name" placeholder="" required/><br>
+<input type="text" name="Last name" placeholder="Nom" required/><br>
     
 <label > Affiliation:* </label>  
-<input type="text" name="Affiliation" placeholder="" required/><br>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br>
 
 <label>Email:* </label> 
 <input type="text" name="Email" placeholder="" required/><br>
 
-<input type="hidden" name="_subject" value="inscription" />
+<input type="hidden" name="Which conference" value="June 2022" />
 
 <label> Vous êtes:* </label>
 <input list="Occupations" name="Occupation" id="Occupation">
@@ -154,10 +154,10 @@ output:
 <fieldset>
 <legend> Qui êtes vous? </legend>
 <label>Nom:* </label>
-<input type="text" name="Name" placeholder="First_name Last_name" required/><br>
+<input type="text" name="Name" placeholder="Prenom Nom" required/><br>
     
 <label > Affiliation:* </label> 
-<input type="text" name="Affiliation" placeholder="University/Institution" required/><br>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br>
 
 <label>Email:* </label>
 <input type="text" name="Email" id="Email" required/><br>

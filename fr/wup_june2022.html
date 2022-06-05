@@ -428,14 +428,13 @@ Inscriptions
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
 <p><label > Prénom :* </label><br />
-<input type="text" name="First name" placeholder="" required/> <br></p>
-<p><label > Nom :* </label> <input type="text" name="Last name" placeholder="" required/><br></p>
+<input type="text" name="First name" placeholder="Prenom" required/> <br></p>
+<p><label > Nom :* </label> <input type="text" name="Last name" placeholder="Nom" required/><br></p>
 <p><label > Affiliation:* </label><br />
-<input type="text" name="Affiliation" placeholder="" required/><br></p>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
 <p><label>Email:* </label> <input type="text" name="Email" placeholder="" required/><br></p>
-<p><input type="hidden" name="_subject" value="inscription" /></p>
-<p><label> Vous êtes:* </label> <select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Baccalauréat </option> <option value="Maîtrise / Master's" > Maîtrise </option> <option value="Doctorat / PhD" > Doctorat </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien&middot;ne / Technician" > Technicien·ne </option> <option value="Chercheur&middot;se / Researcher" > Chercheur·se </option> <option value="Autre / Other"> Autre</option> </select></p>
-<p><label> Autre: </label> <input type="text" name="Other occupation" id="Other occupation"/> <br> <br></p>
+<p><input type="hidden" name="Which conference" value="June 2022" /></p>
+<p><label> Vous êtes:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>
 <p><label> Voulez-vous participer: </label> <select name="Attending" id="Attending meeting" required> <option value="En présentielle / In person"> En présentielle à l’UQTR </option> <option value="En ligne / On line"> Sur ZOOM/Facebook live </option> </select></p>
 <p><label> Pour des raisons statistiques, preferez-vous des webinars en: </label> <select name="Prefered_language" id="Prefered language"> <option value="Anglais / English"> Anglais </option> <option value="Francais / French"> Francais </option> <option value="Les deux / Both"> Les deux </option> </select></p>
 <p><input type="hidden" name="_gotcha" /> <br></p>
@@ -453,8 +452,8 @@ Enquête post-conférence
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey" id="post_conference_survey" method="POST" action="https://script.google.com/macros/s/AKfycbwBAmKZA3Nxv08pn7Fn4JKZ_tc0_B-OzyJrNv93dZ1E_FxR3SuG7u_Qau164IY9GBk/exec">
 <fieldset>
-<p><legend> Qui êtes vous? </legend> <label>Nom:* </label> <input type="text" name="Name" placeholder="First_name Last_name" required/><br></p>
-<p><label > Affiliation:* </label> <input type="text" name="Affiliation" placeholder="University/Institution" required/><br></p>
+<p><legend> Qui êtes vous? </legend> <label>Nom:* </label> <input type="text" name="Name" placeholder="Prenom Nom" required/><br></p>
+<p><label > Affiliation:* </label> <input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
 <p><label>Email:* </label> <input type="text" name="Email" id="Email" required/><br></p>
 <p><input type="hidden" name="Which conference" id="Which conference" value="June 2022" /></p>
 <p><label> Vous êtes:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>

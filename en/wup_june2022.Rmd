@@ -87,18 +87,18 @@ output:
 <form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
 
 <label > First Name:* </label>  
-<input type="text" name="First name" placeholder="" required/><br>
+<input type="text" name="First name" placeholder="First name" required/><br>
 	 
 <label > Last Name:* </label> 
-<input type="text" name="Last name" placeholder="" required/><br>
+<input type="text" name="Last name" placeholder="Last name" required/><br>
     
 <label > Affiliation:* </label>  
-<input type="text" name="Affiliation" placeholder="" required/><br>
+<input type="text" name="Affiliation" placeholder="University/Institution" required/><br>
 
 <label>Email:* </label> 
 <input type="text" name="Email" placeholder="" required/><br>
 
-<input type="hidden" name="_subject" value="inscription" />
+<input type="hidden" name="Which conference" value="June 2022" />
 
 <label> You are:* </label>
 <input list="Occupations" name="Occupation" id="Occupation">
