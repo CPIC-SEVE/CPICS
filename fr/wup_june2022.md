@@ -81,76 +81,6 @@ output:
 </div>
 </div>
 
-<!--<div id="section-3" class="section level2">
-<h2>Enquête post-conférence</h2>
-<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
-
-
-<form name="post_conference_survey_juin2022" method="POST" data-netlify="true">
-
-<fieldset>
-<legend> Qui êtes vous? </legend>
-<label>Nom:* </label>
-<input type="text" name="Name" placeholder="Prénom Nom" required/><br>
-    
-<label > Affiliation:* </label> 
-<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br>
-
-<label>Email:* </label>
-<input type="text" name="Email" placeholder="email@email.com" required/><br>
-
-<input type="hidden" name="_subject" value="survey_8juin" />
-
-<label> Vous êtes:* </label>
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
-<option value="Maîtrise / Master's" > Maîtrise </option>
-<option value="Doctorat / PhD" > Doctorat </option>
-<option value="Postdoc" > Postdoc </option>
-<option value="Technicien&middot;ne / Technician" > Technicien&middot;ne </option>
-<option value="Chercheur&middot;se / Researcher" > Chercheur&middot;se </option>
-<option value="Autre / Other"> Autre</option>
-</select>
-
-<label> Autre: </label><
-<input type="text" name="Other occupation" id="Other occupation" placeholder="Assistant de recherche"/>
- <br> <br>
-
-</fieldset>
- 
-<input type="hidden" name="_gotcha" />
-
-<fieldset>
-<legend> Sur la Conférence </legend>
-<label> Vous avez vu la conférence via:* </label>
-<select name="Platform" id="Platform" required>
-<option value="In person"> En personne</option>
-<option value="Facebook Live"> Facebook Live </option>
-<option value="Zoom"> Zoom </option>
-<option value="Enregistrement / Recording"> Enregistrement </option>
-</select> <br>
-
-<label> Avez-vous aimé le format?* </label>
-<select name="Like_format" id="Like_format" required>
-<option value="Yes / Oui" >Oui</option>
-<option value="Non / No" >Non</option>
-<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
-</select> <br>
-
-<label > Suggestions: </label>
-<input type="text" name="suggestions" placeholder="" /><br>
-
-<label >Quel sujet aimeriez-vous voir discuté?</label>
-<input type="text" name="new_subjects" placeholder="" /><br>
-
-<center><input type="submit" value="Soumettre"/></center>
-</fieldset>
-
-</form>
-</div>
-</div>-->
-
-
 <div id="section-6" class="section level2">
 <h2>Inscriptions</h2>
 
@@ -175,19 +105,15 @@ output:
 <input type="hidden" name="_subject" value="inscription" />
 
 <label> Vous êtes:* </label>
-<select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
-<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
-<option value="Maîtrise / Master's" > Maîtrise </option>
-<option value="Doctorat / PhD" > Doctorat </option>
-<option value="Postdoc" > Postdoc </option>
-<option value="Technicien&middot;ne / Technician" > Technicien&middot;ne </option>
-<option value="Chercheur&middot;se / Researcher" > Chercheur&middot;se </option>
-<option value="Autre / Other"> Autre</option>
-</select>
-
-<label> Autre: </label>
-<input type="text" name="Other occupation" id="Other occupation"/>
- <br> <br>
+<input list="Occupations" name="Occupation" id="Occupation">
+<datalist id="Occupations">
+<option value="Baccalauréat / Bachelor" />
+<option value="Maîtrise / Master's" />
+<option value="Doctorat / PhD" />
+<option value="Postdoc" />
+<option value="Technicien&middot;ne / Technician" />
+<option value="Chercheur&middot;se / Researcher" />
+</datalist>
 
 <label> Voulez-vous participer: </label>
 <select name="Attending" id="Attending meeting" required>
@@ -216,6 +142,72 @@ output:
 </form>
 </div>
 
+</div>
+
+<div id="section-3" class="section level2">
+<h2>Enquête post-conférence</h2>
+<div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
+
+
+<form  name="post_conference_survey" id="post_conference_survey" method="POST" action="https://script.google.com/macros/s/AKfycbwBAmKZA3Nxv08pn7Fn4JKZ_tc0_B-OzyJrNv93dZ1E_FxR3SuG7u_Qau164IY9GBk/exec">
+
+<fieldset>
+<legend> Qui êtes vous? </legend>
+<label>Nom:* </label>
+<input type="text" name="Name" placeholder="First_name Last_name" required/><br>
+    
+<label > Affiliation:* </label> 
+<input type="text" name="Affiliation" placeholder="University/Institution" required/><br>
+
+<label>Email:* </label>
+<input type="text" name="Email" id="Email" required/><br>
+
+<input type="hidden" name="Which conference" id="Which conference" value="June 2022" />
+
+<label> Vous êtes:* </label>
+<input list="Occupations" name="Occupation" id="Occupation">
+<datalist id="Occupations">
+<option value="Baccalauréat / Bachelor" />
+<option value="Maîtrise / Master's" />
+<option value="Doctorat / PhD" />
+<option value="Postdoc" />
+<option value="Technicien&middot;ne / Technician" />
+<option value="Chercheur&middot;se / Researcher" />
+</datalist>
+
+
+</fieldset>
+ 
+<input type="hidden" name="_gotcha" />
+
+<fieldset>
+<legend> Sur la Conférence </legend>
+<label> Vous avez vu la conférence via:* </label>
+<select name="Platform" id="Platform" required>
+<option value="In person"> En personne</option>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
+</select> <br>
+
+<label> Avez-vous aimé le format?* </label>
+<select name="Like Format" id="Like Format" required>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
+</select> <br>
+
+<label > Suggestions: </label>
+<input type="text" name="Suggestions" id="Suggestions"/><br>
+
+<label >Quel sujet aimeriez-vous voir discuté?</label>
+<input type="text" name="New Subjects" id="New Subjects"/><br>
+
+<center><input type="submit" value="Soumettre"/></center>
+</fieldset>
+
+</form>
+</div>
 </div>
 
 </div>
