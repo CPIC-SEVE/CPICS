@@ -10,7 +10,7 @@ input {
   Arial, sans-serif; 
 }
 
-input[type="text"], input[type="submit"], button, textarea, input[list]{ 
+input[type="text"], input[type="submit"], button, textarea, select{ 
   padding: 0.5em ; 
   border: 1px solid #e5e5e5; 
   border-radius: 10px; 
