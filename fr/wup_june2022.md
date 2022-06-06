@@ -87,7 +87,7 @@ output:
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
+<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbwwPUVcXmwLWu6vjtr5lZUfylM_rcwvy-jkNTM44XSNfTFoCggvakHhT9scaHEx0Lsm/exec">
 
 <label > Prénom :* </label>  
 <input type="text" name="First name" placeholder="Prenom" required/>
@@ -116,13 +116,13 @@ output:
 </datalist>
 
 <label> Voulez-vous participer: </label>
-<select name="Attending" id="Attending meeting" required>
+<select name="Attending" id="Attending" required>
 <option value="En présentielle / In person"> En présentielle à l'UQTR </option>
 <option value="En ligne / On line"> Sur ZOOM/Facebook live </option>
 </select>
 
 <label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
-<select name="Prefered_language" id="Prefered language">
+<select name="Prefered language" id="Prefered language">
 <option value="Anglais / English"> Anglais </option>
 <option value="Francais / French"> Francais </option>
 <option value="Les deux / Both"> Les deux </option>
