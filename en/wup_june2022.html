@@ -425,7 +425,7 @@ The conference
 Inscriptions
 </h2>
 <div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
-<form name="CPICS_wup_registration_june2022" method="POST" data-netlify="true">
+<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbwwPUVcXmwLWu6vjtr5lZUfylM_rcwvy-jkNTM44XSNfTFoCggvakHhT9scaHEx0Lsm/exec">
 <p><label > First Name:* </label><br />
 <input type="text" name="First name" placeholder="First name" required/><br></p>
 <p><label > Last Name:* </label> <input type="text" name="Last name" placeholder="Last name" required/><br></p>
@@ -434,8 +434,8 @@ Inscriptions
 <p><label>Email:* </label> <input type="text" name="Email" placeholder="" required/><br></p>
 <p><input type="hidden" name="Which conference" value="June 2022" /></p>
 <p><label> You are:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>
-<p><label> Will you be attending: </label> <select name="Attending" id="Attending meeting" required> <option value="En présentielle / In person"> In person at the UQTR </option> <option value="En ligne / On line"> On ZOOM/Facebook live </option> </select></p>
-<p><label> For statistical purposes, do you feel prefer meetings in: </label> <select name="Prefered_language" id="Prefered language"> <option value="Anglais / English"> English </option> <option value="Francais / French"> French </option> <option value="Les deux / Both"> Both </option> </select></p>
+<p><label> Will you be attending: </label> <select name="Attending" id="Attending" required> <option value="En présentielle / In person"> In person at the UQTR </option> <option value="En ligne / On line"> On ZOOM/Facebook live </option> </select></p>
+<p><label> For statistical purposes, do you feel prefer meetings in: </label> <select name="Prefered language" id="Prefered language"> <option value="Anglais / English"> English </option> <option value="Francais / French"> French </option> <option value="Les deux / Both"> Both </option> </select></p>
 <p><input type="hidden" name="_gotcha" /> <br></p>
 <p><label class="container">By participating in the meeting, I consent to be recorded during the conference if I appear. <input name="agree_recording" type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
 <center>
