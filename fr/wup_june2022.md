@@ -144,6 +144,7 @@ output:
 
 </div>
 
+<!--
 <div id="section-3" class="section level2">
 <h2>Enquête post-conférence</h2>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -209,7 +210,7 @@ output:
 </form>
 </div>
 </div>
-
+-->
 </div>
 </div>
 </div>

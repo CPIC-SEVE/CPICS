@@ -139,7 +139,7 @@ output:
 </form>
 </div>
 </div>
-
+<!--
 <div id='section-4' class="section level2">
 <h2>Post-conference survey</h2>
 
@@ -211,7 +211,7 @@ action="https://script.google.com/macros/s/AKfycbyVbo8PNqAMs5Kfqf8v5pdz568l3wFgb
 
 </div>
 </div>
-
+-->
 </div>
 
 
