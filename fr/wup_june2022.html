@@ -358,7 +358,7 @@ $(document).ready(function () {
 
 <!-- June 2022-->
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="en-us" href="../en/wup_may2021.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="en-us" href="../en/wup_june2022.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -421,50 +421,29 @@ La conférence
 </div>
 </div>
 </div>
-<div id="section-6" class="section level2">
-<h2>
-Inscriptions
-</h2>
-<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
-<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbxM7w_NrNf9uHn0oqipnLFXygXlK0lwlceStH8RhfbSaNVHYs4InxNeweJiwt17k74C/exec">
-<p><label > Prénom :* </label><br />
-<input type="text" name="First name" placeholder="Prenom" required/> <br></p>
-<p><label > Nom :* </label> <input type="text" name="Last name" placeholder="Nom" required/><br></p>
-<p><label > Affiliation:* </label><br />
-<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
-<p><label>Email:* </label> <input type="text" name="Email" placeholder="" required/><br></p>
-<p><input type="hidden" name="Which conference" value="June 2022" /></p>
-<p><label> Vous êtes:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>
-<p><label> Voulez-vous participer: </label> <select name="Attending" id="Attending" required> <option value="En présentielle / In person" disabled> En présentielle à l’UQTR </option> <option value="En ligne / On line"> Sur ZOOM/Facebook live </option> </select></p>
-<p><label> Pour des raisons statistiques, preferez-vous des webinars en: </label> <select name="Prefered language" id="Prefered language"> <option value="Anglais / English"> Anglais </option> <option value="Francais / French"> Francais </option> <option value="Les deux / Both"> Les deux </option> </select></p>
-<p><input type="hidden" name="_gotcha" /> <br></p>
-<p><label class="container">En participant à la conférence, je consens à être enregistré durant la conférence lorsque j’apparais. <input name="agree_recording" type="checkbox" checked="checked" required> <span class="checkmark"></span> </label> <br></p>
-<center>
-<input type="submit" value="Soumettre"/>
-</center>
-</form>
-</div>
-</div>
 <!--
-<div id="section-3" class="section level2">
-<h2>Enquête post-conférence</h2>
+<div id="section-6" class="section level2">
+<h2>Inscriptions</h2>
+
+
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
+<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbxM7w_NrNf9uHn0oqipnLFXygXlK0lwlceStH8RhfbSaNVHYs4InxNeweJiwt17k74C/exec">
 
-<form  name="post_conference_survey" id="post_conference_survey" method="POST" action="https://script.google.com/macros/s/AKfycbwBAmKZA3Nxv08pn7Fn4JKZ_tc0_B-OzyJrNv93dZ1E_FxR3SuG7u_Qau164IY9GBk/exec">
-
-<fieldset>
-<legend> Qui êtes vous? </legend>
-<label>Nom:* </label>
-<input type="text" name="Name" placeholder="Prenom Nom" required/><br>
+<label > Prénom :* </label>  
+<input type="text" name="First name" placeholder="Prenom" required/>
+     <br>
+     
+<label > Nom :* </label> 
+<input type="text" name="Last name" placeholder="Nom" required/><br>
     
-<label > Affiliation:* </label> 
+<label > Affiliation:* </label>  
 <input type="text" name="Affiliation" placeholder="Université/Institution" required/><br>
 
-<label>Email:* </label>
-<input type="text" name="Email" id="Email" required/><br>
+<label>Email:* </label> 
+<input type="text" name="Email" placeholder="" required/><br>
 
-<input type="hidden" name="Which conference" id="Which conference" value="June 2022" />
+<input type="hidden" name="Which conference" value="June 2022" />
 
 <label> Vous êtes:* </label>
 <input list="Occupations" name="Occupation" id="Occupation">
@@ -477,41 +456,61 @@ Inscriptions
 <option value="Chercheur&middot;se / Researcher" />
 </datalist>
 
+<label> Voulez-vous participer: </label>
+<select name="Attending" id="Attending" required>
+<option value="En présentielle / In person" disabled> En présentielle à l'UQTR </option>
+<option value="En ligne / On line"> Sur ZOOM/Facebook live </option>
+</select>
 
-</fieldset>
- 
+<label> Pour des raisons statistiques, preferez-vous des webinars en: </label>
+<select name="Prefered language" id="Prefered language">
+<option value="Anglais / English"> Anglais </option>
+<option value="Francais / French"> Francais </option>
+<option value="Les deux / Both"> Les deux </option>
+</select>
+
 <input type="hidden" name="_gotcha" />
+ <br>
 
-<fieldset>
-<legend> Sur la Conférence </legend>
-<label> Vous avez vu la conférence via:* </label>
-<select name="Platform" id="Platform" required>
-<option value="In person"> En personne</option>
-<option value="Facebook Live"> Facebook Live </option>
-<option value="Zoom"> Zoom </option>
-<option value="Enregistrement / Recording"> Enregistrement </option>
-</select> <br>
-
-<label> Avez-vous aimé le format?* </label>
-<select name="Like Format" id="Like Format" required>
-<option value="Yes / Oui" >Oui</option>
-<option value="Non / No" >Non</option>
-<option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option>
-</select> <br>
-
-<label > Suggestions: </label>
-<input type="text" name="Suggestions" id="Suggestions"/><br>
-
-<label >Quel sujet aimeriez-vous voir discuté?</label>
-<input type="text" name="New Subjects" id="New Subjects"/><br>
+<label class="container">En participant à la conférence, je consens à être enregistré durant la conférence lorsque j'apparais.
+  <input name="agree_recording" type="checkbox" checked="checked" required>
+  <span class="checkmark"></span>
+</label>
+ <br>
 
 <center><input type="submit" value="Soumettre"/></center>
-</fieldset>
 
 </form>
 </div>
+
 </div>
 -->
+<div id="section-3" class="section level2">
+<h2>
+Enquête post-conférence
+</h2>
+<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<form name="post_conference_survey" id="post_conference_survey" method="POST" action="https://script.google.com/macros/s/AKfycbwBAmKZA3Nxv08pn7Fn4JKZ_tc0_B-OzyJrNv93dZ1E_FxR3SuG7u_Qau164IY9GBk/exec">
+<fieldset>
+<p><legend> Qui êtes vous? </legend> <label>Nom:* </label> <input type="text" name="Name" placeholder="Prenom Nom" required/><br></p>
+<p><label > Affiliation:* </label> <input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
+<p><label>Email:* </label> <input type="text" name="Email" id="Email" required/><br></p>
+<p><input type="hidden" name="Which conference" id="Which conference" value="June 2022" /></p>
+<p><label> Vous êtes:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>
+</fieldset>
+<p><input type="hidden" name="_gotcha" /></p>
+<fieldset>
+<p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label> <select name="Platform" id="Platform" required> <option value="In person"> En personne</option> <option value="Facebook Live"> Facebook Live </option> <option value="Zoom"> Zoom </option> <option value="Enregistrement / Recording"> Enregistrement </option> </select> <br></p>
+<p><label> Avez-vous aimé le format?* </label> <select name="Like Format" id="Like Format" required> <option value="Yes / Oui" >Oui</option> <option value="Non / No" >Non</option> <option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option> </select> <br></p>
+<p><label > Suggestions: </label> <input type="text" name="Suggestions" id="Suggestions"/><br></p>
+<p><label >Quel sujet aimeriez-vous voir discuté?</label> <input type="text" name="New Subjects" id="New Subjects"/><br></p>
+<center>
+<input type="submit" value="Soumettre"/>
+</center>
+</fieldset>
+</form>
+</div>
+</div>
 </div>
 </div>
 </div>

@@ -14,7 +14,7 @@ output:
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="alternate" hreflang="en-us" href="../en/wup_may2021.html">
+<link rel="alternate" hreflang="en-us" href="../en/wup_june2022.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -81,6 +81,7 @@ output:
 </div>
 </div>
 
+<!--
 <div id="section-6" class="section level2">
 <h2>Inscriptions</h2>
 
@@ -143,8 +144,9 @@ output:
 </div>
 
 </div>
+-->
 
-<!--
+
 <div id="section-3" class="section level2">
 <h2>Enquête post-conférence</h2>
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
@@ -210,7 +212,7 @@ output:
 </form>
 </div>
 </div>
--->
+
 </div>
 </div>
 </div>
