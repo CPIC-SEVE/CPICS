@@ -114,7 +114,7 @@ output:
  
 <label> Will you be attending: </label>
 <select name="Attending" id="Attending" required>
-<option value="En présentielle / In person"> In person at the UQTR </option>
+<option value="En présentielle / In person" disabled> In person at the UQTR </option>
 <option value="En ligne / On line"> On ZOOM/Facebook live </option>
 </select>
 
