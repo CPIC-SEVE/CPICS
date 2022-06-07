@@ -87,7 +87,7 @@ output:
 
 <div rows=2 class="row" style="width: 100%; padding-left: 10%; padding-right: 10%">
 
-<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbwwPUVcXmwLWu6vjtr5lZUfylM_rcwvy-jkNTM44XSNfTFoCggvakHhT9scaHEx0Lsm/exec">
+<form name="CPICS_wup_registration_june2022" method="POST" action="https://script.google.com/macros/s/AKfycbxM7w_NrNf9uHn0oqipnLFXygXlK0lwlceStH8RhfbSaNVHYs4InxNeweJiwt17k74C/exec">
 
 <label > Prénom :* </label>  
 <input type="text" name="First name" placeholder="Prenom" required/>
