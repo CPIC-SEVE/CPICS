@@ -66,10 +66,11 @@ output:
 
 
 <div class="col-md-12" style="text-align: center">
-<!--
 <figure class="video_container">
+<iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F547263030398633%2F&width=816&show_text=false&height=480&appId" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
---><br><br>
+
+<br><br>
 <center><span style="font-size: 1.75em">**Our sponsors:**</span></center>
 <div style="background-color: white">
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve_white.webp" alt="Centre SEVE logo" width="50%"></a><a href="https://www.usherbrooke.ca/etudiants/vie-etudiante/financement-pour-les-activites-etudiantes/fonds-appui-a-engagement-etudiant"><img src="images/whats up 2022/faee.webp" alt="Fonds d'appui à l'engagement étudiant (FAEE) de l'Université d Sherbrooke" width="50%"></a>

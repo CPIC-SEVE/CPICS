@@ -20,7 +20,6 @@ output:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
-<link rel="stylesheet" href="slideshow.css">
 <link rel="stylesheet" href="form.css">
 <link rel="stylesheet" href="wupc_style.css">
 </head>
@@ -66,10 +65,12 @@ output:
 </div>
 
 <div class="col-md-12" style="text-align: center">
-<!-- blank line 
+
 <figure class="video_container">
+<iframe width="816" height="480" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCPICS.SEVE%2Fvideos%2F547263030398633%2F&width=816&show_text=false&height=480&appId" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block;margin-left: auto;  margin-right: auto;"></iframe>
 </figure>
-<!-- blank line -->
+
+
 <br><br>
 <center><span style="font-size: 1.75em">**Nos partenaires:**</span></center>
 <div style="background-color: white">
