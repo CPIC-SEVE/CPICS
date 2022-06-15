@@ -33,24 +33,19 @@ output:
 
 <div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
 <img src="./images/comite photos/Cpicsmap.webp" alt="Map with the nationality of all current and past members of the CSIPC">
-<br>
 
-<!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
 <img src="./images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
-<div class="resize1">
-<div style="font-size: 1.5em; font-weight: bold"><center>Science has no beauty, no quality, no value, unless shared. </center>
-</div><br>
-<div style="font-size: 1em;"><center>Welcome to our webpage, don't hesitate to contact us.</center></div>
-
-<div style="font-size: 0.75em"><center>Claire Letanneur - CPICS President (2020)</center></div>
-
-</div>
+<section class="resize1" style="margin: auto;"> 
+<p style="font-size: 1.5em; font-weight: bold; text-align: center">Science has no beauty, no quality, no value, unless shared. </p>
+<p style="font-size: 0.75em; text-align: center">Claire Letanneur - CPICS President (2020)</p>
+</section>
 
 </div>    
     
-<div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
+<div class="col-md-12" style="padding: 2em 0em;">&nbsp;</div> 
 <div class="col-md-12" >
-<a href="./wup_june2022.html"><img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_en.webp" alt="Banner for What's up? Conferences" class="center"></a>
+<a href="./wup_june2022.html"><img style="border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2022/speakers.jpg" alt="Conference June 2022 - speakers">
+<a href="./wup_june2022.html"><img style="display: block; position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_en.webp" alt="Banner for What's up? Conferences" class="center"></a>
 </div> 
   
   </div>    

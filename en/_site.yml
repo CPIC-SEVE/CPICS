@@ -8,10 +8,10 @@ navbar:
       href: about_us.html
     - text: "What's up? Conferences"
       menu:
-       - text: "What's up Conferences - 4th edition"
-         href: wup_june2022.html
        - text: "Past"
          menu: 
+          - text: "What's up Conferences - 4th edition"
+            href: wup_june2022.html
           - text: "What's up Conferences - 3rd edition"
             href: wup_may2021.html
           - text: "What's up Conferences - 2nd edition"

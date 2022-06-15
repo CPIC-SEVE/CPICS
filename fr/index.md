@@ -42,19 +42,19 @@ output:
 <!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
 <img src="./images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
 <div class="resize1">
-<div style="font-size: 1.5em; font-weight: bold"><center>La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</div></center>
-<br>
-<div style="font-size: 1em;"><center>Bienvenue sur notre page, n'hésitez pas à nous contacter!</center></div>
+<section>
+<p style="text-align: center; font-size: 1.5em; font-weight: bold">La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</p>
 
-<div style="font-size: 0.75em"><center>Claire Letanneur - Présidente du CPICS (2020)</center></div>
+<p style="text-align: center;font-size: 0.75em">Claire Letanneur - Présidente du CPICS (2020)</p>
 
+</section>
 </div>
-
 </div>    
     
-<div class="col-md-12" style="padding: 2em 0em 2em 0em;">&nbsp;</div> 
+<div class="col-md-12" style="padding: 2em 0em">&nbsp;</div> 
 <div class="col-md-12" >
-<a href="./wup_june2022.html"><img style="display: block;position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_en.webp" alt="Banner for What's up? Conferences" class="center"></a>
+<a href="./wup_june2022.html"><img style="border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2022/speakers.jpg" alt="Conference June 2022 - speakers">
+<a href="./wup_june2022.html"><img style="display: block; position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./images/whats up 2020/whatsup_conferences_fr.webp" alt="Banner for What's up? Conferences" class="center"></a>
 </div>   
   </div>    
   </div>    
