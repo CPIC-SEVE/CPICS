@@ -3,10 +3,7 @@ title: '<span style="display:none">Comité</span>'
 author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
 name: "Comité"
 lang: "fr-fr"
-output: 
-  html_document:
-    include:
-      before_body: header.html
+output: html_document
 ---
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -30,7 +27,7 @@ output:
 <div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
 <br><br>
 <br><br>
-<div class="col-lg-3" style="float:right">
+<div class="col-md-3" style="float:right">
 
 <div class="row" style="margin: 1%">
 
@@ -404,7 +401,7 @@ Iel sera en charge de la gestion du budget alloué au CPICS et de présenter un 
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-<!--[Théo Devèze]:-->
+[Théo Devèze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 
