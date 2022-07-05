@@ -415,7 +415,7 @@ They will be in charge of managing the budget allocated to CSIPC and of presenti
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-<!--[Theo Deveze]:-->
+[Theo Deveze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
 
