@@ -62,7 +62,61 @@ Enregistrez votre adresse e-mail pour recevoir les alertes des événements du C
 https://cpics.netlify.app/en/participate.html
 <br><br>
 
-<article>
+<article id="2022-09-07">
+<strong>2022-09-07</strong>
+
+Félicitations au nouveau Dr. Andrew Diamond, qui a fini son doctorat en biologie cellulaire et moléculaire sous la direction de la Dre. Isabel Desgagné-Penix et Dr. Simon Barbabé à l'UQTR. Et encore félicitation pour avoir son article publié la veille de sa soutenance. Bravo!
+
+Nous vous souhaitons le meilleur pour vos projets futurs !
+
+Publication: [Is there a spice missing in the recipe? The intra-cellular localization of vanillin biosynthesis needs more investigations](https://doi.org/10.1111/plb.13465)
+<br><br>
+</article>
+
+<article id="2022-09-05">
+<strong>2022-09-05</strong>
+
+Félicitations à notre ex-présidente [Claire Letanneur] pour avoir commencé un nouveau stage postdoctorale à [Ulysse Biotech](https://ulysse-biotech.com/).
+
+Nous félicitons aussi [Amal Jaballi](https://www.linkedin.com/in/amal-jaballi-b2992a1b1/) pour avoir fini sa maitrise avec le Dr. [Tagnon Missihoun], et Dr. [Seydou Ka], qui a fait son doctorat avec la Dre. Isabel Desgagné-Penix, pour avoir été promu à analyste et chercheur à [CCrest laboratories](http://ccrestlab.com/).
+
+Nous vous souhaitons le meilleur pour vos projets futurs !
+</article>
+
+<br><br>
+
+
+<article id="2022-08-31">
+<strong>2022-08-31</strong>
+
+Felicitations au groupe de recherche de la Dre. Isabel Desgagné-Penix de l'UQTR, spécialement Marie-Pierre Girard et Vahid Karimzadegan, pour leur publication dans la revue scientifique [Molecules](https://www.mdpi.com/journal/molecules).
+
+Publication: [Chemical Synthesis and Biological Activities of Amaryllidaceae Alkaloid Norbelladine Derivatives and Precursors](https://doi.org/10.3390/molecules27175621)
+</article>
+
+<br><br>
+
+<article id="2022-07-25">
+<strong>2022-07-25</strong>
+
+Felicitations au groupe de recherche de la Dre. Isabel Desgagné-Penix de l'UQTR, Manoj Koirala, Vahid Karimzadegan, Nuwan Sameera Liyanage et Natacha Mérindol, pour leur publication dans la revue scientifique [Biomolecules](https://www.mdpi.com/journal/biomolecules).
+
+Publication: [Biotechnological Approaches to Optimize the Production of Amaryllidaceae Alkaloids](https://doi.org/10.3390/biom12070893)
+<br><br>
+</article>
+
+
+<article id="2022-04-7">
+<strong>2022-04-7</strong>
+
+La collaboration internationale entre le groupe de recherche de la Dre. Isabel Desgagné-Penix (Dre. Natacha Mérindol et Marie-Pierre Girard), le Dr. Lionel Berthoux (UQTR) et le _Dipartimento di Biologie_ de l'<em>Università di Napoli Federico II</em> de l'Italie, a produit une publication montrant les propriétés médicinaux des alkaloïdes de la plante _Pancratium maritimum_. Bravo!
+
+Publication: [Cytotoxicity and Antiviral Properties of Alkaloids Isolated from Pancratium maritimum](https://doi.org/10.3390/toxins14040262)
+<br><br>
+</article>
+
+
+<article id="2022-05-04">
 <strong>2022-05-04</strong>
 
 Félicitations à notre ex-vice président Networking, [Romaric Armel Mouafo Tchinda] pour avoir obtenu un poste de post-doctorat à l'University of Florida au laboratoire de la Dre. [Karen Garrett] (qui était notre invitée dans la [What's up Conference de l'annéee passée](./wup_may2021.html)).
@@ -72,7 +126,7 @@ Nous vous souhaitons le meilleur pour vos projets futurs !
 
 <br><br>
 
-<article>
+<article id="2022-04-26">
 <strong>2022-04-26</strong>
 
 Félicitations au [Groupe de recherche en biologie végétale (GRBV)](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210) pour son 20e anniversaire. Aussi, félicitations aux présentateurs et aux organisateurs du colloque annuel du GRBV. 
@@ -83,7 +137,7 @@ Félicitations au [Groupe de recherche en biologie végétale (GRBV)](https://or
 </article>
 <br><br>
 
-<article>
+<article id="2022-04-12">
 <strong>2022-04-12</strong>
 
 Félicitations au Centre SÈVE membre Dr. [Hugo Germain] et aux membres de son équipe, [Théo Devèze], [Claire Letanneur], [Nikunj Sharma] et [Snehi Gazal] pour la réussite de leur expédition Indienne sur la biodiversité du _Cannabis_ à l’automne 2021! 
@@ -94,7 +148,7 @@ Lisez le récit de leur voyage et des travaux scientifiques réalisés en Inde a
 </article>
 <br><br>
 
-<article>
+<article id="2022-03-10">
 <strong>2022-03-10</strong>
 
 Nouvelle publication du Dr. [Tagnon Missihoun] et son étudiante à la maitrise [Amal Jaballi] de l'UQTR.
@@ -112,7 +166,7 @@ Félicitations !
 </article>
 <br><br>
 
-<article>
+<article id="2022-02-10">
 <strong>2022-02-10</strong>
 
 Nouvelle publication de notre ancienne Vice-Présidente aux Communications, [Marianne Bessette].
@@ -127,7 +181,7 @@ Félicitations !
 <br><br>
 
 
-<article>
+<article id="2022-01-03">
 <strong>2022-01-03</strong>
 
 Nouvelle publication de une des chercheuses du Centre Séve, Dre [Isabel Desgagné-Penix], et ses étudiants et étudiants Laurence Tousignant, [Aracely Maribel Diaz Garza], [Bharat Bhusan Majhi](https://www.researchgate.net/profile/Bharat-Majhi), [Sarah-Eve Gélinas](https://ca.linkedin.com/in/sarah-%C3%A8ve-g%C3%A9linas-695971159), en collaboration avec la chercheuse postdoctorale [Aparna Singh](https://ca.linkedin.com/in/aparna-singh-5049b462), de l'University of New Brunswick.
@@ -208,9 +262,8 @@ source("topFunctionJS.R", local = knitr::knit_global())
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Théo Devèze]: aaa
+[Théo Devèze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
-

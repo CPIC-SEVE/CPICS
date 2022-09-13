@@ -64,14 +64,68 @@ https://cpics.netlify.app/en/participate.html
 <br><br>
 
 
+<article id="2022-09-07">
+<strong>2022-09-07</strong>
+
+Congratulations to Dr. Andrew Diamond, who just finished his PhD in Cellular and Molecular Biology under the direction of Dr. Isabel Desgagné-Penix and Dr. Simon Barbabé at the UQTR. And again congratulations for having his article published the day before his thesis defense. Bravo!
+
+We wish you all the best in your future endeavors!
+
+Publication: [Is there a spice missing in the recipe? The intra-cellular localization of vanillin biosynthesis needs more investigations](https://doi.org/10.1111/plb.13465)
+</article>
+
+<br><br>
+
+<article id="2022-09-05">
+<strong>2022-09-05</strong>
+
+Many congratulations to our ex-President [Claire Letanneur] for starting a postdoctorate position at [Ulysse Biotech](https://ulysse-biotech.com/).
+
+We also congratulate [Amal Jaballi](https://www.linkedin.com/in/amal-jaballi-b2992a1b1/) for finishing her Master's with Dr. [Tagnon Missihoun] and Dr. [Seydou Ka], previous PhD student in the lab of Dr. Isabel Desgagné-Penix, for being promoted to Analyst and Researcher at [CCrest laboratories](http://ccrestlab.com/).
+
+We wish you all the best in your future endeavors!
+</article>
+
+<br><br>
+
+
+<article id="2022-08-31">
+<strong>2022-08-31</strong>
+
+Congratulations Dr. Isabel Desgagné-Penix's research group from the UQTR, specially Marie-Pierre Girard and Vahid Karimzadegan, for the publication in the journal [Molecules](https://www.mdpi.com/journal/molecules).
+
+Publication: [Chemical Synthesis and Biological Activities of Amaryllidaceae Alkaloid Norbelladine Derivatives and Precursors](https://doi.org/10.3390/molecules27175621)
+</article>
+
+<br><br>
+
+<article id="2022-07-25">
+<strong>2022-07-25</strong>
+
+Congratulations Dr. Isabel Desgagné-Penix's research group from the UQTR (Manoj Koirala, Vahid Karimzadegan, Nuwan Sameera Liyanage et Natacha Mérindol) for the publication in the journal [Biomolecules](https://www.mdpi.com/journal/biomolecules).
+
+Publication: [Biotechnological Approaches to Optimize the Production of Amaryllidaceae Alkaloids](https://doi.org/10.3390/biom12070893)
+<br><br>
+</article>
+
+
+<article id="2022-04-7">
+<strong>2022-04-7</strong>
+
+The international collaboration of Dr. Isabel Desgagné-Penix's research group (Dr. Natacha Mérindol et Marie-Pierre Girard), Dr. Lionel Berthoux (UQTR) and the _Dipartimento di Biologie_ of the <em>Università di Napoli Federico II</em>, Italy, resulted in a publication showing the medicinal properties of alkaloids from teh plant _Pancratium maritimum_. Bravo!
+
+Publication: [Cytotoxicity and Antiviral Properties of Alkaloids Isolated from Pancratium maritimum](https://doi.org/10.3390/toxins14040262)
+</article>
+
+<br><br>
 <article id="2022-05-04">
 <strong>2022-05-04</strong>
 
 Many congratulations to our ex-vice president of Networking [Romaric Armel Mouafo Tchinda] for getting a postdoctorate position at the University of Florida in Dr. [Karen Garrett]'s Lab (who was a guest at our [What's up Conference last year](./wup_may2021.html)).
 
 We wish you all the best in your future endeavors!
-<br><br>
 </article> 
+<br><br>
 
 <article id="2022-04-26">
 <strong>2022-04-26</strong>
@@ -208,7 +262,7 @@ source("topFunctionJS.R", local = knitr::knit_global())
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Tagnon Missihoun]: https://www.researchgate.net/profile/Tagnon_M
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Théo Devèze]: aaa
+[Théo Devèze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Valerio Hoyos-Villegas]: https://www.mcgill.ca/plant/faculty/valerio-hoyos-villegas/
 [Vicky Lévesque]: https://www.linkedin.com/in/vickylevesque/
