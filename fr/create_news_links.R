@@ -1,6 +1,7 @@
 cat(paste('<ul>',
       '<li><a class="sidebar_links_list" href="news_2022.html#2022">2022</a></li>',
       '<ul>',
+      '<li><a class="sidebar_links_list" href="news_2022.html#2022-10-06">Concours Forces AVENIR - Claire Letanneur</a></li>',
       '<li><a class="sidebar_links_list" href="news_2022.html#2022-09-07">Publication du nouveau docteur, Andrew Diamond</a></li>',
       '<li><a class="sidebar_links_list" href="news_2022.html#2022-09-05">Des nouveaux débuts pour des étudiants du Centre SÈVE\'s students</a></li>',
       '<li><a class="sidebar_links_list" href="news_2022.html#2022-08-31">Molecules - Dre Isabel Desgagn&eacute;-Penix</a></li>',
