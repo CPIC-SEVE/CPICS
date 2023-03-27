@@ -14,7 +14,7 @@
 
 <title> Whats up? Conferences</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -286,6 +283,9 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="news_2023.html">2023</a>
+    </li>
+    <li>
       <a href="news_2022.html">2022</a>
     </li>
     <li>
@@ -350,20 +350,29 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none"><i> Whats up?</i> Conferences</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span style="display:none"><i> Whats
+up?</i> Conferences</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <!-- June 2022-->
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="en-us" href="../en/wup_june2022.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/wup_june2022.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="form.css"> <link rel="stylesheet" href="wupc_style.css">
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="form.css">
+<link rel="stylesheet" href="wupc_style.css">
 </head>
 <div class="container-fluid">
 <div class="row">
@@ -374,7 +383,8 @@ $(document).ready(function () {
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 <p><img src="images/whats%20up%202022/whatsup_june_conferences_fr_site.webp" alt="What's up conferences 8 Juin à 10 am avec Dr. Shashi Kumar de l'International Centre for Genetic Engineering and Biotechnology à l'India, et la Dre. Isabel Desgagné-Penix, l'Université du Québec à Trois-Rivières" width="100%"></p>
-<div id="section-1" class="section level1 tabset tabset-fade tabset-pills active">
+<div id="section-1"
+class="section level1 tabset tabset-fade tabset-pills active">
 <h1>
 </h1>
 <div id="section-9" class="section level2">
@@ -384,7 +394,13 @@ La conférence
 <div class="row" style="text-align: justify; color: black;">
 <div style="padding-right: 2%; padding-left: 2%">
 <center>
-<strong>Nous sommes heureux de vous inviter à nous rejoindre (<em>finalement</em>) en personne ou via ZOOM pour la quatrième édition des “What’s up? Conferences”!</strong><br><br>Dans cette édition, nous nous concentrerons sur le changement climatique et sur la manière dont la biotechnologie et ses applications peuvent atténuer cette urgence. Nous vous invitons donc à discuter, débattre et partager vos idées et curiosités avec nos conférenciers :
+<strong>Nous sommes heureux de vous inviter à nous rejoindre
+(<em>finalement</em>) en personne ou via ZOOM pour la quatrième édition
+des “What’s up? Conferences”!</strong><br><br>Dans cette édition, nous
+nous concentrerons sur le changement climatique et sur la manière dont
+la biotechnologie et ses applications peuvent atténuer cette urgence.
+Nous vous invitons donc à discuter, débattre et partager vos idées et
+curiosités avec nos conférenciers :
 </center>
 <p><br></p>
 </div>
@@ -393,7 +409,8 @@ La conférence
 <a href="https://www.icgeb.org/shashi-kumar/"><img src="images/whats%20up%202022/Shashi_Kumar.webp" alt="Dr. Shashi Kumar"></a>
 </center>
 <center>
-<strong>Dr. Shashi Kumar</strong><br> International Centre for Genetic Engineering and Biotechnology<br>New Delhi, India
+<strong>Dr. Shashi Kumar</strong><br> International Centre for Genetic
+Engineering and Biotechnology<br>New Delhi, India
 </center>
 <p><br></p>
 </div>
@@ -402,7 +419,8 @@ La conférence
 <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466"><img src="images/whats%20up%202022/Isabel_Desgagne-Penix.webp" alt="Dre Isabel Desgagné-Penix" width="87%"></a>
 </center>
 <center>
-<strong>Dre Isabel Desgagné-Penix</strong><br>Université du Québec à Trois-Rivières
+<strong>Dre Isabel Desgagné-Penix</strong><br>Université du Québec à
+Trois-Rivières
 </center>
 <p><br></p>
 </div>
@@ -489,21 +507,45 @@ La conférence
 <h2>
 Enquête post-conférence
 </h2>
-<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<div class="row" rows="2"
+style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="post_conference_survey" id="post_conference_survey" method="POST" action="https://script.google.com/macros/s/AKfycbyW_cQ5iVBDp-8pBBhjz4cnhpGjtr-WW649-W8zLs3cHxiMZ4GaQN8Q_8G8U41Mge42yg/exec">
 <fieldset>
-<p><legend> Qui êtes vous? </legend> <label>Nom:* </label> <input type="text" name="Name" placeholder="Prenom Nom" required/><br></p>
-<p><label > Affiliation:* </label> <input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
-<p><label>Email:* </label> <input type="text" name="Email" id="Email" required/><br></p>
+<p><legend> Qui êtes vous? </legend> <label>Nom:* </label>
+<input type="text" name="Name" placeholder="Prenom Nom" required/><br></p>
+<p><label > Affiliation:* </label>
+<input type="text" name="Affiliation" placeholder="Université/Institution" required/><br></p>
+<p><label>Email:* </label>
+<input type="text" name="Email" id="Email" required/><br></p>
 <p><input type="hidden" name="Which conference" id="Which conference" value="June 2022" /></p>
-<p><label> Vous êtes:* </label> <input list="Occupations" name="Occupation" id="Occupation"> <datalist id="Occupations"> <option value="Baccalauréat / Bachelor" /> <option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" /> <option value="Postdoc" /> <option value="Technicien&middot;ne / Technician" /> <option value="Chercheur&middot;se / Researcher" /> </datalist></p>
+<p><label> Vous êtes:* </label>
+<input list="Occupations" name="Occupation" id="Occupation">
+<datalist id="Occupations"> <option value="Baccalauréat / Bachelor" />
+<option value="Maîtrise / Master's" /> <option value="Doctorat / PhD" />
+<option value="Postdoc" />
+<option value="Technicien&middot;ne / Technician" />
+<option value="Chercheur&middot;se / Researcher" /> </datalist></p>
 </fieldset>
 <p><input type="hidden" name="_gotcha" /></p>
 <fieldset>
-<p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label> <select name="Platform" id="Platform" required> <option value="In person"> En personne</option> <option value="Facebook Live"> Facebook Live </option> <option value="Zoom"> Zoom </option> <option value="Enregistrement / Recording"> Enregistrement </option> </select> <br></p>
-<p><label> Avez-vous aimé le format?* </label> <select name="Like Format" id="Like Format" required> <option value="Yes / Oui" >Oui</option> <option value="Non / No" >Non</option> <option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option> </select> <br></p>
-<p><label > Suggestions: </label> <input type="text" name="Suggestions" id="Suggestions"/><br></p>
-<p><label >Quel sujet aimeriez-vous voir discuté?</label> <input type="text" name="New Subjects" id="New Subjects"/><br></p>
+<p><legend> Sur la Conférence </legend> <label> Vous avez vu la
+conférence via:* </label>
+<select name="Platform" id="Platform" required>
+<option value="In person"> En personne</option>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
+</select> <br></p>
+<p><label> Avez-vous aimé le format?* </label>
+<select name="Like Format" id="Like Format" required>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être
+amélioré</option> </select> <br></p>
+<p><label > Suggestions: </label>
+<input type="text" name="Suggestions" id="Suggestions"/><br></p>
+<p><label >Quel sujet aimeriez-vous voir discuté?</label>
+<input type="text" name="New Subjects" id="New Subjects"/><br></p>
 <center>
 <input type="submit" value="Soumettre"/>
 </center>
@@ -518,13 +560,20 @@ Enquête post-conférence
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>

@@ -14,7 +14,7 @@
 
 <title>News 2022</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -286,6 +283,9 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="news_2023.html">2023</a>
+    </li>
+    <li>
       <a href="news_2022.html">2022</a>
     </li>
     <li>
@@ -350,22 +350,30 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">News 2022</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span style="display:none">News
+2022</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <head>
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="fr-fr" href="../fr/news_2022.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news_2022.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- scripts -->
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <!-- stylesheets -->
-<link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="news_style.css">
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="news_style.css">
 </head>
 <main class="container-fluid">
 <div class="row">
@@ -376,153 +384,211 @@ $(document).ready(function () {
 <p><br><br><br></p>
 <section class="col-md-9" style="padding-right:2%">
 <div class="row text">
+
 <section class="col-md-3 news_links" id="news_links">
 <div class="row">
+
+
+<details>
+<summary>
+<a class="sidebar_links_list" href="news_2022.html#2023">2023</a>
+</summary>
 <ul>
 <li>
+<a class="sidebar_links_list" href="news_2023.html#2023-02-23">New CPICS
+members</a>
+</li>
+</ul>
+</details>
+<details>
+<summary>
 <a class="sidebar_links_list" href="news_2022.html#2022">2022</a>
-</li>
+</summary>
 <ul>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-11-17">Journées du Centre SÈVE 2022</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-11-17">Journées
+du Centre SÈVE 2022</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-10-06">Forces AVENIR - Claire Letanneur</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-10-06">Forces
+AVENIR - Claire Letanneur</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-09-07">Publication of the new PhD, Andrew Diamond</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-09-07">Publication
+of the new PhD, Andrew Diamond</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-09-05">Centre SÈVE’s students’ new beginnings</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-09-05">Centre
+SÈVE’s students’ new beginnings</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-08-31">Publication Molecules - Isabel Desgagné-Penix</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-08-31">Publication
+Molecules - Isabel Desgagné-Penix</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-07-25">Publication Biomolecules - Isabel Desgagné-Penix</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-07-25">Publication
+Biomolecules - Isabel Desgagné-Penix</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-04-07">Collaboration Italy and Isabel Desgagné-Penix’s lab</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-04-07">Collaboration
+Italy and Isabel Desgagné-Penix’s lab</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-05-04">Romaric Mouafo new postdoc</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-05-04">Romaric
+Mouafo new postdoc</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-04-26">20 years of GRBV</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-04-26">20 years
+of GRBV</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-04-12">Germain’s group in India</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-04-12">Germain’s
+group in India</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-03-10">Amal Jaballi’s and Charles Roussin-Léveillée’s publications</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-03-10">Amal
+Jaballi’s and Charles Roussin-Léveillée’s publications</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-02-10">Marianne Bessette’s publications</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-02-10">Marianne
+Bessette’s publications</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2022.html#2022-01-03">Isabel Desgagné-Penix’s publications</a>
+<a class="sidebar_links_list" href="news_2022.html#2022-01-03">Isabel
+Desgagné-Penix’s publications</a>
 </li>
-</ul>
-<li>
+</details>
+<details>
+<summary>
 <a class="sidebar_links_list" href="news_2021.html#2021">2021</a>
-</li>
+</summary>
 <ul>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-12-03">Julie Yergeau’s award</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-12-03">Julie
+Yergeau’s award</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-11-24">Finished PhD - Romaric Moaufo</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-11-24">Finished
+PhD - Romaric Moaufo</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-09-02">Isabel Desgagné-Penix’s publication</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-09-02">Isabel
+Desgagné-Penix’s publication</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-08-30">Karen Goncalves’s interview</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-08-30">Karen
+Goncalves’s interview</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-05-05">Karen Goncalves’s publication</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-05-05">Karen
+Goncalves’s publication</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-04-06">Publications from Centre SÈVE professors</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-04-06">Publications
+from Centre SÈVE professors</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-01-29">CPICS new members</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-01-29">CPICS new
+members</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2021.html#2021-01-27">Michelle Boivin’s project</a>
+<a class="sidebar_links_list" href="news_2021.html#2021-01-27">Michelle
+Boivin’s project</a>
 </li>
-</ul>
-<li>
+</details>
+<details>
+<summary>
 <a class="sidebar_links_list" href="news_2020.html#2020">2020</a>
-</li>
+</summary>
 <ul>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-11-06">Maribel Diaz’s publication</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-11-06">Maribel
+Diaz’s publication</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-11-10">Synbio Canada Webinar</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-11-10">Synbio
+Canada Webinar</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-11-06">Karen Goncalves’s pre-print</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-11-06">Karen
+Goncalves’s pre-print</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-11-05">Fadoua Dhaouadi’s publication</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-11-05">Fadoua
+Dhaouadi’s publication</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-10-27">Romaric Maouafo’s MT180 finals</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-10-27">Romaric
+Maouafo’s MT180 finals</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-10-24">Hugo Germain’s and Isabel Desgagné-Penix’s labs award</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-10-24">Hugo
+Germain’s and Isabel Desgagné-Penix’s labs award</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-10-02">Centre SÈVE poster 2020 competition</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-10-02">Centre
+SÈVE poster 2020 competition</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-09-22">Web Conference Centre SÈVE - Léveillée</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-09-22">Web
+Conference Centre SÈVE - Léveillée</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-08-17">Isabelle Laforest-Lapoint’s research</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-08-17">Isabelle
+Laforest-Lapoint’s research</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-08-14">Leena Tripathi’s research</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-08-14">Leena
+Tripathi’s research</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-08-10">Web Conferences Centre SÈVE</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-08-10">Web
+Conferences Centre SÈVE</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-07-29">Worldwide Plant Biology Summit</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-07-29">Worldwide
+Plant Biology Summit</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-07-07">Web Conference Centre SÈVE - Fatima Awwad</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-07-07">Web
+Conference Centre SÈVE - Fatima Awwad</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-06-16">Web Conference Centre SÈVE - Karen Goncalves</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-06-16">Web
+Conference Centre SÈVE - Karen Goncalves</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-05-09">New secretaries of the CPICS</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-05-09">New
+secretaries of the CPICS</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2020.html#2020-03-02">FRQNT funding for Claire Letaneur</a>
+<a class="sidebar_links_list" href="news_2020.html#2020-03-02">FRQNT
+funding for Claire Letaneur</a>
 </li>
-</ul>
-<li>
+</details>
+<details>
+<summary>
 <a class="sidebar_links_list" href="news_2019.html#2019">2019</a>
-</li>
+</summary>
 <ul>
 <li>
-<a class="sidebar_links_list" href="news_2019.html#2019-09-30">Rose-Marie Bell’s post</a>
+<a class="sidebar_links_list" href="news_2019.html#2019-09-30">Rose-Marie
+Bell’s post</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2019.html#2019-08-29">Memories of the CPICS Symposium</a>
+<a class="sidebar_links_list" href="news_2019.html#2019-08-29">Memories
+of the CPICS Symposium</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2019.html#2019-06-11">Registrations for the CPICS Symposium</a>
+<a class="sidebar_links_list" href="news_2019.html#2019-06-11">Registrations
+for the CPICS Symposium</a>
 </li>
 <li>
-<a class="sidebar_links_list" href="news_2019.html#2019-03-14">Introduction of the CPICS</a>
+<a class="sidebar_links_list" href="news_2019.html#2019-03-14">Introduction
+of the CPICS</a>
 </li>
 </ul>
-</ul>
+</details>
 </div>
 <!-- row under sidebar with news links -->
 </section>
@@ -531,63 +597,139 @@ $(document).ready(function () {
 <p>Are you a Centre SEVE member?</p>
 <p>Don’t know yet, check out the link below to find out.</p>
 <p>Also, get your email registered to get the CPICS meetings alerts.</p>
-<p><a href="https://cpics.netlify.app/en/participate.html" class="uri">https://cpics.netlify.app/en/participate.html</a> <br><br></p>
+<p><a href="https://cpics.netlify.app/en/participate.html"
+class="uri">https://cpics.netlify.app/en/participate.html</a>
+<br><br></p>
 <article id="2022-11-17">
 <p><strong>2022-11-17</strong></p>
-<p>The Journées du Centre SÈVE 2022 were the proof of Centre SÈVE’s interest in promoting the cooperation and partnership with international researchers. During the <em>Réunion Conjointe Centre SÈVE-<a href="https://fed4277.wixsite.com/sfrnormandievegetal">SFR NorVége</a></em> (France), professors from Quebec (Université de Sherbrooke, Agriculture and Agrifood Canada, Université du Québec à Trois-Rivières, Université Laval and McGill University) presented their work beside researchers from France universities (UniLaSalle-Rouen, Université de Caen Normandie and Université de Rouen Normandie). Also, the networking hour brought to the students the possibility to participate at the Summer Schools in Morocco (2023) and Cameroun (2024).</p>
-<p>At the <em>Student Symposium</em>, 24 students presented their master’s and doctorate projects in the sessions: (A) Microbial interactions and resistance, (B) Plant sciences, (C) Agriculture productions and environment. Congratulations to winners of best presentation!</p>
-<p><strong><em>Session A: Microbial interactions and resistance</em></strong><br> <strong>First place</strong>: Maude Pomerleau (Université de Sherbrooke)<br> <strong>Second place</strong>: Rosaelle Perreault (Université de Sherbrooke)</p>
-<p><strong><em>Session B: Plant sciences</em></strong><br> <strong>First place</strong>: Souleimen Jmii (Université du Québec à Montréal)<br> <strong>Second place</strong>: <a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice Sanchez Carrillo</a> (Université du Québec à Trois-Rivières)</p>
-<p><strong><em>Session C: Agriculture productions and environment</em></strong><br> <strong>First place</strong>: Jessica Nicksy (McGill University)<br> <strong>Second place</strong>: Felix L’Heureux Bilodeau (Université Laval)</p>
-<p>See the photos taken during this incredible scientific meeting at <a href="https://www.facebook.com/centreseve">Centre SÈVE’s social media</a>.</p>
+<p>The Journées du Centre SÈVE 2022 were the proof of Centre SÈVE’s
+interest in promoting the cooperation and partnership with international
+researchers. During the <em>Réunion Conjointe Centre SÈVE-<a
+href="https://fed4277.wixsite.com/sfrnormandievegetal">SFR
+NorVége</a></em> (France), professors from Quebec (Université de
+Sherbrooke, Agriculture and Agrifood Canada, Université du Québec à
+Trois-Rivières, Université Laval and McGill University) presented their
+work beside researchers from France universities (UniLaSalle-Rouen,
+Université de Caen Normandie and Université de Rouen Normandie). Also,
+the networking hour brought to the students the possibility to
+participate at the Summer Schools in Morocco (2023) and Cameroun
+(2024).</p>
+<p>At the <em>Student Symposium</em>, 24 students presented their
+master’s and doctorate projects in the sessions: (A) Microbial
+interactions and resistance, (B) Plant sciences, (C) Agriculture
+productions and environment. Congratulations to winners of best
+presentation!</p>
+<p><strong><em>Session A: Microbial interactions and
+resistance</em></strong><br> <strong>First place</strong>: Maude
+Pomerleau (Université de Sherbrooke)<br> <strong>Second place</strong>:
+Rosaelle Perreault (Université de Sherbrooke)</p>
+<p><strong><em>Session B: Plant sciences</em></strong><br> <strong>First
+place</strong>: Souleimen Jmii (Université du Québec à Montréal)<br>
+<strong>Second place</strong>: <a
+href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a> (Université du Québec à Trois-Rivières)</p>
+<p><strong><em>Session C: Agriculture productions and
+environment</em></strong><br> <strong>First place</strong>: Jessica
+Nicksy (McGill University)<br> <strong>Second place</strong>: Felix
+L’Heureux Bilodeau (Université Laval)</p>
+<p>See the photos taken during this incredible scientific meeting at <a
+href="https://www.facebook.com/centreseve">Centre SÈVE’s social
+media</a>.</p>
 <br><br>
 </article>
 <article id="2022-10-06">
 <p><strong>2022-10-06</strong></p>
-<p>Congratulations to our Ex-President, Dr Claire Letanneur, for getting selected in the top three personalities of the Forces AVENIR competition.</p>
-<p><a href="https://www.facebook.com/watch/?v=3157978257786889">Click here to watch her interview</a></p>
+<p>Congratulations to our Ex-President, Dr Claire Letanneur, for getting
+selected in the top three personalities of the Forces AVENIR
+competition.</p>
+<p><a href="https://www.facebook.com/watch/?v=3157978257786889">Click
+here to watch her interview</a></p>
 <br><br>
 </article>
 <article id="2022-09-07">
 <p><strong>2022-09-07</strong></p>
-<p>Congratulations to Dr. Andrew Diamond, who just finished his PhD in Cellular and Molecular Biology under the direction of Dr. Isabel Desgagné-Penix and Dr. Simon Barbabé at the UQTR. And again congratulations for having his article published the day before his thesis defense. Bravo!</p>
+<p>Congratulations to Dr. Andrew Diamond, who just finished his PhD in
+Cellular and Molecular Biology under the direction of Dr. Isabel
+Desgagné-Penix and Dr. Simon Barbabé at the UQTR. And again
+congratulations for having his article published the day before his
+thesis defense. Bravo!</p>
 <p>We wish you all the best in your future endeavors!</p>
-Publication: <a href="https://doi.org/10.1111/plb.13465">Is there a spice missing in the recipe? The intra-cellular localization of vanillin biosynthesis needs more investigations</a>
+Publication: <a href="https://doi.org/10.1111/plb.13465">Is there a
+spice missing in the recipe? The intra-cellular localization of vanillin
+biosynthesis needs more investigations</a>
 </article>
 <p><br><br></p>
 <article id="2022-09-05">
 <p><strong>2022-09-05</strong></p>
-<p>Many congratulations to our ex-President <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a> for starting a postdoctorate position at <a href="https://ulysse-biotech.com/">Ulysse Biotech</a>.</p>
-<p>We also congratulate <a href="https://www.linkedin.com/in/amal-jaballi-b2992a1b1/">Amal Jaballi</a> for finishing her Master’s with Dr. <a href="https://www.researchgate.net/profile/Tagnon_M">Tagnon Missihoun</a> and Dr. <a href="https://www.linkedin.com/in/seydou-ka-9a41a4167/">Seydou Ka</a>, previous PhD student in the lab of Dr. Isabel Desgagné-Penix, for being promoted to Analyst and Researcher at <a href="http://ccrestlab.com/">CCrest laboratories</a>.</p>
+<p>Many congratulations to our ex-President <a
+href="https://www.researchgate.net/profile/Claire_Letanneur">Claire
+Letanneur</a> for starting a postdoctorate position at <a
+href="https://ulysse-biotech.com/">Ulysse Biotech</a>.</p>
+<p>We also congratulate <a
+href="https://www.linkedin.com/in/amal-jaballi-b2992a1b1/">Amal
+Jaballi</a> for finishing her Master’s with Dr. <a
+href="https://www.researchgate.net/profile/Tagnon_M">Tagnon
+Missihoun</a> and Dr. <a
+href="https://www.linkedin.com/in/seydou-ka-9a41a4167/">Seydou Ka</a>,
+previous PhD student in the lab of Dr. Isabel Desgagné-Penix, for being
+promoted to Analyst and Researcher at <a
+href="http://ccrestlab.com/">CCrest laboratories</a>.</p>
 We wish you all the best in your future endeavors!
 </article>
 <p><br><br></p>
 <article id="2022-08-31">
 <p><strong>2022-08-31</strong></p>
-<p>Congratulations Dr. Isabel Desgagné-Penix’s research group from the UQTR, specially Marie-Pierre Girard and Vahid Karimzadegan, for the publication in the journal <a href="https://www.mdpi.com/journal/molecules">Molecules</a>.</p>
-Publication: <a href="https://doi.org/10.3390/molecules27175621">Chemical Synthesis and Biological Activities of Amaryllidaceae Alkaloid Norbelladine Derivatives and Precursors</a>
+<p>Congratulations Dr. Isabel Desgagné-Penix’s research group from the
+UQTR, specially Marie-Pierre Girard and Vahid Karimzadegan, for the
+publication in the journal <a
+href="https://www.mdpi.com/journal/molecules">Molecules</a>.</p>
+Publication: <a
+href="https://doi.org/10.3390/molecules27175621">Chemical Synthesis and
+Biological Activities of Amaryllidaceae Alkaloid Norbelladine
+Derivatives and Precursors</a>
 </article>
 <p><br><br></p>
 <article id="2022-07-25">
 <p><strong>2022-07-25</strong></p>
-<p>Congratulations Dr. Isabel Desgagné-Penix’s research group from the UQTR (Manoj Koirala, Vahid Karimzadegan, Nuwan Sameera Liyanage et Natacha Mérindol) for the publication in the journal <a href="https://www.mdpi.com/journal/biomolecules">Biomolecules</a>.</p>
-Publication: <a href="https://doi.org/10.3390/biom12070893">Biotechnological Approaches to Optimize the Production of Amaryllidaceae Alkaloids</a> <br><br>
+<p>Congratulations Dr. Isabel Desgagné-Penix’s research group from the
+UQTR (Manoj Koirala, Vahid Karimzadegan, Nuwan Sameera Liyanage et
+Natacha Mérindol) for the publication in the journal <a
+href="https://www.mdpi.com/journal/biomolecules">Biomolecules</a>.</p>
+Publication: <a
+href="https://doi.org/10.3390/biom12070893">Biotechnological Approaches
+to Optimize the Production of Amaryllidaceae Alkaloids</a> <br><br>
 </article>
 <article id="2022-04-7">
 <p><strong>2022-04-7</strong></p>
-<p>The international collaboration of Dr. Isabel Desgagné-Penix’s research group (Dr. Natacha Mérindol et Marie-Pierre Girard), Dr. Lionel Berthoux (UQTR) and the <em>Dipartimento di Biologie</em> of the <em>Università di Napoli Federico II</em>, Italy, resulted in a publication showing the medicinal properties of alkaloids from teh plant <em>Pancratium maritimum</em>. Bravo!</p>
-Publication: <a href="https://doi.org/10.3390/toxins14040262">Cytotoxicity and Antiviral Properties of Alkaloids Isolated from Pancratium maritimum</a>
+<p>The international collaboration of Dr. Isabel Desgagné-Penix’s
+research group (Dr. Natacha Mérindol et Marie-Pierre Girard), Dr. Lionel
+Berthoux (UQTR) and the <em>Dipartimento di Biologie</em> of the
+<em>Università di Napoli Federico II</em>, Italy, resulted in a
+publication showing the medicinal properties of alkaloids from teh plant
+<em>Pancratium maritimum</em>. Bravo!</p>
+Publication: <a
+href="https://doi.org/10.3390/toxins14040262">Cytotoxicity and Antiviral
+Properties of Alkaloids Isolated from Pancratium maritimum</a>
 </article>
 <br><br>
 <article id="2022-05-04">
 <p><strong>2022-05-04</strong></p>
-<p>Many congratulations to our ex-vice president of Networking <a href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric Armel Mouafo Tchinda</a> for getting a postdoctorate position at the University of Florida in Dr. <a href="https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/">Karen Garrett</a>’s Lab (who was a guest at our <a href="./wup_may2021.html">What’s up Conference last year</a>).</p>
+<p>Many congratulations to our ex-vice president of Networking <a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a> for getting a postdoctorate position at the
+University of Florida in Dr. <a
+href="https://plantpath.ifas.ufl.edu/people/faculty-pages/karen-garrett/">Karen
+Garrett</a>’s Lab (who was a guest at our <a
+href="./wup_may2021.html">What’s up Conference last year</a>).</p>
 We wish you all the best in your future endeavors!
 </article>
 <p><br><br></p>
 <article id="2022-04-26">
 <p><strong>2022-04-26</strong></p>
-<p>Congratulations to the <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210">Plant Biology Research Group (GRBV)</a> on its 20th anniversary. Also, kudos to the presenters and the organizers of the GRBV annual symposium.</p>
+<p>Congratulations to the <a
+href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4210">Plant
+Biology Research Group (GRBV)</a> on its 20th anniversary. Also, kudos
+to the presenters and the organizers of the GRBV annual symposium.</p>
 <center>
 <img src="images/news/colloque_GRBV_2022.webp" width=100%>
 </center>
@@ -595,29 +737,73 @@ We wish you all the best in your future endeavors!
 </article>
 <article id="2022-04-12">
 <p><strong>2022-04-12</strong></p>
-<p>Congratulations to our Centre SÈVE member Dr. <a href="https://www.researchgate.net/profile/Hugo_Germain">Hugo Germain</a> and his team members <a href="https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/">Théo Devèze</a>, <a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire Letanneur</a>, <a href="https://in.linkedin.com/in/nikunj-sharma-5a863490">Nikunj Sharma</a> and <a href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi Gazal</a> for having a successful Indian expedition on the biodiversity of <em>Cannabis</em> in the fall 2021!</p>
-<p>Their work has been published in <a href="https://neo.uqtr.ca/2022/03/30/expedition-scientifique-en-inde-etudier-la-biodiversite-du-cannabis/?fbclid=IwAR3jYGNy2PgEz1I_JzIjh6sePDGWw1PQgAH9UWvJ7vo1onOkwfdZLhSUcp4">NEO UQTR</a>.</p>
-<p>Read about their journey and scientific work carried out in India with mesmerizing images of Himalayan ranges with <em>Cannabis</em>.</p>
+<p>Congratulations to our Centre SÈVE member Dr. <a
+href="https://www.researchgate.net/profile/Hugo_Germain">Hugo
+Germain</a> and his team members <a
+href="https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/">Théo
+Devèze</a>, <a
+href="https://www.researchgate.net/profile/Claire_Letanneur">Claire
+Letanneur</a>, <a
+href="https://in.linkedin.com/in/nikunj-sharma-5a863490">Nikunj
+Sharma</a> and <a
+href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi Gazal</a>
+for having a successful Indian expedition on the biodiversity of
+<em>Cannabis</em> in the fall 2021!</p>
+<p>Their work has been published in <a
+href="https://neo.uqtr.ca/2022/03/30/expedition-scientifique-en-inde-etudier-la-biodiversite-du-cannabis/?fbclid=IwAR3jYGNy2PgEz1I_JzIjh6sePDGWw1PQgAH9UWvJ7vo1onOkwfdZLhSUcp4">NEO
+UQTR</a>.</p>
+<p>Read about their journey and scientific work carried out in India
+with mesmerizing images of Himalayan ranges with <em>Cannabis</em>.</p>
 <br><br>
 </article>
 <article id="2022-03-10">
 <p><strong>2022-03-10</strong></p>
-<p>New publication by Dr. <a href="https://www.researchgate.net/profile/Tagnon_M">Tagnon Missihoun</a> his master’s student <a href="https://www.researchgate.net/profile/Amal-Jaballi">Amal Jaballi</a> from UQTR. <br></p>
-<p>Publication: <a href="https://doi.org/10.1111/ppl.13658">The phytohormone abscisic acid modulates protein carbonylation in <em>Arabidopsis thaliana</em></a></p>
-<p>Also, the PhD candidate <a href="https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/">Charles Roussin-Léveillée</a> from Dr. <a href="https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett">Peter Moffet</a>’s lab published his research in the Cells Host &amp; Microbe journal. Here is their publication:</p>
-<p><a href="https://doi.org/10.1016/j.chom.2022.02.006">Evolutionarily conserved bacterial effectors hijack abscisic acid signaling to induce an aqueous environment in the apoplast</a></p>
+<p>New publication by Dr. <a
+href="https://www.researchgate.net/profile/Tagnon_M">Tagnon
+Missihoun</a> his master’s student <a
+href="https://www.researchgate.net/profile/Amal-Jaballi">Amal
+Jaballi</a> from UQTR. <br></p>
+<p>Publication: <a href="https://doi.org/10.1111/ppl.13658">The
+phytohormone abscisic acid modulates protein carbonylation in
+<em>Arabidopsis thaliana</em></a></p>
+<p>Also, the PhD candidate <a
+href="https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/">Charles
+Roussin-Léveillée</a> from Dr. <a
+href="https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett">Peter
+Moffet</a>’s lab published his research in the Cells Host &amp; Microbe
+journal. Here is their publication:</p>
+<p><a href="https://doi.org/10.1016/j.chom.2022.02.006">Evolutionarily
+conserved bacterial effectors hijack abscisic acid signaling to induce
+an aqueous environment in the apoplast</a></p>
 <br> Congratulations ! <br><br>
 </article>
 <article id="2022-02-10">
 <p><strong>2022-02-10</strong></p>
-<p>New publication of our previous Vice-President of Communications, <a href="https://www.linkedin.com/in/marianne-bessette-b16287146/">Marianne Bessette</a>. <br></p>
-<p>Publication: <a href="https://doi.org/10.1111/eva.13343">Population genetic structure of the carrot weevil (<i>Listronotus oregonensis</i>) in North America</a></p>
+<p>New publication of our previous Vice-President of Communications, <a
+href="https://www.linkedin.com/in/marianne-bessette-b16287146/">Marianne
+Bessette</a>. <br></p>
+<p>Publication: <a href="https://doi.org/10.1111/eva.13343">Population
+genetic structure of the carrot weevil (<i>Listronotus oregonensis</i>)
+in North America</a></p>
 <br> Congratulations ! <br><br>
 </article>
 <article id="2022-01-03">
 <p><strong>2022-01-03</strong></p>
-<p>New publication from one of the researchers from Centre Séve, Dr. <a href="https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/">Isabel Desgagné-Penix</a>, and her students Laurence Tousignant, <a href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely Maribel Diaz Garza</a>, <a href="https://www.researchgate.net/profile/Bharat-Majhi">Bharat Bhusan Majhi</a> and <a href="https://ca.linkedin.com/in/sarah-%C3%A8ve-g%C3%A9linas-695971159">Sarah-Eve Gélinas</a>, in collaboration with the postdoctoral fellow <a href="https://ca.linkedin.com/in/aparna-singh-5049b462">Aparna Singh</a>, from the University of New Brunswick. <br></p>
-<p>Publication: <a href="https://doi.org/10.1007/s00425-021-03741-x">Transcriptome analysis of <em>Leucojum aestivum</em> and identification of genes involved in norbelladine biosynthesis</a></p>
+<p>New publication from one of the researchers from Centre Séve, Dr. <a
+href="https://www.linkedin.com/in/isabel-desgagn%C3%A9-penix-86081aa6/">Isabel
+Desgagné-Penix</a>, and her students Laurence Tousignant, <a
+href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely
+Maribel Diaz Garza</a>, <a
+href="https://www.researchgate.net/profile/Bharat-Majhi">Bharat Bhusan
+Majhi</a> and <a
+href="https://ca.linkedin.com/in/sarah-%C3%A8ve-g%C3%A9linas-695971159">Sarah-Eve
+Gélinas</a>, in collaboration with the postdoctoral fellow <a
+href="https://ca.linkedin.com/in/aparna-singh-5049b462">Aparna
+Singh</a>, from the University of New Brunswick. <br></p>
+<p>Publication: <a
+href="https://doi.org/10.1007/s00425-021-03741-x">Transcriptome analysis
+of <em>Leucojum aestivum</em> and identification of genes involved in
+norbelladine biosynthesis</a></p>
 <br> Congratulations !! <br><br>
 </article>
 </div>
@@ -630,13 +816,20 @@ We wish you all the best in your future endeavors!
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1500px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1500px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <!-- row under sidebar section -->

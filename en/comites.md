@@ -111,6 +111,62 @@ They will be in charge of managing the budget allocated to CSIPC and of presenti
 <div id="Current" class="section level2">
 <h2> Current</h2>
 
+<center>
+<!--<img src="images/comite photos/comite_2023.webp" width=75%>-->
+</center>
+<br>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<td scope="col">Role</td>
+<td scope="col">Name</td>
+<td scope="col">University</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">President</th><td>[Aracely Maribel Diaz Garza]</td><td rowspan="7">Université du Québec à Trois-Rivières</td>
+</tr>
+<tr>
+<th scope="row">Vice-President</th><td>[Snehi Gazal]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Communications</th><td>[Valeria Parra]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Arghavan Arjmandi]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Vice-Presidence of Networking</th><td>[Rohith Grandhi]</td><!--td></td!-->
+</tr>
+<tr>
+<td>[Ayoub Bouhadada]</td><!--td></td!-->
+</tr>
+<tr>
+<th scope="row" rowspan="2">Treasurers</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+<tr>
+<th scope="row" rowspan="2"> Secretaries</th><td></td><td></td>
+</tr>
+<tr>
+<td></td><td></td>
+</tr>
+<tr>
+<th scope="row" rowspan="4"> Collaborators</th><td>[Karen Cristine Goncalves dos Santos]</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div id="Past" class="section level2 tabset tabset-fade tabset-pills">
+<h2> Past </h2>
+
+### 2022
+
 <center><img src="images/comite photos/comite_2022.webp" width=75%></center>
 <br>
 
@@ -167,10 +223,7 @@ They will be in charge of managing the budget allocated to CSIPC and of presenti
 </tr>
 </tbody>
 </table>
-</div><!-- id="Current" -->
 
-<div id="Past" class="section level2 tabset tabset-fade tabset-pills">
-<h2> Past </h2>
 
 ### 2021
 
@@ -397,25 +450,28 @@ They will be in charge of managing the budget allocated to CSIPC and of presenti
 </div><!-- closing div class row under container-fluid div -->
 </div><!-- closing container-fluid -->
 
+
 [Alexia Bertholon]: https://www.linkedin.com/in/alexiabertholon/
 [Aracely Maribel Diaz Garza]: https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/
+[Arghavan Arjmandi]: https://www.researchgate.net/profile/Arghavan-Arjmandi
+[Ayoub Bouhadada]: https://www.linkedin.com/in/ayoub-bouhadada-3b1a11134/
 [Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
 [Elisa Ines Fantino]: https://www.linkedin.com/in/elisa-fantino-84b25251/
 [Guilherme Silva Martins]: https://www.linkedin.com/in/guilherme-martins-1268202b/
 [Ingrid Berenice Sanchez Carrillo]: https://www.linkedin.com/in/ingrid-sanchez/
 [Jennifer Paillassa]: https://www.linkedin.com/in/jennifer-paillassa-087600a3/
 [Julie Yergeau]: https://www.linkedin.com/in/julie-yergeau-b58508186/
-[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/
+[Karen Cristine Goncalves dos Santos]: https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/
 [Marianne Bessette]: https://www.linkedin.com/in/marianne-bessette-b16287146/
 [Matthieu Glanowski]: https://www.linkedin.com/in/matthieu-glanowski-585254116/
 [Naresh Panneerselvam]: https://www.linkedin.com/in/nareshpanneerselvam/
 [Nicolas Sene]: https://www.linkedin.com/in/nicolas-sene-6b0918128
+[Rohith Grandhi]: https://www.linkedin.com/in/grandhi-rohith-811407187/
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/
 [Serge Nouemssi]: https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/
 [Snehi Gazal]: https://www.linkedin.com/in/snehi-gazal-9172856b/
 [Teura Barff]: https://www.linkedin.com/in/teura-barff-66526647/
-[Theo Deveze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
+[Théo Devèze]: https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/
 [Valeria Parra]: https://www.linkedin.com/in/valeria-parra-0b0b86167/
 [Vincent Charron-Lamoureux]: https://www.researchgate.net/profile/Vincent_Charron-Lamoureux
-
