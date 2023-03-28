@@ -15,6 +15,7 @@ td, th {
   text-align: left;
   height: auto;
   width: auto;
+  padding: 0.1em;
 }
 thead {
   background-color: #dddddd;
