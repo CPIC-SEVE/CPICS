@@ -33,17 +33,17 @@ cat('<center>
 <th scope="row" rowspan="2">Vice-Présidence à la Trésorerie</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
 </tr>
 <tr>
-<td></td><td></td>
+<td>[Charlotte Blasi]</td><td>Université de Sherbrooke</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> Secrétaires</th><td>[Arnold William Tazon]</td><td></td>
+<th scope="row" rowspan="2"> Secrétaires</th><td>[Arnold William Tazon]</td><td>Université du Québec à Trois-Rivières</td>
 </tr>
 <tr>
-<td></td><td></td>
+<td>[Prabhjot Sanghera]</td><td>McGill University</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> Collaborateurs</th><td>[Karen Cristine Goncalves dos Santos]</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
-<tr><td>[Théo Devèze]</td><!--td></td!--></tr>
+<th scope="row" rowspan="2"> Collaborateurs</th><td>[Karen Cristine Goncalves dos Santos]<br>Web developer</td><td  rowspan="2">Université du Québec à Trois-Rivières</td>
+<tr><td>[Théo Devèze]<br>VP Réseautage</td><!--td></td!--></tr>
 </tr>
 </tbody>
 </table>
