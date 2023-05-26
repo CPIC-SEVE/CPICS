@@ -62,6 +62,19 @@ Enregistrez votre adresse e-mail pour recevoir les alertes des événements du C
 https://cpics.netlify.app/en/participate.html
 <br><br>
 
+<!--<article id="2023-05-26">
+<strong>2023-05-26</strong>
+
+Voulez-vous connaitre l'experience des étudiantes et étudiants du Centre SÉVE à l'écolé d'été de 2023?<br>
+Notre vice-présidente [Snehi Gazal] et notre sécretaire [Prabhjot Sanghera] nous raccontent leur expérience au Maroc.
+Cliquez ici pour lire et voir leurs histoires!
+
+
+<br><br>
+</article>-->
+
+
+
 <article id="2023-02-24">
 <strong>2023-02-24</strong>
 

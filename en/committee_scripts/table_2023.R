@@ -1,5 +1,5 @@
 cat('<center>
-<!--<img src="images/comite photos/comite_2023.webp" width=75%>-->
+<img src="images/comite photos/comite_2023.webp">
 </center>
 <br>
 <table id="table-2023" class="table-responsive">

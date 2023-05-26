@@ -58,6 +58,7 @@ output:
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/description_functions.R', 
        local = knitr::knit_global())
 ```
@@ -69,6 +70,7 @@ source('committee_scripts/description_functions.R',
 <h2> Current</h2>
 
 ```{r Committee 2023, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2023.R', 
        local = knitr::knit_global())
 ```
@@ -80,6 +82,7 @@ source('committee_scripts/table_2023.R',
 ### 2022
 
 ```{r  Committee 2022, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2022.R', 
        local = knitr::knit_global())
 ```
@@ -89,6 +92,7 @@ source('committee_scripts/table_2022.R',
 ### 2021
 
 ```{r  Committee 2021, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2021.R', 
        local = knitr::knit_global())
 ```
@@ -100,6 +104,7 @@ source('committee_scripts/table_2021.R',
 #### 2020-05
 
 ```{r  Committee 2020-05, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2020-05.R', 
        local = knitr::knit_global())
 ```
@@ -109,6 +114,7 @@ source('committee_scripts/table_2020-05.R',
 #### 2020-01-10
 
 ```{r  Committee 2020-01, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2020-01.R', 
        local = knitr::knit_global())
 ```
@@ -118,6 +124,7 @@ source('committee_scripts/table_2020-01.R',
 ###  2019
 
 ```{r Committee 2019, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
 source('committee_scripts/table_2019.R', 
        local = knitr::knit_global())
 ```
