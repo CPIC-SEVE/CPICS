@@ -14,7 +14,7 @@
 
 <title>Symposia</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -286,6 +283,9 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="news_2023.html">2023</a>
+    </li>
+    <li>
       <a href="news_2022.html">2022</a>
     </li>
     <li>
@@ -350,20 +350,29 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">Symposia</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span
+style="display:none">Symposia</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <head>
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<p><link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="symposium_style.css"> <link rel="stylesheet" href="slideshow.css"></p>
+<p><link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="symposium_style.css">
+<link rel="stylesheet" href="slideshow.css"></p>
 <script>
 
 function myFunction(x) {
@@ -402,7 +411,8 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
-<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+<div class="container-fluid"
+style="margin-left: auto; margin-right: auto;">
 <div class="row">
 <div class="cpics-logo">
 <img class="logo" src='images/logos/Logo-CPICS_White_1.webp'>
@@ -411,14 +421,26 @@ function showSlides(n) {
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 <p style="display:block">
-The <em>Annual International Symposium of Center SÈVE</em> is a scientific meeting which reflects <strong><em>CSIPC</em></strong>’s philosophy. Its objective is to develop <em>Center SÈVE</em>’s international network and, at the same time, give a chance to student members to meet international researcher. This is an opportunity to increase <em>Center SÈVE</em>’s visibility at international scene but also to create new collaborations between Canadians and international researchers. Student members take advantage of this privileged event to present their own research in front of their peers, enjoying the proximity favored by the event.
+The <em>Annual International Symposium of Center SÈVE</em> is a
+scientific meeting which reflects <strong><em>CSIPC</em></strong>’s
+philosophy. Its objective is to develop <em>Center SÈVE</em>’s
+international network and, at the same time, give a chance to student
+members to meet international researcher. This is an opportunity to
+increase <em>Center SÈVE</em>’s visibility at international scene but
+also to create new collaborations between Canadians and international
+researchers. Student members take advantage of this privileged event to
+present their own research in front of their peers, enjoying the
+proximity favored by the event.
 </p>
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<div id="section"
+class="section level1 tabset tabset-fade tabset-pills">
 <h1>
 </h1>
-<div id="section-1" class="section level2 tabset tabset-fade tabset-pills">
+<div id="section-1"
+class="section level2 tabset tabset-fade tabset-pills">
 <h2>
-<strong>1<sup>er</sup> Annual International Symposium of Center SÈVE</strong>
+<strong>1<sup>er</sup> Annual International Symposium of Center
+SÈVE</strong>
 </h2>
 <p><img src="images/symposium%202019/banners/symposium_2019_banner_en.webp" style="display: block;  margin-left: auto;  margin-right: auto; width: 70%"></p>
 <p><img src="images/symposium%202019/photos/symposium_2019_photos_main.png" style="display: block;  margin-left: auto; margin-right: auto; width: 70%"></p>
@@ -428,7 +450,9 @@ Program
 </h3>
 <div class="row mx-0 no-gutters">
 <center>
-<span style="font-size:2em"><a href="../fr/symposia.html#Program"><strong>Program<br>(french only)</strong></a></span>
+<span style="font-size:2em"><a
+href="../fr/symposia.html#Program"><strong>Program<br>(french
+only)</strong></a></span>
 </center>
 </div>
 </div>
@@ -453,14 +477,19 @@ Professors
 <h3>
 Photos
 </h3>
-<div class="slideshow-container" style=" margin-left: auto; margin-right: auto;">
+<div class="slideshow-container"
+style=" margin-left: auto; margin-right: auto;">
 <div class="mySlides">
 <div class="numbertext">
 1 / 18
 </div>
 <img src="images/symposium%202019/photos/symposium_2019_photos5.webp" style=" margin-left: auto; margin-right: auto;">
 <p>
-From left to right: Dr. Peter Moffett (Centre SÈVE’s president), Romaric Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president), Claire Letanneur (CSPIC’s 2019 Vice-president), Dr. Alfredo Herrera Estrella (Keynote speaker), Dr. Leenna Tripathi (Keynote speaker), Guilherme Silva-Martins (CSPIC’s 2019 President).
+From left to right: Dr. Peter Moffett (Centre SÈVE’s president), Romaric
+Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president), Claire
+Letanneur (CSPIC’s 2019 Vice-president), Dr. Alfredo Herrera Estrella
+(Keynote speaker), Dr. Leenna Tripathi (Keynote speaker), Guilherme
+Silva-Martins (CSPIC’s 2019 President).
 </p>
 </div>
 <div class="mySlides">
@@ -469,7 +498,8 @@ From left to right: Dr. Peter Moffett (Centre SÈVE’s president), Romaric Arm
 </div>
 <img src="images/symposium%202019/photos/symposium_2019_photos4.webp" style=" margin-left: auto; margin-right: auto;">
 <p>
-In front: Ingrid Berenice Sanchez Carrillo (CSPIC’s 2019 Networking Vice-president) presenting Dr. Leena Tripathi.
+In front: Ingrid Berenice Sanchez Carrillo (CSPIC’s 2019 Networking
+Vice-president) presenting Dr. Leena Tripathi.
 </p>
 </div>
 <div class="mySlides">
@@ -478,7 +508,11 @@ In front: Ingrid Berenice Sanchez Carrillo (CSPIC’s 2019 Networking Vice-presi
 </div>
 <img src="images/symposium%202019/photos/symposium_2019_photos6.webp" style=" margin-left: auto; margin-right: auto;">
 <p>
-From left to right: Peter Moffett (Centre SÈVE’s president), Romaric Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president), Claire Letanneur (CSPIC’s 2019 Vice-president), Dominique Michaud (Keynote speaker), Jaswinder Singhi (Keynote speaker), Guilherme Silva-Martins (CSPIC’s 2019 President).
+From left to right: Peter Moffett (Centre SÈVE’s president), Romaric
+Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president), Claire
+Letanneur (CSPIC’s 2019 Vice-president), Dominique Michaud (Keynote
+speaker), Jaswinder Singhi (Keynote speaker), Guilherme Silva-Martins
+(CSPIC’s 2019 President).
 </p>
 </div>
 <div class="mySlides">
@@ -487,7 +521,9 @@ From left to right: Peter Moffett (Centre SÈVE’s president), Romaric Armel Mo
 </div>
 <img src="images/symposium%202019/photos/symposium_2019_photos2.webp" style=" margin-left: auto; margin-right: auto;">
 <p>
-From left to right: Claire Letanneur (CSPIC’s 2019 Vice-president), Romaric Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president), Mathieu Glanowski (CSPIC’s 2019 Communication Vice-president).
+From left to right: Claire Letanneur (CSPIC’s 2019 Vice-president),
+Romaric Armel Mouafo Tchinda (CSPIC’s 2019 Networking Vice-president),
+Mathieu Glanowski (CSPIC’s 2019 Communication Vice-president).
 </p>
 </div>
 <div class="mySlides">
@@ -574,7 +610,8 @@ From left to right: Claire Letanneur (CSPIC’s 2019 Vice-president), Romaric Ar
 </div>
 <p><img src="images/symposium%202019/photos/photo_13.webp" style=" margin-left: auto; margin-right: auto;"></p>
 </div>
-<p><a class="prev" onclick="plusSlides(-1)">❮</a> <a class="next" onclick="plusSlides(1)">❯</a></p>
+<p><a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a></p>
 <div class="row-slides">
 <div class="column" style="width: 16.66%;">
 <p><img class="demo cursor" src="images/symposium%202019/photos/symposium_2019_photos5.webp" style="width:100%" onclick="currentSlide(1)"></p>
@@ -652,13 +689,20 @@ Sponsors
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>

@@ -22,6 +22,8 @@ navbar:
       href: symposia.html
     - text: "Nouvelles"
       menu:
+       - text: "2023"
+         href: news_2023.html
        - text: "2022"
          href: news_2022.html
        - text: "2021"

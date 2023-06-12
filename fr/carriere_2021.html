@@ -14,7 +14,7 @@
 
 <title>Journée Carrière</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -256,12 +253,12 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
-    </li>
     <li class="dropdown-submenu">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Passé</a>
       <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
+        </li>
         <li>
           <a href="wup_may2021.html">What's up Conferences - 3éme édition</a>
         </li>
@@ -285,6 +282,9 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news_2023.html">2023</a>
+    </li>
     <li>
       <a href="news_2022.html">2022</a>
     </li>
@@ -350,20 +350,29 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">Journée Carrière</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span style="display:none">Journée
+Carrière</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <head>
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png"> <link rel="manifest" href="../site.webmanifest"> <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/news.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<p><link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="symposium_style.css"> <link rel="stylesheet" href="slideshow.css"></p>
+<p><link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="symposium_style.css">
+<link rel="stylesheet" href="slideshow.css"></p>
 <script>
 
 function myFunction(x) {
@@ -371,7 +380,8 @@ function myFunction(x) {
   }
 </script>
 </head>
-<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+<div class="container-fluid"
+style="margin-left: auto; margin-right: auto;">
 <div class="row">
 <div class="cpics-logo">
 <img class="logo" src='images/logos/Logo-CPICS_White_1.webp'>
@@ -379,18 +389,30 @@ function myFunction(x) {
 <p><br><br> <br><br></p>
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<div id="section"
+class="section level1 tabset tabset-fade tabset-pills">
 <h1>
 </h1>
 <p><img src="images/events/carriere_2021/banner.webp" style="display: block;  margin-left: auto;  margin-right: auto; width: 100%"></p>
 <p style="display:block; text-align: center; margin-left: auto; margin-right: auto">
-<p>Vous êtes-vous déjà demandé·e· ce que vous alliez faire après avoir terminé vos études supérieures ?</p>
-<p>Quelles sont les options possibles et comment tirer le meilleur parti des différents outils disponibles pour prendre de telles décisions ?</p>
-<p>Le Centre SÈVE et le CPICS sont là pour vous aider avec une Journée Carrière en ligne.</p>
-<p>Il y aura deux ateliers sur l’utilisation de LinkedIn comme outil de réseautage et sur les avantages que le réseautage offre dans l’environnement professionnel.</p>
-<p>Vous aurez également l’occasion de parler à d’anciens étudiants et étudiantes du Centre SÈVE sur leur carrière et de leur parcours après leurs études supérieures.</p>
-<p>Cliquez <a href="https://event.fourwaves.com/fr/journeecarriere/inscription">ici</a> pour vous inscrire ou regardez ci-dessous pour plus d’informations sur nos invités et les ateliers.</p>
-<p><a href="https://event.fourwaves.com/fr/journeecarriere/horaire">Program</a></p>
+<p>Vous êtes-vous déjà demandé·e· ce que vous alliez faire après avoir
+terminé vos études supérieures ?</p>
+<p>Quelles sont les options possibles et comment tirer le meilleur parti
+des différents outils disponibles pour prendre de telles décisions ?</p>
+<p>Le Centre SÈVE et le CPICS sont là pour vous aider avec une Journée
+Carrière en ligne.</p>
+<p>Il y aura deux ateliers sur l’utilisation de LinkedIn comme outil de
+réseautage et sur les avantages que le réseautage offre dans
+l’environnement professionnel.</p>
+<p>Vous aurez également l’occasion de parler à d’anciens étudiants et
+étudiantes du Centre SÈVE sur leur carrière et de leur parcours après
+leurs études supérieures.</p>
+<p>Cliquez <a
+href="https://event.fourwaves.com/fr/journeecarriere/inscription">ici</a>
+pour vous inscrire ou regardez ci-dessous pour plus d’informations sur
+nos invités et les ateliers.</p>
+<p><a
+href="https://event.fourwaves.com/fr/journeecarriere/horaire">Program</a></p>
 </p>
 <div id="section-2" class="section level2">
 <h2>
@@ -399,12 +421,24 @@ Ateliers
 <h3>
 <strong>Le réseautage : approches à privilégier</strong>
 </h3>
-<p>L’atelier vise à rappeler la diversité des approches possibles et l’importance d’une étape de préparation avant de se lancer à la recherche de différentes possibilités. Il s’agit de miser sur ses propres expériences et compétences et d’avoir une approche organisée pour trouver le stage ou l’emploi en adéquation avec ses aspirations.</p>
+<p>L’atelier vise à rappeler la diversité des approches possibles et
+l’importance d’une étape de préparation avant de se lancer à la
+recherche de différentes possibilités. Il s’agit de miser sur ses
+propres expériences et compétences et d’avoir une approche organisée
+pour trouver le stage ou l’emploi en adéquation avec ses
+aspirations.</p>
 <h3>
 <strong>LinkedIn: outil de réseautage professionnel</strong>
 </h3>
-<p>Vous terminez ou venez de terminer vos études? Vous êtes toujours a l’université et vous êtes en recherche de stage? LinkedIn, ce puissant outil de réseautage professionnel, pourrait bien vous permettre d’arriver à vos fins. A condition, bien sûr, de l’utiliser correctement!</p>
-<p>Au cous de cet atelier, vous apprendrez comment optimiser votre profil pour être vu et reconnu, comment construire et élargir un réseau d’impact et, finalement, aborderez les stratégies qui pourraient vous permettre de trouver l’emploi ou le stage de vos rêves.</p>
+<p>Vous terminez ou venez de terminer vos études? Vous êtes toujours a
+l’université et vous êtes en recherche de stage? LinkedIn, ce puissant
+outil de réseautage professionnel, pourrait bien vous permettre
+d’arriver à vos fins. A condition, bien sûr, de l’utiliser
+correctement!</p>
+<p>Au cous de cet atelier, vous apprendrez comment optimiser votre
+profil pour être vu et reconnu, comment construire et élargir un réseau
+d’impact et, finalement, aborderez les stratégies qui pourraient vous
+permettre de trouver l’emploi ou le stage de vos rêves.</p>
 </div>
 <div id="section-1" class="section level2">
 <h2>
@@ -414,35 +448,55 @@ Invités
 <div class="col-md-6">
 <p><img src="images/events/carriere_2021/Tony_Savard.webp" class="career_avatar"></p>
 <center>
-<a href="https://profils-profiles.science.gc.ca/fr/profil/tony-savard-phd">Tony Savard</a><br>Chercheur scientifique<br>Centre de recherche et de développement sur les aliments de Saint-Hyacinthe
+<a
+href="https://profils-profiles.science.gc.ca/fr/profil/tony-savard-phd">Tony
+Savard</a><br>Chercheur scientifique<br>Centre de recherche et de
+développement sur les aliments de Saint-Hyacinthe
 </center>
 </div>
 <div class="col-md-6">
 <img src="images/events/carriere_2021/Lauriane_giroux.jfif" class="career_avatar">
 <center>
-<a href="https://www.linkedin.com/in/lauriane-giroux-83b68b11a/">Lauriane Giroux</a><br>Professionelle de recherche<br>Ulysse Biotech
+<a
+href="https://www.linkedin.com/in/lauriane-giroux-83b68b11a/">Lauriane
+Giroux</a><br>Professionelle de recherche<br>Ulysse Biotech
 </center>
 </div>
 </div>
 <div class="row">
 <div class="col-md-6">
-<br> <img src="images/events/carriere_2021/Tanya_Copley.webp" class="career_avatar"> <br>
+<br>
+<img src="images/events/carriere_2021/Tanya_Copley.webp" class="career_avatar">
+<br>
 <center>
-<a href="https://cerom.qc.ca/organisation/notre-equipe/chercheurs.html">Tanya Copley</a><br>Phytopathologist<br>Centre de recherche sur les grains, inc.
+<a
+href="https://cerom.qc.ca/organisation/notre-equipe/chercheurs.html">Tanya
+Copley</a><br>Phytopathologist<br>Centre de recherche sur les grains,
+inc.
 </center>
 </div>
 <div class="col-md-6">
-<br> <img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="career_avatar"> <br>
+<br>
+<img src="images/events/carriere_2021/Jean-Philippe_Legare.webp" class="career_avatar">
+<br>
 <center>
-<a href="https://www.linkedin.com/in/jean-phillippe-legare-29209368/?originalSubdomain=ca">Jean-Philippe Légaré</a><br>Biologist-entomologist<br>MAPAQ’s Laboratory of expertise and diagnostic in en phytoprotection
+<a
+href="https://www.linkedin.com/in/jean-phillippe-legare-29209368/?originalSubdomain=ca">Jean-Philippe
+Légaré</a><br>Biologist-entomologist<br>MAPAQ’s Laboratory of expertise
+and diagnostic in en phytoprotection
 </center>
 </div>
 </div>
 <div class="row">
 <div class="col-md-12">
-<br> <img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="career_avatar"> <br>
+<br>
+<img src="images/events/carriere_2021/Adurogbangba_Ayooluwa.webp" class="career_avatar">
+<br>
 <center>
-<span style="color: white; font-weight: bold"><a href="https://www.linkedin.com/in/ayooluwa-bolaji-ph-d-2a9a64159/?originalSubdomain=ca">Ayooluwa Bolaji</a></span><br>Research scientist at the Genomics Unit<br>National Centre for Foreign Animal Disease (Canadian Food Inspection Agency)
+<span style="color: white; font-weight: bold"><a
+href="https://www.linkedin.com/in/ayooluwa-bolaji-ph-d-2a9a64159/?originalSubdomain=ca">Ayooluwa
+Bolaji</a></span><br>Research scientist at the Genomics Unit<br>National
+Centre for Foreign Animal Disease (Canadian Food Inspection Agency)
 </center>
 </div>
 </div>
@@ -454,13 +508,20 @@ Invités
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>

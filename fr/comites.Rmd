@@ -1,0 +1,156 @@
+---
+title: '<span style="display:none">Comité</span>'
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+name: "Comité"
+lang: "fr-fr"
+output: html_document
+---
+
+<head>
+<meta charset="utf-8">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/comites.html">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="committee_style.css">
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  overflow-x:auto;
+  overflow: scroll; 
+  max-width: 100%;
+  height: auto;
+}
+
+td, th {
+  border: 1px solid rgba(50, 130, 102);
+  text-align: left;
+  height: auto;
+  width: auto;
+  padding: 0.1em;
+}
+thead {
+  background-color: #dddddd;
+  overflow: scroll;
+  height: auto;
+  width: auto;
+
+}
+
+</style>
+</head>
+
+<div class="container-fluid ps-lg-1" style="margin-left: auto; margin-right: auto;">
+<div class="cpics-logo"><img class="logo" src='./images/logos/Logo-CPICS_White_1.webp'>
+</div>
+<br><br>
+<br><br>
+
+<div class="row mx-lg-n1">
+<div class="col-sm-3" style="float: right">
+
+<div class="row" >
+<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+
+<div class="row" style="padding: 1%">
+<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="./images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="./images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
+
+</div>
+
+<div style="padding: 1%"><a class="twitter-timeline" data-height="1000px" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets du CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+</div>
+
+</div> <!-- class = col-md-3 -->
+
+<div class="col-sm-9" style="padding: 2%; float: left;">
+<div class="row text">
+
+# {.tabset .tabset-fade .tabset-pills}
+
+## Description des Fonctions
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/description_functions.R', 
+       local = knitr::knit_global())
+
+```
+
+
+## Actuel
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2023.R', 
+       local = knitr::knit_global())
+```
+
+## Passé {.tabset .tabset-pill}
+
+### 2022
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2022.R', 
+       local = knitr::knit_global())
+```
+
+### 2021 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2021.R', 
+       local = knitr::knit_global())
+```
+
+
+### 2020 {.tabset .tabset-pill}
+
+#### 2020-05
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2020-05.R', 
+       local = knitr::knit_global())
+```
+
+#### 2020-01-10
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2020-01.R', 
+       local = knitr::knit_global())
+```
+
+### 2019
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+options(encoding = "utf-8", Encoding = "utf-8")
+source('committee_scritps/table_2019.R', 
+       local = knitr::knit_global())
+```
+
+</div> <!-- class = row -->
+</div> <!-- class = col-md-9-->
+
+</div> <!-- class = row-->
+
+</div> <!-- class = container-fluid-->
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+source('committee_scritps/links.R', 
+       local = knitr::knit_global())
+```

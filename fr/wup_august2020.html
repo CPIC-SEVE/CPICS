@@ -14,7 +14,7 @@
 
 <title> Whats up? 1ere edition Conferences</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -256,12 +253,12 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
-    </li>
     <li class="dropdown-submenu">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Passé</a>
       <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
+        </li>
         <li>
           <a href="wup_may2021.html">What's up Conferences - 3éme édition</a>
         </li>
@@ -285,6 +282,9 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news_2023.html">2023</a>
+    </li>
     <li>
       <a href="news_2022.html">2022</a>
     </li>
@@ -350,20 +350,30 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none"><i> Whats up? 1ere edition</i> Conferences</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span style="display:none"><i> Whats up?
+1ere edition</i> Conferences</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <!-- August 2020-->
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="en-us" href="../en/wup_august2020.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/wup_august2020.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<p><link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="slideshow.css"> <link rel="stylesheet" href="form.css"> <link rel="stylesheet" href="wupc_style.css"></p>
+<p><link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="slideshow.css">
+<link rel="stylesheet" href="form.css">
+<link rel="stylesheet" href="wupc_style.css"></p>
 </head>
 <div class="container-fluid">
 <div class="row">
@@ -373,7 +383,8 @@ $(document).ready(function () {
 <br><br>
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
-<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<div id="section"
+class="section level1 tabset tabset-fade tabset-pills">
 <h1>
 </h1>
 <p><img src="images/whats%20up%202020/whatsup_25aug_conferences_en.webp" alt="What's up conferences August 25^th^ at 9h am with Dr. Leena Tripathi from IITA Kenya and Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada" width=100%></p>
@@ -383,22 +394,28 @@ La conférence
 </h2>
 <div class="row" style="text-align: justify; color: black">
 <center>
-<strong>Comment la science a vécu et s’est adaptée à la pandémie?</strong>
+<strong>Comment la science a vécu et s’est adaptée à la
+pandémie?</strong>
 </center>
 <center>
-Les chercheurs Canadiens ont-il abordés différemment cette problématique des autres chercheurs à travers le monde?
+Les chercheurs Canadiens ont-il abordés différemment cette problématique
+des autres chercheurs à travers le monde?
 </center>
 <center>
-Comment ce virus a-t-il transformé leurs gestions dans leurs laboratoires?
+Comment ce virus a-t-il transformé leurs gestions dans leurs
+laboratoires?
 </center>
 <br>
 <center>
-Le Comité de partenariat international du Centre SÈVE (CPICS) vous invite à étudier ces questions en compagnie des professeurs invités pour l’occasion :
+Le Comité de partenariat international du Centre SÈVE (CPICS) vous
+invite à étudier ces questions en compagnie des professeurs invités pour
+l’occasion :
 </center>
 <p><br></p>
 <div class="col-md-6" style="text-align: center">
 <center>
-<a href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"></a>
+<a
+href="https://www.iita.org/iita-staff/tripathi-leena/"><img src="images/whats%20up%202020/Leena.webp" alt="Dr. Leena Tripathi from IITA Kenya"></a>
 </center>
 <center>
 <strong>Dre Leena Tripathi</strong>
@@ -410,7 +427,7 @@ International Institute of Tropical Agriculture, Kenya
 </div>
 <div class="col-md-6" style="text-align: center">
 <center>
-<a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats%20up%202020/isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a>
+<a href="https://isabellelaforestlapointe.wordpress.com/"><img src="images/whats%20up%202020/Isabelle.webp" alt="Dr. Isabelle Laforest-Lapointe from University of Sherbrooke Canada"></a>
 </center>
 <center>
 <strong>Dre Isabelle Laforest-Lapointe</strong>
@@ -493,27 +510,48 @@ Université de Sherbrooke, Canada
 <h2>
 Enquête post-conférence
 </h2>
-<div class="row" rows="2" style="width: 100%; padding-left: 10%; padding-right: 10%">
+<div class="row" rows="2"
+style="width: 100%; padding-left: 10%; padding-right: 10%">
 <form name="conference_survey_25aug" method="POST" data-netlify="true">
 <fieldset>
 <p><legend> Qui êtes vous? </legend> <label>Nom:* </label></p>
-<p><input type="text" name="Name" placeholder="Prénom Nom" required/><br> <br></p>
+<p><input type="text" name="Name" placeholder="Prénom Nom" required/><br>
+<br></p>
 <p><label > Affiliation:* </label></p>
-<p><input type="text" name="Affiliation" placeholder="Université" required/><br> <br></p>
+<p><input type="text" name="Affiliation" placeholder="Université" required/><br>
+<br></p>
 <p><label>Email:* </label></p>
-<p><input type="text" name="Email" placeholder="" required/><br> <br></p>
+<p><input type="text" name="Email" placeholder="" required/><br>
+<br></p>
 <p><input type="hidden" name="_subject" value="survey_25aug" /></p>
 <p><label> Vous êtes:* </label></p>
-<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required> <option value="Baccalauréat / Bachelor" > Baccalauréat </option> <option value="Maîtrise / Master's" > Maîtrise </option> <option value="Doctorat / PhD" > Doctorat </option> <option value="Postdoc" > Postdoc </option> <option value="Technicien(ne) / Technician" > Technicien(ne) </option> <option value="Chercheur(e) / Researcher" > Chercheur(e) </option> <option value="Autre / Other"> Autre</option> </select></p>
+<p><select name="Occupation_level" id="Occupation level" onchange="showfield(this.options[this.selectedIndex].value)" required>
+<option value="Baccalauréat / Bachelor" > Baccalauréat </option>
+<option value="Maîtrise / Master's" > Maîtrise </option>
+<option value="Doctorat / PhD" > Doctorat </option>
+<option value="Postdoc" > Postdoc </option>
+<option value="Technicien(ne) / Technician" > Technicien(ne) </option>
+<option value="Chercheur(e) / Researcher" > Chercheur(e) </option>
+<option value="Autre / Other"> Autre</option> </select></p>
 <p><label> Autre: </label></p>
-<p><input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/> <br> <br></p>
+<p><input type="text" name="Other occupation" id="Other occupation" style="padding: 0.75em ; border: 1px solid #e5e5e5; border-radius: 30px; margin: 0em;"/>
+<br> <br></p>
 </fieldset>
 <p><input type="hidden" name="_gotcha" /></p>
 <fieldset>
-<p><legend> Sur la Conférence </legend> <label> Vous avez vu la conférence via:* </label></p>
-<p><select name="Platform" id="Platform" required> <option value="Facebook Live"> Facebook Live </option> <option value="Zoom"> Zoom </option> <option value="Enregistrement / Recording"> Enregistrement </option> </select> <br></p>
+<p><legend> Sur la Conférence </legend> <label> Vous avez vu la
+conférence via:* </label></p>
+<p><select name="Platform" id="Platform" required>
+<option value="Facebook Live"> Facebook Live </option>
+<option value="Zoom"> Zoom </option>
+<option value="Enregistrement / Recording"> Enregistrement </option>
+</select> <br></p>
 <p><label> Avez-vous aimé le format?* </label></p>
-<p><select name="Like_format" id="Like_format" required> <option value="Yes / Oui" >Oui</option> <option value="Non / No" >Non</option> <option value="Pourrait être amélioré / Could be better" >Pourrait être amélioré</option> </select> <br></p>
+<p><select name="Like_format" id="Like_format" required>
+<option value="Yes / Oui" >Oui</option>
+<option value="Non / No" >Non</option>
+<option value="Pourrait être amélioré / Could be better" >Pourrait être
+amélioré</option> </select> <br></p>
 <p><label > Suggestions: </label></p>
 <p><input type="text" name="suggestions" placeholder="" /><br> <br></p>
 <p><label >Quel sujet aimeriez-vous voir discuté?</label></p>
@@ -532,13 +570,20 @@ Enquête post-conférence
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>

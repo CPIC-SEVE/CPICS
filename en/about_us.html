@@ -14,7 +14,7 @@
 
 <title>About us</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -286,6 +283,9 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="news_2023.html">2023</a>
+    </li>
+    <li>
       <a href="news_2022.html">2022</a>
     </li>
     <li>
@@ -350,22 +350,30 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">About us</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span style="display:none">About
+us</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
 
 <head>
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="fr-fr" href="../fr/about_us.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="fr-fr" href="../fr/about_us.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="column_text_style.css">
 </head>
-<div class="container-fluid" style="margin-left: auto; margin-right: auto;">
+<div class="container-fluid"
+style="margin-left: auto; margin-right: auto;">
 <div class="row">
 <div class="cpics-logo">
 <img class="logo" src='images/logos/Logo-CPICS_White_1.webp'>
@@ -374,26 +382,59 @@ $(document).ready(function () {
 <div class="col-md-9" style="padding-right: 2%">
 <div class="row text">
 <p><strong><em>CSIPC Creation</em></strong></p>
-<p>Created in 2018, <strong><em>Center SÈVE International Partnership Committee (CSIPC)</em></strong> is a graduate student’s committee member of <strong><em>Center SÈVE</em></strong>. Conducted by ten students from Quebec Universities, <strong><em>CSIPC</em></strong> increases collaborations between Quebec and international researchers in plant biology field. <strong><em>CSIPC</em></strong> stimulates Quebec research networking by a better broadcast of knowledge from its community through plant productivity or ecosystem sustainability, all together with a proactive behavior facing the actual global changing.<strong><em>CSIPC</em></strong> is an opportunity for involved student to contribute to their scientific community and manage the organization of events that benefit the whole scientific community of Plant biologists from Quebec.</p>
+<p>Created in 2018, <strong><em>Center SÈVE International Partnership
+Committee (CSIPC)</em></strong> is a graduate student’s committee member
+of <strong><em>Center SÈVE</em></strong>. Conducted by ten students from
+Quebec Universities, <strong><em>CSIPC</em></strong> increases
+collaborations between Quebec and international researchers in plant
+biology field. <strong><em>CSIPC</em></strong> stimulates Quebec
+research networking by a better broadcast of knowledge from its
+community through plant productivity or ecosystem sustainability, all
+together with a proactive behavior facing the actual global
+changing.<strong><em>CSIPC</em></strong> is an opportunity for involved
+student to contribute to their scientific community and manage the
+organization of events that benefit the whole scientific community of
+Plant biologists from Quebec.</p>
 <br>
 <center>
 <a href="http://centreseve.recherche.usherbrooke.ca/fr"><img style="display:block; margin-left:auto; margin-right: auto" src="images/logos/centre_seve.webp" width="60%" alt="Centre SEVE logo"></a>
 </center>
 <p><strong><em>Originally, the Centre SÈVE</em></strong></p>
-<p>The <strong>Centre SÈVE</strong> is the only inter-institutional research centre in Quebec to bring together researchers in non-forestry plant science. Founded in 2004, the <strong>Centre SÈVE</strong> relies on major funding from the <em>FRQNT</em> through its Strategic Clusters Program. The Centre also receives funding from its university partners, as well as the funding agencies support its research activities and other partners. The wide-ranging scientific expertise of the <strong>Centre SÈVE</strong> is outlined in the section on multidisciplinary research activities. The <strong>Centre SÈVE</strong> develops collaborations with many partners that have common objectives of research, dissemination of knowledge, national and international exposure, and training of undergraduate and graduate students. One objective of the <strong>Centre SÈVE</strong> is to provide its members with access to, and services from, a common infrastructures platform.</p>
+<p>The <strong>Centre SÈVE</strong> is the only inter-institutional
+research centre in Quebec to bring together researchers in non-forestry
+plant science. Founded in 2004, the <strong>Centre SÈVE</strong> relies
+on major funding from the <em>FRQNT</em> through its Strategic Clusters
+Program. The Centre also receives funding from its university partners,
+as well as the funding agencies support its research activities and
+other partners. The wide-ranging scientific expertise of the
+<strong>Centre SÈVE</strong> is outlined in the section on
+multidisciplinary research activities. The <strong>Centre SÈVE</strong>
+develops collaborations with many partners that have common objectives
+of research, dissemination of knowledge, national and international
+exposure, and training of undergraduate and graduate students. One
+objective of the <strong>Centre SÈVE</strong> is to provide its members
+with access to, and services from, a common infrastructures
+platform.</p>
 </div>
 </div>
 <div class="col-md-3">
 <div class="row">
 <span>
 <p style="color: #ffffff; font-size: 2em; text-align:center;display: block; margin-left: auto; margin-right:auto">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1000px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>

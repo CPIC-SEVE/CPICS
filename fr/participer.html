@@ -14,7 +14,7 @@
 
 <title>Participer</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -256,12 +253,12 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
-    </li>
     <li class="dropdown-submenu">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Passé</a>
       <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="wup_june2022.html">What's up Conferences - 4éme édition</a>
+        </li>
         <li>
           <a href="wup_may2021.html">What's up Conferences - 3éme édition</a>
         </li>
@@ -285,6 +282,9 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news_2023.html">2023</a>
+    </li>
     <li>
       <a href="news_2022.html">2022</a>
     </li>
@@ -350,8 +350,10 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style="display:none">Participer</span></h1>
-<h4 class="author"><span style="display:none">Karen Cristine Goncalves dos Santos</span></h4>
+<h1 class="title toc-ignore"><span
+style="display:none">Participer</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
@@ -359,12 +361,18 @@ $(document).ready(function () {
 <!--December 2020-->
 <head>
 <meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <link rel="alternate" hreflang="en-us" href="../en/participate.html">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="alternate" hreflang="en-us" href="../en/participate.html">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="column_text_style.css"> <link rel="stylesheet" href="form.css">
+<link rel="stylesheet" href="column_text_style.css">
+<link rel="stylesheet" href="form.css">
 </head>
 <div class="container-fluid">
 
@@ -381,38 +389,56 @@ $(document).ready(function () {
 <!-- ARE you a CS member -->
 <div class="form-row">
 <fieldset aria-required="true">
-<p>Ne remplissez ce formulaire que si vous êtes un·e membre étudiant·e ou postdoctorante du Centre SEVE.<br></p>
-<p>Si vous ne savez pas si vous êtes membre, recherchez votre professeur·e <a href="https://centreseve.recherche.usherbrooke.ca/en/researchers">here</a>.</p>
+<p>Ne remplissez ce formulaire que si vous êtes un·e membre étudiant·e
+ou postdoctorante du Centre SEVE.<br></p>
+<p>Si vous ne savez pas si vous êtes membre, recherchez votre
+professeur·e
+<a href="https://centreseve.recherche.usherbrooke.ca/en/researchers">here</a>.</p>
 </fieldset>
 </div>
 <!-- Name -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Nom</legend> <label for="firstName">Prénom</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false" required><span id="firstNameErr" class="error-msg"></span>
+<legend>Nom</legend>
+<label for="firstName">Prénom</label><input type="text" name="firstName" id="firstName" aria-required="true" data-ok="false" required><span
+id="firstNameErr" class="error-msg"></span>
 </div>
 <div class="form-row">
-<label for="lastName">Nom</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false" required><span id="lastNameErr" class="error-msg"></span>
+<label for="lastName">Nom</label><input type="text" name="lastName" id="lastName" aria-required="true" data-ok="false" required><span
+id="lastNameErr" class="error-msg"></span>
 </fieldset>
 </div>
 <p><br></p>
 <!-- University -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Votre labo</legend> <label for="University">Université</label><input type="text" name="University" id="University" aria-required="true" data-ok="false" required><span id="UniversityErr" class="error-msg"></span> <label for="Supervisor">Nom de votre superviseur</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false" required>
+<legend>Votre labo</legend>
+<label for="University">Université</label><input type="text" name="University" id="University" aria-required="true" data-ok="false" required><span
+id="UniversityErr" class="error-msg"></span> <label for="Supervisor">Nom
+de votre
+superviseur</label><input type="text" name="Supervisor" id="Supervisor" aria-required="true" data-ok="false" required>
 </fieldset>
 </div>
 <p><br></p>
 <!-- Email -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Courriel</legend> <input type="text" name="email" id="email" aria-required="true" data-ok="false" required><span id="emailErr" class="error-msg"></span>
+<legend>Courriel</legend>
+<input type="text" name="email" id="email" aria-required="true" data-ok="false" required><span
+id="emailErr" class="error-msg"></span>
 </fieldset>
 </div>
 <p><br></p>
 <!-- Status -->
 <div class="form-row">
 <fieldset aria-required="true">
-<legend>Votre status</legend> <input type="radio" id="masters" name="status" required="required" value="Master's student"> <label for="masters">Étudiant·e à la maîtrise</label> <input type="radio" id="phd" name="status" required="required" value="Ph.D. student"> <label for="phd">Étudiant·e au doctorat</label> <input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow"> <label for="postdoc">Postdoctorant·e</label>
+<legend>Votre status</legend>
+<input type="radio" id="masters" name="status" required="required" value="Master's student">
+<label for="masters">Étudiant·e à la maîtrise</label>
+<input type="radio" id="phd" name="status" required="required" value="Ph.D. student">
+<label for="phd">Étudiant·e au doctorat</label>
+<input type="radio" id="postdoc" name="status" required="required" value="Postdoctorate fellow">
+<label for="postdoc">Postdoctorant·e</label>
 </fieldset>
 </div>
 <p><br></p>
@@ -428,13 +454,20 @@ Submit
 <div class="row">
 <span>
 <p class="sidebar_logos">
-<a href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a> <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
 </p>
 </span>
 <div class="row" style="margin: 1%">
 <p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a>
+<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+by CPICS</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
