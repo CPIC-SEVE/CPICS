@@ -63,6 +63,33 @@ Also, get your email registered to get the CPICS meetings alerts.
 https://cpics.netlify.app/en/participate.html
 <br><br>
 
+
+
+<article id="2023-06-01">
+<strong>2023-04-07</strong>
+
+Did you know Centre SÈVE's summer school this year was in Morocco? Yes, the [Mohammed VI Polytechnic University](https://www.linkedin.com/school/um6p/) hosted several Centre SÈVE students and professors for this extraordinary learning opportunity.
+
+[Snehi Gazal], our vice-president, and [Prabhjot Sanghera], our secretary, taught about their projects, visited the area and learned about the Moroccan culture.
+
+[Click here to read a bit more about their experience.](https://www.linkedin.com/feed/update/urn:li:activity:7064053495145848832/)
+
+![](images/news/Morocco_summer_school.webp)
+
+<br><br>
+</article>
+
+<article id="2023-04-07">
+<strong>2023-04-07</strong>
+
+We'd like to welcome our new secretary [Prabhjot Sanghera], who is doing his Master's at McGill University, and our new treasurer [Charlotte Blasi], who is finishing her doctorate degree at the Université Sherbrooke.
+
+With a full committee, we now can plan the year. We look forward to seeing you at the [Canadian Society of Plant Biology](https://www.cspb2023.org/) at Quebec City in June!
+
+
+<br><br>
+</article>
+
 <article id="2023-02-24">
 <strong>2023-02-24</strong>
 
@@ -119,6 +146,7 @@ source("topFunctionJS.R", local = knitr::knit_global())
 [Arnold William Tazon]: https://www.linkedin.com/in/arnold-william-tazon-536bb926b/
 [Ayoub Bouhadada]: https://www.linkedin.com/in/ayoub-bouhadada-3b1a11134/
 [Charles Roussin-Léveillée]: https://www.linkedin.com/in/charles-roussin-l%C3%A9veill%C3%A9e-075851a6/?originalSubdomain=ca/
+[Charlotte Blasi]: https://ca.linkedin.com/in/charlotte-blasi-23785a10b?trk=people-guest_people_search-card
 [Claire Letanneur]: https://www.researchgate.net/profile/Claire_Letanneur
 [Eszter Sas]: https://www.linkedin.com/in/eszter-sas-1b907141/?originalSubdomain=ca/
 [Fadoua Dhaouadi]: https://www.linkedin.com/in/dhaouadi-fadoua-276b191a3/
@@ -144,6 +172,7 @@ source("topFunctionJS.R", local = knitr::knit_global())
 [Nicolas Sene]: https://www.linkedin.com/in/nicolas-sene-6b0918128
 [Nikunj Sharma]: https://in.linkedin.com/in/nikunj-sharma-5a863490
 [Peter Moffet]: https://www.usherbrooke.ca/biologie/nous-joindre/personnel/corps-professoral/biologie-moleculaire-et-cellulaire/peter-moffett
+[Prabhjot Sanghera]: https://ca.linkedin.com/in/prabhjot-sanghera/fr?trk=people-guest_people_search-card
 [Rohith Grandhi]: https://www.linkedin.com/in/grandhi-rohith-811407187/
 [Romaric Armel Mouafo Tchinda]: https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/
 [Safa Labidi]: https://www.linkedin.com/in/safa-labidi-41749b73/

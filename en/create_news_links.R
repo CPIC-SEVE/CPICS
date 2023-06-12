@@ -1,6 +1,8 @@
 cat(paste('<details>',
 					'<summary><a class="sidebar_links_list" href="news_2022.html#2023">2023</a></summary>',
 					'<ul>',
+					'<li><a class="sidebar_links_list" href="news_2023.html#2023-06-01">Morocco summer school</a></li>',
+					'<li><a class="sidebar_links_list" href="news_2023.html#2023-04-07">New CPICS members - full committee</a></li>',
 					'<li><a class="sidebar_links_list" href="news_2023.html#2023-02-23">New CPICS members</a></li>',
 					'</ul>',
 					'</details>','<details>',

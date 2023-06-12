@@ -62,17 +62,30 @@ Enregistrez votre adresse e-mail pour recevoir les alertes des événements du C
 https://cpics.netlify.app/en/participate.html
 <br><br>
 
-<!--<article id="2023-05-26">
-<strong>2023-05-26</strong>
+<article id="2023-06-01">
+<strong>2023-04-07</strong>
 
-Voulez-vous connaitre l'experience des étudiantes et étudiants du Centre SÉVE à l'écolé d'été de 2023?<br>
-Notre vice-présidente [Snehi Gazal] et notre sécretaire [Prabhjot Sanghera] nous raccontent leur expérience au Maroc.
-Cliquez ici pour lire et voir leurs histoires!
+Saviez-vous que l'école d'été du Centre SÈVE cette année était Maroc? Oui, la [Mohammed VI Polytechnic University](https://www.linkedin.com/school/um6p/) a accuilli plusieurs étudiant&middot;e&middot;s et professeur&middot;e&middot;s pour cette oportunité extraordinaire d'apprentissage.
+
+[Snehi Gazal], notre vice-présidente, et [Prabhjot Sanghera], notre secrétaire, ont présenté leurs projets, visité la région et appris sur la culture marocaine.
+
+[Cliquez ici pour lire plus sur leurs expériences.](https://www.linkedin.com/feed/update/urn:li:activity:7064053495145848832/)
+
+![](images/news/Morocco_summer_school.webp)
+
+<br><br>
+</article>
+
+<article id="2023-04-07">
+<strong>2023-04-07</strong>
+
+Nous souhaitons la bienvenue à nos nouveaux membres [Prabhjot Sanghera], secrétaire qui commence ça maitrise à l'Université McGill, et [Charlotte Blasi], trésorière qui est à la fin de son doctorat à l'Université Sherbrooke.
+
+Maintenant, avec le comité complet, nous pouvons planifier l'année. Nous esperons vous voir à la conference de la [Societé Canadienne de Biologie Végétale] à Québec en Juin!
 
 
 <br><br>
-</article>-->
-
+</article>
 
 
 <article id="2023-02-24">
