@@ -5,35 +5,24 @@ output:
   html_document
 ---
 
-<!--December 2020-->
 <head>
-<meta charset="utf-8">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <link rel="alternate" hreflang="fr-fr" href="../fr/participer.html">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="column_text_style.css">
 <link rel="stylesheet" href="form.css">
-</head>
 
-<div class="container-fluid">
+```{r echo=FALSE, results='asis'}
+source('header.R')
+```
 
-<div class="row">
-
-<div class="cpics-logo"><img class="logo" src='images/logos/Logo-CPICS_White_1.webp'></div>
-<br><br>
-<div class="col-md-9" style="padding-right: 2%">
+<section class="col-md-9" style="padding-right:2%"><!--December 2020-->
 <div class="row text">
 
 <form name="CPICS_participation" method="POST" data-netlify="true">
+<fieldset aria-required="true">
+By filling out this form, you accept to receive invitation emails to the next CPICS meetings.
 
-<!-- ARE you a CS member -->
+</fieldset>
+
+<!-- ARE you a CS member
 <div class="form-row">
 <fieldset aria-required="true">
 Only fill out this form if you are a student/postdoctorate fellow member of Centre SEVE.<br>
@@ -42,7 +31,7 @@ If you don't know if you are a member, search for your professor <a href="https:
 
 
 </fieldset>
-</div>
+</div> -->
 
 <!-- Name -->
 <div class="form-row">
@@ -92,22 +81,20 @@ If you don't know if you are a member, search for your professor <a href="https:
 </form>
 
 </div>
+</section> 
+
+<section class="col-md-3">
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+source("sidebar.R", local = knitr::knit_global())
+
+```
+</section> 
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+source("topFunctionJS.R", local = knitr::knit_global())
+
+```
 </div>
-<div class="col-md-3">
-
-<div class="row">
-<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
-<div class="row" style="margin: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
-
-</div>
-
-<a class="twitter-timeline" data-height=1200px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
-</div>
-
-
-</div>
-</div>
+</main>

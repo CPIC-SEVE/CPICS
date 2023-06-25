@@ -1,0 +1,58 @@
+---
+title: '<span style="display:none">CPICS</span>'
+name: "Home"
+author: '<span style="display:none">Karen Cristine Goncalves dos Santos</span>'
+lang: "fr-fr"
+output: 
+  html_document
+---
+<link rel="alternate" hreflang="en-us" href="./en/index.html">
+
+```{r echo=FALSE, results='asis'}
+source('header.R')
+```
+
+<div class="row mx-0 no-gutters">
+
+<div class="col-md-9 resize">
+<div class="row mx-0 no-gutters">
+
+<div class="col-md-12 px-0 text" style="font-size: 1.25em; position: relative"> 
+<img src="./fr/images/comite photos/Cpicsmap.webp" alt="Carte avec la nationalite de tous les membres actuels et passes du CPICS">
+<br>
+<!--<img class="quote" src="./images/logos/quote_mark.svg" alt="quotes">-->
+<img src="./fr/images/comite photos/President-2020_Claire.webp" alt="President 2020 - Claire Letanneur" class="avatar">
+<div class="resize1">
+<section>
+<p style="text-align: center; font-size: 1.5em; font-weight: bold">La science n'a de beauté, de qualité ou de valeur que quand elle est partagée.</p>
+
+<p style="text-align: center;font-size: 0.75em">Claire Letanneur - Présidente du CPICS (2020)</p>
+
+</section>
+</div>
+</div>   
+
+<div class="col-md-12" style="padding: 2em 0em">&nbsp;</div> 
+<div class="col-md-12" >
+<a href="./fr/wup_june2022.html"><img style="border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./fr/images/whats up 2022/speakers.jpg" alt="Conference June 2022 - speakers">
+<a href="./fr/wup_june2022.html"><img style="display: block; position: static; border-width: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.7);" src="./fr/images/whats up 2020/whatsup_conferences_fr.webp" alt="Banner for What's up? Conferences" class="center"></a>
+</div>   
+
+  </div>    
+</div> 
+
+<section class="col-md-3">
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+source("sidebar.R", local = knitr::knit_global())
+
+```
+</section> 
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+source("fr/topFunctionJS.R", local = knitr::knit_global())
+
+```
+</div>
+</main>

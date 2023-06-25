@@ -1,102 +1,363 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="fr-fr" xml:lang="fr-fr">
+
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<title><span style="display:none">Comité</span></title>
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Karen Cristine Goncalves dos Santos" />
+
+
+<title>Comité</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
 
 
 <style type="text/css">
-body, td {
-  font-family: sans-serif;
-  background-color: white;
-  font-size: 13px;
+.dropdown-submenu {
+  position: relative;
 }
-body {
-  max-width: 800px;
-  margin: auto;
-  padding: 1em;
-  line-height: 1.5;
-  box-sizing: border-box;
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
 }
-*, *:before, *:after {
-  box-sizing: inherit;
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
 }
-tt, code, pre {
-  font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
 }
-a:visited { color: #80007f; }
-pre, img { max-width: 100%; }
-code {
-  font-size: 92%;
-  border: 1px solid #ccc;
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
 }
-code[class] { background-color: #F8F8F8; }
-code.language-undefined { background-color: inherit; }
-table {
-  margin: auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+.dropdown-submenu.pull-left {
+  float: none;
 }
-table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee; }
-blockquote {
-  color:#666;
-  margin:0;
-  padding-left: 1em;
-  border-left: 0.5em #eee solid;
-}
-hr { border: 1px #ddd dashed; }
-.frontmatter { text-align: center; }
-
-@media print {
-  * {
-    background: transparent !important;
-    color: black !important;
-    filter:none !important;
-  }
-  body {
-    font-size: 12pt;
-    max-width: 100%;
-  }
-  a, a:visited { text-decoration: underline; }
-  hr {
-    visibility: hidden;
-    page-break-before: always;
-  }
-  pre, blockquote {
-    padding-right: 1em;
-    page-break-inside: avoid;
-  }
-  tr, img { page-break-inside: avoid; }
-  img { max-width: 100% !important; }
-  @page :left { margin: 15mm 20mm 15mm 10mm; }
-  @page :right { margin: 15mm 10mm 15mm 20mm; }
-  p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3 { page-break-after: avoid; }
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
 
 
 </head>
 
 <body>
-<div class="include-before">
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CPICS</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="./fr/about_us.html">À propos</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    What's up? Conferences
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Passé</a>
+      <ul class="dropdown-menu" role="menu">
+        <li>
+          <a href="./fr/wup_june2022.html">What's up Conferences - 4éme édition</a>
+        </li>
+        <li>
+          <a href="./fr/wup_may2021.html">What's up Conferences - 3éme édition</a>
+        </li>
+        <li>
+          <a href="./fr/wup_december2020.html">What's up Conferences - 2éme édition</a>
+        </li>
+        <li>
+          <a href="./fr/wup_august2020.html">What's up Conferences - 1ére édition</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="./fr/symposia.html">Symposia</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Nouvelles
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="./fr/news_2023.html">2023</a>
+    </li>
+    <li>
+      <a href="./fr/news_2022.html">2022</a>
+    </li>
+    <li>
+      <a href="./fr/news_2021.html">2021</a>
+    </li>
+    <li>
+      <a href="./fr/news_2020.html">2020</a>
+    </li>
+    <li>
+      <a href="./fr/news_2019.html">2019</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="./fr/comites.html">Comité</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Événements
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">À venir</li>
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Passé</a>
+      <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">2021</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="./fr/carriere_2021.html">Journée Carrière</a>
+            </li>
+          </ul>
+        </li>
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">2019</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="./fr/symposia.html">1er Symposium annuel international du Centre SÈVE</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="./fr/participer.html">Participer</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="./en/index.html">EN</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore"><span
+style="display:none">Comité</span></h1>
+<h4 class="author"><span style="display:none">Karen Cristine Goncalves
+dos Santos</span></h4>
 
 </div>
 
-<div class="frontmatter">
-<div class="title"><h1><span style="display:none">Comité</span></h1></div>
-<div class="author"><h2><span style="display:none">Karen Cristine Goncalves dos Santos</span></h2></div>
-<div class="date"><h3></h3></div>
-</div>
 
-<div class="body">
 <head>
 <meta charset="utf-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -123,99 +384,177 @@ table {
   max-width: 100%;
   height: auto;
 }
-<p>td, th {
-border: 1px solid rgba(50, 130, 102);
-text-align: left;
-height: auto;
-width: auto;
-padding: 0.1em;
+
+td, th {
+  border: 1px solid rgba(50, 130, 102);
+  text-align: left;
+  height: auto;
+  width: auto;
+  padding: 0.1em;
 }
 thead {
-background-color: #dddddd;
-overflow: scroll;
-height: auto;
-width: auto;</p>
-<p>}</p>
+  background-color: #dddddd;
+  overflow: scroll;
+  height: auto;
+  width: auto;
+
+}
+
 </style>
 </head>
 <div class="container-fluid ps-lg-1" style="margin-left: auto; margin-right: auto;">
-<div class="cpics-logo"><img class="logo" src='./images/logos/Logo-CPICS_White_1.webp'>
+<div class="cpics-logo">
+<p><img class="logo" src='./images/logos/Logo-CPICS_White_1.webp'></p>
 </div>
-<br><br>
-<br><br>
+<p><br><br> <br><br></p>
 <div class="row mx-lg-n1">
 <div class="col-sm-3" style="float: right">
-<div class="row" >
-<span> <p class="sidebar_logos"> [<i class="fab fa-twitter"></i>](https://twitter.com/CPICSEVE) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/company/cpics/about/) [<i class="fab fa-facebook"></i>](https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442) <a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a> </p></span>
+<div class="row">
+<span>
+<p class="sidebar_logos">
+<a
+href="https://twitter.com/CPICSEVE"><i class="fab fa-twitter"></i></a>
+<a
+href="https://www.linkedin.com/company/cpics/about/"><i class="fab fa-linkedin-in"></i></a>
+<a
+href="https://www.facebook.com/CPICS-Comit%C3%A9-de-partenariat-international-du-Centre-S%C3%88VE-395275957711442"><i class="fab fa-facebook"></i></a>
+<a  href = "mailto:cpicseve@gmail.com"><i class="fas fa-envelope" align="center" style="font-size:24px"></i></a>
+</p>
+<p></span></p>
 <div class="row" style="padding: 1%">
-<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="./images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="./images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>
+<p><a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="./images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="./images/logos/FRQNT_blanc(transparent).webp" width="50%"></a></p>
 </div>
-<div style="padding: 1%"><a class="twitter-timeline" data-height="1000px" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets du CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="padding: 1%">
+<a class="twitter-timeline" data-height="1000px" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets
+du CPICS</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-</div> <!-- class = col-md-3 -->
+</div>
+</div>
+<p><!-- class = col-md-3 --></p>
 <div class="col-sm-9" style="padding: 2%; float: left;">
 <div class="row text">
-<h1>{.tabset .tabset-fade .tabset-pills}</h1>
+
+<div id="section"
+class="section level1 tabset tabset-fade tabset-pills">
+<h1 class="tabset tabset-fade tabset-pills"></h1>
+<div id="description-des-fonctions" class="section level2">
 <h2>Description des Fonctions</h2>
+<div id="prãsidence" class="section level3">
 <h3><strong>PrÃ©sidence</strong></h3>
-<p>Le·a prÃ©sident·e dirige les dÃ©libÃ©rations maintient l’ordre et le dÃ©corum, reÃ§oit les propositions et les soumet Ã  l’assemblÃ©e.
-Iel veille aussi au bon dÃ©roulement du calendrier du CPICS et aide chacun des autres secteurs en cas de nÃ©cessitÃ©. Cette personne reprÃ©sente le comitÃ© lors de chacune des activitÃ©s auxquelles le CPICS participe.
-Le·a prÃ©sident·e appelle le vote et en proclame le rÃ©sultat, signe les documents officiels et confirme les procÃ¨s-verbaux des sÃ©ances antÃ©rieures approuvÃ©s par l’assemblÃ©e.
-Dans le cas de paritÃ© au dernier scrutin, on lui accorde gÃ©nÃ©ralement voix prÃ©pondÃ©rante afin de rÃ©gler une situation qui semblerait autrement insoluble.
-Au cas d’appel d’une de ses dÃ©cisions, iel a droit d’Ãªtre entendu le premier sur les motifs de sa dÃ©cision.</p>
+<p>Le·a prÃ©sident·e dirige les dÃ©libÃ©rations maintient l’ordre et le
+dÃ©corum, reÃ§oit les propositions et les soumet Ã  l’assemblÃ©e. Iel
+veille aussi au bon dÃ©roulement du calendrier du CPICS et aide chacun
+des autres secteurs en cas de nÃ©cessitÃ©. Cette personne reprÃ©sente le
+comitÃ© lors de chacune des activitÃ©s auxquelles le CPICS participe.
+Le·a prÃ©sident·e appelle le vote et en proclame le rÃ©sultat, signe les
+documents officiels et confirme les procÃ¨s-verbaux des sÃ©ances
+antÃ©rieures approuvÃ©s par l’assemblÃ©e. Dans le cas de paritÃ© au
+dernier scrutin, on lui accorde gÃ©nÃ©ralement voix prÃ©pondÃ©rante afin
+de rÃ©gler une situation qui semblerait autrement insoluble. Au cas
+d’appel d’une de ses dÃ©cisions, iel a droit d’Ãªtre entendu le premier
+sur les motifs de sa dÃ©cision.</p>
 <blockquote>
-<p><em><strong>Au delÃ  de mener ma propre recherche, je souhaitais en faire plus pour mettre en valeur la science de notre communautÃ© scientifique.
-Cela m’a permit de rencontrer des personnes formidables, de dÃ©velopper es compÃ©tences d’organisation et d’en apprendre plus sur les rouages acadÃ©miques reliÃ©s Ã  la recherche.
-ÃŠtre membre du CPICS m’a beaucoup apportÃ©!</strong></em></p>
+<p><strong><em>Au delÃ  de mener ma propre recherche, je souhaitais en
+faire plus pour mettre en valeur la science de notre communautÃ©
+scientifique. Cela m’a permit de rencontrer des personnes formidables,
+de dÃ©velopper es compÃ©tences d’organisation et d’en apprendre plus sur
+les rouages acadÃ©miques reliÃ©s Ã  la recherche. ÃŠtre membre du CPICS
+m’a beaucoup apportÃ©!</em></strong></p>
 </blockquote>
 <blockquote>
 <p><em>Claire Letanneur, PrÃ©sidente 2020</em></p>
 </blockquote>
+</div>
+<div id="secrãtaires" class="section level3">
 <h3><strong>SecrÃ©taires</strong></h3>
-<p>Les secrÃ©taires rÃ©digent, dans les deux langues officielles du CPICS, et signent les procÃ¨s-verbaux des assemblÃ©es gÃ©nÃ©rales, rÃ©guliÃ¨res, spÃ©ciales et du Conseil exÃ©cutif.
-Ces procÃ¨s-verbaux sont soumises ensuite Ã  l’approbation de l’assemblÃ©e.
-Le·a prÃ©sident·e de la sÃ©ance oÃ¹ ils sont adoptÃ©s les confirme avec signature en indiquant la date de cette confirmation.</p>
-<p>Les secrÃ©taires doivent aussi prÃ©parer l’ordre du jour qui sera acceptÃ© par la prÃ©sidence et disponibilisÃ© aux membres avant l’assemblÃ©e.
-Iel communiquera aux membres les rapports des comitÃ©s, les propositions et autres documents officiels dont iel a la garde. Les secrÃ©taires seront responsables aussi pour la gestion de ces documents.</p>
+<p>Les secrÃ©taires rÃ©digent, dans les deux langues officielles du
+CPICS, et signent les procÃ¨s-verbaux des assemblÃ©es gÃ©nÃ©rales,
+rÃ©guliÃ¨res, spÃ©ciales et du Conseil exÃ©cutif. Ces procÃ¨s-verbaux
+sont soumises ensuite Ã  l’approbation de l’assemblÃ©e. Le·a
+prÃ©sident·e de la sÃ©ance oÃ¹ ils sont adoptÃ©s les confirme avec
+signature en indiquant la date de cette confirmation.</p>
+<p>Les secrÃ©taires doivent aussi prÃ©parer l’ordre du jour qui sera
+acceptÃ© par la prÃ©sidence et disponibilisÃ© aux membres avant
+l’assemblÃ©e. Iel communiquera aux membres les rapports des comitÃ©s,
+les propositions et autres documents officiels dont iel a la garde. Les
+secrÃ©taires seront responsables aussi pour la gestion de ces
+documents.</p>
 <blockquote>
-<p><em><strong>Le CPICS est extraordinaire et je suis fier d’avoir contribuÃ© Ã  sa crÃ©ation.
-J’aime participer Ã  l’organisation d’Ã©vÃ©nements, mais je suis trop timide pour en prendre la direction.
-Le fait d’Ãªtre secrÃ©taire m’a donc permis de faire partie de ce comitÃ© en “arriÃ¨re-plan”, de donner mon avis, de prendre part aux dÃ©cisions importantes et d’aider Ã  l’organisation de nos confÃ©rences et de notre symposium.
-En tant que secrÃ©taire, j’ai Ã©galement dÃ» me pousser Ã  amÃ©liorer mes compÃ©tences en matiÃ¨re d’organisation et Ã  accorder plus d’attention aux rÃ©unions.
-Enfin, j’ai Ã©galement eu l’occasion d’Ãªtre le mentor de deux personnes incroyables qui m’ont remplacÃ© Ã  ce poste.</strong></em></p>
+<p><strong><em>Le CPICS est extraordinaire et je suis fier d’avoir
+contribuÃ© Ã  sa crÃ©ation. J’aime participer Ã  l’organisation
+d’Ã©vÃ©nements, mais je suis trop timide pour en prendre la direction.
+Le fait d’Ãªtre secrÃ©taire m’a donc permis de faire partie de ce
+comitÃ© en “arriÃ¨re-plan”, de donner mon avis, de prendre part aux
+dÃ©cisions importantes et d’aider Ã  l’organisation de nos confÃ©rences
+et de notre symposium. En tant que secrÃ©taire, j’ai Ã©galement dÃ» me
+pousser Ã  amÃ©liorer mes compÃ©tences en matiÃ¨re d’organisation et Ã 
+accorder plus d’attention aux rÃ©unions. Enfin, j’ai Ã©galement eu
+l’occasion d’Ãªtre le mentor de deux personnes incroyables qui m’ont
+remplacÃ© Ã  ce poste.</em></strong></p>
 </blockquote>
 <blockquote>
-<p><em>Karen Goncalves dos Santos, SecrÃ©taire 2019, 2020 et 2022</em></p>
+<p><em>Karen Goncalves dos Santos, SecrÃ©taire 2019, 2020 et 2022</em>
+<br></p>
 </blockquote>
-<br>
+</div>
+<div id="vice-prãsidence-aux-communications" class="section level3">
 <h3><strong>Vice-PrÃ©sidence aux Communications</strong></h3>
-<p>Iel sera en charge de la crÃ©ation et de la gestion des plateformes des mÃ©dias sociaux, de la mise en place et de la gestion du moyen de communication officiel de l’association (boÃ®te courriel).
-Dans le cas d’organisation d’Ã©vÃ¨nement, iel contribuera Ã  maximiser la visibilitÃ© de l’Ã©vÃ©nement pour l’ensemble des membres du Centre SÃˆVE ainsi que pour tout public visÃ© par le ComitÃ©.</p>
+<p>Iel sera en charge de la crÃ©ation et de la gestion des plateformes
+des mÃ©dias sociaux, de la mise en place et de la gestion du moyen de
+communication officiel de l’association (boÃ®te courriel). Dans le cas
+d’organisation d’Ã©vÃ¨nement, iel contribuera Ã  maximiser la
+visibilitÃ© de l’Ã©vÃ©nement pour l’ensemble des membres du Centre SÃˆVE
+ainsi que pour tout public visÃ© par le ComitÃ©.</p>
 <blockquote>
-<p><em><strong>Suite au symposium du CPICS en aoÃ»t 2019, j’ai trouvÃ© formidable que des Ã©tudiants de plusieurs horizons fassent le pont entre les recherches du QuÃ©bec et d’ailleurs.
-C’est trÃ¨s enrichissant de partager nos connaissances avec d’autres chercheurs Ã  l’international.
-Faire la promotion des activitÃ©s du CPICS Ã©tait tout naturel puisque la mission est inspirante.
-De plus, c’est un rÃ©el plaisir de faire partie de cette Ã©quipe dynamique et dÃ©vouÃ©e !</strong></em></p>
+<p><strong><em>Suite au symposium du CPICS en aoÃ»t 2019, j’ai trouvÃ©
+formidable que des Ã©tudiants de plusieurs horizons fassent le pont
+entre les recherches du QuÃ©bec et d’ailleurs. C’est trÃ¨s enrichissant
+de partager nos connaissances avec d’autres chercheurs Ã 
+l’international. Faire la promotion des activitÃ©s du CPICS Ã©tait tout
+naturel puisque la mission est inspirante. De plus, c’est un rÃ©el
+plaisir de faire partie de cette Ã©quipe dynamique et dÃ©vouÃ©e
+!</em></strong></p>
 </blockquote>
 <blockquote>
-<p><em>Marianne Bessette, Vice-PrÃ©sidente aux Communications 2020</em></p>
+<p><em>Marianne Bessette, Vice-PrÃ©sidente aux Communications 2020</em>
+<br></p>
 </blockquote>
-<br>
+</div>
+<div id="vice-prãsidence-aux-rãseautage" class="section level3">
 <h3><strong>Vice-PrÃ©sidence aux RÃ©seautage</strong></h3>
-<p>Iel sera en charge de la crÃ©ation, de la gestion et de la mise Ã  jour de la base de donnÃ©es.
-Dans ces dÃ©marches, iel devra contacter les chercheurs, les anciens membres et les Ã©tudiants actuellement membres du Centre SÃˆVE pour obtenir les renseignements ainsi que les autorisations d’utilisation de ces informations.</p>
+<p>Iel sera en charge de la crÃ©ation, de la gestion et de la mise Ã 
+jour de la base de donnÃ©es. Dans ces dÃ©marches, iel devra contacter
+les chercheurs, les anciens membres et les Ã©tudiants actuellement
+membres du Centre SÃˆVE pour obtenir les renseignements ainsi que les
+autorisations d’utilisation de ces informations.</p>
 <blockquote>
-<p><em><strong>J’ai toujours penseÌ que le reÌseautage est un pilier fondamental quand on cherche aÌ€ se deÌvelopper personnellement et professionnellement.</strong></em>
-<em><strong>Quand j’ai su que je pouvais avoir l’opportuniteÌ d’organiser et de mettre aÌ€ jour les coordonneÌes des membres du Centre SEVE, ainsi que de me mettre en contact avec des experts internationaux dans le domaine de la biologie veÌgeÌtale, j’ai su que je voulais contribuer et faire partie du CPICS au poste de Vice-PrÃ©sidence aux RÃ©seautage.</strong></em></p>
+<p><strong><em>J’ai toujours penseÌ que le reÌseautage est un pilier
+fondamental quand on cherche aÌ€ se deÌvelopper personnellement et
+professionnellement.</em></strong> <strong><em>Quand j’ai su que je
+pouvais avoir l’opportuniteÌ d’organiser et de mettre aÌ€ jour les
+coordonneÌes des membres du Centre SEVE, ainsi que de me mettre en
+contact avec des experts internationaux dans le domaine de la biologie
+veÌgeÌtale, j’ai su que je voulais contribuer et faire partie du CPICS
+au poste de Vice-PrÃ©sidence aux RÃ©seautage.</em></strong></p>
 </blockquote>
 <blockquote>
-<p><em>Ingrid Berenice SÃ¡nchez Carrillo, Vice-PrÃ©sidente aux RÃ©seautage 2019-2020</em></p>
+<p><em>Ingrid Berenice SÃ¡nchez Carrillo, Vice-PrÃ©sidente aux
+RÃ©seautage 2019-2020</em> <br></p>
 </blockquote>
-<br>
+</div>
+<div id="vice-prãsidence-ã-la-trãsorerie" class="section level3">
 <h3><strong>Vice-PrÃ©sidence Ã  la TrÃ©sorerie</strong></h3>
-<p>Iel sera en charge de la gestion du budget allouÃ© au CPICS et de prÃ©senter un rapport des finances lorsqu’il y a lieu de prÃ©lever des fonds et d’en disposer.
-En cas de nÃ©cessitÃ©, iel sera responsable de rechercher et contacter des partenaires potentiels pour obtenir des fonds supplÃ©mentaires lors d’activitÃ© du CPICS.
-Iel doit collaborer Ã©troitement avec le·a vice-prÃ©sident·e aux communications, le prÃ©sident·e et le·a vice-prÃ©sident·e.</p>
+<p>Iel sera en charge de la gestion du budget allouÃ© au CPICS et de
+prÃ©senter un rapport des finances lorsqu’il y a lieu de prÃ©lever des
+fonds et d’en disposer. En cas de nÃ©cessitÃ©, iel sera responsable de
+rechercher et contacter des partenaires potentiels pour obtenir des
+fonds supplÃ©mentaires lors d’activitÃ© du CPICS. Iel doit collaborer
+Ã©troitement avec le·a vice-prÃ©sident·e aux communications, le
+prÃ©sident·e et le·a vice-prÃ©sident·e.</p>
+</div>
+</div>
+<div id="actuel" class="section level2">
 <h2>Actuel</h2>
 <center>
 <!--<img src="images/comite photos/comite_2023.webp" width=75%>-->
@@ -224,49 +563,146 @@ Iel doit collaborer Ã©troitement avec le·a vice-prÃ©sident·e aux communica
 <table id="table-2023" class="table-responsive">
 <thead style="text-align: center">
 <tr>
-<td scope="col">Role</td>
-<td scope="col">Name</td>
-<td scope="col">University</td>
+<td scope="col">
+Role
+</td>
+<td scope="col">
+Name
+</td>
+<td scope="col">
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">PrÃ©sidence</th><td>[Aracely Maribel Diaz Garza]</td><td rowspan="7">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row">
+PrÃ©sidence
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely
+Maribel Diaz Garza</a>
+</td>
+<td rowspan="7">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row">Vice-PrÃ©sidence</th><td>[Snehi Gazal]</td><!--td></td!-->
+<th scope="row">
+Vice-PrÃ©sidence
+</th>
+<td>
+<a href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi
+Gazal</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Valeria Parra]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a href="https://www.linkedin.com/in/valeria-parra-0b0b86167/">Valeria
+Parra</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[Arghavan Arjmandi]</td><!--td></td!-->
+<td>
+<a
+href="https://www.researchgate.net/profile/Arghavan-Arjmandi">Arghavan
+Arjmandi</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Rohith Grandhi]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/grandhi-rohith-811407187/">Rohith
+Grandhi</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[Ayoub Bouhadada]</td><!--td></td!-->
+<td>
+<a href="https://www.linkedin.com/in/ayoub-bouhadada-3b1a11134/">Ayoub
+Bouhadada</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a href="https://www.linkedin.com/in/elisa-fantino-84b25251/">Elisa Ines
+Fantino</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[Charlotte Blasi]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://ca.linkedin.com/in/charlotte-blasi-23785a10b?trk=people-guest_people_search-card">Charlotte
+Blasi</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> SecrÃ©taires</th><td>[Arnold William Tazon]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://ca.linkedin.com/in/arnold-william-tazon-536bb926b">Arnold
+William Tazon</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Prabhjot Sanghera]</td><td>McGill University</td>
+<td>
+<a
+href="https://ca.linkedin.com/in/prabhjot-sanghera/fr?trk=people-guest_people_search-card">Prabhjot
+Sanghera</a>
+</td>
+<td>
+McGill University
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> Collaborateurs</th><td>[Karen Cristine Goncalves dos Santos]<br>Web developer</td><td  rowspan="2">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
-<tr><td>[ThÃ©o DevÃ¨ze]<br>VP RÃ©seautage</td><!--td></td!--></tr>
+<th scope="row" rowspan="2">
+Collaborateurs
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a><br>Web developer
+</td>
+<td rowspan="2">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
+<tr>
+<td>
+<a
+href="https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/">ThÃ©o
+DevÃ¨ze</a><br>VP RÃ©seautage
+</td>
+<!--td></td!-->
+</tr>
 </tr>
 </tbody>
 </table>
-<h2>Passé {.tabset .tabset-pill}</h2>
+</div>
+<div id="passé" class="section level2 tabset tabset-pill">
+<h2 class="tabset tabset-pill">Passé</h2>
+<div id="section-1" class="section level3">
 <h3>2022</h3>
 <center>
 <img src="images/comite photos/comite_2022.webp" width=75%>
@@ -275,56 +711,160 @@ Iel doit collaborer Ã©troitement avec le·a vice-prÃ©sident·e aux communica
 <table id="table-2022" class="table-responsive">
 <thead>
 <tr>
-<td scope="col">Role</td>
-<td scope="col">Name</td>
-<td scope="col">University</td>
+<td scope="col">
+Role
+</td>
+<td scope="col">
+Name
+</td>
+<td scope="col">
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">PrÃ©sidence</th><td>[Nicolas Sene]</td><td rowspan="7">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row">
+PrÃ©sidence
+</th>
+<td>
+<a href="https://www.linkedin.com/in/nicolas-sene-6b0918128">Nicolas
+Sene</a>
+</td>
+<td rowspan="7">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row">Vice-PrÃ©sidence</th><td>[Serge Nouemssi]</td><!--td></td!-->
+<th scope="row">
+Vice-PrÃ©sidence
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge
+Nouemssi</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Jennifer Paillassa]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer
+Paillassa</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[Snehi Gazal]</td><!--td></td!-->
+<td>
+<a href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi
+Gazal</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Naresh Panneerselvam]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/nareshpanneerselvam/">Naresh
+Panneerselvam</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[ThÃ©o DevÃ¨ze]</td><!--td></td!-->
+<td>
+<a
+href="https://www.linkedin.com/in/th%C3%A9o-dev%C3%A8ze-501520231/">ThÃ©o
+DevÃ¨ze</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Elisa Ines Fantino]</td><!--td></td!-->
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a href="https://www.linkedin.com/in/elisa-fantino-84b25251/">Elisa Ines
+Fantino</a>
+</td>
+<!--td></td!-->
 </tr>
 <tr>
-<td>[Julie Yergeau]</td><td>UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval</td>
+<td>
+<a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie
+Yergeau</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> SecrÃ©taires</th><td>[Aracely Maribel Diaz Garza]</td><td >UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely
+Maribel Diaz Garza</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Karen Cristine Goncalves dos Santos]</td><td>UniversitÃ© Laval</td>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a>
+</td>
+<td>
+UniversitÃ© Laval
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="4"> Collaborateurs</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td  rowspan="2">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="4">
+Collaborateurs
+</th>
+<td>
+<a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a>
+</td>
+<td rowspan="2">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Valeria Parra]</td>
+<td>
+<a href="https://www.linkedin.com/in/valeria-parra-0b0b86167/">Valeria
+Parra</a>
+</td>
 </tr>
 <tr>
-<td> [Romaric Armel Mouafo Tchinda]</td><td></td>
+<td>
+<a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a>
+</td>
+<td>
+</td>
 </tr>
 <tr>
-<td> [Vincent Charron-Lamoureux]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.researchgate.net/profile/Vincent_Charron-Lamoureux">Vincent
+Charron-Lamoureux</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 </tbody>
 </table>
+</div>
+<div id="section-2" class="section level3">
 <h3>2021</h3>
 <center>
 <img src="images/comite%20photos/comite_2021.webp" width=75%>
@@ -333,45 +873,126 @@ Iel doit collaborer Ã©troitement avec le·a vice-prÃ©sident·e aux communica
 <table class="table-responsive">
 <thead>
 <tr>
-<td scope="col">Role</td>
-<td scope="col">Name</td>
-<td scope="col">University</td>
+<td scope="col">
+Role
+</td>
+<td scope="col">
+Name
+</td>
+<td scope="col">
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">PrÃ©sidence</th><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="5">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row">
+PrÃ©sidence
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a>
+</td>
+<td rowspan="5">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row">Vice-PrÃ©sidence</th><td>[Ingrid Berenice Sanchez Carrillo]</td>
+<th scope="row">
+Vice-PrÃ©sidence
+</th>
+<td>
+<a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a>
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Jennifer Paillassa]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer
+Paillassa</a>
+</td>
 </tr>
 <tr>
-<td>[Snehi Gazal]</td>
+<td>
+<a href="https://www.linkedin.com/in/snehi-gazal-9172856b/">Snehi
+Gazal</a>
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Valeria Parra]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/valeria-parra-0b0b86167/">Valeria
+Parra</a>
+</td>
 </tr>
 <tr>
-<td>[Romaric Armel Mouafo Tchinda]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Serge Nouemssi]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge
+Nouemssi</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Julie Yergeau]</td><td>UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval</td>
+<td>
+<a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie
+Yergeau</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2"> SecrÃ©taires</th><td>[Aracely Maribel Diaz Garza]</td><td >UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely
+Maribel Diaz Garza</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Vincent Charron-Lamoureux]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.researchgate.net/profile/Vincent_Charron-Lamoureux">Vincent
+Charron-Lamoureux</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 </tbody>
 </table>
-<h3>2020 {.tabset .tabset-pill}</h3>
+</div>
+<div id="section-3" class="section level3 tabset tabset-pill">
+<h3 class="tabset tabset-pill">2020</h3>
+<div id="section-4" class="section level4">
 <h4>2020-05</h4>
 <center>
 <img src="images/comite%20photos/comite_2020_new.webp" width=75%>
@@ -380,155 +1001,454 @@ Iel doit collaborer Ã©troitement avec le·a vice-prÃ©sident·e aux communica
 <table id="table-2020-05" class="table-responsive">
 <thead>
 <tr>
-<td scope="col">Role</td>
-<td scope="col">Name</td>
-<td scope="col">University</td>
+<td scope="col">
+Role
+</td>
+<td scope="col">
+Name
+</td>
+<td scope="col">
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">PrÃ©sidence</th><td>[Claire Letanneur]</td><td rowspan="3">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row">
+PrÃ©sidence
+</th>
+<td>
+<a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire
+Letanneur</a>
+</td>
+<td rowspan="3">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row">Vice-PrÃ©sidence</th><td>[Teura Barff]</td>
+<th scope="row">
+Vice-PrÃ©sidence
+</th>
+<td>
+<a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura
+Barff</a>
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Jennifer Paillassa]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer
+Paillassa</a>
+</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>UniversitÃ© de MontrÃ©al</td>
+<td>
+<a
+href="https://www.linkedin.com/in/marianne-bessette-b16287146/">Marianne
+Bessette</a>
+</td>
+<td>
+UniversitÃ© de MontrÃ©al
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Julie Yergeau]</td><td>UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval</td>
+<td>
+<a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie
+Yergeau</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke<br>UniversitÃ© Laval
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Serge Nouemssi]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge
+Nouemssi</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Romaric Armel Mouafo Tchinda]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="3"> SecrÃ©taires</th><td>[Karen Cristine Goncalves dos Santos]</td><td rowspan="2">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="3">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a>
+</td>
+<td rowspan="2">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Aracely Maribel Diaz Garza]</td>
+<td>
+<a
+href="https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/">Aracely
+Maribel Diaz Garza</a>
+</td>
 </tr>
 <tr>
-<td>[Vincent Charron-Lamoureux]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.researchgate.net/profile/Vincent_Charron-Lamoureux">Vincent
+Charron-Lamoureux</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 </tbody>
 </table>
-<br><br>
+<p><br><br></p>
+</div>
+<div id="section-5" class="section level4">
 <h4>2020-01-10</h4>
 <center>
 <img src="images/comite%20photos/comite_2020.webp" width=75%>
 </center>
-<br>
+<p><br></p>
 <table id="table_2020-01" class="table-responsive">
 <thead>
 <tr>
-<td>Role</td>
-<td>Name</td>
-<td>University</td>
+<td>
+Role
+</td>
+<td>
+Name
+</td>
+<td>
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">PrÃ©sidence</td><td>[Claire Letanneur]</th><td rowspan="3">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row">
+PrÃ©sidence
+</td>
+<td>
+<a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire
+Letanneur</a>
+</th>
+<td rowspan="3">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row">Vice-PrÃ©sidence</td><td>[Teura Barff]</th>
+<th scope="row">
+Vice-PrÃ©sidence
+</td>
+<td>
+<a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura
+Barff</a>
+</th>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Jennifer Paillassa]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/jennifer-paillassa-087600a3/">Jennifer
+Paillassa</a>
+</td>
 </tr>
 <tr>
-<td>[Marianne Bessette]</td><td>UniversitÃ© de MontrÃ©al</td>
+<td>
+<a
+href="https://www.linkedin.com/in/marianne-bessette-b16287146/">Marianne
+Bessette</a>
+</td>
+<td>
+UniversitÃ© de MontrÃ©al
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Julie Yergeau]</td><td>UniversitÃ© de Sherbrooke, UniversitÃ© Laval</td>
+<td>
+<a href="https://www.linkedin.com/in/julie-yergeau-b58508186/">Julie
+Yergeau</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke, UniversitÃ© Laval
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Serge Nouemssi]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/serge-basile-nouemssi-a95913121/">Serge
+Nouemssi</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Romaric Armel Mouafo Tchinda]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">SecrÃ©taires</th><td>[Karen Cristine Goncalves dos Santos]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Alexia Bertholon]</td>
-<td>McGill University</td>
+<td>
+<a href="https://www.linkedin.com/in/alexiabertholon/">Alexia
+Bertholon</a>
+</td>
+<td>
+McGill University
+</td>
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+<div id="section-6" class="section level3">
 <h3>2019</h3>
 <center>
 <img src="images/comite%20photos/comite_2019.webp" width=75%>
 </center>
-<br>
+<p><br></p>
 <table id="table_2019" class="table-responsive">
 <thead>
 <tr>
-<td>Role</td><td>Name</td><td>University</td>
+<td>
+Role
+</td>
+<td>
+Name
+</td>
+<td>
+University
+</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row" rowspan="1">PrÃ©sidence</th><td>[Guilherme Silva Martins]</td><td>UniversitÃ© de Sherbrooke</td>
+<th scope="row" rowspan="1">
+PrÃ©sidence
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/guilherme-martins-1268202b/">Guilherme
+Silva Martins</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="1">Vice-PrÃ©sidence</th><td>[Claire Letanneur]</td><td rowspan="2">UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="1">
+Vice-PrÃ©sidence
+</th>
+<td>
+<a href="https://www.researchgate.net/profile/Claire_Letanneur">Claire
+Letanneur</a>
+</td>
+<td rowspan="2">
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux Communications</th><td>[Teura Barff]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux Communications
+</th>
+<td>
+<a href="https://www.linkedin.com/in/teura-barff-66526647/">Teura
+Barff</a>
+</td>
 </tr>
 <tr>
-<td>[Matthieu Glanowski]</td><td>UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.linkedin.com/in/matthieu-glanowski-585254116/">Matthieu
+Glanowski</a>
+</td>
+<td>
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence aux RÃ©seautage</th><td>[Ingrid Berenice Sanchez Carrillo]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence aux RÃ©seautage
+</th>
+<td>
+<a href="https://www.linkedin.com/in/ingrid-sanchez/">Ingrid Berenice
+Sanchez Carrillo</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Romaric Armel Mouafo Tchinda]</td><td rowspan="2">UniversitÃ© de Sherbrooke</td>
+<td>
+<a
+href="https://www.linkedin.com/in/romaric-armel-mouafo-tchinda-ba266185/">Romaric
+Armel Mouafo Tchinda</a>
+</td>
+<td rowspan="2">
+UniversitÃ© de Sherbrooke
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">Vice-PrÃ©sidence Ã  la TrÃ©sorerie</th><td>[Safa Labidi]</td>
+<th scope="row" rowspan="2">
+Vice-PrÃ©sidence Ã  la TrÃ©sorerie
+</th>
+<td>
+<a href="https://www.linkedin.com/in/safa-labidi-41749b73/">Safa
+Labidi</a>
+</td>
 </tr>
 <tr>
-<td>Amadou Sibide</td><td>Agriculture et Agrolimentaire Canada</td>
+<td>
+Amadou Sibide
+</td>
+<td>
+Agriculture et Agrolimentaire Canada
+</td>
 </tr>
 <tr>
-<th scope="row" rowspan="2">SecrÃ©taires</th><td>[Karen Cristine Goncalves dos Santos]</td><td>UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res</td>
+<th scope="row" rowspan="2">
+SecrÃ©taires
+</th>
+<td>
+<a
+href="https://www.linkedin.com/in/karen-gon%C3%A7alves-05847a113/">Karen
+Cristine Goncalves dos Santos</a>
+</td>
+<td>
+UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res
+</td>
 </tr>
 <tr>
-<td>[Alexia Bertholon]</td>
-<td>McGill University</td>
+<td>
+<a href="https://www.linkedin.com/in/alexiabertholon/">Alexia
+Bertholon</a>
+</td>
+<td>
+McGill University
+</td>
 </tr>
 </tbody>
-</table><!-- table responsive-->
-</div> <!-- class = row -->
-</div> <!-- class = col-md-9-->
-</div> <!-- class = row-->
-</div> <!-- class = container-fluid-->
+</table>
+<!-- table responsive-->
+</div>
+<!-- class = row -->
+</div>
+<!-- class = col-md-9-->
+</div>
+<!-- class = row-->
+</div>
+<!-- class = container-fluid-->
+</div>
+</div>
+</div>
+
+
+
 
 </div>
 
-<div class="include-after">
-
-</div>
-
-<script src="https://cdn.jsdelivr.net/combine/npm/@xiee/utils/js/center-img.min.js" async></script>
 <script>
 
-</script>
-</body>
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
 
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
 </html>

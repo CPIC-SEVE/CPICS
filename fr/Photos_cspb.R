@@ -1,0 +1,57 @@
+cat('<div id="CSPB2023_photos" class="slideshow-container"  style=" margin-left: auto; margin-right: auto;">\n')
+
+cat('<div class="mySlides">\n')
+cat('<div class="numbertext">1 / 5</div>\n')
+cat('<img src="images/news/cspb2023/cpics_stand.webp" style=" margin-left: auto; margin-right: auto;">\n')
+cat('<p>Table du Centre SÈVE et du CPICS ([tweet de Peter Moffet](https://twitter.com/MoffettPeter/status/1671175498347552770/photo/1))</p>\n')
+cat('</div>\n')
+
+cat('<div class="mySlides">\n')
+cat('<div class="numbertext">2 / 5</div>\n')
+cat('<img src="images/news/cspb2023/concurrent.webp" style=" margin-left: auto; margin-right: auto;">\n')
+cat('<p>Session sur les interactions plante-microbe</p>\n')
+cat('</div>\n')
+
+cat('<div class="mySlides">\n')
+cat('<div class="numbertext">3 / 5</div>\n')
+cat('<img src="images/news/cspb2023/posters.webp" style=" margin-left: auto; margin-right: auto;">\n')
+cat('<p>Session des affiches scientifiques ([tweet du CRIV U Laval](https://twitter.com/ulcriv/status/1671928638034395153/photo/1))</p>\n')
+cat('</div>\n')
+
+cat('<div class="mySlides">\n')
+cat('<div class="numbertext">4 / 5</div>\n')
+cat('<img src="images/news/cspb2023/pride.webp" style=" margin-left: auto; margin-right: auto;">\n')
+cat('<p>[Dr. Landon Getz](https://twitter.com/LandonGetz) a parlé sur la necessité de la représentation des minorités, specifiquement la communauté LGBTQIA+, dans la science et il a présenté la communauté <em>Pride in Microbiology</em>. ([tweet de Edel Perez-Lopez](https://twitter.com/Edel_PLopez/status/1671223599259058181/photo/1))</p>\n')
+cat('</div>\n')
+
+
+cat('<div class="mySlides">\n')
+cat('<div class="numbertext">5 / 5</div>\n')
+cat('<img src="images/news/cspb2023/dinner2.webp" style=" margin-left: auto; margin-right: auto;">\n')
+cat('<p>Banquet de la SCBV au Musée national des beaux-arts du Québec. ([tweet de Edel Perez-Lopez](https://twitter.com/Edel_PLopez/status/1671706134888022018/photo/3))</p>\n')
+cat('</div>\n')
+
+
+cat('<center><a class="prev" onclick="plusSlides(-1)">&#10094;</a>\n')
+cat('<a class="next" onclick="plusSlides(1)">&#10095;</a></center>\n')
+
+cat('<div class="row-slides">\n')
+cat('<div class="column" style="width: 20%;">\n')
+cat('<img class="demo cursor" src="images/news/cspb2023/cpics_stand.webp" style="width:100%" onclick="currentSlide(1)">\n')
+cat('</div>\n')
+cat('<div class="column" style="width: 20%;">\n')
+cat('<img class="demo cursor" src="images/news/cspb2023/concurrent.webp" style="width:100%" onclick="currentSlide(2)">\n')
+cat('</div>\n')
+cat('<div class="column" style="width: 20%;">\n')
+cat('<img class="demo cursor" src="images/news/cspb2023/posters.webp" style="width:100%" onclick="currentSlide(3)">\n')
+cat('</div>\n')
+cat('<div class="column" style="width: 20%;">\n')
+cat('<img class="demo cursor" src="images/news/cspb2023/pride.webp" style="width:100%" onclick="currentSlide(4)">\n')
+cat('</div>\n')
+cat('<div class="column" style="width: 20%;">\n')
+cat('<img class="demo cursor" src="images/news/cspb2023/dinner2.webp" style="width:100%" onclick="currentSlide(5)">\n')
+cat('</div>\n')
+
+
+cat('</div>\n')
+cat('</div>\n')
