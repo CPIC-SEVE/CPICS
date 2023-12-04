@@ -50,7 +50,7 @@ Meanwhile, Dr. Caroline Halde's presentation, entitled **_"Organic agriculture a
 <div class="col-md-6" style="text-align: center">
 
 <center> <a href="https://www.haldelab.criv.ulaval.ca/"><img src="images/whats up 2023/Caroline_Halde.webp" alt="Dr. Caroline Halde" width="87%"></a></center>
-<center> **Dr. Caroline Halde**<br>, from the Université Laval</center> 
+<center>**Dr. Caroline Halde**<br>Université Laval<br>Quebec, Canada</center> 
 <br>
 
 </div>
