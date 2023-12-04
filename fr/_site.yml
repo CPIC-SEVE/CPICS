@@ -10,6 +10,8 @@ navbar:
       menu: 
        - text: "Passé"
          menu: 
+          - text: "What's up Conferences - 5éme édition"
+            href: wup_november2023.html
           - text: "What's up Conferences - 4éme édition"
             href: wup_june2022.html
           - text: "What's up Conferences - 3éme édition"
