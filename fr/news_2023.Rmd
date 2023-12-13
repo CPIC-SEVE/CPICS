@@ -40,8 +40,8 @@ source("create_news_links.R", local = knitr::knit_global())
 <br>
 [Enregistrez pour recevoir les alertes des événements du CPICS.](https://cpics.netlify.app/en/participate.html)
 
-<article id="2023-06-01">
-<strong>2023-04-07</strong>
+<article id="2023-07-01">
+<strong>2023-07-01</strong>
 
 Étiez-vous à la conference da la [SCBV](https://cspb-scbv.ca/) 2023 à l'U. Laval?
 

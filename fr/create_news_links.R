@@ -1,7 +1,7 @@
 cat(paste('<details>',
           '<summary><a class="sidebar_links_list" href="news_2023.html#2023">2023</a></summary>',
           '<ul>',
-          '<li><a class="sidebar_links_list" href="news_2023.html#2023-06-01">École d\'été au Maroc</a></li>',
+          '<li><a class="sidebar_links_list" href="news_2023.html#2023-07-01">École d\'été au Maroc</a></li>',
           '<li><a class="sidebar_links_list" href="news_2023.html#2023-04-07">Nouveaux membres du CPICS - comité complet</a></li>',
           '<li><a class="sidebar_links_list" href="news_2022.html#2023-02-23">Nouveaux membres du CPICS</a></li>',
           '</ul>','</details>',

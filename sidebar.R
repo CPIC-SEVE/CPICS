@@ -9,6 +9,6 @@ cat('<div class="row" style="margin: 1%">\n\n')
 cat('<a href="http://centreseve.recherche.usherbrooke.ca/fr"><img src="./fr/images/logos/centre_seve.webp" alt="Centre SEVE logo" width="50%"></a><a href="http://www.frqnt.gouv.qc.ca/en/accueil"><img  src="./fr/images/logos/FRQNT_blanc(transparent).webp" width="50%"></a>\n\n')
 cat('</div>\n\n')
 				
-cat('<a class="twitter-timeline" data-height=1500px href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>\n\n')
+cat('<a class="twitter-timeline" href="https://twitter.com/CPICSEVE?ref_src=twsrc%5Etfw">Tweets by CPICSEVE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>\n\n')
 					
 cat('</div><!-- row under sidebar section -->\n\n')

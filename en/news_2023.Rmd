@@ -42,8 +42,8 @@ source("create_news_links.R", local = knitr::knit_global())
 [Subscribe to get the CPICS meetings alerts.](https://cpics.netlify.app/en/participate.html)
 
 
-<article id="2023-06-01">
-<strong>2023-04-07</strong>
+<article id="2023-07-01">
+<strong>2023-07-01</strong>
 
 Were you at the [CSPB](https://cspb-scbv.ca/) 2023 meeting at U. Laval?
 
